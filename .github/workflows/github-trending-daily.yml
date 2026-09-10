@@ -1,0 +1,41 @@
+name: Run GitHub Trending Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 9 * * *"
+
+env:
+  GITHUB_USER_NAME: keeper-jie
+  GITHUB_USER_EMAIL: keeper-jie@users.noreply.github.com
+
+jobs:
+  build:
+    name: update
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python Env
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run daily trending
+        run: |
+          python daily_trending.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Github Action Automatic Update GitHub Trending"
+          file_pattern: "README.md json/*.json md/*.md"
+          commit_user_name: ${{ env.GITHUB_USER_NAME }}
+          commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
