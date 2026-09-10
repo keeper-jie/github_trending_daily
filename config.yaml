@@ -1,13 +1,28 @@
-# GitHub Trending Daily Configuration
-
-# 抓取的语言分类列表（空字符串表示所有语言）
-# 可选值: "", "python", "javascript", "typescript", "go", "rust", "java", "cpp" 等
-language_list: [""]
-
-# 时间范围: daily, weekly, monthly
-since: "daily"
+# GitHub Daily Digest Configuration
 
 # 输出目录
 json_dir: './json'
 md_dir: './md'
 md_readme_path: 'README.md'
+
+# GitHub Trending（HTML 抓取）
+github_trending:
+  # 抓取的语言分类列表（空字符串表示所有语言）
+  # 可选值: "", "python", "javascript", "typescript", "go", "rust", "java", "cpp" 等
+  language_list: [""]
+  # 时间范围: daily, weekly, monthly
+  since: "daily"
+
+# GitHub 新晋热门仓库（Search API：近 N 天创建、star 数超过阈值、按 star 排序）
+github_stars:
+  created_days: 14
+  min_stars: 50
+  limit: 30
+
+# Hacker News Top Stories（Firebase API）
+hacker_news:
+  limit: 30
+
+# Hugging Face 热门模型（Hub API，按 trendingScore 排序）
+huggingface:
+  limit: 30

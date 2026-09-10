@@ -1,4 +1,4 @@
-name: Run GitHub Trending Daily
+name: Run GitHub Daily Digest
 
 on:
   workflow_dispatch:
@@ -32,10 +32,24 @@ jobs:
         run: |
           python daily_trending.py
 
+      - name: Run daily github rising stars
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python daily_github_stars.py
+
+      - name: Run daily hacker news
+        run: |
+          python daily_hackernews.py
+
+      - name: Run daily huggingface
+        run: |
+          python daily_huggingface.py
+
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Github Action Automatic Update GitHub Trending"
-          file_pattern: "README.md json/*.json md/*.md"
+          commit_message: "Github Action Automatic Update Daily Digest"
+          file_pattern: "README.md json/**/*.json md/**/*.md"
           commit_user_name: ${{ env.GITHUB_USER_NAME }}
           commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
