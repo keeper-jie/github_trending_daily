@@ -1,0 +1,132 @@
+[
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 36194,
+    "forks": 2101,
+    "today_stars": 4650,
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "language": "TypeScript",
+    "stars": 3408,
+    "forks": 215,
+    "today_stars": 556,
+    "url": "https://github.com/Tencent/teamai-cli",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 284323,
+    "forks": 25429,
+    "today_stars": 688,
+    "url": "https://github.com/obra/superpowers",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "pascalorg/editor",
+    "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+    "language": "TypeScript",
+    "stars": 23192,
+    "forks": 2911,
+    "today_stars": 107,
+    "url": "https://github.com/pascalorg/editor",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "earthtojake/text-to-cad",
+    "description": "A library of agent skills for CAD, CAE and CAM",
+    "language": "Python",
+    "stars": 15260,
+    "forks": 1570,
+    "today_stars": 124,
+    "url": "https://github.com/earthtojake/text-to-cad",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 37128,
+    "forks": 2359,
+    "today_stars": 2249,
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "TauricResearch/TradingAgents",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "stars": 104334,
+    "forks": 20002,
+    "today_stars": 367,
+    "url": "https://github.com/TauricResearch/TradingAgents",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "language": "",
+    "stars": 18361,
+    "forks": 3444,
+    "today_stars": 1397,
+    "url": "https://github.com/liquidslr/system-design-notes",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "openai/plugins",
+    "description": "OpenAI Plugins",
+    "language": "JavaScript",
+    "stars": 6331,
+    "forks": 834,
+    "today_stars": 498,
+    "url": "https://github.com/openai/plugins",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "freestylefly/awesome-gpt-image-2",
+    "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+    "language": "JavaScript",
+    "stars": 30523,
+    "forks": 2954,
+    "today_stars": 705,
+    "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "rohitg00/ai-engineering-from-scratch",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "stars": 54001,
+    "forks": 9399,
+    "today_stars": 343,
+    "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+    "language": "TypeScript",
+    "stars": 1992,
+    "forks": 174,
+    "today_stars": 417,
+    "url": "https://github.com/vastsa/PI-Desktop",
+    "date": "2026-09-10"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 255465,
+    "forks": 38250,
+    "today_stars": 1133,
+    "url": "https://github.com/affaan-m/ECC",
+    "date": "2026-09-10"
+  }
+]

@@ -75,8 +75,33 @@ huggingface:
 
 <!-- DAILY_TRENDING -->
 
+## Trending Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-10 | 13 | [Trending](md/github-trending/2026-09-10.md) |
+
 <!-- HACKER_NEWS -->
+
+## Hacker News Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-10 | 30 | [Hacker News](md/hacker-news/2026-09-10.md) |
 
 <!-- HUGGINGFACE -->
 
+## HF Models Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-10 | 30 | [HF Models](md/huggingface/2026-09-10.md) |
+
 <!-- GITHUB_STARS -->
+
+## GitHub Stars Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-10 | 30 | [GitHub Stars](md/github-stars/2026-09-10.md) |
+
