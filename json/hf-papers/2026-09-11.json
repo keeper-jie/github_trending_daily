@@ -1,302 +1,72 @@
 [
   {
-    "title": "Scaling Automatic Research Agents via World Models",
-    "authors": "Xiyuan Yang, Sheikh Sarwar, Jingru Cheng, Zhan Shi, Duanshun Li...",
-    "summary": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl",
-    "upvotes": 414,
-    "url": "https://huggingface.co/papers/2608.12564",
-    "paper_url": "https://arxiv.org/abs/2608.12564",
-    "published_at": "2026-08-29",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-    "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao, Wenzheng Zeng, Kevin Qinghong Lin...",
-    "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn",
-    "upvotes": 128,
-    "url": "https://huggingface.co/papers/2609.10522",
-    "paper_url": "https://arxiv.org/abs/2609.10522",
+    "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+    "authors": "NCP Team, Jiaqi Cao, Chiyu Chen, Shuang Cheng, Xu Cheng...",
+    "summary": "We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Pre",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2609.10715",
+    "paper_url": "https://arxiv.org/abs/2609.10715",
     "published_at": "2026-09-09",
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   {
-    "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
-    "authors": "Jaewon Chu, Jinwoo Seo, Jaewon Cho, Jeehye Na, Yunyang Xiong...",
-    "summary": "Large language model (LLM)-based multi-agent systems (MAS) achieve strong performance by employing specialized multiple agents, yet their performance depends on the prompt design of each agent. For MA",
-    "upvotes": 86,
-    "url": "https://huggingface.co/papers/2609.08572",
-    "paper_url": "https://arxiv.org/abs/2609.08572",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Programmable World Model",
-    "authors": "Zheng-Hui Huang, Guixu Lin, Jiacheng Lin, Yi-Chuan Huang, Ruihan Yu...",
-    "summary": "Recent video world models generate increasingly realistic and interactive visual experiences, yet lack reliable mechanisms for maintaining persistent world state and enforcing programmable rules over ",
-    "upvotes": 81,
-    "url": "https://huggingface.co/papers/2609.10540",
-    "paper_url": "https://arxiv.org/abs/2609.10540",
-    "published_at": "2026-09-09",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
-    "authors": "Ji Soo Lee, Xilun Chen, Pierce Chuang, Ashish Shenoy, Jason Wei...",
-    "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
-    "upvotes": 29,
-    "url": "https://huggingface.co/papers/2609.05405",
-    "paper_url": "https://arxiv.org/abs/2609.05405",
-    "published_at": "2026-09-04",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
-    "authors": "Pujun Zheng, Zixin Shang, Shufan Jiang, Wenhui Tian, Dongsheng Zhu...",
-    "summary": "SWE-Bench Pro has emerged as a standard benchmark for evaluating software engineering agents on challenging repository-level tasks. However, our analysis work show that its evaluation is undermined by",
-    "upvotes": 19,
-    "url": "https://huggingface.co/papers/2609.08149",
-    "paper_url": "https://arxiv.org/abs/2609.08149",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?",
-    "authors": "Yuqiao Tan, Shizhu He, Jun Zhao, Kang Liu",
-    "summary": "While research on recursive self-improvement (RSI) has predominantly automated model training pipelines, reliable autonomous development demands a missing pillar: post-hoc monitoring and auditing to u",
-    "upvotes": 16,
-    "url": "https://huggingface.co/papers/2609.09113",
-    "paper_url": "https://arxiv.org/abs/2609.09113",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Puppeteer: Object-Grounded Posture-Aware Co-Speech Gesture Generation",
-    "authors": "Vida Adeli, Soroush Mehraban, Jacob Rommann, Harrison Sanborn, Cole Clifford...",
-    "summary": "Generating co-speech gestures that are temporally coherent, semantically aligned with speech, and grounded with surrounding objects remains challenging. Prior speech-driven gesture models emphasize au",
-    "upvotes": 16,
-    "url": "https://huggingface.co/papers/2609.00369",
-    "paper_url": "https://arxiv.org/abs/2609.00369",
-    "published_at": "2026-08-31",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Scores Alone Do Not Prove Discovery: The Discovery Certification Protocol for Auditing AI Research Agents",
-    "authors": "Jingjie Ning, Shanshan Zhong, Xiaochuan Li, Ji Zeng",
-    "summary": "AI research agents combine prior knowledge, public sources, and experimental feedback to produce useful results. The Discovery Certification Protocol (DCP) turns claims about these results into execut",
+    "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+    "authors": "Soohyun Ryu, Sohee Kim, Eunho Yang",
+    "summary": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- ",
     "upvotes": 15,
-    "url": "https://huggingface.co/papers/2609.09219",
-    "paper_url": "https://arxiv.org/abs/2609.09219",
+    "url": "https://huggingface.co/papers/2609.07064",
+    "paper_url": "https://arxiv.org/abs/2609.07064",
     "published_at": "2026-09-07",
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   {
-    "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
-    "authors": "Yuncong Yang, Zhengtao Han, Furkan Ozyurt, Zeyuan Yang, Han Yang...",
-    "summary": "World models are increasingly used as policy-in-the-loop imagination environments, where reliable rollouts require fine-grained controllability with respect to low-level robot actions. A key obstacle ",
-    "upvotes": 11,
-    "url": "https://huggingface.co/papers/2609.09155",
-    "paper_url": "https://arxiv.org/abs/2609.09155",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
-    "authors": "Junyao Yang, Yucheng Shi, Zhongzhi Li, Ruhan Wang, Zongxia Li...",
-    "summary": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B tota",
-    "upvotes": 10,
-    "url": "https://huggingface.co/papers/2609.11042",
-    "paper_url": "https://arxiv.org/abs/2609.11042",
+    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+    "authors": "Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng, Jiangnan Chen...",
+    "summary": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its vi",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.11929",
+    "paper_url": "https://arxiv.org/abs/2609.11929",
     "published_at": "2026-09-10",
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   {
-    "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
-    "authors": "Leilei Ding, Shumin Wang, Yuting Huang, Fanqi Wan, Yinmin Zhang...",
-    "summary": "Large language models (LLMs) have demonstrated remarkable capabilities in reasoning and code generation, raising the prospect that they could assist in developing and optimizing the very infrastructur",
-    "upvotes": 9,
-    "url": "https://huggingface.co/papers/2609.10226",
-    "paper_url": "https://arxiv.org/abs/2609.10226",
-    "published_at": "2026-09-09",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "DianShi-RxnDB: A Large-Scale, Fine-Grained Organic Reaction Data Platform Built via a Fully Automated Pipeline for Researchers and AI Agents",
-    "authors": "Yubin Wang, Xingjian Wei, Jiang Wu, Yinfan Wang, Boyu Zhu...",
-    "summary": "High-quality structured organic reaction data are essential for developing artificial intelligence for chemistry (AI4Chem), yet much of this knowledge remains dispersed across patent text, images, and",
-    "upvotes": 9,
-    "url": "https://huggingface.co/papers/2609.06703",
-    "paper_url": "https://arxiv.org/abs/2609.06703",
-    "published_at": "2026-09-06",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Revisiting Complete Reasoning Traces for Post-Training",
-    "authors": "Jaehui Hwang, Sangdoo Yun, Byeongho Heo, Dongyoon Han",
-    "summary": "Large language models (LLMs) are often post-trained on pre-collected reasoning trajectories to improve their reasoning capability. Such trajectories tend to be long due to complex, interwoven paths, w",
-    "upvotes": 8,
-    "url": "https://huggingface.co/papers/2609.07103",
-    "paper_url": "https://arxiv.org/abs/2609.07103",
+    "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+    "authors": "Jia-Jen Lee, Shih-Yen Hou, Kee Koon Ng, Wei-Chun Wang, Shih-Sheng Chang",
+    "summary": "Invasive coronary angiography (CAG) is the gold standard for diagnosing coronary artery disease, but interpretation varies substantially among observers. Existing AI systems can improve consistency bu",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.06931",
+    "paper_url": "https://arxiv.org/abs/2609.06931",
     "published_at": "2026-09-07",
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   },
   {
-    "title": "Train Smarter, Not Harder: Switching Signal-Guided Training in Active Learning",
-    "authors": "Nagham Omar, Maya Rozenshtein, Evgeny Mishlyakov, Avigdor Gal",
-    "summary": "Training strategy, namely whether to retrain from scratch or fine-tune from the previous checkpoint, is an overlooked decision variable in active learning. We show that this choice has exploitable str",
-    "upvotes": 8,
-    "url": "https://huggingface.co/papers/2609.06806",
-    "paper_url": "https://arxiv.org/abs/2609.06806",
-    "published_at": "2026-09-06",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
-    "authors": "Jie Ruan, Inderjeet Nair, Amy Liu, Muhammad Khalifa, Yusheng Zhou...",
-    "summary": "We study scheming in LLM agents, in which agents covertly pursue misaligned goals. Our focus is to understand how scheming arises from the interaction of key factors, such as instrumental goals, envir",
-    "upvotes": 7,
-    "url": "https://huggingface.co/papers/2609.08126",
-    "paper_url": "https://arxiv.org/abs/2609.08126",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "AgenticGen: Reward-Guided Agentic Video Generation for Advertising",
-    "authors": "Xingyuan Bu, Chengru Song, Hao Zhou, Tao Zhou, Dong Li...",
-    "summary": "Advertising video generation is not only a video synthesis task, but also a product-conditioned reasoning problem whose success is measured by online business metrics. Recent video foundation models c",
-    "upvotes": 7,
-    "url": "https://huggingface.co/papers/2609.09187",
-    "paper_url": "https://arxiv.org/abs/2609.09187",
-    "published_at": "2026-08-31",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "StochBench: A Domain-Specific Benchmark for Stochastic Processes in Lean",
-    "authors": "Idan Davidovich, Debargha Ganguly, Vikash Singh, Vipin Chaudhary",
-    "summary": "Leading benchmarks for formal theorem proving with large language models are small collections drawn from competition math, such as the IMO and Putnam, that poorly represent field-specific application",
-    "upvotes": 6,
-    "url": "https://huggingface.co/papers/2609.09264",
-    "paper_url": "https://arxiv.org/abs/2609.09264",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution",
-    "authors": "Shubhashis Roy Dipta, Sourajit Saha, Shaswati Saha, Nobin Sarwar",
-    "summary": "Recursive Super-Resolution (SR) extends fixed-scale SR to extreme magnification by repeatedly feeding predictions back into the same model, analogous to zooming an image repeatedly. However, ground tr",
-    "upvotes": 6,
-    "url": "https://huggingface.co/papers/2609.06490",
-    "paper_url": "https://arxiv.org/abs/2609.06490",
-    "published_at": "2026-09-06",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware",
-    "authors": "Ayushman Bhattacharya, Nihal Gazi",
-    "summary": "AI-powered search products such as ChatGPT search, Google's AI Overviews, and Perplexity provide LLM-synthesized answers grounded in live web results. We developed OreoLook (formerly lixSearch), an op",
-    "upvotes": 5,
-    "url": "https://huggingface.co/papers/2609.05463",
-    "paper_url": "https://arxiv.org/abs/2609.05463",
-    "published_at": "2026-08-12",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
-    "authors": "Killian Steunou, Yannis Tevissen, Mounîm A. El Yacoubi",
-    "summary": "Video understanding has rapidly evolved toward video large language models (VideoLLMs): systems that couple video representations with pretrained large language models and condition generation on a te",
-    "upvotes": 4,
-    "url": "https://huggingface.co/papers/2609.10355",
-    "paper_url": "https://arxiv.org/abs/2609.10355",
-    "published_at": "2026-09-09",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-    "authors": "Zhou Yu, Bin Bi, Shiva Kumar Pentyala, Shubham Mehrotra, Sougata Chaudhuri...",
-    "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can en",
-    "upvotes": 4,
-    "url": "https://huggingface.co/papers/2609.09134",
-    "paper_url": "https://arxiv.org/abs/2609.09134",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents",
-    "authors": "Kun Li, Zexuan Qiu, Tianhua Zhang, Irwin King, Helen Meng",
-    "summary": "Sequential memory agents process long documents by reading chunks one after another while maintaining a compact memory state, coupling document traversal to reasoning depth. This coupling introduces s",
-    "upvotes": 4,
-    "url": "https://huggingface.co/papers/2609.06702",
-    "paper_url": "https://arxiv.org/abs/2609.06702",
-    "published_at": "2026-09-06",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Diffs vs. Whole Files: An Empirical Comparison of Iterative Edit-Based and Direct Generation for Flutter/Dart Code Models",
-    "authors": "Andrej Andrejev",
-    "summary": "Large language models used for code editing can be trained and deployed in at least two output regimes: direct generation, where the model emits the entire modified file in one shot, and iterative dif",
-    "upvotes": 4,
-    "url": "https://huggingface.co/papers/2609.05779",
-    "paper_url": "https://arxiv.org/abs/2609.05779",
-    "published_at": "2026-09-05",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-    "authors": "Haichuan Hu, Yang Xiao, Mingni Tang, Jiawen Duan, Quanjun Zhang...",
-    "summary": "Existing emotional support conversation systems mainly focus on one-on-one seeker-supporter interactions and individual emotional states, leaving interpersonal relations in multi-party scenarios under",
-    "upvotes": 3,
-    "url": "https://huggingface.co/papers/2609.09657",
-    "paper_url": "https://arxiv.org/abs/2609.09657",
-    "published_at": "2026-09-09",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "The Semantic Bottleneck: Leveraging Semantic Representations for Non-Invasive Speech Decoding",
-    "authors": "Gilad D. Landau, Dulhan Jayalath, Oiwi Parker Jones",
-    "summary": "Non-invasive speech decoding remains constrained by the low signal-to-noise ratio of neural recordings, which makes fine-grained reconstruction of phonemes or individual words difficult. Motivated by ",
-    "upvotes": 2,
-    "url": "https://huggingface.co/papers/2609.10296",
-    "paper_url": "https://arxiv.org/abs/2609.10296",
-    "published_at": "2026-09-09",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR",
-    "authors": "Youngjun Yu, Sanghwan Jang, Hwanjo Yu",
-    "summary": "Reinforcement Learning with Verifiable Rewards (RLVR) has been central to the recent success of Large Reasoning Models. However, while RLVR significantly improves single-sample accuracy, it often fail",
-    "upvotes": 2,
-    "url": "https://huggingface.co/papers/2609.08650",
-    "paper_url": "https://arxiv.org/abs/2609.08650",
-    "published_at": "2026-09-08",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "DF26: We Cannot Tell Fake From Real Anymore",
-    "authors": "Severyn Shykula, Andrii Yermakov, Ivan Samarskyi, Dmytro Mishkin, Jan Cech...",
-    "summary": "We introduce DF26, a novel benchmark for detecting AI-generated videos containing fully synthetic clips produced by recent text-to-video and image-to-video models. The videos capture single-person pub",
-    "upvotes": 2,
-    "url": "https://huggingface.co/papers/2609.07369",
-    "paper_url": "https://arxiv.org/abs/2609.07369",
-    "published_at": "2026-09-07",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "From Reweighting to Rewriting: Unlocking the Intervention Effects of Influential Samples in Training Data Attribution",
-    "authors": "Yuzhang Luo, Chenpeng Wang, Jianhui Chen, Liangming Pan",
-    "summary": "Training data attribution (TDA) aims to identify training examples that shape model behavior, but its intervention value depends on both which examples are selected and how they are modified. Influenc",
-    "upvotes": 2,
-    "url": "https://huggingface.co/papers/2609.02771",
-    "paper_url": "https://arxiv.org/abs/2609.02771",
-    "published_at": "2026-09-02",
-    "date": "2026-09-10"
-  },
-  {
-    "title": "Reference-Based Bias Detection in LLMs via Relative Representations of Hidden States",
-    "authors": "Marek Jeliński, Jan Dubiński, Maciej Chrabaszcz, Sebastian Cygert",
-    "summary": "Existing bias auditing methods typically rely on model outputs, requiring costly benchmarks or judge models and potentially missing internal shifts that never appear in generated text. We propose a re",
+    "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+    "authors": "Zhiqi Li, Yuxuan Liao, Bo Zhu",
+    "summary": "Code world models represent worlds as executable programs, but this representation alone does not determine how to construct a complex world. We introduce Recursive Code World Models (RCWM), a framewo",
     "upvotes": 1,
-    "url": "https://huggingface.co/papers/2609.10060",
-    "paper_url": "https://arxiv.org/abs/2609.10060",
+    "url": "https://huggingface.co/papers/2609.11499",
+    "paper_url": "https://arxiv.org/abs/2609.11499",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "World in World: Explore the World with World Models",
+    "authors": "Chenxi Song, Yanming Yang, Chi Zhang",
+    "summary": "Autoregressive video world models enable interactive, long-horizon exploration, but flexible control remains challenging. Exploring a source video from new viewpoints requires the generated rollout to",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.11548",
+    "paper_url": "https://arxiv.org/abs/2609.11548",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "authors": "Ivan Moshkov, Stephen Ge, George Armstrong, Wei Du, Sadegh Mahdavi...",
+    "summary": "We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoi",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.10712",
+    "paper_url": "https://arxiv.org/abs/2609.10712",
     "published_at": "2026-09-09",
-    "date": "2026-09-10"
+    "date": "2026-09-11"
   }
 ]

@@ -4,8 +4,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 6,
-    "likes": 1403,
-    "trending_score": 1345,
+    "likes": 1416,
+    "trending_score": 1355,
     "created_at": "2026-09-10T02:17:58.000Z",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "date": "2026-09-11"
@@ -15,8 +15,8 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 42289,
-    "likes": 1117,
-    "trending_score": 929,
+    "likes": 1124,
+    "trending_score": 936,
     "created_at": "2026-09-06T11:12:19.000Z",
     "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
     "date": "2026-09-11"
@@ -26,21 +26,10 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 15930,
-    "likes": 1068,
+    "likes": 1069,
     "trending_score": 736,
     "created_at": "2026-08-24T06:34:34.000Z",
     "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-    "date": "2026-09-11"
-  },
-  {
-    "model": "Qwen/Qwen3.8-27B",
-    "pipeline_tag": "image-text-to-text",
-    "library": "transformers",
-    "downloads": 7322476,
-    "likes": 14652,
-    "trending_score": 528,
-    "created_at": "2026-08-05T08:22:59.000Z",
-    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "date": "2026-09-11"
   },
   {
@@ -48,10 +37,21 @@
     "pipeline_tag": "image-text-to-text",
     "library": "gguf",
     "downloads": 614850,
-    "likes": 798,
-    "trending_score": 528,
+    "likes": 800,
+    "trending_score": 530,
     "created_at": "2026-08-28T18:38:03.000Z",
     "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+    "date": "2026-09-11"
+  },
+  {
+    "model": "Qwen/Qwen3.8-27B",
+    "pipeline_tag": "image-text-to-text",
+    "library": "transformers",
+    "downloads": 7322476,
+    "likes": 14655,
+    "trending_score": 529,
+    "created_at": "2026-08-05T08:22:59.000Z",
+    "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "date": "2026-09-11"
   },
   {
@@ -59,8 +59,8 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 2444,
-    "likes": 657,
-    "trending_score": 505,
+    "likes": 660,
+    "trending_score": 508,
     "created_at": "2026-09-08T05:08:43.000Z",
     "url": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
     "date": "2026-09-11"
@@ -70,8 +70,8 @@
     "pipeline_tag": "image-to-video",
     "library": "diffusion-single-file",
     "downloads": 1740572,
-    "likes": 3392,
-    "trending_score": 335,
+    "likes": 3394,
+    "trending_score": 336,
     "created_at": "2026-07-23T07:55:24.000Z",
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "date": "2026-09-11"
@@ -99,17 +99,6 @@
     "date": "2026-09-11"
   },
   {
-    "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "pipeline_tag": "image-text-to-text",
-    "library": "",
-    "downloads": 517644,
-    "likes": 452,
-    "trending_score": 284,
-    "created_at": "2026-09-01T07:01:09.000Z",
-    "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-    "date": "2026-09-11"
-  },
-  {
     "model": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
     "pipeline_tag": "text-generation",
     "library": "",
@@ -118,6 +107,17 @@
     "trending_score": 281,
     "created_at": "2026-08-30T10:46:54.000Z",
     "url": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
+    "date": "2026-09-11"
+  },
+  {
+    "model": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+    "pipeline_tag": "image-text-to-text",
+    "library": "",
+    "downloads": 517644,
+    "likes": 452,
+    "trending_score": 281,
+    "created_at": "2026-09-01T07:01:09.000Z",
+    "url": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
     "date": "2026-09-11"
   },
   {
@@ -136,7 +136,7 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 564079,
-    "likes": 5083,
+    "likes": 5084,
     "trending_score": 214,
     "created_at": "2026-08-24T08:24:59.000Z",
     "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
@@ -158,8 +158,8 @@
     "pipeline_tag": "image-text-to-video",
     "library": "minimax-h3",
     "downloads": 5080204,
-    "likes": 5129,
-    "trending_score": 199,
+    "likes": 5130,
+    "trending_score": 200,
     "created_at": "2026-07-28T10:45:18.000Z",
     "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
     "date": "2026-09-11"
@@ -191,8 +191,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 192107,
-    "likes": 188,
-    "trending_score": 183,
+    "likes": 189,
+    "trending_score": 184,
     "created_at": "2026-09-04T12:43:31.000Z",
     "url": "https://huggingface.co/Jackrong/Qwopus3.8-27B-Flash-GGUF",
     "date": "2026-09-11"
@@ -202,8 +202,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 1023103,
-    "likes": 2228,
-    "trending_score": 177,
+    "likes": 2230,
+    "trending_score": 179,
     "created_at": "2026-08-25T06:43:14.000Z",
     "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
     "date": "2026-09-11"
@@ -213,8 +213,8 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 51179,
-    "likes": 153,
-    "trending_score": 148,
+    "likes": 155,
+    "trending_score": 150,
     "created_at": "2026-09-05T01:44:34.000Z",
     "url": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
     "date": "2026-09-11"
@@ -224,8 +224,8 @@
     "pipeline_tag": "video-to-video",
     "library": "diffusers",
     "downloads": 0,
-    "likes": 157,
-    "trending_score": 145,
+    "likes": 158,
+    "trending_score": 146,
     "created_at": "2026-08-31T20:14:28.000Z",
     "url": "https://huggingface.co/Viggle/Viggle-Animate",
     "date": "2026-09-11"
@@ -235,8 +235,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "",
     "downloads": 1908917,
-    "likes": 1076,
-    "trending_score": 138,
+    "likes": 1077,
+    "trending_score": 139,
     "created_at": "2026-08-17T15:15:19.000Z",
     "url": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
     "date": "2026-09-11"
@@ -247,7 +247,7 @@
     "library": "transformers",
     "downloads": 552019,
     "likes": 1800,
-    "trending_score": 137,
+    "trending_score": 136,
     "created_at": "2026-08-25T06:42:50.000Z",
     "url": "https://huggingface.co/zai-org/GLM-5.3",
     "date": "2026-09-11"
@@ -258,7 +258,7 @@
     "library": "diffusers",
     "downloads": 39,
     "likes": 286,
-    "trending_score": 136,
+    "trending_score": 135,
     "created_at": "2026-09-02T05:03:41.000Z",
     "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
     "date": "2026-09-11"
@@ -268,8 +268,8 @@
     "pipeline_tag": "automatic-speech-recognition",
     "library": "transformers",
     "downloads": 2065,
-    "likes": 189,
-    "trending_score": 132,
+    "likes": 190,
+    "trending_score": 133,
     "created_at": "2026-09-02T15:46:22.000Z",
     "url": "https://huggingface.co/microsoft/VibeVoice-ASR-Streaming-7B",
     "date": "2026-09-11"
@@ -279,8 +279,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 2759,
-    "likes": 155,
-    "trending_score": 129,
+    "likes": 156,
+    "trending_score": 130,
     "created_at": "2026-08-27T08:14:27.000Z",
     "url": "https://huggingface.co/Qwen/Qwen-Drive-1.0-4B",
     "date": "2026-09-11"
@@ -323,8 +323,8 @@
     "pipeline_tag": "text-generation",
     "library": "gguf",
     "downloads": 73777,
-    "likes": 136,
-    "trending_score": 106,
+    "likes": 137,
+    "trending_score": 107,
     "created_at": "2026-08-28T11:26:58.000Z",
     "url": "https://huggingface.co/XHToken/Spark-X2.5-4B-GGUF",
     "date": "2026-09-11"

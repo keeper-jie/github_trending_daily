@@ -169,6 +169,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-11 | 30 | [arXiv](md/arxiv/2026-09-11.md) |
 
 <!-- DEVTO -->
 
@@ -192,5 +193,5 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
-| 2026-09-11 | 30 | [HF Papers](md/hf-papers/2026-09-11.md) |
+| 2026-09-11 | 7 | [HF Papers](md/hf-papers/2026-09-11.md) |
 
