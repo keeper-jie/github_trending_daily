@@ -2,13 +2,15 @@ import os
 import logging
 import argparse
 import datetime
+import xml.etree.ElementTree as ET
 
 from utils import (make_session, load_config, save_json,
                    generate_daily_md, update_readme_links)
 
-REDDIT_JSON_URL = "https://www.reddit.com/r/{subreddit}/hot.json"
+REDDIT_RSS_URL = "https://www.reddit.com/r/{subreddit}/hot.rss"
 MARKER = '<!-- REDDIT -->'
 LABEL = 'Reddit'
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
 
 
 def fetch_reddit_posts(session, subreddits, limit_per_sub, limit):
@@ -19,12 +21,11 @@ def fetch_reddit_posts(session, subreddits, limit_per_sub, limit):
     seen_ids = set()
 
     for sub in subreddits:
-        url = REDDIT_JSON_URL.format(subreddit=sub)
-        logging.info(f"Fetching Reddit r/{sub} (limit={limit_per_sub})")
+        url = REDDIT_RSS_URL.format(subreddit=sub)
+        logging.info(f"Fetching Reddit r/{sub} RSS (limit={limit_per_sub})")
         try:
             resp = session.get(url, headers=headers,
-                               params={"limit": limit_per_sub, "raw_json": 1},
-                               timeout=60)
+                               params={"limit": limit_per_sub}, timeout=60)
 
             logging.info(f"r/{sub}: status={resp.status_code}, content-length={len(resp.text)}")
 
@@ -32,48 +33,67 @@ def fetch_reddit_posts(session, subreddits, limit_per_sub, limit):
                 logging.warning(f"Reddit r/{sub} returned {resp.status_code}: {resp.text[:200]}")
                 continue
 
-            try:
-                data = resp.json()
-            except Exception as json_err:
-                logging.error(f"r/{sub}: JSON parse error: {json_err}")
-                logging.debug(f"r/{sub}: response text: {resp.text[:500]}")
-                continue
+            root = ET.fromstring(resp.text)
+            entries = root.findall(f"{ATOM_NS}entry")
+            logging.info(f"r/{sub}: found {len(entries)} entries in RSS feed")
 
-            children = data.get("data", {}).get("children", [])
-            logging.info(f"r/{sub}: got {len(children)} posts")
-
-            for child in children:
-                post = child.get("data", {})
-                post_id = post.get("id")
+            for entry in entries:
+                id_el = entry.find(f"{ATOM_NS}id")
+                post_id = id_el.text.strip() if id_el is not None and id_el.text else ""
                 if not post_id or post_id in seen_ids:
                     continue
                 seen_ids.add(post_id)
 
-                post_url = post.get("url", "")
-                permalink = post.get("permalink", "")
+                title_el = entry.find(f"{ATOM_NS}title")
+                title = title_el.text.strip() if title_el is not None and title_el.text else ""
+
+                author_el = entry.find(f"{ATOM_NS}author")
+                author = ""
+                if author_el is not None:
+                    name_el = author_el.find(f"{ATOM_NS}name")
+                    if name_el is not None and name_el.text:
+                        author = name_el.text.strip()
+                        if author.startswith("/u/"):
+                            author = author[3:]
+
+                links = entry.findall(f"{ATOM_NS}link")
+                reddit_url = ""
+                post_url = ""
+                for link in links:
+                    href = link.get("href", "")
+                    if href and not reddit_url:
+                        reddit_url = href
+                    if href and "reddit.com" not in href:
+                        post_url = href
+
+                if not post_url:
+                    post_url = reddit_url
+                if not reddit_url and links:
+                    reddit_url = links[0].get("href", "")
 
                 all_posts.append({
-                    "subreddit": post.get("subreddit", sub),
-                    "title": post.get("title", ""),
-                    "score": post.get("score", 0),
-                    "num_comments": post.get("num_comments", 0),
-                    "author": post.get("author", ""),
+                    "subreddit": sub,
+                    "title": title,
+                    "score": 0,
+                    "num_comments": 0,
+                    "author": author,
                     "url": post_url,
-                    "reddit_url": f"https://www.reddit.com{permalink}",
+                    "reddit_url": reddit_url,
                 })
+
+            logging.info(f"r/{sub}: collected {len([p for p in all_posts if p['subreddit'] == sub])} posts")
 
         except Exception as e:
             logging.error(f"Failed to fetch r/{sub}: {type(e).__name__}: {e}", exc_info=True)
             continue
 
-    all_posts.sort(key=lambda x: x["score"], reverse=True)
     today = datetime.date.today().isoformat()
     result = []
     for rank, post in enumerate(all_posts[:limit], start=1):
         post["rank"] = rank
         post["date"] = today
         result.append(post)
-        logging.info(f"#{rank} r/{post['subreddit']} | {post['title'][:60]} | Score: {post['score']}")
+        logging.info(f"#{rank} r/{post['subreddit']} | {post['title'][:60]}")
 
     logging.info(f"Collected {len(result)} Reddit posts total")
     return result
@@ -86,7 +106,6 @@ def build_md_rows(items):
         rows.append(
             f"| **{p['rank']}** | r/{p['subreddit']} "
             f"| [{title}]({p['reddit_url']}) "
-            f"| {p['score']:,} | {p['num_comments']:,} "
             f"| {p.get('author', '')} | [Link]({p['url']}) |"
         )
     return rows
@@ -116,7 +135,7 @@ def demo(**config):
     save_json(os.path.join(json_dir, "reddit", f"{today}.json"), posts)
 
     md_dir = config.get("md_dir", "./md")
-    header = "| Rank | Sub | Title | Score | Comments | Author | Link |"
+    header = "| Rank | Sub | Title | Author | Link |"
     generate_daily_md(
         os.path.join(md_dir, "reddit", f"{today}.md"),
         f"Reddit Hot Posts — {today}",
