@@ -4,8 +4,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 6,
-    "likes": 1416,
-    "trending_score": 1355,
+    "likes": 1419,
+    "trending_score": 1358,
     "created_at": "2026-09-10T02:17:58.000Z",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "date": "2026-09-11"
@@ -33,25 +33,25 @@
     "date": "2026-09-11"
   },
   {
-    "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-    "pipeline_tag": "image-text-to-text",
-    "library": "gguf",
-    "downloads": 614850,
-    "likes": 800,
-    "trending_score": 530,
-    "created_at": "2026-08-28T18:38:03.000Z",
-    "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-    "date": "2026-09-11"
-  },
-  {
     "model": "Qwen/Qwen3.8-27B",
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 7322476,
-    "likes": 14655,
-    "trending_score": 529,
+    "likes": 14657,
+    "trending_score": 531,
     "created_at": "2026-08-05T08:22:59.000Z",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+    "date": "2026-09-11"
+  },
+  {
+    "model": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+    "pipeline_tag": "image-text-to-text",
+    "library": "gguf",
+    "downloads": 614850,
+    "likes": 801,
+    "trending_score": 531,
+    "created_at": "2026-08-28T18:38:03.000Z",
+    "url": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
     "date": "2026-09-11"
   },
   {
@@ -70,8 +70,8 @@
     "pipeline_tag": "image-to-video",
     "library": "diffusion-single-file",
     "downloads": 1740572,
-    "likes": 3394,
-    "trending_score": 336,
+    "likes": 3395,
+    "trending_score": 337,
     "created_at": "2026-07-23T07:55:24.000Z",
     "url": "https://huggingface.co/Lightricks/LTX-2.5",
     "date": "2026-09-11"
@@ -165,17 +165,6 @@
     "date": "2026-09-11"
   },
   {
-    "model": "IFM/K2-Horizon-MoVA-36B-A4B",
-    "pipeline_tag": "text-generation",
-    "library": "transformers",
-    "downloads": 4488,
-    "likes": 275,
-    "trending_score": 187,
-    "created_at": "2026-09-01T23:01:25.000Z",
-    "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
-    "date": "2026-09-11"
-  },
-  {
     "model": "nvidia/Qwen3.8-Flash-Next-NVFP4",
     "pipeline_tag": "image-text-to-text",
     "library": "Model Optimizer",
@@ -184,6 +173,17 @@
     "trending_score": 187,
     "created_at": "2026-09-02T04:03:35.000Z",
     "url": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+    "date": "2026-09-11"
+  },
+  {
+    "model": "IFM/K2-Horizon-MoVA-36B-A4B",
+    "pipeline_tag": "text-generation",
+    "library": "transformers",
+    "downloads": 4488,
+    "likes": 275,
+    "trending_score": 186,
+    "created_at": "2026-09-01T23:01:25.000Z",
+    "url": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
     "date": "2026-09-11"
   },
   {
@@ -258,7 +258,7 @@
     "library": "diffusers",
     "downloads": 39,
     "likes": 286,
-    "trending_score": 135,
+    "trending_score": 133,
     "created_at": "2026-09-02T05:03:41.000Z",
     "url": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
     "date": "2026-09-11"
@@ -301,8 +301,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "gguf",
     "downloads": 314894,
-    "likes": 868,
-    "trending_score": 115,
+    "likes": 869,
+    "trending_score": 116,
     "created_at": "2026-08-16T07:34:08.000Z",
     "url": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
     "date": "2026-09-11"

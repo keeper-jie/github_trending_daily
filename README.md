@@ -193,5 +193,5 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
-| 2026-09-11 | 7 | [HF Papers](md/hf-papers/2026-09-11.md) |
+| 2026-09-11 | 8 | [HF Papers](md/hf-papers/2026-09-11.md) |
 

@@ -16,7 +16,7 @@
     "author": "FrancisTRᴅᴇᴠ (っ◔◡◔)っ",
     "tags": "discuss, community, mentalhealth",
     "positive_reactions_count": 51,
-    "comments_count": 17,
+    "comments_count": 19,
     "url": "https://dev.to/francistrdev/paradox-between-sharing-your-accomplishments-and-ego-3p9k",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
@@ -48,7 +48,7 @@
     "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
     "author": "Athreya aka Maneshwar",
     "tags": "systemdesign, backend, architecture, webdev",
-    "positive_reactions_count": 16,
+    "positive_reactions_count": 17,
     "comments_count": 1,
     "url": "https://dev.to/lovestaco/down-is-kind-slow-is-fatal-circuit-breakers-and-the-three-links-around-them-3acn",
     "published_at": "2026-09-10",
@@ -77,17 +77,6 @@
     "date": "2026-09-11"
   },
   {
-    "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
-    "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
-    "author": "Randal L. Schwartz",
-    "tags": "flutter, dart, architecture, programming",
-    "positive_reactions_count": 0,
-    "comments_count": 0,
-    "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
-    "published_at": "2026-09-11",
-    "date": "2026-09-11"
-  },
-  {
     "title": "The Internship That Taught Me to Read Between the Lines of a Job Offer",
     "description": "I didn't read the job description.  I didn't check Glassdoor.  I didn't ask a single senior what the...",
     "author": "Dhruv Jani",
@@ -99,14 +88,14 @@
     "date": "2026-09-11"
   },
   {
-    "title": "Four People Rebuilt the Payment Authorisation in My Comments Section",
-    "description": "I published two articles three weeks apart. They were not about the same thing.  The first was about...",
-    "author": "arun rajkumar",
-    "tags": "ai, agents, security, discuss",
-    "positive_reactions_count": 8,
-    "comments_count": 5,
-    "url": "https://dev.to/mickyarun/four-people-rebuilt-the-payment-authorisation-in-my-comments-section-57l9",
-    "published_at": "2026-09-10",
+    "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
+    "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
+    "author": "Randal L. Schwartz",
+    "tags": "flutter, dart, architecture, programming",
+    "positive_reactions_count": 0,
+    "comments_count": 0,
+    "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
+    "published_at": "2026-09-11",
     "date": "2026-09-11"
   },
   {
@@ -117,6 +106,17 @@
     "positive_reactions_count": 11,
     "comments_count": 5,
     "url": "https://dev.to/devopsdaily/database-scaling-explained-by-breaking-things-indexing-replication-caching-1l8e",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Four People Rebuilt the Payment Authorisation in My Comments Section",
+    "description": "I published two articles three weeks apart. They were not about the same thing.  The first was about...",
+    "author": "arun rajkumar",
+    "tags": "ai, agents, security, discuss",
+    "positive_reactions_count": 8,
+    "comments_count": 5,
+    "url": "https://dev.to/mickyarun/four-people-rebuilt-the-payment-authorisation-in-my-comments-section-57l9",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
   },
@@ -275,17 +275,6 @@
     "date": "2026-09-11"
   },
   {
-    "title": "I Shipped 'Passwordless Login.' It Still Asked for a Username.",
-    "description": "WebAuthn's own demo code creates a credential the browser can't find on its own — so your passkey button quietly turns i",
-    "author": "Parsa Jiravand",
-    "tags": "webdev, security, javascript, webauthn",
-    "positive_reactions_count": 6,
-    "comments_count": 3,
-    "url": "https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7",
-    "published_at": "2026-09-10",
-    "date": "2026-09-11"
-  },
-  {
     "title": "LLM Sampling, Demystified: Temperature, Top-k, Top-p, Min-p and Repetition Penalty",
     "description": "Hello, I'm Shrijith Venkatramana, and I'm building LiveReview — a blast-radius aware AI code review...",
     "author": "Shrijith Venkatramana",
@@ -293,6 +282,17 @@
     "positive_reactions_count": 5,
     "comments_count": 1,
     "url": "https://dev.to/shrsv/llm-sampling-demystified-temperature-top-k-top-p-min-p-and-repetition-penalty-4pkh",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "I Shipped 'Passwordless Login.' It Still Asked for a Username.",
+    "description": "WebAuthn's own demo code creates a credential the browser can't find on its own — so your passkey button quietly turns i",
+    "author": "Parsa Jiravand",
+    "tags": "webdev, security, javascript, webauthn",
+    "positive_reactions_count": 6,
+    "comments_count": 3,
+    "url": "https://dev.to/parsajiravand/i-shipped-passwordless-login-it-still-asked-for-a-username-1nd7",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
   },

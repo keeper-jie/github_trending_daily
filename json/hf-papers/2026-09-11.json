@@ -3,7 +3,7 @@
     "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
     "authors": "NCP Team, Jiaqi Cao, Chiyu Chen, Shuang Cheng, Xu Cheng...",
     "summary": "We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Pre",
-    "upvotes": 32,
+    "upvotes": 35,
     "url": "https://huggingface.co/papers/2609.10715",
     "paper_url": "https://arxiv.org/abs/2609.10715",
     "published_at": "2026-09-09",
@@ -13,7 +13,7 @@
     "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
     "authors": "Soohyun Ryu, Sohee Kim, Eunho Yang",
     "summary": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- ",
-    "upvotes": 15,
+    "upvotes": 17,
     "url": "https://huggingface.co/papers/2609.07064",
     "paper_url": "https://arxiv.org/abs/2609.07064",
     "published_at": "2026-09-07",
@@ -47,6 +47,16 @@
     "url": "https://huggingface.co/papers/2609.11499",
     "paper_url": "https://arxiv.org/abs/2609.11499",
     "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+    "authors": "Jiatong Ding, Bingxin Xing, Yu Zhang, Dian Ding, Xiaodong Yi...",
+    "summary": "Quantization has been widely adopted in LLM training and inference to reduce cost and improve efficiency. However, low-bit quantization of the attention module often introduces large errors at very lo",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2608.27875",
+    "paper_url": "https://arxiv.org/abs/2608.27875",
+    "published_at": "2026-08-28",
     "date": "2026-09-11"
   },
   {
