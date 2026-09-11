@@ -2,61 +2,110 @@ import os
 import logging
 import argparse
 import datetime
+import xml.etree.ElementTree as ET
 
 from utils import (make_session, load_config, save_json,
                    generate_daily_md, update_readme_links)
 
-REDDIT_JSON_URL = "https://www.reddit.com/r/{subreddit}/hot.json"
+REDDIT_RSS_URL = "https://old.reddit.com/r/{subreddit}/hot/.rss"
 MARKER = '<!-- REDDIT -->'
 LABEL = 'Reddit'
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+MEDIA_NS = "{http://search.yahoo.com/mrss/}"
 
 
 def fetch_reddit_posts(session, subreddits, limit_per_sub, limit):
-    headers = {"User-Agent": "GitHubTrendingDailyBot/1.0 (daily digest aggregator)"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (compatible; GitHubTrendingDailyBot/1.0; +https://github.com/keeper-jie/github_trending_daily)"
+    }
     all_posts = []
     seen_ids = set()
 
     for sub in subreddits:
-        url = REDDIT_JSON_URL.format(subreddit=sub)
-        logging.info(f"Fetching Reddit r/{sub} (limit={limit_per_sub})")
+        url = REDDIT_RSS_URL.format(subreddit=sub)
+        logging.info(f"Fetching Reddit r/{sub} RSS (limit={limit_per_sub})")
         try:
             resp = session.get(url, headers=headers,
                                params={"limit": limit_per_sub}, timeout=60)
             if resp.status_code != 200:
                 logging.warning(f"Reddit r/{sub} returned {resp.status_code}")
                 continue
-            data = resp.json()
-            children = data.get("data", {}).get("children", [])
-            for child in children:
-                post = child.get("data", {})
-                post_id = post.get("id")
+
+            root = ET.fromstring(resp.text)
+            entries = root.findall(f"{ATOM_NS}entry")
+
+            for entry in entries:
+                id_el = entry.find(f"{ATOM_NS}id")
+                post_id = id_el.text.strip() if id_el is not None and id_el.text else ""
                 if not post_id or post_id in seen_ids:
                     continue
                 seen_ids.add(post_id)
-                post_url = post.get("url", "")
-                permalink = post.get("permalink", "")
+
+                title_el = entry.find(f"{ATOM_NS}title")
+                title = title_el.text.strip() if title_el is not None and title_el.text else ""
+
+                author_el = entry.find(f"{ATOM_NS}author")
+                author = ""
+                if author_el is not None:
+                    name_el = author_el.find(f"{ATOM_NS}name")
+                    if name_el is not None and name_el.text:
+                        author = name_el.text.strip()
+                        if author.startswith("/u/"):
+                            author = author[3:]
+
+                link_el = entry.find(f"{ATOM_NS}link")
+                link_href = ""
+                if link_el is not None:
+                    link_href = link_el.get("href", "")
+
+                category_el = entry.find(f"{ATOM_NS}category")
+                subreddit_name = sub
+                if category_el is not None:
+                    label = category_el.get("label", "")
+                    if label:
+                        subreddit_name = label
+
+                content_el = entry.find(f"{ATOM_NS}content")
+                content_text = ""
+                if content_el is not None and content_el.text:
+                    content_text = content_el.text
+
+                post_url = link_href
+                reddit_url = link_href
+
+                for link in entry.findall(f"{ATOM_NS}link"):
+                    link_title = link.get("title", "")
+                    href = link.get("href", "")
+                    if link_title == "" and href and not href.endswith(".reddit.com/"):
+                        post_url = href
+                    elif "reddit.com" in href:
+                        reddit_url = href
+
+                if not reddit_url and link_href:
+                    reddit_url = link_href
+
                 all_posts.append({
-                    "subreddit": post.get("subreddit", sub),
-                    "title": post.get("title", ""),
-                    "score": post.get("score", 0),
-                    "num_comments": post.get("num_comments", 0),
-                    "author": post.get("author", ""),
+                    "subreddit": subreddit_name,
+                    "title": title,
+                    "score": 0,
+                    "num_comments": 0,
+                    "author": author,
                     "url": post_url,
-                    "reddit_url": f"https://www.reddit.com{permalink}",
+                    "reddit_url": reddit_url,
                 })
-            logging.info(f"r/{sub}: got {len(children)} posts")
+
+            logging.info(f"r/{sub}: got {len(entries)} entries from RSS")
         except Exception as e:
             logging.warning(f"Failed to fetch r/{sub}: {e}")
             continue
 
-    all_posts.sort(key=lambda x: x["score"], reverse=True)
     today = datetime.date.today().isoformat()
     result = []
     for rank, post in enumerate(all_posts[:limit], start=1):
         post["rank"] = rank
         post["date"] = today
         result.append(post)
-        logging.info(f"#{rank} r/{post['subreddit']} | {post['title'][:60]} | Score: {post['score']}")
+        logging.info(f"#{rank} r/{post['subreddit']} | {post['title'][:60]}")
 
     logging.info(f"Collected {len(result)} Reddit posts total")
     return result
@@ -69,7 +118,6 @@ def build_md_rows(items):
         rows.append(
             f"| **{p['rank']}** | r/{p['subreddit']} "
             f"| [{title}]({p['reddit_url']}) "
-            f"| {p['score']:,} | {p['num_comments']:,} "
             f"| {p.get('author', '')} | [Link]({p['url']}) |"
         )
     return rows
@@ -99,7 +147,7 @@ def demo(**config):
     save_json(os.path.join(json_dir, "reddit", f"{today}.json"), posts)
 
     md_dir = config.get("md_dir", "./md")
-    header = "| Rank | Sub | Title | Score | Comments | Author | Link |"
+    header = "| Rank | Sub | Title | Author | Link |"
     generate_daily_md(
         os.path.join(md_dir, "reddit", f"{today}.md"),
         f"Reddit Hot Posts — {today}",

@@ -1,5 +1,4 @@
 import os
-import time
 import logging
 import argparse
 import datetime
@@ -8,7 +7,7 @@ import xml.etree.ElementTree as ET
 from utils import (make_session, load_config, save_json,
                    generate_daily_md, update_readme_links)
 
-ARXIV_API_URL = "http://export.arxiv.org/api/query"
+ARXIV_API_URL = "https://export.arxiv.org/api/query"
 ATOM_NS = "{http://www.w3.org/2005/Atom}"
 ARXIV_NS = "{http://arxiv.org/schemas/atom}"
 MARKER = '<!-- ARXIV -->'
@@ -50,7 +49,7 @@ def fetch_arxiv_papers(session, categories, limit):
         summary = " ".join(summary_el.text.strip().split()) if summary_el is not None and summary_el.text else ""
 
         cats = []
-        for cat in entry.findall(f"{ARXIV_NS}category"):
+        for cat in entry.findall(f"{ATOM_NS}category"):
             term = cat.get("term", "")
             if term:
                 cats.append(term)
