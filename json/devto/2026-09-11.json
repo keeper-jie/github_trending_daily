@@ -27,7 +27,7 @@
     "author": "Giorgi Kobaidze",
     "tags": "community, discuss, showdev, writing",
     "positive_reactions_count": 16,
-    "comments_count": 14,
+    "comments_count": 15,
     "url": "https://dev.to/georgekobaidze/show-me-the-article-youre-most-proud-of-and-ill-read-every-single-one-of-them-1l53",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
@@ -77,17 +77,6 @@
     "date": "2026-09-11"
   },
   {
-    "title": "The Internship That Taught Me to Read Between the Lines of a Job Offer",
-    "description": "I didn't read the job description.  I didn't check Glassdoor.  I didn't ask a single senior what the...",
-    "author": "Dhruv Jani",
-    "tags": "career, devjournal, discuss, showdev",
-    "positive_reactions_count": 18,
-    "comments_count": 11,
-    "url": "https://dev.to/dj29/the-internship-that-taught-me-to-read-between-the-lines-of-a-job-offer-50ef",
-    "published_at": "2026-09-10",
-    "date": "2026-09-11"
-  },
-  {
     "title": "The Symmetry of State: Why Flutter Deserves context.value and context.state",
     "description": "Eliminating the widget builder tax, closure fatigue, and the context.watch trap in Flutter: how 1:1 symmetry between con",
     "author": "Randal L. Schwartz",
@@ -96,6 +85,17 @@
     "comments_count": 0,
     "url": "https://dev.to/gde/the-symmetry-of-state-why-flutter-deserves-contextvalue-and-contextstate-4250",
     "published_at": "2026-09-11",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "The Internship That Taught Me to Read Between the Lines of a Job Offer",
+    "description": "I didn't read the job description.  I didn't check Glassdoor.  I didn't ask a single senior what the...",
+    "author": "Dhruv Jani",
+    "tags": "career, devjournal, discuss, showdev",
+    "positive_reactions_count": 18,
+    "comments_count": 11,
+    "url": "https://dev.to/dj29/the-internship-that-taught-me-to-read-between-the-lines-of-a-job-offer-50ef",
+    "published_at": "2026-09-10",
     "date": "2026-09-11"
   },
   {
@@ -231,17 +231,6 @@
     "date": "2026-09-11"
   },
   {
-    "title": "What Happens When an AI Agent Runs Longer Than Your HTTP Request?",
-    "description": "A user clicks “Run agent”, your backend receives a normal HTTP request, and the agent starts doing...",
-    "author": "Hossein Hezami",
-    "tags": "ai, agents, token, tutorial",
-    "positive_reactions_count": 5,
-    "comments_count": 1,
-    "url": "https://dev.to/hosseinhezami/what-happens-when-an-ai-agent-runs-longer-than-your-http-request-288o",
-    "published_at": "2026-09-10",
-    "date": "2026-09-11"
-  },
-  {
     "title": "Caso de éxito: los toolkits gráficos",
     "description": "\"Ingeniería\" del software.",
     "author": "Baltasar García Perez-Schofield",
@@ -253,6 +242,17 @@
     "date": "2026-09-11"
   },
   {
+    "title": "What Happens When an AI Agent Runs Longer Than Your HTTP Request?",
+    "description": "A user clicks “Run agent”, your backend receives a normal HTTP request, and the agent starts doing...",
+    "author": "Hossein Hezami",
+    "tags": "ai, agents, token, tutorial",
+    "positive_reactions_count": 5,
+    "comments_count": 1,
+    "url": "https://dev.to/hosseinhezami/what-happens-when-an-ai-agent-runs-longer-than-your-http-request-288o",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
     "title": "MCP Made Tools Discoverable. It Didn't Make Them Safe",
     "description": "Your agent connects to three MCP servers, calls tools/list, and suddenly it can search issues, query...",
     "author": "Hossein Hezami",
@@ -260,6 +260,17 @@
     "positive_reactions_count": 7,
     "comments_count": 3,
     "url": "https://dev.to/hosseinhezami/mcp-made-tools-discoverable-it-didnt-make-them-safe-4g43",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Google Maps the Complete Male Fruit Fly Brain, a Major Connectomics Milestone",
+    "description": "Google Research and its collaborators have published a complete wiring diagram of the adult male...",
+    "author": "Ali Farhat",
+    "tags": "ai, automation, tools, gemini",
+    "positive_reactions_count": 1,
+    "comments_count": 0,
+    "url": "https://dev.to/alifar/google-maps-the-complete-male-fruit-fly-brain-a-major-connectomics-milestone-cjf",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
   },
@@ -286,6 +297,17 @@
     "date": "2026-09-11"
   },
   {
+    "title": "Automate Flutter Releases with Shorebird + GitHub Actions (Skip App Store Review)",
+    "description": "A real pain point for mobile apps is waiting days or weeks for App Store and Play Store reviews...",
+    "author": "Samuel Adekunle",
+    "tags": "flutter, mobile, techwithsam, githubactions",
+    "positive_reactions_count": 5,
+    "comments_count": 0,
+    "url": "https://dev.to/techwithsam/automate-flutter-releases-with-shorebird-github-actions-skip-app-store-review-2j1l",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
     "title": "I Shipped 'Passwordless Login.' It Still Asked for a Username.",
     "description": "WebAuthn's own demo code creates a credential the browser can't find on its own — so your passkey button quietly turns i",
     "author": "Parsa Jiravand",
@@ -304,28 +326,6 @@
     "positive_reactions_count": 1,
     "comments_count": 1,
     "url": "https://dev.to/longgoll/flowgit-the-ultimate-native-git-client-full-feature-showcase-architecture-why-it-outclasses-dph",
-    "published_at": "2026-09-10",
-    "date": "2026-09-11"
-  },
-  {
-    "title": "Automate Flutter Releases with Shorebird + GitHub Actions (Skip App Store Review)",
-    "description": "A real pain point for mobile apps is waiting days or weeks for App Store and Play Store reviews...",
-    "author": "Samuel Adekunle",
-    "tags": "flutter, mobile, techwithsam, githubactions",
-    "positive_reactions_count": 5,
-    "comments_count": 0,
-    "url": "https://dev.to/techwithsam/automate-flutter-releases-with-shorebird-github-actions-skip-app-store-review-2j1l",
-    "published_at": "2026-09-10",
-    "date": "2026-09-11"
-  },
-  {
-    "title": "Apache Data Lakehouse Weekly: September 3-9, 2026",
-    "description": "Three things ran through the dev lists this week. Projects kept redrawing their own boundaries, with...",
-    "author": "Alex Merced",
-    "tags": "bigdata, database, dataengineering, rust",
-    "positive_reactions_count": 0,
-    "comments_count": 1,
-    "url": "https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-september-3-9-2026-4h3m",
     "published_at": "2026-09-10",
     "date": "2026-09-11"
   }

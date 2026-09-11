@@ -4,9 +4,9 @@
     "id": 49643982,
     "title": "Shopify is moving from React Native back to Swift and Kotlin",
     "url": "https://shopify.engineering/back-to-native",
-    "score": 836,
+    "score": 840,
     "author": "fnthawar2",
-    "comments": 558,
+    "comments": 563,
     "submitted_at": "2026-09-10T14:09:31+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49643982"
   },
@@ -15,33 +15,33 @@
     "id": 49639408,
     "title": "More questions about whether researchers can trust OpenAI with unpublished math",
     "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "score": 721,
+    "score": 723,
     "author": "pred_",
-    "comments": 663,
+    "comments": 665,
     "submitted_at": "2026-09-10T06:49:43+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49639408"
   },
   {
     "rank": 3,
+    "id": 49649213,
+    "title": "OpenAI Agents API",
+    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+    "score": 163,
+    "author": "aquir",
+    "comments": 102,
+    "submitted_at": "2026-09-10T19:43:22+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49649213"
+  },
+  {
+    "rank": 4,
     "id": 49652028,
     "title": "YuE2 · Frontier Music with Symbolic Planning",
     "url": "https://map-yue2.github.io/",
-    "score": 55,
+    "score": 57,
     "author": "sexy_seedbox",
     "comments": 47,
     "submitted_at": "2026-09-11T00:33:26+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49652028"
-  },
-  {
-    "rank": 4,
-    "id": 49649213,
-    "title": "OpenAI Agents API",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "score": 160,
-    "author": "aquir",
-    "comments": 101,
-    "submitted_at": "2026-09-10T19:43:22+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49649213"
   },
   {
     "rank": 5,
@@ -50,7 +50,7 @@
     "url": "https://system76.com/workstations/thelio-mira-ai",
     "score": 51,
     "author": "jonifico",
-    "comments": 27,
+    "comments": 30,
     "submitted_at": "2026-09-10T23:10:06+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49651372"
   },
@@ -67,39 +67,28 @@
   },
   {
     "rank": 7,
+    "id": 49652237,
+    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+    "score": 64,
+    "author": "rguiscard",
+    "comments": 22,
+    "submitted_at": "2026-09-11T01:00:56+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49652237"
+  },
+  {
+    "rank": 8,
     "id": 49649124,
     "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
     "url": "https://auberon.xyz/blog/posts/deathray/",
     "score": 103,
     "author": "auberonedu",
-    "comments": 63,
+    "comments": 64,
     "submitted_at": "2026-09-10T19:34:20+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49649124"
   },
   {
-    "rank": 8,
-    "id": 49652237,
-    "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-    "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-    "score": 63,
-    "author": "rguiscard",
-    "comments": 23,
-    "submitted_at": "2026-09-11T01:00:56+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49652237"
-  },
-  {
     "rank": 9,
-    "id": 49652105,
-    "title": "Google will buy half the electricity of a nuclear power plant",
-    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-    "score": 113,
-    "author": "lukaspetersson",
-    "comments": 82,
-    "submitted_at": "2026-09-11T00:42:41+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49652105"
-  },
-  {
-    "rank": 10,
     "id": 49645443,
     "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
     "url": "https://cognition.com/blog/swe-2",
@@ -108,6 +97,17 @@
     "comments": 154,
     "submitted_at": "2026-09-10T15:29:47+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49645443"
+  },
+  {
+    "rank": 10,
+    "id": 49652105,
+    "title": "Google will buy half the electricity of a nuclear power plant",
+    "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+    "score": 114,
+    "author": "lukaspetersson",
+    "comments": 82,
+    "submitted_at": "2026-09-11T00:42:41+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49652105"
   },
   {
     "rank": 11,
@@ -125,14 +125,25 @@
     "id": 49650418,
     "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
     "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
-    "score": 67,
+    "score": 68,
     "author": "mckn1ght",
-    "comments": 111,
+    "comments": 113,
     "submitted_at": "2026-09-10T21:30:55+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49650418"
   },
   {
     "rank": 13,
+    "id": 49652996,
+    "title": "LLM Visualizer – Build a Transformer from Scratch",
+    "url": "https://jayvisaria.github.io/LLM-Visualizer/#/dashboard",
+    "score": 5,
+    "author": "evo_9",
+    "comments": 0,
+    "submitted_at": "2026-09-11T02:51:51+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49652996"
+  },
+  {
+    "rank": 14,
     "id": 49600657,
     "title": "Customizing my Compaq MX-11800 keyboard",
     "url": "https://blog.webb.page/WM-102",
@@ -143,7 +154,7 @@
     "hn_url": "https://news.ycombinator.com/item?id=49600657"
   },
   {
-    "rank": 14,
+    "rank": 15,
     "id": 49647134,
     "title": "Music Theory for the 21st-Century Classroom",
     "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
@@ -154,7 +165,7 @@
     "hn_url": "https://news.ycombinator.com/item?id=49647134"
   },
   {
-    "rank": 15,
+    "rank": 16,
     "id": 49649222,
     "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
     "url": "https://merybenavente.me/blog/proof-of-capture",
@@ -165,18 +176,18 @@
     "hn_url": "https://news.ycombinator.com/item?id=49649222"
   },
   {
-    "rank": 16,
+    "rank": 17,
     "id": 49645686,
     "title": "Neki – Sharded Postgres",
     "url": "https://planetscale.com/blog/introducing-neki",
-    "score": 211,
+    "score": 212,
     "author": "simon_weber",
     "comments": 114,
     "submitted_at": "2026-09-10T15:43:49+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49645686"
   },
   {
-    "rank": 17,
+    "rank": 18,
     "id": 49645907,
     "title": "Forgejo <=16.0.3 Critical RCE",
     "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
@@ -187,18 +198,18 @@
     "hn_url": "https://news.ycombinator.com/item?id=49645907"
   },
   {
-    "rank": 18,
+    "rank": 19,
     "id": 49643546,
     "title": "Rust is tier-1 language at Microsoft",
     "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-    "score": 621,
+    "score": 622,
     "author": "mmastrac",
-    "comments": 354,
+    "comments": 356,
     "submitted_at": "2026-09-10T13:39:16+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49643546"
   },
   {
-    "rank": 19,
+    "rank": 20,
     "id": 49630931,
     "title": "iPhone Duo",
     "url": "https://www.apple.com/iphone-duo/",
@@ -209,40 +220,62 @@
     "hn_url": "https://news.ycombinator.com/item?id=49630931"
   },
   {
-    "rank": 20,
+    "rank": 21,
     "id": 49627634,
     "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
     "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
     "score": 289,
     "author": "thelastgallon",
-    "comments": 233,
+    "comments": 234,
     "submitted_at": "2026-09-09T14:54:12+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49627634"
   },
   {
-    "rank": 21,
+    "rank": 22,
+    "id": 49652122,
+    "title": "Setting up OpenCode with Ollama and sbx on Mac",
+    "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
+    "score": 11,
+    "author": "etoxin",
+    "comments": 8,
+    "submitted_at": "2026-09-11T00:45:26+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49652122"
+  },
+  {
+    "rank": 23,
+    "id": 49609195,
+    "title": "Bitap: My favorite string matching algorithm",
+    "url": "https://jo3-l.dev/posts/bitap/",
+    "score": 3,
+    "author": "haeseong",
+    "comments": 0,
+    "submitted_at": "2026-09-08T12:06:24+00:00",
+    "hn_url": "https://news.ycombinator.com/item?id=49609195"
+  },
+  {
+    "rank": 24,
     "id": 49603335,
     "title": "Recursion into madness",
     "url": "https://blog.coredump.cx/p/recursion-into-madness",
-    "score": 47,
+    "score": 48,
     "author": "surprisetalk",
-    "comments": 12,
+    "comments": 13,
     "submitted_at": "2026-09-07T21:50:12+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49603335"
   },
   {
-    "rank": 22,
+    "rank": 25,
     "id": 49647300,
     "title": "Detecting and countering misuse of AI: September 2026",
     "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "score": 94,
+    "score": 95,
     "author": "garo-pro",
-    "comments": 164,
+    "comments": 166,
     "submitted_at": "2026-09-10T17:23:42+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49647300"
   },
   {
-    "rank": 23,
+    "rank": 26,
     "id": 49647404,
     "title": "JEP 544: Ahead-of-Time Code Compilation",
     "url": "https://openjdk.org/jeps/544",
@@ -253,7 +286,7 @@
     "hn_url": "https://news.ycombinator.com/item?id=49647404"
   },
   {
-    "rank": 24,
+    "rank": 27,
     "id": 49615922,
     "title": "What happens when a GPU writes memory",
     "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
@@ -264,66 +297,33 @@
     "hn_url": "https://news.ycombinator.com/item?id=49615922"
   },
   {
-    "rank": 25,
+    "rank": 28,
     "id": 49587121,
     "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
     "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
-    "score": 150,
+    "score": 152,
     "author": "tosh",
-    "comments": 74,
+    "comments": 75,
     "submitted_at": "2026-09-06T14:59:33+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49587121"
   },
   {
-    "rank": 26,
+    "rank": 29,
     "id": 49652188,
     "title": "Herdr Studio",
     "url": "https://powerfooI.github.io/herdr-studio/",
-    "score": 8,
+    "score": 9,
     "author": "throwaway888abc",
     "comments": 3,
     "submitted_at": "2026-09-11T00:54:36+00:00",
     "hn_url": "https://news.ycombinator.com/item?id=49652188"
   },
   {
-    "rank": 27,
-    "id": 49588483,
-    "title": "YouTube had a bug – I used ChatGPT to investigate",
-    "url": "https://blog.thezilber.com/3-youtube-had-a-bug-chatgpt-helped-me-to-investigate",
-    "score": 17,
-    "author": "theZilber",
-    "comments": 15,
-    "submitted_at": "2026-09-06T17:01:39+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49588483"
-  },
-  {
-    "rank": 28,
-    "id": 49652122,
-    "title": "Setting up OpenCode with Ollama and sbx on Mac",
-    "url": "https://tensorsandtokens.com/posts/opencode-ollama/",
-    "score": 10,
-    "author": "etoxin",
-    "comments": 8,
-    "submitted_at": "2026-09-11T00:45:26+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49652122"
-  },
-  {
-    "rank": 29,
-    "id": 49618633,
-    "title": "Embedding a bitmap font in your HyperCard stack",
-    "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
-    "score": 26,
-    "author": "zdw",
-    "comments": 1,
-    "submitted_at": "2026-09-08T23:30:11+00:00",
-    "hn_url": "https://news.ycombinator.com/item?id=49618633"
-  },
-  {
     "rank": 30,
     "id": 49604581,
     "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
     "url": "https://vertumnus.fyi",
-    "score": 31,
+    "score": 32,
     "author": "perspectivezoom",
     "comments": 15,
     "submitted_at": "2026-09-08T01:08:10+00:00",

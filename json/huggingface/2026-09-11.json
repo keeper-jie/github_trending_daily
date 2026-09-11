@@ -4,8 +4,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 6,
-    "likes": 1419,
-    "trending_score": 1358,
+    "likes": 1424,
+    "trending_score": 1362,
     "created_at": "2026-09-10T02:17:58.000Z",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
     "date": "2026-09-11"
@@ -15,8 +15,8 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 42289,
-    "likes": 1124,
-    "trending_score": 936,
+    "likes": 1125,
+    "trending_score": 937,
     "created_at": "2026-09-06T11:12:19.000Z",
     "url": "https://huggingface.co/openbmb/MiniCPM5-2B",
     "date": "2026-09-11"
@@ -26,8 +26,8 @@
     "pipeline_tag": "text-generation",
     "library": "transformers",
     "downloads": 15930,
-    "likes": 1069,
-    "trending_score": 736,
+    "likes": 1070,
+    "trending_score": 737,
     "created_at": "2026-08-24T06:34:34.000Z",
     "url": "https://huggingface.co/XHToken/Spark-X2.5-4B",
     "date": "2026-09-11"
@@ -37,8 +37,8 @@
     "pipeline_tag": "image-text-to-text",
     "library": "transformers",
     "downloads": 7322476,
-    "likes": 14657,
-    "trending_score": 531,
+    "likes": 14658,
+    "trending_score": 532,
     "created_at": "2026-08-05T08:22:59.000Z",
     "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
     "date": "2026-09-11"
@@ -82,7 +82,7 @@
     "library": "",
     "downloads": 11127203,
     "likes": 3851,
-    "trending_score": 330,
+    "trending_score": 329,
     "created_at": "2026-08-13T08:28:40.000Z",
     "url": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
     "date": "2026-09-11"
@@ -93,7 +93,7 @@
     "library": "",
     "downloads": 483787,
     "likes": 718,
-    "trending_score": 308,
+    "trending_score": 306,
     "created_at": "2026-08-24T22:05:51.000Z",
     "url": "https://huggingface.co/google/timesfm-3.0-pytorch",
     "date": "2026-09-11"
