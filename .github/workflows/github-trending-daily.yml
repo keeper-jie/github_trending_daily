@@ -56,6 +56,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Github Action Automatic Update Daily Digest"
-          file_pattern: "README.md json/**/*.json md/**/*.md data/**/*.json index.html"
+          file_pattern: "README.md json/**/*.json md/**/*.md data/**/*.json"
           commit_user_name: ${{ env.GITHUB_USER_NAME }}
           commit_user_email: ${{ env.GITHUB_USER_EMAIL }}
