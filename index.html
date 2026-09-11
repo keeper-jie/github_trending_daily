@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Daily Digest</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { padding-top: 20px; }
+        .header { margin-bottom: 30px; }
+        .table-container { margin-top: 20px; }
+        .loading { text-align: center; padding: 40px; }
+        .error { color: #dc3545; padding: 20px; }
+        .nav-tabs { margin-bottom: 20px; }
+        .date-selector { margin-bottom: 20px; }
+        footer { margin-top: 40px; padding: 20px 0; border-top: 1px solid #dee2e6; color: #6c757d; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📊 GitHub Daily Digest</h1>
+            <p class="lead">每日自动抓取多源技术热门信息</p>
+            <p>
+                <a href="https://github.com/keeper-jie/github_trending_daily" target="_blank">GitHub 仓库</a> |
+                <a href="https://github.com/keeper-jie/github_trending_daily#readme">README</a>
+            </p>
+        </div>
+
+        <ul class="nav nav-tabs" id="sourceTabs" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="github-trending-tab" data-bs-toggle="tab"
+                        data-bs-target="#github-trending" type="button" role="tab">
+                    GitHub Trending
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="github-stars-tab" data-bs-toggle="tab"
+                        data-bs-target="#github-stars" type="button" role="tab">
+                    GitHub Rising Stars
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="hacker-news-tab" data-bs-toggle="tab"
+                        data-bs-target="#hacker-news" type="button" role="tab">
+                    Hacker News
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="huggingface-tab" data-bs-toggle="tab"
+                        data-bs-target="#huggingface" type="button" role="tab">
+                    Hugging Face
+                </button>
+            </li>
+        </ul>
+
+        <div class="date-selector">
+            <label for="dateSelect" class="form-label">选择日期：</label>
+            <select class="form-select" id="dateSelect" style="width: auto; display: inline-block;">
+                <option value="">加载中...</option>
+            </select>
+        </div>
+
+        <div class="tab-content">
+            <div class="tab-pane fade show active" id="github-trending" role="tabpanel">
+                <div id="github-trending-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="github-stars" role="tabpanel">
+                <div id="github-stars-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="hacker-news" role="tabpanel">
+                <div id="hacker-news-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="huggingface" role="tabpanel">
+                <div id="huggingface-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>数据来源：GitHub Trending、GitHub Search API、Hacker News Firebase API、Hugging Face Hub API</p>
+            <p>每日 UTC 01:00（北京时间 09:00）自动更新</p>
+        </footer>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        const SOURCES = {
+            'github-trending': {
+                name: 'GitHub Trending',
+                columns: [
+                    { key: 'repo', label: '项目', render: (v, row) => `<a href="${row.url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'description', label: '描述', render: (v) => v || '-' },
+                    { key: 'language', label: '语言', render: (v) => v || '-' },
+                    { key: 'stars', label: 'Stars', render: (v) => v.toLocaleString() },
+                    { key: 'forks', label: 'Forks', render: (v) => v.toLocaleString() },
+                    { key: 'today_stars', label: '今日', render: (v) => `+${v}` }
+                ]
+            },
+            'github-stars': {
+                name: 'GitHub Rising Stars',
+                columns: [
+                    { key: 'repo', label: '项目', render: (v, row) => `<a href="${row.url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'description', label: '描述', render: (v) => v || '-' },
+                    { key: 'language', label: '语言', render: (v) => v || '-' },
+                    { key: 'stars', label: 'Stars', render: (v) => v.toLocaleString() },
+                    { key: 'forks', label: 'Forks', render: (v) => v.toLocaleString() },
+                    { key: 'created_at', label: '创建日期', render: (v) => v.substring(0, 10) }
+                ]
+            },
+            'hacker-news': {
+                name: 'Hacker News',
+                columns: [
+                    { key: 'rank', label: '排名', render: (v) => `<strong>${v}</strong>` },
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.url || row.hn_url}" target="_blank">${v}</a>` },
+                    { key: 'score', label: '分数', render: (v) => v.toLocaleString() },
+                    { key: 'comments', label: '评论', render: (v) => v.toLocaleString() },
+                    { key: 'author', label: '作者', render: (v) => v }
+                ]
+            },
+            'huggingface': {
+                name: 'Hugging Face',
+                columns: [
+                    { key: 'model', label: '模型', render: (v, row) => `<a href="${row.url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'pipeline_tag', label: '任务', render: (v) => v || '-' },
+                    { key: 'library', label: '框架', render: (v) => v || '-' },
+                    { key: 'downloads', label: '下载', render: (v) => v.toLocaleString() },
+                    { key: 'likes', label: '点赞', render: (v) => v.toLocaleString() },
+                    { key: 'trending_score', label: '热度', render: (v) => v.toLocaleString() }
+                ]
+            }
+        };
+
+        let manifest = null;
+        let currentSource = 'github-trending';
+
+        async function loadManifest() {
+            try {
+                const response = await fetch('data/manifest.json');
+                manifest = await response.json();
+                updateDateSelector();
+                loadData(currentSource, manifest[currentSource][0]);
+            } catch (error) {
+                showError('无法加载数据清单，请稍后重试');
+                console.error('Failed to load manifest:', error);
+            }
+        }
+
+        function updateDateSelector() {
+            const select = document.getElementById('dateSelect');
+            const dates = manifest[currentSource] || [];
+            select.innerHTML = '';
+            dates.forEach(date => {
+                const option = document.createElement('option');
+                option.value = date;
+                option.textContent = date;
+                select.appendChild(option);
+            });
+        }
+
+        async function loadData(source, date) {
+            const contentDiv = document.getElementById(`${source}-content`);
+            contentDiv.innerHTML = '<div class="loading">正在加载数据...</div>';
+
+            try {
+                const response = await fetch(`json/${source}/${date}.json`);
+                if (!response.ok) throw new Error('Data not found');
+                const data = await response.json();
+                renderTable(source, data, contentDiv);
+            } catch (error) {
+                contentDiv.innerHTML = `<div class="error">无法加载 ${date} 的数据，请尝试其他日期</div>`;
+                console.error('Failed to load data:', error);
+            }
+        }
+
+        function renderTable(source, data, container) {
+            const config = SOURCES[source];
+            if (!data || data.length === 0) {
+                container.innerHTML = '<div class="error">该日期暂无数据</div>';
+                return;
+            }
+
+            let html = '<table class="table table-striped table-hover">';
+            html += '<thead><tr>';
+            config.columns.forEach(col => {
+                html += `<th>${col.label}</th>`;
+            });
+            html += '</tr></thead><tbody>';
+
+            data.forEach(row => {
+                html += '<tr>';
+                config.columns.forEach(col => {
+                    const value = row[col.key];
+                    html += `<td>${col.render(value, row)}</td>`;
+                });
+                html += '</tr>';
+            });
+
+            html += '</tbody></table>';
+            container.innerHTML = html;
+        }
+
+        function showError(message) {
+            document.querySelectorAll('.table-container').forEach(div => {
+                div.innerHTML = `<div class="error">${message}</div>`;
+            });
+        }
+
+        document.getElementById('dateSelect').addEventListener('change', (e) => {
+            const date = e.target.value;
+            if (date) loadData(currentSource, date);
+        });
+
+        document.querySelectorAll('[data-bs-toggle="tab"]').forEach(tab => {
+            tab.addEventListener('shown.bs.tab', (e) => {
+                const source = e.target.getAttribute('data-bs-target').substring(1);
+                currentSource = source;
+                updateDateSelector();
+                const select = document.getElementById('dateSelect');
+                if (select.options.length > 0) {
+                    loadData(source, select.value);
+                }
+            });
+        });
+
+        loadManifest();
+    </script>
+</body>
+</html>

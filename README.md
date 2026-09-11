@@ -1,5 +1,7 @@
 # GitHub Trending Daily
 
+> 🌐 **Web 界面**：[https://keeper-jie.github.io/github_trending_daily/](https://keeper-jie.github.io/github_trending_daily/)
+
 每日自动抓取多源技术热门信息，生成结构化数据报告。
 
 ## 功能特点
