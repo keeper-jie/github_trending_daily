@@ -126,6 +126,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-11 | 16 | [Trending](md/github-trending/2026-09-11.md) |
 | 2026-09-10 | 13 | [Trending](md/github-trending/2026-09-10.md) |
 
 <!-- HACKER_NEWS -->
@@ -134,6 +135,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-11 | 30 | [Hacker News](md/hacker-news/2026-09-11.md) |
 | 2026-09-10 | 30 | [Hacker News](md/hacker-news/2026-09-10.md) |
 
 <!-- HUGGINGFACE -->
@@ -142,6 +144,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-11 | 30 | [HF Models](md/huggingface/2026-09-11.md) |
 | 2026-09-10 | 30 | [HF Models](md/huggingface/2026-09-10.md) |
 
 <!-- GITHUB_STARS -->
@@ -150,6 +153,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-11 | 30 | [GitHub Stars](md/github-stars/2026-09-11.md) |
 | 2026-09-10 | 30 | [GitHub Stars](md/github-stars/2026-09-10.md) |
 
 <!-- REDDIT -->
@@ -172,7 +176,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
-| 2026-09-11 | 30 | [Dev.to](md\devto\2026-09-11.md) |
+| 2026-09-11 | 30 | [Dev.to](md/devto/2026-09-11.md) |
 
 <!-- LOBSTERS -->
 
@@ -180,7 +184,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
-| 2026-09-11 | 25 | [Lobsters](md\lobsters\2026-09-11.md) |
+| 2026-09-11 | 25 | [Lobsters](md/lobsters/2026-09-11.md) |
 
 <!-- HF_PAPERS -->
 
@@ -188,5 +192,5 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
-| 2026-09-11 | 30 | [HF Papers](md\hf-papers\2026-09-11.md) |
+| 2026-09-11 | 30 | [HF Papers](md/hf-papers/2026-09-11.md) |
 

@@ -3,7 +3,7 @@
     "title": "Scaling Automatic Research Agents via World Models",
     "authors": "Xiyuan Yang, Sheikh Sarwar, Jingru Cheng, Zhan Shi, Duanshun Li...",
     "summary": "Automating empirical research is a long-standing direction of AI. Recent automatic research (AutoResearch) agents bring this goal within reach, as modern LLMs show the capability to independently impl",
-    "upvotes": 411,
+    "upvotes": 414,
     "url": "https://huggingface.co/papers/2608.12564",
     "paper_url": "https://arxiv.org/abs/2608.12564",
     "published_at": "2026-08-29",
@@ -43,7 +43,7 @@
     "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
     "authors": "Ji Soo Lee, Xilun Chen, Pierce Chuang, Ashish Shenoy, Jason Wei...",
     "summary": "Recent advances in wearable sensing enable continuous monitoring of physiological and behavioral signals, yet existing benchmarks rarely evaluate whether AI systems can reason over a real user's longi",
-    "upvotes": 28,
+    "upvotes": 29,
     "url": "https://huggingface.co/papers/2609.05405",
     "paper_url": "https://arxiv.org/abs/2609.05405",
     "published_at": "2026-09-04",
@@ -100,6 +100,16 @@
     "date": "2026-09-10"
   },
   {
+    "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+    "authors": "Junyao Yang, Yucheng Shi, Zhongzhi Li, Ruhan Wang, Zongxia Li...",
+    "summary": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B tota",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.11042",
+    "paper_url": "https://arxiv.org/abs/2609.11042",
+    "published_at": "2026-09-10",
+    "date": "2026-09-10"
+  },
+  {
     "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
     "authors": "Leilei Ding, Shumin Wang, Yuting Huang, Fanqi Wan, Yinmin Zhang...",
     "summary": "Large language models (LLMs) have demonstrated remarkable capabilities in reasoning and code generation, raising the prospect that they could assist in developing and optimizing the very infrastructur",
@@ -140,16 +150,6 @@
     "date": "2026-09-10"
   },
   {
-    "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
-    "authors": "Junyao Yang, Yucheng Shi, Zhongzhi Li, Ruhan Wang, Zongxia Li...",
-    "summary": "Agent usage is shifting toward long-horizon tasks such as coding and scientific discovery, among which terminal tasks are especially important. We introduce T1, a Mixture-of-Experts model of 122B tota",
-    "upvotes": 7,
-    "url": "https://huggingface.co/papers/2609.11042",
-    "paper_url": "https://arxiv.org/abs/2609.11042",
-    "published_at": "2026-09-10",
-    "date": "2026-09-10"
-  },
-  {
     "title": "SchemeArena: Factorized Stress Testing of Scheming in LLM Agents",
     "authors": "Jie Ruan, Inderjeet Nair, Amy Liu, Muhammad Khalifa, Yusheng Zhou...",
     "summary": "We study scheming in LLM agents, in which agents covertly pursue misaligned goals. Our focus is to understand how scheming arises from the interaction of key factors, such as instrumental goals, envir",
@@ -183,7 +183,7 @@
     "title": "OracleZoom: On-Policy Self-Distillation Inspired Reference-Constrained Recursive Image Super Resolution",
     "authors": "Shubhashis Roy Dipta, Sourajit Saha, Shaswati Saha, Nobin Sarwar",
     "summary": "Recursive Super-Resolution (SR) extends fixed-scale SR to extreme magnification by repeatedly feeding predictions back into the same model, analogous to zooming an image repeatedly. However, ground tr",
-    "upvotes": 5,
+    "upvotes": 6,
     "url": "https://huggingface.co/papers/2609.06490",
     "paper_url": "https://arxiv.org/abs/2609.06490",
     "published_at": "2026-09-06",

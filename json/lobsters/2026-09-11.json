@@ -4,7 +4,7 @@
     "url": "https://maurycyz.com/misc/domains/",
     "author": "maurycy",
     "score": 56,
-    "comments_count": 14,
+    "comments_count": 15,
     "tags": "security, web",
     "created_at": "2026-09-10",
     "lobsters_url": "https://lobste.rs/s/9szn91/rant_about_phishing_it_s_not_user_s_fault",
@@ -14,11 +14,22 @@
     "title": "Rust Is Tier-1 Language at Microsoft",
     "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
     "author": "mmastrac",
-    "score": 60,
+    "score": 61,
     "comments_count": 35,
     "tags": "rust",
     "created_at": "2026-09-10",
     "lobsters_url": "https://lobste.rs/s/eerwba/rust_is_tier_1_language_at_microsoft",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Xteink X4 Pro review",
+    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+    "author": "abnercoimbre",
+    "score": 31,
+    "comments_count": 16,
+    "tags": "hardware",
+    "created_at": "2026-09-10",
+    "lobsters_url": "https://lobste.rs/s/aiikt1/xteink_x4_pro_review",
     "date": "2026-09-11"
   },
   {
@@ -33,14 +44,14 @@
     "date": "2026-09-11"
   },
   {
-    "title": "Xteink X4 Pro review",
-    "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-    "author": "abnercoimbre",
-    "score": 30,
-    "comments_count": 15,
-    "tags": "hardware",
+    "title": "What algorithm did Windows XP use to choose your initial user picture?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+    "author": "hoistbypetard",
+    "score": 25,
+    "comments_count": 7,
+    "tags": "historical, windows",
     "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/aiikt1/xteink_x4_pro_review",
+    "lobsters_url": "https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose",
     "date": "2026-09-11"
   },
   {
@@ -48,28 +59,17 @@
     "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
     "author": "calvin",
     "score": 20,
-    "comments_count": 4,
+    "comments_count": 5,
     "tags": "programming",
     "created_at": "2026-09-10",
     "lobsters_url": "https://lobste.rs/s/bsvc7a/it_s_not_yaml_spec_s_fault",
     "date": "2026-09-11"
   },
   {
-    "title": "What algorithm did Windows XP use to choose your initial user picture?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-    "author": "hoistbypetard",
-    "score": 24,
-    "comments_count": 5,
-    "tags": "historical, windows",
-    "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/izt4a2/what_algorithm_did_windows_xp_use_choose",
-    "date": "2026-09-11"
-  },
-  {
     "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
     "url": "https://queue.acm.org/doi/10.1145/3831361",
     "author": "rrampage",
-    "score": 22,
+    "score": 23,
     "comments_count": 8,
     "tags": "hardware, osdev, security",
     "created_at": "2026-09-10",
@@ -99,6 +99,28 @@
     "date": "2026-09-11"
   },
   {
+    "title": "My HTML Boilerplate",
+    "url": "https://vale.rocks/posts/html-boilerplate",
+    "author": "FedericoSchonborn",
+    "score": 17,
+    "comments_count": 6,
+    "tags": "web",
+    "created_at": "2026-09-10",
+    "lobsters_url": "https://lobste.rs/s/6tcc4t/my_html_boilerplate",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Fastly Speedtest Test",
+    "url": "https://speed.edgecompute.app/",
+    "author": "ysun",
+    "score": 6,
+    "comments_count": 1,
+    "tags": "networking, wasm",
+    "created_at": "2026-09-10",
+    "lobsters_url": "https://lobste.rs/s/twkkac/fastly_speedtest_test",
+    "date": "2026-09-11"
+  },
+  {
     "title": "Review a pull request by booting it",
     "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
     "author": "domenkozar",
@@ -107,17 +129,6 @@
     "tags": "nix, vibecoding",
     "created_at": "2026-09-09",
     "lobsters_url": "https://lobste.rs/s/7lii0g/review_pull_request_by_booting_it",
-    "date": "2026-09-11"
-  },
-  {
-    "title": "My HTML Boilerplate",
-    "url": "https://vale.rocks/posts/html-boilerplate",
-    "author": "FedericoSchonborn",
-    "score": 16,
-    "comments_count": 6,
-    "tags": "web",
-    "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/6tcc4t/my_html_boilerplate",
     "date": "2026-09-11"
   },
   {
@@ -165,17 +176,6 @@
     "date": "2026-09-11"
   },
   {
-    "title": "Fastly Speedtest Test",
-    "url": "https://speed.edgecompute.app/",
-    "author": "ysun",
-    "score": 4,
-    "comments_count": 0,
-    "tags": "networking, wasm",
-    "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/twkkac/fastly_speedtest_test",
-    "date": "2026-09-11"
-  },
-  {
     "title": "Announcing the first Guix-Science release",
     "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
     "author": "FedericoSchonborn",
@@ -198,6 +198,17 @@
     "date": "2026-09-11"
   },
   {
+    "title": "Conversations with JJ",
+    "url": "https://laurmaedje.github.io/posts/jj/",
+    "author": "isuffix",
+    "score": 11,
+    "comments_count": 1,
+    "tags": "vcs",
+    "created_at": "2026-09-10",
+    "lobsters_url": "https://lobste.rs/s/nbmbxj/conversations_with_jj",
+    "date": "2026-09-11"
+  },
+  {
     "title": "JEP 544: Ahead-of-Time Code Compilation",
     "url": "https://openjdk.org/jeps/544",
     "author": "robinheghan",
@@ -206,17 +217,6 @@
     "tags": "java",
     "created_at": "2026-09-10",
     "lobsters_url": "https://lobste.rs/s/whzj8z/jep_544_ahead_time_code_compilation",
-    "date": "2026-09-11"
-  },
-  {
-    "title": "Conversations with JJ",
-    "url": "https://laurmaedje.github.io/posts/jj/",
-    "author": "isuffix",
-    "score": 10,
-    "comments_count": 1,
-    "tags": "vcs",
-    "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/nbmbxj/conversations_with_jj",
     "date": "2026-09-11"
   },
   {
@@ -253,6 +253,17 @@
     "date": "2026-09-11"
   },
   {
+    "title": "phlex-hanami v0.2.0",
+    "url": "https://github.com/aaronmallen/phlex-hanami/releases/tag/0.2.0",
+    "author": "aaronmallen",
+    "score": 2,
+    "comments_count": 0,
+    "tags": "release, ruby",
+    "created_at": "2026-09-10",
+    "lobsters_url": "https://lobste.rs/s/kpwrwb/phlex_hanami_v0_2_0",
+    "date": "2026-09-11"
+  },
+  {
     "title": "Optimizing a Spin-Lock",
     "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
     "author": "dalvrosa",
@@ -261,17 +272,6 @@
     "tags": "c++",
     "created_at": "2026-09-10",
     "lobsters_url": "https://lobste.rs/s/khpkda/optimizing_spin_lock",
-    "date": "2026-09-11"
-  },
-  {
-    "title": "Antiquated CSS and why we needed it",
-    "url": "https://blog.omgmog.net/post/antiquated-css/",
-    "author": "FedericoSchonborn",
-    "score": 7,
-    "comments_count": 0,
-    "tags": "css",
-    "created_at": "2026-09-10",
-    "lobsters_url": "https://lobste.rs/s/i22m5l/antiquated_css_why_we_needed_it",
     "date": "2026-09-11"
   }
 ]
