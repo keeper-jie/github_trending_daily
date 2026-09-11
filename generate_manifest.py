@@ -6,7 +6,8 @@ import logging
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S', level=logging.INFO)
 
-SOURCES = ['github-trending', 'github-stars', 'hacker-news', 'huggingface']
+SOURCES = ['github-trending', 'github-stars', 'hacker-news', 'huggingface',
+           'reddit', 'arxiv', 'devto', 'lobsters', 'hf-papers']
 
 
 def generate_manifest(json_dir='./json', output_path='data/manifest.json'):

@@ -48,6 +48,26 @@ jobs:
         run: |
           python daily_huggingface.py
 
+      - name: Run daily reddit
+        run: |
+          python daily_reddit.py
+
+      - name: Run daily arxiv
+        run: |
+          python daily_arxiv.py
+
+      - name: Run daily devto
+        run: |
+          python daily_devto.py
+
+      - name: Run daily lobsters
+        run: |
+          python daily_lobsters.py
+
+      - name: Run daily hf papers
+        run: |
+          python daily_hf_papers.py
+
       - name: Generate manifest
         run: |
           python generate_manifest.py

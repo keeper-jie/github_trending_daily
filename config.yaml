@@ -26,3 +26,26 @@ hacker_news:
 # Hugging Face 热门模型（Hub API，按 trendingScore 排序）
 huggingface:
   limit: 30
+
+# Reddit 热门帖子（公开 JSON API，多子版块聚合）
+reddit:
+  subreddits: ["programming", "MachineLearning", "datascience", "LocalLLaMA"]
+  limit_per_sub: 10
+  limit: 30
+
+# arXiv 最新论文（公开 API，按分类查询）
+arxiv:
+  categories: ["cs.AI", "cs.CL", "cs.LG", "cs.CV"]
+  limit: 30
+
+# Dev.to 每日热门文章（公开 REST API）
+devto:
+  limit: 30
+
+# Lobste.rs 最热故事（公开 JSON API）
+lobsters:
+  limit: 30
+
+# Hugging Face 每日论文精选（公开 API）
+hf_papers:
+  limit: 30

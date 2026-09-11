@@ -110,6 +110,8 @@ def update_readme_links(md_dir, readme_path, marker, label):
 
 def _find_next_section(text):
     markers = ['<!-- DAILY_TRENDING -->', '<!-- HACKER_NEWS -->',
-               '<!-- HUGGINGFACE -->', '<!-- GITHUB_STARS -->']
+               '<!-- HUGGINGFACE -->', '<!-- GITHUB_STARS -->',
+               '<!-- REDDIT -->', '<!-- ARXIV -->', '<!-- DEVTO -->',
+               '<!-- LOBSTERS -->', '<!-- HF_PAPERS -->']
     positions = [text.index(m) for m in markers if m in text]
     return min(positions) if positions else -1

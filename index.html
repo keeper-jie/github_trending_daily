@@ -27,7 +27,7 @@
             </p>
         </div>
 
-        <ul class="nav nav-tabs" id="sourceTabs" role="tablist">
+        <ul class="nav nav-tabs flex-wrap" id="sourceTabs" role="tablist">
             <li class="nav-item" role="presentation">
                 <button class="nav-link active" id="github-trending-tab" data-bs-toggle="tab"
                         data-bs-target="#github-trending" type="button" role="tab">
@@ -50,6 +50,36 @@
                 <button class="nav-link" id="huggingface-tab" data-bs-toggle="tab"
                         data-bs-target="#huggingface" type="button" role="tab">
                     Hugging Face
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="reddit-tab" data-bs-toggle="tab"
+                        data-bs-target="#reddit" type="button" role="tab">
+                    Reddit
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="arxiv-tab" data-bs-toggle="tab"
+                        data-bs-target="#arxiv" type="button" role="tab">
+                    arXiv
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="devto-tab" data-bs-toggle="tab"
+                        data-bs-target="#devto" type="button" role="tab">
+                    Dev.to
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="lobsters-tab" data-bs-toggle="tab"
+                        data-bs-target="#lobsters" type="button" role="tab">
+                    Lobsters
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="hf-papers-tab" data-bs-toggle="tab"
+                        data-bs-target="#hf-papers" type="button" role="tab">
+                    HF Papers
                 </button>
             </li>
         </ul>
@@ -82,10 +112,35 @@
                     <div class="loading">正在加载数据...</div>
                 </div>
             </div>
+            <div class="tab-pane fade" id="reddit" role="tabpanel">
+                <div id="reddit-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="arxiv" role="tabpanel">
+                <div id="arxiv-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="devto" role="tabpanel">
+                <div id="devto-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="lobsters" role="tabpanel">
+                <div id="lobsters-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
+            <div class="tab-pane fade" id="hf-papers" role="tabpanel">
+                <div id="hf-papers-content" class="table-container">
+                    <div class="loading">正在加载数据...</div>
+                </div>
+            </div>
         </div>
 
         <footer>
-            <p>数据来源：GitHub Trending、GitHub Search API、Hacker News Firebase API、Hugging Face Hub API</p>
+            <p>数据来源：GitHub Trending、GitHub Search API、Hacker News、Hugging Face、Reddit、arXiv、Dev.to、Lobste.rs、HF Daily Papers</p>
             <p>每日 UTC 01:00（北京时间 09:00）自动更新</p>
         </footer>
     </div>
@@ -134,6 +189,55 @@
                     { key: 'downloads', label: '下载', render: (v) => v.toLocaleString() },
                     { key: 'likes', label: '点赞', render: (v) => v.toLocaleString() },
                     { key: 'trending_score', label: '热度', render: (v) => v.toLocaleString() }
+                ]
+            },
+            'reddit': {
+                name: 'Reddit',
+                columns: [
+                    { key: 'rank', label: '排名', render: (v) => `<strong>${v}</strong>` },
+                    { key: 'subreddit', label: '版块', render: (v) => `r/${v}` },
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.reddit_url}" target="_blank">${v}</a>` },
+                    { key: 'score', label: '分数', render: (v) => v.toLocaleString() },
+                    { key: 'num_comments', label: '评论', render: (v) => v.toLocaleString() },
+                    { key: 'author', label: '作者', render: (v) => v }
+                ]
+            },
+            'arxiv': {
+                name: 'arXiv',
+                columns: [
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.abs_url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'authors', label: '作者', render: (v) => v || '-' },
+                    { key: 'categories', label: '分类', render: (v) => v || '-' },
+                    { key: 'published', label: '发布日期', render: (v) => v || '-' }
+                ]
+            },
+            'devto': {
+                name: 'Dev.to',
+                columns: [
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'author', label: '作者', render: (v) => v || '-' },
+                    { key: 'tags', label: '标签', render: (v) => v || '-' },
+                    { key: 'positive_reactions_count', label: '点赞', render: (v) => v.toLocaleString() },
+                    { key: 'comments_count', label: '评论', render: (v) => v.toLocaleString() }
+                ]
+            },
+            'lobsters': {
+                name: 'Lobsters',
+                columns: [
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.url || row.lobsters_url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'author', label: '作者', render: (v) => v || '-' },
+                    { key: 'score', label: '分数', render: (v) => v.toLocaleString() },
+                    { key: 'comments_count', label: '评论', render: (v) => v.toLocaleString() },
+                    { key: 'tags', label: '标签', render: (v) => v || '-' }
+                ]
+            },
+            'hf-papers': {
+                name: 'HF Papers',
+                columns: [
+                    { key: 'title', label: '标题', render: (v, row) => `<a href="${row.url}" target="_blank"><strong>${v}</strong></a>` },
+                    { key: 'authors', label: '作者', render: (v) => v || '-' },
+                    { key: 'upvotes', label: '点赞', render: (v) => v.toLocaleString() },
+                    { key: 'published_at', label: '发布日期', render: (v) => v || '-' }
                 ]
             }
         };

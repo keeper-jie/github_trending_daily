@@ -10,6 +10,11 @@
 - **GitHub Rising Stars**：近两周新创建且 star 数最高的仓库（Search API）
 - **Hacker News**：每日 Top Stories（官方 Firebase API）
 - **Hugging Face**：每日热门模型（Hub API，按 trendingScore 排序）
+- **Reddit**：多版块热门帖子（公开 JSON API：programming / MachineLearning / datascience / LocalLLaMA）
+- **arXiv**：最新 AI/ML 论文（公开 API：cs.AI / cs.CL / cs.LG / cs.CV）
+- **Dev.to**：每日热门文章（公开 REST API）
+- **Lobste.rs**：高质量技术社区热帖（公开 JSON API）
+- **Hugging Face Papers**：每日 AI 论文精选（公开 API）
 - 生成 JSON 和 Markdown 格式的报告，通过 GitHub Actions 自动定时运行
 
 ## 项目结构
@@ -22,6 +27,12 @@ github_trending_daily/
 ├── daily_github_stars.py     # GitHub 新晋热门仓库
 ├── daily_hackernews.py       # Hacker News Top Stories
 ├── daily_huggingface.py      # Hugging Face 热门模型
+├── daily_reddit.py           # Reddit 热门帖子
+├── daily_arxiv.py            # arXiv 最新论文
+├── daily_devto.py            # Dev.to 热门文章
+├── daily_lobsters.py         # Lobste.rs 热帖
+├── daily_hf_papers.py        # Hugging Face 每日论文精选
+├── generate_manifest.py      # 生成数据清单
 ├── config.yaml               # 配置文件（按数据源分段）
 ├── requirements.txt          # Python 依赖
 ├── json/<source>/YYYY-MM-DD.json   # 每日 JSON 数据（按源分目录）
@@ -38,6 +49,16 @@ github_trending_daily/
 
 **Hugging Face**：model、pipeline_tag、library、downloads、likes、trending_score、created_at、url、date
 
+**Reddit**：rank、subreddit、title、score、num_comments、author、url、reddit_url、date
+
+**arXiv**：title、authors、summary、categories、published、pdf_url、abs_url、date
+
+**Dev.to**：title、description、author、tags、positive_reactions_count、comments_count、url、published_at、date
+
+**Lobste.rs**：title、url、author、score、comments_count、tags、created_at、lobsters_url、date
+
+**HF Papers**：title、authors、summary、upvotes、url、paper_url、published_at、date
+
 ## 本地运行
 
 ```bash
@@ -49,6 +70,12 @@ python daily_trending.py
 python daily_github_stars.py
 python daily_hackernews.py
 python daily_huggingface.py
+python daily_reddit.py
+python daily_arxiv.py
+python daily_devto.py
+python daily_lobsters.py
+python daily_hf_papers.py
+python generate_manifest.py
 
 # 指定配置文件
 python daily_trending.py --config_path config.yaml
@@ -72,6 +99,24 @@ hacker_news:
   limit: 30
 
 huggingface:
+  limit: 30
+
+reddit:
+  subreddits: ["programming", "MachineLearning", "datascience", "LocalLLaMA"]
+  limit_per_sub: 10
+  limit: 30
+
+arxiv:
+  categories: ["cs.AI", "cs.CL", "cs.LG", "cs.CV"]
+  limit: 30
+
+devto:
+  limit: 30
+
+lobsters:
+  limit: 30
+
+hf_papers:
   limit: 30
 ```
 
@@ -106,4 +151,42 @@ huggingface:
 | Date | Count | Link |
 |------|-------|------|
 | 2026-09-10 | 30 | [GitHub Stars](md/github-stars/2026-09-10.md) |
+
+<!-- REDDIT -->
+
+## Reddit Daily
+
+| Date | Count | Link |
+|------|-------|------|
+
+<!-- ARXIV -->
+
+## arXiv Daily
+
+| Date | Count | Link |
+|------|-------|------|
+
+<!-- DEVTO -->
+
+## Dev.to Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-11 | 30 | [Dev.to](md\devto\2026-09-11.md) |
+
+<!-- LOBSTERS -->
+
+## Lobsters Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-11 | 25 | [Lobsters](md\lobsters\2026-09-11.md) |
+
+<!-- HF_PAPERS -->
+
+## HF Papers Daily
+
+| Date | Count | Link |
+|------|-------|------|
+| 2026-09-11 | 30 | [HF Papers](md\hf-papers\2026-09-11.md) |
 
