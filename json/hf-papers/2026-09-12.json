@@ -1,0 +1,262 @@
+[
+  {
+    "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
+    "authors": "NCP Team, Jiaqi Cao, Chiyu Chen, Shuang Cheng, Xu Cheng...",
+    "summary": "We introduce NCP-ArchPreview, a latent-space language model that pushes autoregressive pretraining beyond standard next-token prediction (NTP). Alongside NTP, the model learns through Next Concept Pre",
+    "upvotes": 180,
+    "url": "https://huggingface.co/papers/2609.10715",
+    "paper_url": "https://arxiv.org/abs/2609.10715",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+    "authors": "Haiwen Diao, Jiahao Wang, Chenjing Ding, Hanming Deng, Jiangnan Chen...",
+    "summary": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its vi",
+    "upvotes": 143,
+    "url": "https://huggingface.co/papers/2609.11929",
+    "paper_url": "https://arxiv.org/abs/2609.11929",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem",
+    "authors": "Soohyun Ryu, Sohee Kim, Eunho Yang",
+    "summary": "Large Vision-Language Models (LVLMs) have achieved strong performance on diverse visual tasks, yet their ability to reconstruct and reason about the 3D structure of the scene depicted in 2D images -- ",
+    "upvotes": 71,
+    "url": "https://huggingface.co/papers/2609.07064",
+    "paper_url": "https://arxiv.org/abs/2609.07064",
+    "published_at": "2026-09-07",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents",
+    "authors": "Nanxi Li, Yingzi Ma, Yulong Cao, Edward Suh, Bo Li...",
+    "summary": "Large Language Model (LLM) agents are turning language into real-world effects, making safety necessary against both indirect prompt injections and direct harmful requests. System-level safety harness",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2609.05903",
+    "paper_url": "https://arxiv.org/abs/2609.05903",
+    "published_at": "2026-09-05",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+    "authors": "Jiayin Chen, Yicheng Xu, Muting Wang",
+    "summary": "Iterative reference-conditioned image editing can introduce grid-like and granular textures, commonly described as digital ripple. We present Mi-Ripple, a diagnosis-guided restoration workflow that su",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2609.11317",
+    "paper_url": "https://arxiv.org/abs/2609.11317",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+    "authors": "Haojun Zhang, Yi Zou, Min Chen, Qize Yu, Lianrui Fan...",
+    "summary": "Reducing audio-encoder depth lowers the inference cost of speech large language models, but removing complete blocks perturbs the embeddings consumed by the decoder and can cause deletion and prematur",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.11412",
+    "paper_url": "https://arxiv.org/abs/2609.11412",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+    "authors": "Sizhe Zhao, Haozhe Xie, Weiyu Zhao, Chenchu Zhang, Huan Wang...",
+    "summary": "Mainstream robotic policies often adopt a Markovian formulation, but many complex real-world manipulation tasks are inherently non-Markovian, requiring long-horizon memory beyond the current observati",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.11561",
+    "paper_url": "https://arxiv.org/abs/2609.11561",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs",
+    "authors": "Zhiqi Li, Yuxuan Liao, Bo Zhu",
+    "summary": "Code world models represent worlds as executable programs, but this representation alone does not determine how to construct a complex world. We introduce Recursive Code World Models (RCWM), a framewo",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.11499",
+    "paper_url": "https://arxiv.org/abs/2609.11499",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "World in World: Explore the World with World Models",
+    "authors": "Chenxi Song, Yanming Yang, Chi Zhang",
+    "summary": "Autoregressive video world models enable interactive, long-horizon exploration, but flexible control remains challenging. Exploring a source video from new viewpoints requires the generated rollout to",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.11548",
+    "paper_url": "https://arxiv.org/abs/2609.11548",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics",
+    "authors": "Ivan Moshkov, Stephen Ge, George Armstrong, Wei Du, Sadegh Mahdavi...",
+    "summary": "We study how model post-training and test-time inference design affect natural-language proof generation for hard olympiad mathematics. Starting from Nemotron 3 Ultra, we train two specialist checkpoi",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.10712",
+    "paper_url": "https://arxiv.org/abs/2609.10712",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "TempCloze: Can Video-LLMs Identify the Missing Middle?",
+    "authors": "Wenqi Pei, Henry Hengyuan Zhao, Yilai Liu, Jiahao Meng, Han Chen...",
+    "summary": "Temporal reasoning benchmarks for Video-LLMs are often mediated by language, leaving room for linguistic shortcuts from option wording, answer correlations, or language priors. To reduce such shortcut",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.01515",
+    "paper_url": "https://arxiv.org/abs/2609.01515",
+    "published_at": "2026-09-01",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation",
+    "authors": "Vladislav Bargatin, Alexander Yakovenko, Khaled Abud, Dmitriy Vatolin",
+    "summary": "Optical flow methods typically rely on task-specific inductive biases, such as correlation volumes, feature warping, and iterative refinement, among others, to reach high accuracy. While effective, su",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.11486",
+    "paper_url": "https://arxiv.org/abs/2609.11486",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Negative Self-Distillation: Learning to Reason by Avoiding Flaws",
+    "authors": "Rongcan Pei, Zhepei Wei, Shuyao Xu, Xinyu Zhu, Wei-Lin Chen...",
+    "summary": "On-Policy Self-Distillation (OPSD) has emerged as a popular paradigm for large language model (LLM) self-improvement, allowing models to act as their own teachers by leveraging privileged information ",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.11699",
+    "paper_url": "https://arxiv.org/abs/2609.11699",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes",
+    "authors": "Remco Hendriks",
+    "summary": "We introduce MetroLLM-Bench, a 955-case benchmark for testing language models as the policy layer of a transit kiosk. It covers six real metro systems, ranging from 37 to 414 stations, and eleven cate",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.10016",
+    "paper_url": "https://arxiv.org/abs/2609.10016",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+    "authors": "Siting Li, Zhengyang Wang, Simon Shaolei Du, Xi Chen, Yang Liu",
+    "summary": "Image tokenizers define the ``visual language'' of unified multimodal models, yet are commonly studied through isolated metrics or generation-/understanding-only evaluations. These evaluations do not ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.09143",
+    "paper_url": "https://arxiv.org/abs/2609.09143",
+    "published_at": "2026-09-08",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation",
+    "authors": "Jia-Jen Lee, Shih-Yen Hou, Kee Koon Ng, Wei-Chun Wang, Shih-Sheng Chang",
+    "summary": "Invasive coronary angiography (CAG) is the gold standard for diagnosing coronary artery disease, but interpretation varies substantially among observers. Existing AI systems can improve consistency bu",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.06931",
+    "paper_url": "https://arxiv.org/abs/2609.06931",
+    "published_at": "2026-09-07",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "HyQuant: Hybrid-Precision Quantization for LLM Attention",
+    "authors": "Jiatong Ding, Bingxin Xing, Yu Zhang, Dian Ding, Xiaodong Yi...",
+    "summary": "Quantization has been widely adopted in LLM training and inference to reduce cost and improve efficiency. However, low-bit quantization of the attention module often introduces large errors at very lo",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2608.27875",
+    "paper_url": "https://arxiv.org/abs/2608.27875",
+    "published_at": "2026-08-28",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat",
+    "authors": "Junlin Liu, Chengwei Li, Yang Gao, Hui Chang, Xinchen Zhang...",
+    "summary": "Multi-Agent Reinforcement Learning (MARL) has emerged as a pivotal paradigm for complex decision-making in autonomous systems and air combat. While MARL has demonstrated significant potential in air c",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.11155",
+    "paper_url": "https://arxiv.org/abs/2609.11155",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration",
+    "authors": "Zhiwen Yang, Jiayin Li, Chengyu Liu, Hui Zhang, Bingzheng Wei...",
+    "summary": "All-in-One medical image restoration (MedIR) aims to address diverse tasks across modalities and degradation types using a single universal model. Existing methods typically prioritize modeling inter-",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.11156",
+    "paper_url": "https://arxiv.org/abs/2609.11156",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Generative Late-Interaction Embeddings For Visual Document Retrieval",
+    "authors": "Mohamed Eltahir, Talal Aloushan, Rose Khairoalsendi, Jana Shata, Mohammed Alhassan...",
+    "summary": "Late-interaction retrieval is the state-of-the-art for visual document search, but it pays for its accuracy in storage. Existing compression methods retain a subset or local average of the N~1,000 vec",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.11808",
+    "paper_url": "https://arxiv.org/abs/2609.11808",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Beyond Solver Verdicts: Generative Reward Models for Autoformalization",
+    "authors": "Vikash Singh, Debargha Ganguly, Aman Goel, Ali Torkamani, Xiaoxue Han...",
+    "summary": "Neurosymbolic systems rely on mathematical solvers to guarantee reasoning correctness, yet solvers are fundamentally blind to whether a formal translation maintains strict reference-equivalence to a d",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.11085",
+    "paper_url": "https://arxiv.org/abs/2609.11085",
+    "published_at": "2026-09-10",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking",
+    "authors": "Parinthapat Pengpun, Simran Khanuja, Graham Neubig",
+    "summary": "Multimodal entity linking grounds entity mentions in text and images to knowledge-base entries. These systems degrade on rare entities, but prior work measures rarity primarily through popularity-base",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.10745",
+    "paper_url": "https://arxiv.org/abs/2609.10745",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+    "authors": "Mehrnaz Mofakhami, Ananya Sahu, Alejandro R. Salamanca, Daniel D&#39;souza, Alexandre Berard...",
+    "summary": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of t",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.10445",
+    "paper_url": "https://arxiv.org/abs/2609.10445",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2",
+    "authors": "Kaushalraj Puwar, B. Thangaraju",
+    "summary": "In systems built on Robot Operating System 2 (ROS 2) and using Data Distribution Service (DDS), a single network-impaired or throttled subscriber on a RELIABLE topic can cause backpressure that degrad",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2608.15380",
+    "paper_url": "https://arxiv.org/abs/2608.15380",
+    "published_at": "2026-09-06",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications",
+    "authors": "Yiling Ma, Yilun Zhao, Sihong Wu, Manasi Patwardhan, Arman Cohan",
+    "summary": "A research idea may be novel, coherent, and scientifically plausible, yet its proposed method may remain insufficiently specified for faithful implementation. We study the codification readiness of im",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.10539",
+    "paper_url": "https://arxiv.org/abs/2609.10539",
+    "published_at": "2026-09-09",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation",
+    "authors": "Yiling Ma, Yilun Zhao, Sihong Wu, Ziyu Chen, Manasi Patwardhan...",
+    "summary": "As LLMs are increasingly used for pre-submission self-review, there is growing demand for feedback that not only identifies weaknesses but also guides authors toward concrete revisions. We study this ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.09076",
+    "paper_url": "https://arxiv.org/abs/2609.09076",
+    "published_at": "2026-09-08",
+    "date": "2026-09-11"
+  }
+]
