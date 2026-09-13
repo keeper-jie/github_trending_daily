@@ -126,6 +126,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 16 | [Trending](md/github-trending/2026-09-13.md) |
 | 2026-09-12 | 16 | [Trending](md/github-trending/2026-09-12.md) |
 | 2026-09-11 | 16 | [Trending](md/github-trending/2026-09-11.md) |
 | 2026-09-10 | 13 | [Trending](md/github-trending/2026-09-10.md) |
@@ -136,6 +137,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 30 | [Hacker News](md/hacker-news/2026-09-13.md) |
 | 2026-09-12 | 29 | [Hacker News](md/hacker-news/2026-09-12.md) |
 | 2026-09-11 | 30 | [Hacker News](md/hacker-news/2026-09-11.md) |
 | 2026-09-10 | 30 | [Hacker News](md/hacker-news/2026-09-10.md) |
@@ -146,6 +148,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 30 | [HF Models](md/huggingface/2026-09-13.md) |
 | 2026-09-12 | 30 | [HF Models](md/huggingface/2026-09-12.md) |
 | 2026-09-11 | 30 | [HF Models](md/huggingface/2026-09-11.md) |
 | 2026-09-10 | 30 | [HF Models](md/huggingface/2026-09-10.md) |
@@ -156,6 +159,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 30 | [GitHub Stars](md/github-stars/2026-09-13.md) |
 | 2026-09-12 | 30 | [GitHub Stars](md/github-stars/2026-09-12.md) |
 | 2026-09-11 | 30 | [GitHub Stars](md/github-stars/2026-09-11.md) |
 | 2026-09-10 | 30 | [GitHub Stars](md/github-stars/2026-09-10.md) |
@@ -166,6 +170,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 10 | [Reddit](md/reddit/2026-09-13.md) |
 | 2026-09-12 | 10 | [Reddit](md/reddit/2026-09-12.md) |
 | 2026-09-11 | 20 | [Reddit](md/reddit/2026-09-11.md) |
 
@@ -184,6 +189,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 30 | [Dev.to](md/devto/2026-09-13.md) |
 | 2026-09-12 | 30 | [Dev.to](md/devto/2026-09-12.md) |
 | 2026-09-11 | 30 | [Dev.to](md/devto/2026-09-11.md) |
 
@@ -193,6 +199,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-09-13 | 25 | [Lobsters](md/lobsters/2026-09-13.md) |
 | 2026-09-12 | 25 | [Lobsters](md/lobsters/2026-09-12.md) |
 | 2026-09-11 | 25 | [Lobsters](md/lobsters/2026-09-11.md) |
 
