@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+    "score": 0,
+    "num_comments": 0,
+    "author": "ChemicalRascal",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "rank": 1,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Homebrew: 7.0.0 - faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "cheerfulboy",
+    "url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
+    "rank": 2,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "40ms Go GC stop-the-world pauses caused by swap",
+    "score": 0,
+    "num_comments": 0,
+    "author": "andreiross",
+    "url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
+    "rank": 3,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "CUDA Tile (cuTile) first working port in Java",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mikebmx1",
+    "url": "https://www.reddit.com/r/programming/comments/1wffueb/cuda_tile_cutile_first_working_port_in_java/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wffueb/cuda_tile_cutile_first_working_port_in_java/",
+    "rank": 4,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "JSON parsing in OxCaml: fast, but not too fast",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wfe1vm/json_parsing_in_oxcaml_fast_but_not_too_fast/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wfe1vm/json_parsing_in_oxcaml_fast_but_not_too_fast/",
+    "rank": 5,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Data races and the limits of ThreadSanitizer in C and Go",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wexekt/data_races_and_the_limits_of_threadsanitizer_in_c/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wexekt/data_races_and_the_limits_of_threadsanitizer_in_c/",
+    "rank": 6,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "TIL: One lock to rule them all",
+    "score": 0,
+    "num_comments": 0,
+    "author": "realflakm",
+    "url": "https://www.reddit.com/r/programming/comments/1wf4277/til_one_lock_to_rule_them_all/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wf4277/til_one_lock_to_rule_them_all/",
+    "rank": 7,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Your Compiler Can Undo Your Security Checks",
+    "score": 0,
+    "num_comments": 0,
+    "author": "esiy0676",
+    "url": "https://www.reddit.com/r/programming/comments/1wdwqje/your_compiler_can_undo_your_security_checks/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wdwqje/your_compiler_can_undo_your_security_checks/",
+    "rank": 8,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Refit - The Better Way to Consume APIs in .NET",
+    "score": 0,
+    "num_comments": 0,
+    "author": "RemigiuszZalewski",
+    "url": "https://www.reddit.com/r/programming/comments/1wf2tce/refit_the_better_way_to_consume_apis_in_net/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wf2tce/refit_the_better_way_to_consume_apis_in_net/",
+    "rank": 9,
+    "date": "2026-09-14"
+  },
+  {
+    "subreddit": "programming",
+    "title": "GCC 13.5 released with 265+ bug fixes",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Fcking_Chuck",
+    "url": "https://www.reddit.com/r/programming/comments/1wdiygn/gcc_135_released_with_265_bug_fixes/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wdiygn/gcc_135_released_with_265_bug_fixes/",
+    "rank": 10,
+    "date": "2026-09-14"
+  }
+]

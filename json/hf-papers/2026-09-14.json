@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+    "authors": "Koutian Wu, Junjie Zhou, Ergan Shang, Jiayu Wang, Pengqian Han...",
+    "summary": "Benchmark researchers and developers of large language models (LLMs) and other AI systems need to find relevant evaluations, locate their benchmark datasets and code, and understand the settings behin",
+    "upvotes": 34,
+    "url": "https://huggingface.co/papers/2609.11115",
+    "paper_url": "https://arxiv.org/abs/2609.11115",
+    "published_at": "2026-09-10",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
+    "authors": "Jianman Lin, Shailesh Shailesh, Zhongyi Luo, Jiafei Duan",
+    "summary": "Robot foundation models achieve strong in-distribution performance but often degrade under visual distribution shifts. When learning to generate actions from pretrained visual representations, models ",
+    "upvotes": 33,
+    "url": "https://huggingface.co/papers/2609.12641",
+    "paper_url": "https://arxiv.org/abs/2609.12641",
+    "published_at": "2026-09-11",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "PLC-DPO: Posterior Label Correction in Noisy and Ambiguous Preference Optimization",
+    "authors": "Boryeong Cho, Sumyeong Ahn, Se-Young Yun",
+    "summary": "Direct Preference Optimization (DPO) simplifies alignment through pairwise comparisons but assumes all observed preferences are reliable. Real data often violates this assumption, leading to reversed,",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2608.30597",
+    "paper_url": "https://arxiv.org/abs/2608.30597",
+    "published_at": "2026-08-31",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization",
+    "authors": "Pingchen Lu, Xiangyi Wang, Xiang Li, Jie Mao, Zikun Qu...",
+    "summary": "Large language model (LLM) agents can benefit from reusable skills distilled from prior task experience, yet existing skill optimization methods often rely on costly execution-based evaluation and sub",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2609.11682",
+    "paper_url": "https://arxiv.org/abs/2609.11682",
+    "published_at": "2026-09-10",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+    "authors": "Zhiwei Li, Lei Zhu, Hao Gu, Xiang Hu, Yan Wang...",
+    "summary": "Post-training attention sparsification reduces the quadratic cumulative attention cost of pretrained Transformers by selecting a small set of context units (tokens or blocks) for each query. Existing ",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.13141",
+    "paper_url": "https://arxiv.org/abs/2609.13141",
+    "published_at": "2026-09-11",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "SNAP3D: Physically Grounded 3D Parts for Assembly from a Single Image",
+    "authors": "Yu-Rou Tuan, Hao-Tang Tsui, Nicolas Ugrinovic, Kris Kitani, Xiaoxuan Ma",
+    "summary": "Part-aware 3D asset generation enables applications such as editing, articulation, simulation, and fabrication, yet existing methods can generate visually complete individual parts without ensuring th",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.13146",
+    "paper_url": "https://arxiv.org/abs/2609.13146",
+    "published_at": "2026-09-11",
+    "date": "2026-09-14"
+  }
+]
