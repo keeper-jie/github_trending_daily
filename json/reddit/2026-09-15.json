@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Announcement: We've Updated The Rules, and April Is Finally Over",
+    "score": 0,
+    "num_comments": 0,
+    "author": "ChemicalRascal",
+    "url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1tlh5aj/announcement_weve_updated_the_rules_and_april_is/",
+    "rank": 1,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How GCC Eliminates Unnecessary Integer Division",
+    "score": 0,
+    "num_comments": 0,
+    "author": "DataBaeBee",
+    "url": "https://www.reddit.com/r/programming/comments/1wgaaqq/how_gcc_eliminates_unnecessary_integer_division/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wgaaqq/how_gcc_eliminates_unnecessary_integer_division/",
+    "rank": 2,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Small Programming Tricks",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wghjns/small_programming_tricks/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wghjns/small_programming_tricks/",
+    "rank": 3,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Homebrew: 7.0.0 - faster installations and upgrades, stronger sandboxing, a native macOS app, built-in vulnerability checks and an advisory database, the end of macOS 10.15 support and Intel Macs moving to Tier 3.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "cheerfulboy",
+    "url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wftm95/homebrew_700_faster_installations_and_upgrades/",
+    "rank": 4,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Annoyances when dealing with unsigned long int vs unsigned long long int when targeting Linux vs my own 32bit OS",
+    "score": 0,
+    "num_comments": 0,
+    "author": "eccsoheccsseven",
+    "url": "https://www.reddit.com/r/programming/comments/1wgf1hs/annoyances_when_dealing_with_unsigned_long_int_vs/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wgf1hs/annoyances_when_dealing_with_unsigned_long_int_vs/",
+    "rank": 5,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "When the fractional part of a float fixes your shader",
+    "score": 0,
+    "num_comments": 0,
+    "author": "CrociDB",
+    "url": "https://www.reddit.com/r/programming/comments/1wg1wo7/when_the_fractional_part_of_a_float_fixes_your/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wg1wo7/when_the_fractional_part_of_a_float_fixes_your/",
+    "rank": 6,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "One Android app. Why so many processes?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Super-Performance-86",
+    "url": "https://www.reddit.com/r/programming/comments/1wgghw6/one_android_app_why_so_many_processes/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wgghw6/one_android_app_why_so_many_processes/",
+    "rank": 7,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Pre-2000 computer graphics: a specification and challenge for classic-style game development (II)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "peteroupc",
+    "url": "https://www.reddit.com/r/programming/comments/1wgf1f6/pre2000_computer_graphics_a_specification_and/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wgf1f6/pre2000_computer_graphics_a_specification_and/",
+    "rank": 8,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "40ms Go GC stop-the-world pauses caused by swap",
+    "score": 0,
+    "num_comments": 0,
+    "author": "andreiross",
+    "url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wf2fei/40ms_go_gc_stoptheworld_pauses_caused_by_swap/",
+    "rank": 9,
+    "date": "2026-09-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "JSON parsing in OxCaml: fast, but not too fast",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wfe1vm/json_parsing_in_oxcaml_fast_but_not_too_fast/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wfe1vm/json_parsing_in_oxcaml_fast_but_not_too_fast/",
+    "rank": 10,
+    "date": "2026-09-15"
+  }
+]

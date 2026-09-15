@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "authors": "Tong Zheng, Xidong Wu, Zheng Zhang, Zhankui He, Chaoyi Zhang...",
+    "summary": "Recursive self-improvement is becoming increasingly vital for autonomous AI agents, where progress hinges on discovering high-value solutions across complex domains. The driver of this process is effe",
+    "upvotes": 100,
+    "url": "https://huggingface.co/papers/2609.14858",
+    "paper_url": "https://arxiv.org/abs/2609.14858",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+    "authors": "Jintao Zhang, Kai Jiang, Jintao Chen, Xu Wang, Deyuan Liu...",
+    "summary": "We present Vidu S2, which comprises Vidu S2-Avatar, a real-time interactive digital-character model, and Vidu S2-Editing, a real-time video editing model. Moreover, we explore the feasibility of real-",
+    "upvotes": 92,
+    "url": "https://huggingface.co/papers/2609.11638",
+    "paper_url": "https://arxiv.org/abs/2609.11638",
+    "published_at": "2026-09-10",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+    "authors": "Honglin Guo, Tao Gui, Yicheng Chen, Guanting Dong, Qiming Ge...",
+    "summary": "As AI agents become participants in the development of their successors, they reshape both the production of intelligence and the role of human researchers. We introduce Atria Dawn Preview, a foundati",
+    "upvotes": 87,
+    "url": "https://huggingface.co/papers/2609.15818",
+    "paper_url": "https://arxiv.org/abs/2609.15818",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+    "authors": "Jiyan He, Guang Liang, Hao Liu, Haoxiang Guan, Jinbo Sun...",
+    "summary": "In this work, we present ZGCM-1, a fully open 7B dense foundation model trained from scratch with extreme data, system, and algorithmic efficiency. ZGCM-1 is founded on a core premise: compact models ",
+    "upvotes": 64,
+    "url": "https://huggingface.co/papers/2609.13356",
+    "paper_url": "https://arxiv.org/abs/2609.13356",
+    "published_at": "2026-09-11",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+    "authors": "DeepCybo Team, Yu Bin, Haipeng Cao, Zheng Chang, Kai Chen...",
+    "summary": "We present PhysBrain 1.5, a unified model for understanding physical environments, generating actions, and predicting future states. Motivated by the physical loop of observation, interaction, and env",
+    "upvotes": 54,
+    "url": "https://huggingface.co/papers/2609.14973",
+    "paper_url": "https://arxiv.org/abs/2609.14973",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Discovery Foundation Models: Toward Open-Ended Discovery Intelligence",
+    "authors": "Ling Yang, Zhenfei Yin, Yingcheng Wu",
+    "summary": "Foundation models have progressed from learning and reasoning over existing knowledge, to increasingly learning through action, tool use, and outcome feedback. We argue that the next frontier is a fur",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.15973",
+    "paper_url": "https://arxiv.org/abs/2609.15973",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender",
+    "authors": "Yolo Y. Tang, Daiki Shimada, Jiayue Meng, Jing Bi, Pinxin Liu...",
+    "summary": "Multimodal agents can create complex videos in software such as Blender by coding without relying on diffusion models. Yet video understanding benchmarks still evaluate models mainly through question ",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.15478",
+    "paper_url": "https://arxiv.org/abs/2609.15478",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Kaininja: Extending Native 3D Generators to the Part Level",
+    "authors": "Ruihan Yu, Lian Fu, Muyao Niu, Zheng-hui Huang, Yu-Ju Tsai...",
+    "summary": "Native 3D generators turn one image into a single mesh. TRELLIS.2 and its peers deliver high-fidelity non-watertight geometry with materials, but the output is one fused object, while downstream work ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.15659",
+    "paper_url": "https://arxiv.org/abs/2609.15659",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Omni-Streaming Thinking",
+    "authors": "Enjun Du, Siyi Liu, Ziyu Zheng, Jingyu Li, Yiwen Guo...",
+    "summary": "Streaming omni-modal models must decide what and when to answer from the video chunks and synchronized audio observed so far. Visual cues often support an interpretation before an utterance or sound e",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.15128",
+    "paper_url": "https://arxiv.org/abs/2609.15128",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+    "authors": "Sibo Zhu, Shicheng Fan, Xinyue Wang, Wenyi Wu, Kun Zhou...",
+    "summary": "Digital agents must often adapt to new environments whose interfaces, tools, and failure modes are not fully captured by pretrained models. We introduce RSIAgent, a training-free multi-agent framework",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.15364",
+    "paper_url": "https://arxiv.org/abs/2609.15364",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents",
+    "authors": "Zhangxuan Gu, Haoxing Chen, Qi Qin, Yi Xin, Kai Gan...",
+    "summary": "Diffusion large language models (dLLMs) achieve high decoding efficiency through block-parallel, arbitrary-order generation, making them attractive for latency-sensitive applications. GUI agents repre",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.13287",
+    "paper_url": "https://arxiv.org/abs/2609.13287",
+    "published_at": "2026-09-09",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis",
+    "authors": "Kaiyuan Liu, Qiuyang Mang, Bo Peng, Wenhao Chai, Hanchen Li...",
+    "summary": "Large language model (LLM) agents allocate test-time compute adaptively as they revise solutions, use tools, explore alternatives, and decide when to stop. This test-time strategy makes it difficult t",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.15309",
+    "paper_url": "https://arxiv.org/abs/2609.15309",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Realtime-Venus: A full-duplex interaction system with asynchronous delegation",
+    "authors": "Ruixiang Zhao, Hualei Wang, Renhe Sun, Enzhi Zhou, Jincenzi Wu...",
+    "summary": "Natural interaction in digital and physical environments requires continuous perception and timely responses. Spoken dialogue relies on acoustic and linguistic cues, while video interaction also requi",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.13814",
+    "paper_url": "https://arxiv.org/abs/2609.13814",
+    "published_at": "2026-09-12",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training",
+    "authors": "Yuanhao Yue, Qianli Ma, Chengyu Wang, Haoting Wang, Lei Shen...",
+    "summary": "Training prompts in online reinforcement learning (RL) differ substantially in how informative they are for the current policy: some are already saturated while others are too difficult to yield relia",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.15051",
+    "paper_url": "https://arxiv.org/abs/2609.15051",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "HazardAuditor: From Executable Threats to Safer Computer-Use Agents",
+    "authors": "Yunhao Feng, Ruixiao Lin, Ming Wen, Yanming Guo, Xingjun Ma...",
+    "summary": "Computer-use agents increasingly interact with browsers, terminals, file systems, and external services, introducing safety risks that emerge through runtime behavior rather than generated content alo",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.15134",
+    "paper_url": "https://arxiv.org/abs/2609.15134",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Agent as Policy for Robotic Manipulation",
+    "authors": "Mengzhao Jia, Yang Lin, Xixin Zhang, Zhihan Zhang, Xiaobai Liu...",
+    "summary": "We demonstrate that a general-purpose agent can directly drive a physical robot throughout task execution without any task-specific or environment-specific training. We introduce Agent as Policy (AGP)",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.12541",
+    "paper_url": "https://arxiv.org/abs/2609.12541",
+    "published_at": "2026-09-11",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks",
+    "authors": "Aashiq Muhamed, Mona T. Diab, Virginia Smith, Andrew Ilyas, Matthew Jagielski",
+    "summary": "Backdoor poisoning attacks add poisoned examples to otherwise-clean finetuning data, pairing a trigger with a target behavior that the model learns to produce when the trigger appears. Existing evalua",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.15029",
+    "paper_url": "https://arxiv.org/abs/2609.15029",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Enabling Creative Exploration for Vibe Design Agents",
+    "authors": "Yifan Zhang, Nghi D. Q. Bui, Georgios Evangelopoulos, Arnaud Benard",
+    "summary": "Vibe design agents turn natural-language briefs into rendered interfaces and frontend code. Yet a useful design agent should do more than produce one valid page: it should help users explore coherent ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.15078",
+    "paper_url": "https://arxiv.org/abs/2609.15078",
+    "published_at": "2026-09-14",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning",
+    "authors": "Changbo Yan, Zhongbo Zhang, Zaibin Zhang, Yifan Wang, Lijun Wang...",
+    "summary": "3D point-cloud observations are inherently ambiguous in complex, cluttered manipulation scenes, where target objects may be partially occluded or tightly intermingled with visually similar distractors",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.13318",
+    "paper_url": "https://arxiv.org/abs/2609.13318",
+    "published_at": "2026-09-10",
+    "date": "2026-09-15"
+  }
+]
