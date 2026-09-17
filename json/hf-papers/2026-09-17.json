@@ -1,0 +1,122 @@
+[
+  {
+    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "authors": "Hejia Geng, Zesen Huang, Haoyang Li, Wenbin Li, Koutian Wu...",
+    "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria ma",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2609.19134",
+    "paper_url": "https://arxiv.org/abs/2609.19134",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+    "authors": "Jeonghye Kim, Minseon Kim, Young Jin Kim, Matheus Pereira, Marc-Alexandre Côté...",
+    "summary": "Coding agents are typically evaluated with desired behavior specified through issues or instructions. In practical web development, however, agents may need to infer behavior from working software and",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.18805",
+    "paper_url": "https://arxiv.org/abs/2609.18805",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
+    "authors": "Shijie Lian, Bin Yu, Zhaolong Shen, Xiaopeng Lin, Yichao Du...",
+    "summary": "Action tokenizers play a central role in autoregressive vision-language-action (VLA) models, determining both the targets for policy training and the executable commands recovered from predicted token",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.18487",
+    "paper_url": "https://arxiv.org/abs/2609.18487",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+    "authors": "Yifan Zhang, Yunheng Zou, Shaokun Zhang, Jian Hu, Hao Zhang...",
+    "summary": "Autonomous research loops such as AutoResearch show that one coding agent can improve a training setup unattended. Run several of them and each session starts from scratch, so more agents tend to mean",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.18094",
+    "paper_url": "https://arxiv.org/abs/2609.18094",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention",
+    "authors": "Xingyang Li, Dongyun Zou, Shining Zhang, Jiacheng Chen, Haocheng Xi...",
+    "summary": "Diffusion Transformers deliver state-of-the-art video generation, but their long spatiotemporal sequences make attention the dominant deployment cost, and a deployable low-bit kernel must be accurate ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.15810",
+    "paper_url": "https://arxiv.org/abs/2609.15810",
+    "published_at": "2026-09-14",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents",
+    "authors": "Sehee Kim, Yumin Choi, Minki Kang, Sung Ju Hwang",
+    "summary": "Large language model (LLM) trading agents can combine market data, news, and executable analysis, but their behavior is often controlled by static hand-written tool-use policies that are fixed before ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.17632",
+    "paper_url": "https://arxiv.org/abs/2609.17632",
+    "published_at": "2026-09-15",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "authors": "Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin",
+    "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.19144",
+    "paper_url": "https://arxiv.org/abs/2609.19144",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Gaze as Evidence for Common Grounding: A Cross-Corpus Analysis of MapTask and MUNDEX",
+    "authors": "Nan Li, Albert Gatt, Massimo Poesio",
+    "summary": "In collaborative tasks with asymmetric information, participants coordinate their understanding through interaction. We ask whether gaze provides evidence about grounding across two such tasks. Workin",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.18011",
+    "paper_url": "https://arxiv.org/abs/2609.18011",
+    "published_at": "2026-09-16",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization",
+    "authors": "Zian Liu, Yiwen Hu, Zican Dong, Tian Xie, Wayne Xin Zhao...",
+    "summary": "Recently, linear attention layers have been increasingly adopted to replace softmax attention at scale for long-context modeling. However, existing context extension approaches typically apply continu",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.14320",
+    "paper_url": "https://arxiv.org/abs/2609.14320",
+    "published_at": "2026-09-13",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control",
+    "authors": "Mingyang Chen, Shengdong Chen, Xiaoxiao Fu, Bosheng Gong, Haoyuan Guo...",
+    "summary": "We introduce Zing-0.5, a 5B autoregressive world model designed for playability: users can explore generated worlds, influence unfolding events, and respond to the resulting feedback through joint key",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.17909",
+    "paper_url": "https://arxiv.org/abs/2609.17909",
+    "published_at": "2026-09-15",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses",
+    "authors": "Jieyuan Liu, Mengzhou Hu, Jefferson Chen, JungHo Kong, Pratibha Jagannatha...",
+    "summary": "Scientific agents contribute to hypothesis discovery by synthesizing evidence, assessing proposals, and developing new explanations. Recent systems combine scientific agents with evolutionary search t",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.15938",
+    "paper_url": "https://arxiv.org/abs/2609.15938",
+    "published_at": "2026-09-14",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset",
+    "authors": "Ryosei Hara, Wataru Ikeda, Masashi Hatano, Mariko Isogawa",
+    "summary": "3D hand mesh reconstruction is a challenging yet essential task for downstream applications, including human-robot interaction and AR/VR. Although conventional cameras have been widely adopted for thi",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.17189",
+    "paper_url": "https://arxiv.org/abs/2609.17189",
+    "published_at": "2026-09-15",
+    "date": "2026-09-17"
+  }
+]

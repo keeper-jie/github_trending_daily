@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+    "authors": "Ahmetcan Yavuz, Clara Meister, Tiago Pimentel",
+    "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19145v1",
+    "abs_url": "https://arxiv.org/abs/2609.19145v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+    "authors": "Peter Chen, Xi Chen, Wotao Yin, Tianyi Lin",
+    "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19144v1",
+    "abs_url": "https://arxiv.org/abs/2609.19144v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+    "authors": "Sara Pieri, Evangelos Kazakos, Shizhe Chen, Josef Sivic, Cordelia Schmid",
+    "summary": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19143v1",
+    "abs_url": "https://arxiv.org/abs/2609.19143v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+    "authors": "Bardienus P. Duisterhof, Kaifeng Zhang, Adam Hung, Bowen Wen, Stan Birchfield...",
+    "summary": "World models endow perceptual systems with the ability to predict how scenes evolve under interaction. They are most beneficial when trained on diverse volumes of data, to instill a rich prior into do",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19142v1",
+    "abs_url": "https://arxiv.org/abs/2609.19142v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "In-Context Robot Learning with VLM Agents",
+    "authors": "Dongzhou Cheng, Taoran Yi, Ye Fang, Xingwu Zhang, Fan Feng...",
+    "summary": "Enabling robots to adapt to unfamiliar environments as readily as humans remains a moonshot goal of embodied AI. No finite collection of demonstrations can cover every task and situation a robot will ",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19138v1",
+    "abs_url": "https://arxiv.org/abs/2609.19138v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+    "authors": "Guanhua Ji, Tianyu Li, Dayoon Suh, Yuqian Zhang, Boyan Zhang...",
+    "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, ",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19137v1",
+    "abs_url": "https://arxiv.org/abs/2609.19137v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+    "authors": "Pranaya Jajoo",
+    "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horiz",
+    "categories": "cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19135v1",
+    "abs_url": "https://arxiv.org/abs/2609.19135v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+    "authors": "Hejia Geng, Zesen Huang, Haoyang Li, Wenbin Li, Koutian Wu...",
+    "summary": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria ma",
+    "categories": "cs.CL, cs.CY",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19134v1",
+    "abs_url": "https://arxiv.org/abs/2609.19134v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
+    "authors": "João Meneses dos Santos, Arlindo L. Oliveira",
+    "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-proc",
+    "categories": "cs.AI, cs.LG, cs.MA",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19128v1",
+    "abs_url": "https://arxiv.org/abs/2609.19128v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Affora: A Design System for Agent-Friendly Interfaces",
+    "authors": "Jin Gao",
+    "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports bot",
+    "categories": "cs.HC, cs.AI, cs.SE",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19125v1",
+    "abs_url": "https://arxiv.org/abs/2609.19125v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
+    "authors": "Elizabeth Pavlova, Hidenori Tanaka",
+    "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and me",
+    "categories": "cs.AI, cond-mat.dis-nn, cond-mat.stat-mech, cs.MA, physics.soc-ph",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19124v1",
+    "abs_url": "https://arxiv.org/abs/2609.19124v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
+    "authors": "Meng'en Qin, Yinchen Liu, Mingxuan Cui, Youlu Xing",
+    "summary": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh",
+    "categories": "cs.CV",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19122v1",
+    "abs_url": "https://arxiv.org/abs/2609.19122v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Track, Articulate, Act: Generating Articulation from Casual Human Videos",
+    "authors": "Jiaming Zhang, Homanga Bharadhwaj",
+    "summary": "Human videos contain rich causal evidence for robot manipulation: they reveal how hand motion induces object motion and produces task-relevant changes in object state. In this work, we study articulat",
+    "categories": "cs.CV",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19119v1",
+    "abs_url": "https://arxiv.org/abs/2609.19119v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
+    "authors": "Peter Potash",
+    "summary": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ ",
+    "categories": "cs.CL",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19113v1",
+    "abs_url": "https://arxiv.org/abs/2609.19113v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
+    "authors": "Zixi Chen, Akshay Vegesna, Samip Dahal, Andrew Gordon Wilson",
+    "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading ",
+    "categories": "cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19107v1",
+    "abs_url": "https://arxiv.org/abs/2609.19107v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
+    "authors": "Kaijun Zhou, Zhiyang Li, Le Chen, Jinyu Gu",
+    "summary": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19104v1",
+    "abs_url": "https://arxiv.org/abs/2609.19104v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Monitoring and Discovering Reward Hacking with Internal Representations during LLM Evaluations",
+    "authors": "Leon Bergen, Usha Bhalla, Andrew Lee, Barak Widawsky, Linas Nasvytis...",
+    "summary": "As models scale, reward hacking becomes more frequent, more sophisticated, and more consequential. Does it leave a telltale signature in model representations? This work analyzes how reward hacking is",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19101v1",
+    "abs_url": "https://arxiv.org/abs/2609.19101v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Evidence-Grounded Agentic Formulation Development in an Autonomous Laboratory",
+    "authors": "Michael M. Craig, Riley J. Hickman, Yingshan Ma, Rémi Piché-Taillefer, Christine Allen...",
+    "summary": "Self-emulsifying drug delivery systems (SEDDS) can improve the oral bioavailability of poorly soluble drugs, but identifying high-performing formulations remains experimentally intensive. We present A",
+    "categories": "cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19099v1",
+    "abs_url": "https://arxiv.org/abs/2609.19099v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+    "authors": "Abbas M. Rabiu, Abdulrazaq A. Zubair, Um-mulkhairi Ibrahim, Tolulope Olusuyi, Shaheeda Farouq...",
+    "summary": "Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and midd",
+    "categories": "cs.CY, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19096v1",
+    "abs_url": "https://arxiv.org/abs/2609.19096v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Reporting Practice Matters: The Impact of Reference Choice on Chest X-ray Report Evaluation",
+    "authors": "Daniel P. Jeong, Charles Q. Li, Hossein Hosseiny, Nitya M. Bhalla, Fatma Uyar Morency...",
+    "summary": "Radiologists follow heterogeneous reporting practices. Two radiologists examining the same image and identifying the same clinical findings might nevertheless compose superficially distinct reports, v",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19093v1",
+    "abs_url": "https://arxiv.org/abs/2609.19093v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Securing quantum error correction against misleading advice from AI agents",
+    "authors": "A. Barış Özgüler",
+    "summary": "Can an attacker turn influence over an artificial intelligence (AI) adviser into a harmful quantum error-correction update? We identify an ambiguity in passive syndrome records that obstructs recovery",
+    "categories": "quant-ph, cs.AI, cs.CR, eess.SY",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19090v1",
+    "abs_url": "https://arxiv.org/abs/2609.19090v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
+    "authors": "Luyao Zhu, Xun Wei Yee, Wei Li, Mun Thye Mak, Wee Siong Ng",
+    "summary": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language lea",
+    "categories": "cs.AI, cs.CL, cs.CV",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19088v1",
+    "abs_url": "https://arxiv.org/abs/2609.19088v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "A General Kernel Framework for Non-CND Distance Measures Using |D|-Dimensional Sparse Landmark Embeddings",
+    "authors": "Marcus M. Noack, Maher B. Alghalayini, Mark D. Risser",
+    "summary": "Kernel methods, and Gaussian Processes (GPs) in particular, require a Hilbertian distance measure---one whose square is conditionally negative definite (CND)---to guarantee positive semi-definiteness ",
+    "categories": "stat.ML, cs.LG, math.PR",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19083v1",
+    "abs_url": "https://arxiv.org/abs/2609.19083v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Probabilistic Linear Explanations",
+    "authors": "Frederic Koriche, Jean-Marie Lagniez, Chi Tran",
+    "summary": "Formal explainability provides mathematically grounded justifications for individual predictions. However, abductive explanations often exceed human cognitive limits by involving too many features, wh",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19077v1",
+    "abs_url": "https://arxiv.org/abs/2609.19077v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Double descent is the principle of least action",
+    "authors": "Congzhou M Sha",
+    "summary": "The test error of a model plotted against its number of parameters $d$ falls, peaks when the model can just fit the training data, and falls again, exhibiting the double descent phenomenon. We explain",
+    "categories": "cs.LG, cs.AI, math.ST, physics.comp-ph, physics.data-an",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19076v1",
+    "abs_url": "https://arxiv.org/abs/2609.19076v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "RLLBC-Lib: An Educational Code Library for Reinforcement Learning and Learning-Based Control",
+    "authors": "Bernd Frauenknecht, Emma Cramer, Artur Eisele, Paul Kruse, Lukas Kesper...",
+    "summary": "Reinforcement learning (RL) is an exciting concept as well as a remarkable success story worth sharing. However, RL builds on rather complex interactions between different objects that play out over s",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.19074v1",
+    "abs_url": "https://arxiv.org/abs/2609.19074v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Long-Lived Characters, Local Inference: Incremental Memory Maintenance for Game NPCs",
+    "authors": "Zimu Xu",
+    "summary": "A game character should not have to reread its entire life before every conversation. For locally deployed language-model characters, however, revising a few memories can invalidate a long reusable pr",
+    "categories": "cs.CL",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.18935v1",
+    "abs_url": "https://arxiv.org/abs/2609.18935v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Social Laws for Multi-agent Coordination in Stochastic Environments",
+    "authors": "Rolando Fernandez, Caleb Probine, Tyler Lee, Jeffrey Chen, Erez Karpas...",
+    "summary": "In multi-agent environments, coordinating agents to prevent interference and ensure robust individual performance is a critical challenge. Previous research on social laws for multi-agent systems has ",
+    "categories": "cs.MA, cs.AI, cs.LG",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.18929v1",
+    "abs_url": "https://arxiv.org/abs/2609.18929v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Comprehensive reconstruction of collider events with hypergraph representation learning and graph-conditioned diffusion",
+    "authors": "Lining Mao, Yvonne Peters, Ethan Simpson, Zihan Zhang",
+    "summary": "In particle collider experiments, event reconstruction is the task of inferring the kinematics of short-lived particles produced in the hard scatter from the stable final states recorded by detectors.",
+    "categories": "hep-ph, cs.LG, hep-ex",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.18928v1",
+    "abs_url": "https://arxiv.org/abs/2609.18928v1",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "PhysVGGT: Feed-Forward Dense Physical Property Estimation from A Single Image",
+    "authors": "Sneha Paul, Guile Wu, Bingbing Liu, Dongfeng Bai",
+    "summary": "Physical properties, such as friction, hardness, stiffness, and density, govern how robots should grasp, manipulate and interact with objects, yet estimating these properties from RGB images remains c",
+    "categories": "cs.CV",
+    "published": "2026-09-16",
+    "pdf_url": "https://arxiv.org/pdf/2609.18920v1",
+    "abs_url": "https://arxiv.org/abs/2609.18920v1",
+    "date": "2026-09-17"
+  }
+]
