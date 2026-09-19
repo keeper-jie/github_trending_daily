@@ -1,0 +1,172 @@
+[
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 14160,
+    "forks": 765,
+    "today_stars": 3006,
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "stars": 146391,
+    "forks": 23819,
+    "today_stars": 444,
+    "url": "https://github.com/anthropics/claude-code",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 36864,
+    "forks": 2626,
+    "today_stars": 2704,
+    "url": "https://github.com/alibaba/open-code-review",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "affaan-m/ECC",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "stars": 262206,
+    "forks": 39230,
+    "today_stars": 958,
+    "url": "https://github.com/affaan-m/ECC",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "stars": 5433,
+    "forks": 376,
+    "today_stars": 1306,
+    "url": "https://github.com/Tencent/BrowserSkill",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 96506,
+    "forks": 10201,
+    "today_stars": 675,
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "stars": 4027,
+    "forks": 416,
+    "today_stars": 569,
+    "url": "https://github.com/TencentCloud/Octop",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "Fission-AI/OpenSpec",
+    "description": "Spec-driven development (SDD) for AI coding assistants.",
+    "language": "TypeScript",
+    "stars": 69435,
+    "forks": 4755,
+    "today_stars": 296,
+    "url": "https://github.com/Fission-AI/OpenSpec",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "language": "Rust",
+    "stars": 31242,
+    "forks": 3238,
+    "today_stars": 174,
+    "url": "https://github.com/ankitects/anki",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 24933,
+    "forks": 2973,
+    "today_stars": 299,
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "supermemoryai/supermemory",
+    "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "stars": 30379,
+    "forks": 2646,
+    "today_stars": 140,
+    "url": "https://github.com/supermemoryai/supermemory",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+    "language": "JavaScript",
+    "stars": 6509,
+    "forks": 2718,
+    "today_stars": 79,
+    "url": "https://github.com/tradesdontlie/tradingview-mcp",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "rustfs/rustfs",
+    "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+    "language": "Rust",
+    "stars": 33222,
+    "forks": 1486,
+    "today_stars": 267,
+    "url": "https://github.com/rustfs/rustfs",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": 110200,
+    "forks": 14329,
+    "today_stars": 120,
+    "url": "https://github.com/supabase/supabase",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars": 15354,
+    "forks": 1506,
+    "today_stars": 478,
+    "url": "https://github.com/coder/coder",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "ahmedkhaleel2004/gitdiagram",
+    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "language": "TypeScript",
+    "stars": 16518,
+    "forks": 1260,
+    "today_stars": 152,
+    "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "asciimoo/hister",
+    "description": "Your own search engine",
+    "language": "Go",
+    "stars": 5012,
+    "forks": 209,
+    "today_stars": 889,
+    "url": "https://github.com/asciimoo/hister",
+    "date": "2026-09-19"
+  }
+]

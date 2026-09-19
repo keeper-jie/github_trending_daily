@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "browser-use/jev-ultrafast",
+    "description": "i. am. speed.",
+    "language": "Python",
+    "stars": 5956,
+    "forks": 381,
+    "created_at": "2026-09-16T21:30:12Z",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "eternity4719/HowToLiveBetter",
+    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+    "language": "HTML",
+    "stars": 5293,
+    "forks": 406,
+    "created_at": "2026-09-07T01:53:36Z",
+    "url": "https://github.com/eternity4719/HowToLiveBetter",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "language": "TypeScript",
+    "stars": 3497,
+    "forks": 182,
+    "created_at": "2026-09-17T05:57:20Z",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "language": "",
+    "stars": 3443,
+    "forks": 199,
+    "created_at": "2026-09-07T16:16:48Z",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "Edge0-AI/Edge0",
+    "description": "",
+    "language": "Python",
+    "stars": 1971,
+    "forks": 164,
+    "created_at": "2026-09-08T13:41:47Z",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "openai/NavierStokesAndEuler",
+    "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+    "language": "Lean",
+    "stars": 1952,
+    "forks": 200,
+    "created_at": "2026-09-08T10:53:38Z",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "EverettFish/holo-card-studio",
+    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "language": "Python",
+    "stars": 1668,
+    "forks": 227,
+    "created_at": "2026-09-07T00:41:18Z",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "language": "TypeScript",
+    "stars": 1651,
+    "forks": 263,
+    "created_at": "2026-09-08T17:19:54Z",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "TheoLeeCJ/SemIf",
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "language": "Python",
+    "stars": 1648,
+    "forks": 108,
+    "created_at": "2026-09-16T03:51:21Z",
+    "url": "https://github.com/TheoLeeCJ/SemIf",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "qingjian-team/qingjian",
+    "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+    "language": "Rust",
+    "stars": 1433,
+    "forks": 130,
+    "created_at": "2026-09-07T08:25:30Z",
+    "url": "https://github.com/qingjian-team/qingjian",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "achimala/dream-loop",
+    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "language": "JavaScript",
+    "stars": 1416,
+    "forks": 154,
+    "created_at": "2026-09-07T14:19:20Z",
+    "url": "https://github.com/achimala/dream-loop",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "Chuloo/mural",
+    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+    "language": "Kotlin",
+    "stars": 1368,
+    "forks": 266,
+    "created_at": "2026-09-12T11:51:08Z",
+    "url": "https://github.com/Chuloo/mural",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "jtydhr88/screenwriting-skills",
+    "description": "Professional agent skills for screenwriting, television writing and dramaturgy",
+    "language": "Python",
+    "stars": 1255,
+    "forks": 139,
+    "created_at": "2026-09-06T12:28:23Z",
+    "url": "https://github.com/jtydhr88/screenwriting-skills",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "mcncarl/jianying-headless",
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "language": "Python",
+    "stars": 1166,
+    "forks": 538,
+    "created_at": "2026-09-15T11:51:15Z",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "crwdla/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "language": "Python",
+    "stars": 1143,
+    "forks": 216,
+    "created_at": "2026-09-07T17:18:31Z",
+    "url": "https://github.com/crwdla/tokentab",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "yi1108/printfilm",
+    "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
+    "language": "Python",
+    "stars": 1095,
+    "forks": 99,
+    "created_at": "2026-09-10T02:08:47Z",
+    "url": "https://github.com/yi1108/printfilm",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "sumimakito/Mac-Duo",
+    "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+    "language": "Swift",
+    "stars": 1019,
+    "forks": 73,
+    "created_at": "2026-09-10T18:55:39Z",
+    "url": "https://github.com/sumimakito/Mac-Duo",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "unstablebuild/rune",
+    "description": "the development environment for pros",
+    "language": "Go",
+    "stars": 956,
+    "forks": 71,
+    "created_at": "2026-09-10T10:50:03Z",
+    "url": "https://github.com/unstablebuild/rune",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "robbietilton/Compositor",
+    "description": "The Photoshop alternative for Mac",
+    "language": "Swift",
+    "stars": 935,
+    "forks": 114,
+    "created_at": "2026-09-16T20:35:54Z",
+    "url": "https://github.com/robbietilton/Compositor",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "jarrodwatts/jev-trader",
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "language": "TypeScript",
+    "stars": 930,
+    "forks": 173,
+    "created_at": "2026-09-16T21:36:20Z",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "gazijarin/itsgiving",
+    "description": "Express yourself in meetings (with memes, of course).",
+    "language": "Python",
+    "stars": 907,
+    "forks": 111,
+    "created_at": "2026-09-08T05:02:01Z",
+    "url": "https://github.com/gazijarin/itsgiving",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "vinnylarouge/jevlike",
+    "description": "",
+    "language": "Python",
+    "stars": 905,
+    "forks": 76,
+    "created_at": "2026-09-16T10:26:01Z",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "yifanzhang-pro/recurrent-looped-tranformer",
+    "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+    "language": "HTML",
+    "stars": 880,
+    "forks": 86,
+    "created_at": "2026-09-12T19:02:46Z",
+    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "perseval-BLR/NeuralScreen",
+    "description": "DLSS 5 NR on your whole Windows desktop, in real time with Boost, FG, etc. RTX 30/40/50, 12 languages, user presets, recording with audio, one-window mode.",
+    "language": "Python",
+    "stars": 878,
+    "forks": 51,
+    "created_at": "2026-09-06T14:22:19Z",
+    "url": "https://github.com/perseval-BLR/NeuralScreen",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "agentverse-os/AgentVerse-OS",
+    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+    "language": "Rust",
+    "stars": 877,
+    "forks": 24,
+    "created_at": "2026-09-12T18:20:00Z",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "zjwzcx/Awesome-Astra-Embodied-AI",
+    "description": "GPT-6 Astra for embodied AI and robotics.",
+    "language": "",
+    "stars": 862,
+    "forks": 17,
+    "created_at": "2026-09-12T12:20:24Z",
+    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "ArasTey/lunel",
+    "description": "",
+    "language": "Python",
+    "stars": 851,
+    "forks": 2003,
+    "created_at": "2026-09-09T06:58:25Z",
+    "url": "https://github.com/ArasTey/lunel",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "kruzovic7/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "language": "Python",
+    "stars": 840,
+    "forks": 135,
+    "created_at": "2026-09-11T18:12:58Z",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "OpenWAM-Official/OpenWAM",
+    "description": "Official repository for \"OpenWAM: An Open, Modular Exploration Towards Systematic World–Action Model Pretraining\".",
+    "language": "Python",
+    "stars": 793,
+    "forks": 37,
+    "created_at": "2026-09-06T06:21:09Z",
+    "url": "https://github.com/OpenWAM-Official/OpenWAM",
+    "date": "2026-09-19"
+  },
+  {
+    "repo": "zhengkid/Dream-RSI",
+    "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+    "language": "",
+    "stars": 789,
+    "forks": 70,
+    "created_at": "2026-09-13T20:39:43Z",
+    "url": "https://github.com/zhengkid/Dream-RSI",
+    "date": "2026-09-19"
+  }
+]

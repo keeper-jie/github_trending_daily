@@ -1,0 +1,242 @@
+[
+  {
+    "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+    "authors": "DeepSeek-AI, Anyi Xu, B. Li, Bangcai Lin, Bing Xue...",
+    "summary": "The widespread adoption of long-horizon agents has made model workloads increasingly input-heavy. Although prior work has substantially reduced the cost of long-context computation, prefill remains co",
+    "upvotes": 63,
+    "url": "https://huggingface.co/papers/2609.19969",
+    "paper_url": "https://arxiv.org/abs/2609.19969",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+    "authors": "Yuxiao Yang, Tianrun Yu, Shangzhe Li, Kaixiang Zhao, Xuchao Zhang...",
+    "summary": "We study length inflation in on-policy distillation (OPD), where student responses can become excessively long and even exhaust the generation budget. We identify termination-token mismatch between ba",
+    "upvotes": 52,
+    "url": "https://huggingface.co/papers/2609.20511",
+    "paper_url": "https://arxiv.org/abs/2609.20511",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+    "authors": "Haozhe Liu, Tian Ye, Sensen Gao, Qihang Cao, Yitong Li...",
+    "summary": "As coding agents move from supervised code completion to unattended, around-the-clock exploration, their work expands from isolated predictions into long trajectories of reasoning, tool use, and feedb",
+    "upvotes": 51,
+    "url": "https://huggingface.co/papers/2609.20519",
+    "paper_url": "https://arxiv.org/abs/2609.20519",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "An Empirical Study of Harness Design for Coding Agents",
+    "authors": "Run-Ze Fan, Zihao Zhang, Simin Ma, Yebowen Hu, Shouju Wang...",
+    "summary": "Coding harnesses shape how autonomous coding agents translate model capabilities into long-horizon software-engineering performance, yet existing work typically evaluates harnesses as monolithic syste",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2609.20804",
+    "paper_url": "https://arxiv.org/abs/2609.20804",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+    "authors": "Taoyong Cui, Zhongyao Wang, Xinyue Xu, Weiyang Liu, Zhaochen Yu...",
+    "summary": "World modeling enables intelligence to anticipate consequences, guide interventions, and learn from interaction. Yet predictive models remain domain-specific: can a common learning principle support w",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2609.20800",
+    "paper_url": "https://arxiv.org/abs/2609.20800",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation",
+    "authors": "ZhuoXin Liu, Zhiming Ma, Ying Zhang, Mengzheng Yang, Yifan Wang...",
+    "summary": "Platform abuse campaigns conceal redirection instructions with emojis, homophones, character decomposition, and redundant symbols, then route users through disguised links to services associated with ",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.16900",
+    "paper_url": "https://arxiv.org/abs/2609.16900",
+    "published_at": "2026-09-15",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+    "authors": "Yan Yu, Zhengxi Lu, Yizhou Liu, Yichen Pan, Aozhe Wang...",
+    "summary": "Multi-turn agents trained with reinforcement learning (RL) receive a single scalar reward per trajectory, which motivates self on-policy distillation (OPD) to supply dense token-level supervision from",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2609.20784",
+    "paper_url": "https://arxiv.org/abs/2609.20784",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Verifiable Social Reasoning for LLM Assistants",
+    "authors": "Amir Taubenfeld, Zorik Gekhman, Avigail Grinstein-Dabush, Itay Laish, Ariel Goldstein...",
+    "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns ",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2609.17496",
+    "paper_url": "https://arxiv.org/abs/2609.17496",
+    "published_at": "2026-09-15",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents",
+    "authors": "Bofan Chen, Boxuan Zhang, Fei Tang, Zhengxi Lu, Yong Du...",
+    "summary": "GUI agents execute long-horizon tasks on dynamic graphical user interfaces, where pop-ups, delayed loads, and relocated widgets routinely invalidate plans fixed before execution. Recent agent-skill fr",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.17653",
+    "paper_url": "https://arxiv.org/abs/2609.17653",
+    "published_at": "2026-09-15",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing",
+    "authors": "Hao Yu, Kang Liu, Linnan Zhao, Jiabo Zhan, Chong Sun...",
+    "summary": "Document parsing converts document images into structured content and requires reliable performance across diverse layouts and acquisition conditions. Yet training corpora are biased toward common doc",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.20423",
+    "paper_url": "https://arxiv.org/abs/2609.20423",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation",
+    "authors": "Haocheng Xi, Yiming Xie, Hexu Zhao, Yiwen Zhang, Michael Liu...",
+    "summary": "Video diffusion models repeatedly process long spatiotemporal token sequences during denoising, making attention a major computational bottleneck. Linear attention offers an appealing alternative and ",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.20744",
+    "paper_url": "https://arxiv.org/abs/2609.20744",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Self-Evolving Search Index",
+    "authors": "Sangam Lee, Wonjae Lee, Sunghwan Kim, Deogyong Kim, Jaehoon Kim...",
+    "summary": "Information retrieval is increasingly important as LLM agents tackle complex tasks involving diverse information needs. Because retrieval relies on an index that represents each document through index",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.19656",
+    "paper_url": "https://arxiv.org/abs/2609.19656",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control",
+    "authors": "Zhongbo Zhang, Jiayi Jin, Yifan Wang, Zaibin Zhang, Haiwen Diao...",
+    "summary": "Spatial intelligence requires more than describing object locations. Under incomplete observation, models must identify and acquire missing evidence, interpret it in a common spatial frame, and act on",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.19554",
+    "paper_url": "https://arxiv.org/abs/2609.19554",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+    "authors": "Haoyu Zhao, Zihao Zhao, Tianyu Deng, Ziqin Xu, Zihao Zhang...",
+    "summary": "Recent Omni-Modal Generative Models (Omni-Models) have advanced content generation toward unified modeling of text, images, video, and audio. MiniMax-H3 exemplifies this transition by combining multim",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.18323",
+    "paper_url": "https://arxiv.org/abs/2609.18323",
+    "published_at": "2026-09-16",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+    "authors": "Kevin Qu, Tao Sun, Massimiliano Viola, Liyuan Zhu, Zhizhuo Zhou...",
+    "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.20817",
+    "paper_url": "https://arxiv.org/abs/2609.20817",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models",
+    "authors": "Jaejun Shim, HyunJin Kim, Young Jin Kim, JinYeong Bak",
+    "summary": "Large Reasoning Models (LRMs) achieve strong performance on complex tasks but exhibit systematic inefficiency: they often overthink easy problems and underthink hard ones. Existing approaches based on",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.19671",
+    "paper_url": "https://arxiv.org/abs/2609.19671",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "What Does Privileged Information Add to On-Policy Self-Distillation?",
+    "authors": "XiuYu Zhang, Wei Chow, Junfeng Fang, Zhenkai Liang, Tat-Seng Chua",
+    "summary": "On-policy self-distillation (OPSD) lets a language model learn from a frozen copy of itself that sees an answer or a worked solution. Giving the teacher this extra information seems to offer the stude",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.20612",
+    "paper_url": "https://arxiv.org/abs/2609.20612",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation",
+    "authors": "Danning Zhang, Yijing Lin, Shuhan Zhuang, Mengqi Huang, Shaojin Wu...",
+    "summary": "Multi-modal image generation, particularly subject-driven customization, has garnered growing attention in recent years. Despite the rapid advancement of generative models, their evaluation remains la",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.12397",
+    "paper_url": "https://arxiv.org/abs/2609.12397",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL",
+    "authors": "Juzheng Zhang, Disha Makhija, Manoj Ghuhan Arivazhagan, Vinayshekhar Bannihatti Kumar, Rashmi Gangadharaiah",
+    "summary": "Agent trajectories record what an agent does and what happens next. Yet standard supervised fine-tuning (SFT) applies loss only to agent-authored action tokens, using environment observations as conte",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.20715",
+    "paper_url": "https://arxiv.org/abs/2609.20715",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Region-Level Policy Optimization for Fine-grained MLLM Perception",
+    "authors": "Yuheng Shi, Xiaohuan Pei, Minjing Dong, Chang Xu",
+    "summary": "Fine-grained visual perception in MLLMs is commonly improved by raising the resolution, but the added visual tokens inflate vision-encoding and language-model prefilling costs. We show that the two op",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.19745",
+    "paper_url": "https://arxiv.org/abs/2609.19745",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling",
+    "authors": "Mobina Kashaniyan, Ali Jannesari",
+    "summary": "Test-time scaling can improve large language model reasoning by generating and combining multiple candidate responses. In sampling-based methods, the inference budget is often described by the number ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.19499",
+    "paper_url": "https://arxiv.org/abs/2609.19499",
+    "published_at": "2026-09-16",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?",
+    "authors": "Mika Okamoto, Ansel Kaplan Erol",
+    "summary": "As corporate AI adoption continues to grow, enterprise-grade LLM agents are being deployed into sensitive contexts such as hiring, healthcare, and finance. In these contexts, compliance with rules spe",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.18605",
+    "paper_url": "https://arxiv.org/abs/2609.18605",
+    "published_at": "2026-09-16",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering",
+    "authors": "Bhavana Akkiraju, Ravi Sastry Kolluru, Sri Charan D, Srihari Bandarupalli, Santosh Kesiraju...",
+    "summary": "Question answering has advanced rapidly with large language models, but predominantly for high-resource languages, in both text and spoken settings. Spoken question answering (SQA) benchmark for Telug",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.19879",
+    "paper_url": "https://arxiv.org/abs/2609.19879",
+    "published_at": "2026-09-17",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts",
+    "authors": "Anil Pai",
+    "summary": "We present Srijika, a system for producing installable OpenType fonts for nine Brahmic scripts: Devanagari, Tamil, Bengali, Telugu, Kannada, Malayalam, Gujarati, Gurmukhi, and Odia. Rather than genera",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.05661",
+    "paper_url": "https://arxiv.org/abs/2609.05661",
+    "published_at": "2026-09-04",
+    "date": "2026-09-18"
+  }
+]
