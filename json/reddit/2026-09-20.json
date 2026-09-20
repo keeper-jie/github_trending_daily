@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "You can run git on object storage if you re-make packfiles",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Either_Collection349",
+    "url": "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
+    "rank": 1,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Good Tools Are Invisible",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/",
+    "rank": 2,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "\"the main purpose of unit tests is keeping your code from being violently sh*t on by others\"",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mareek",
+    "url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
+    "rank": 3,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The Void Job",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Either_Collection349",
+    "url": "https://www.reddit.com/r/programming/comments/1wkqj9y/the_void_job/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkqj9y/the_void_job/",
+    "rank": 4,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Building an ASCII 3D Renderer",
+    "score": 0,
+    "num_comments": 0,
+    "author": "kciter",
+    "url": "https://www.reddit.com/r/programming/comments/1wkglyj/building_an_ascii_3d_renderer/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkglyj/building_an_ascii_3d_renderer/",
+    "rank": 5,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The scourge of x86 emulation",
+    "score": 0,
+    "num_comments": 0,
+    "author": "lelanthran",
+    "url": "https://www.reddit.com/r/programming/comments/1wjicct/the_scourge_of_x86_emulation/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wjicct/the_scourge_of_x86_emulation/",
+    "rank": 6,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "iceoryx2 0.10 released: full flatbuffer integration, zero copy ipc with unbounded data, robust events",
+    "score": 0,
+    "num_comments": 0,
+    "author": "elfenpiff",
+    "url": "https://www.reddit.com/r/programming/comments/1wjxzv9/iceoryx2_010_released_full_flatbuffer_integration/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wjxzv9/iceoryx2_010_released_full_flatbuffer_integration/",
+    "rank": 7,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Make Code Review Your Default Next Task",
+    "score": 0,
+    "num_comments": 0,
+    "author": "warren5236",
+    "url": "https://www.reddit.com/r/programming/comments/1wjont5/make_code_review_your_default_next_task/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wjont5/make_code_review_your_default_next_task/",
+    "rank": 8,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "What if only one allocation needs to be borrow checked in a managed program?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Practical-Medium-858",
+    "url": "https://www.reddit.com/r/programming/comments/1wk814r/what_if_only_one_allocation_needs_to_be_borrow/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wk814r/what_if_only_one_allocation_needs_to_be_borrow/",
+    "rank": 9,
+    "date": "2026-09-20"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Be alert: targeted attacks on prominent Rustaceans | Rust Blog",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mareek",
+    "url": "https://www.reddit.com/r/programming/comments/1wj1x9m/be_alert_targeted_attacks_on_prominent_rustaceans/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wj1x9m/be_alert_targeted_attacks_on_prominent_rustaceans/",
+    "rank": 10,
+    "date": "2026-09-20"
+  }
+]

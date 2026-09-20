@@ -1,0 +1,152 @@
+[
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 16770,
+    "forks": 917,
+    "today_stars": 3155,
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "HTML",
+    "stars": 24634,
+    "forks": 1692,
+    "today_stars": 859,
+    "url": "https://github.com/trycua/cua",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 97180,
+    "forks": 10257,
+    "today_stars": 556,
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "stars": 15691,
+    "forks": 1525,
+    "today_stars": 402,
+    "url": "https://github.com/coder/coder",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "stars": 146798,
+    "forks": 23974,
+    "today_stars": 483,
+    "url": "https://github.com/anthropics/claude-code",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "Open-Dev-Society/OpenStock",
+    "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+    "language": "TypeScript",
+    "stars": 16235,
+    "forks": 2097,
+    "today_stars": 472,
+    "url": "https://github.com/Open-Dev-Society/OpenStock",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "higgsfield-ai/higgsfield",
+    "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+    "language": "Jupyter Notebook",
+    "stars": 5040,
+    "forks": 923,
+    "today_stars": 196,
+    "url": "https://github.com/higgsfield-ai/higgsfield",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "docling-project/docling",
+    "description": "Get your documents ready for gen AI",
+    "language": "Python",
+    "stars": 67208,
+    "forks": 4840,
+    "today_stars": 129,
+    "url": "https://github.com/docling-project/docling",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "cloudflare/quiche",
+    "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+    "language": "Rust",
+    "stars": 12077,
+    "forks": 1120,
+    "today_stars": 31,
+    "url": "https://github.com/cloudflare/quiche",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "asciimoo/hister",
+    "description": "Your own search engine",
+    "language": "Go",
+    "stars": 5305,
+    "forks": 222,
+    "today_stars": 420,
+    "url": "https://github.com/asciimoo/hister",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "",
+    "stars": 103361,
+    "forks": 4431,
+    "today_stars": 98,
+    "url": "https://github.com/ruanyf/weekly",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "ZuodaoTech/everyone-can-use-english",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "stars": 37946,
+    "forks": 5216,
+    "today_stars": 48,
+    "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 25183,
+    "forks": 3000,
+    "today_stars": 281,
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "cactus-compute/needle",
+    "description": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+    "language": "Python",
+    "stars": 11687,
+    "forks": 749,
+    "today_stars": 234,
+    "url": "https://github.com/cactus-compute/needle",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "yynxxxxx/Codex-X",
+    "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+    "language": "Rust",
+    "stars": 3462,
+    "forks": 451,
+    "today_stars": 32,
+    "url": "https://github.com/yynxxxxx/Codex-X",
+    "date": "2026-09-20"
+  }
+]

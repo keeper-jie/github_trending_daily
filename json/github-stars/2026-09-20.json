@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "browser-use/jev-ultrafast",
+    "description": "i. am. speed.",
+    "language": "Python",
+    "stars": 9304,
+    "forks": 579,
+    "created_at": "2026-09-16T21:30:12Z",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "eternity4719/HowToLiveBetter",
+    "description": "按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。",
+    "language": "HTML",
+    "stars": 6151,
+    "forks": 464,
+    "created_at": "2026-09-07T01:53:36Z",
+    "url": "https://github.com/eternity4719/HowToLiveBetter",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "language": "TypeScript",
+    "stars": 4429,
+    "forks": 245,
+    "created_at": "2026-09-17T05:57:20Z",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "sdli1995/dlssg_for_sm86",
+    "description": "Here is a dlssg for RTX30 Series GPU ",
+    "language": "",
+    "stars": 3572,
+    "forks": 208,
+    "created_at": "2026-09-07T16:16:48Z",
+    "url": "https://github.com/sdli1995/dlssg_for_sm86",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "robbietilton/Compositor",
+    "description": "The Photoshop alternative for Mac",
+    "language": "Swift",
+    "stars": 2834,
+    "forks": 304,
+    "created_at": "2026-09-16T20:35:54Z",
+    "url": "https://github.com/robbietilton/Compositor",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "TheoLeeCJ/SemIf",
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "language": "Python",
+    "stars": 2023,
+    "forks": 123,
+    "created_at": "2026-09-16T03:51:21Z",
+    "url": "https://github.com/TheoLeeCJ/SemIf",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "Edge0-AI/Edge0",
+    "description": "",
+    "language": "Python",
+    "stars": 2009,
+    "forks": 174,
+    "created_at": "2026-09-08T13:41:47Z",
+    "url": "https://github.com/Edge0-AI/Edge0",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "openai/NavierStokesAndEuler",
+    "description": "Lean certificates accompanying Navier-Stokes and Euler results",
+    "language": "Lean",
+    "stars": 1962,
+    "forks": 200,
+    "created_at": "2026-09-08T10:53:38Z",
+    "url": "https://github.com/openai/NavierStokesAndEuler",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "Vincentwei1021/anything2explainer",
+    "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
+    "language": "TypeScript",
+    "stars": 1779,
+    "forks": 269,
+    "created_at": "2026-09-08T17:19:54Z",
+    "url": "https://github.com/Vincentwei1021/anything2explainer",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "EverettFish/holo-card-studio",
+    "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
+    "language": "Python",
+    "stars": 1689,
+    "forks": 228,
+    "created_at": "2026-09-07T00:41:18Z",
+    "url": "https://github.com/EverettFish/holo-card-studio",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "NandhaKishorM/laya",
+    "description": "",
+    "language": "Python",
+    "stars": 1669,
+    "forks": 152,
+    "created_at": "2026-09-18T04:46:33Z",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "mcncarl/jianying-headless",
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "language": "Python",
+    "stars": 1631,
+    "forks": 688,
+    "created_at": "2026-09-15T11:51:15Z",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "qingjian-team/qingjian",
+    "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
+    "language": "Rust",
+    "stars": 1485,
+    "forks": 137,
+    "created_at": "2026-09-07T08:25:30Z",
+    "url": "https://github.com/qingjian-team/qingjian",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "achimala/dream-loop",
+    "description": "Agent skill for impressive 3D visuals using Blender + image gen + subagent critic",
+    "language": "JavaScript",
+    "stars": 1433,
+    "forks": 159,
+    "created_at": "2026-09-07T14:19:20Z",
+    "url": "https://github.com/achimala/dream-loop",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "Chuloo/mural",
+    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+    "language": "Kotlin",
+    "stars": 1391,
+    "forks": 275,
+    "created_at": "2026-09-12T11:51:08Z",
+    "url": "https://github.com/Chuloo/mural",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "jarrodwatts/jev-trader",
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "language": "TypeScript",
+    "stars": 1350,
+    "forks": 261,
+    "created_at": "2026-09-16T21:36:20Z",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "yi1108/printfilm",
+    "description": "PRINTFILM：AI 视频获客与 AI短剧创作平台",
+    "language": "Python",
+    "stars": 1290,
+    "forks": 114,
+    "created_at": "2026-09-10T02:08:47Z",
+    "url": "https://github.com/yi1108/printfilm",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "crwdla/tokentab",
+    "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+    "language": "Python",
+    "stars": 1145,
+    "forks": 216,
+    "created_at": "2026-09-07T17:18:31Z",
+    "url": "https://github.com/crwdla/tokentab",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "TianyuCodings/NanoJev",
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "language": "Python",
+    "stars": 1075,
+    "forks": 141,
+    "created_at": "2026-09-17T16:08:30Z",
+    "url": "https://github.com/TianyuCodings/NanoJev",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "sumimakito/Mac-Duo",
+    "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+    "language": "Swift",
+    "stars": 1038,
+    "forks": 74,
+    "created_at": "2026-09-10T18:55:39Z",
+    "url": "https://github.com/sumimakito/Mac-Duo",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "vinnylarouge/jevlike",
+    "description": "",
+    "language": "Python",
+    "stars": 1009,
+    "forks": 85,
+    "created_at": "2026-09-16T10:26:01Z",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "unstablebuild/rune",
+    "description": "the development environment for pros",
+    "language": "Go",
+    "stars": 1005,
+    "forks": 76,
+    "created_at": "2026-09-10T10:50:03Z",
+    "url": "https://github.com/unstablebuild/rune",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "agentverse-os/AgentVerse-OS",
+    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+    "language": "Rust",
+    "stars": 941,
+    "forks": 24,
+    "created_at": "2026-09-12T18:20:00Z",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "gazijarin/itsgiving",
+    "description": "Express yourself in meetings (with memes, of course).",
+    "language": "Python",
+    "stars": 926,
+    "forks": 114,
+    "created_at": "2026-09-08T05:02:01Z",
+    "url": "https://github.com/gazijarin/itsgiving",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "zhengkid/Dream-RSI",
+    "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+    "language": "",
+    "stars": 895,
+    "forks": 86,
+    "created_at": "2026-09-13T20:39:43Z",
+    "url": "https://github.com/zhengkid/Dream-RSI",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "zjwzcx/Awesome-Astra-Embodied-AI",
+    "description": "GPT-6 Astra for embodied AI and robotics.",
+    "language": "",
+    "stars": 891,
+    "forks": 17,
+    "created_at": "2026-09-12T12:20:24Z",
+    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "yifanzhang-pro/recurrent-looped-tranformer",
+    "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+    "language": "HTML",
+    "stars": 882,
+    "forks": 86,
+    "created_at": "2026-09-12T19:02:46Z",
+    "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "ArasTey/lunel",
+    "description": "",
+    "language": "Python",
+    "stars": 868,
+    "forks": 2045,
+    "created_at": "2026-09-09T06:58:25Z",
+    "url": "https://github.com/ArasTey/lunel",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "kruzovic7/ai-data-extractor",
+    "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Windsurf, Aider, Cline/Roo Code, and more.",
+    "language": "Python",
+    "stars": 840,
+    "forks": 135,
+    "created_at": "2026-09-11T18:12:58Z",
+    "url": "https://github.com/kruzovic7/ai-data-extractor",
+    "date": "2026-09-20"
+  },
+  {
+    "repo": "youngyangyang04/llm-master",
+    "description": "大模型（LLM）全栈学习路线与中文教程🔥：覆盖 Prompt Engineering、RAG、AI Agent、MCP、微调、模型部署、Transformer、AI 编程与大厂面试，从入门到生产实践。",
+    "language": "",
+    "stars": 803,
+    "forks": 79,
+    "created_at": "2026-09-12T07:33:31Z",
+    "url": "https://github.com/youngyangyang04/llm-master",
+    "date": "2026-09-20"
+  }
+]
