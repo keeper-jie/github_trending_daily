@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
+    "rank": 1,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "CSE 452: Google's Introduction to Distributed System Design",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+    "rank": 2,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Fighting for #1 in the Ultimate Tic-Tac-Toe Arena",
+    "score": 0,
+    "num_comments": 0,
+    "author": "IiIIIlllllLliLl",
+    "url": "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
+    "rank": 3,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Writing Your Own Allocator in Rust (and Why You Should)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "PastEar9661",
+    "url": "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
+    "rank": 4,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Covert Caches: When Is A Cache, A Cache?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/",
+    "rank": 5,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "(C++) Asynchronous API",
+    "score": 0,
+    "num_comments": 0,
+    "author": "grishavanika",
+    "url": "https://www.reddit.com/r/programming/comments/1wlpi6i/c_asynchronous_api/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlpi6i/c_asynchronous_api/",
+    "rank": 6,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Adversarial examples for fast hash functions",
+    "score": 0,
+    "num_comments": 0,
+    "author": "thomasahle",
+    "url": "https://www.reddit.com/r/programming/comments/1wlfnfe/adversarial_examples_for_fast_hash_functions/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlfnfe/adversarial_examples_for_fast_hash_functions/",
+    "rank": 7,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "You can run git on object storage if you re-make packfiles",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Either_Collection349",
+    "url": "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkrfqw/you_can_run_git_on_object_storage_if_you_remake/",
+    "rank": 8,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Good Tools Are Invisible",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wkugvr/good_tools_are_invisible/",
+    "rank": 9,
+    "date": "2026-09-21"
+  },
+  {
+    "subreddit": "programming",
+    "title": "\"the main purpose of unit tests is keeping your code from being violently sh*t on by others\"",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mareek",
+    "url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wk4lod/the_main_purpose_of_unit_tests_is_keeping_your/",
+    "rank": 10,
+    "date": "2026-09-21"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+    "authors": "Hongyang Du, Lan Yan, Christian Flores, Asim Kadav",
+    "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro",
+    "categories": "cs.AI, cs.CV",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22086v1",
+    "abs_url": "https://arxiv.org/abs/2609.22086v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "MintAct: A Unified Visual Agent for Digital Environments",
+    "authors": "Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang...",
+    "summary": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through ",
+    "categories": "cs.CV",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22083v1",
+    "abs_url": "https://arxiv.org/abs/2609.22083v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+    "authors": "Aho Yapi, Pierre Latouche, Arnaud Guillin, Yan Bailly",
+    "summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can fa",
+    "categories": "cs.CL",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22081v1",
+    "abs_url": "https://arxiv.org/abs/2609.22081v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
+    "authors": "Wenxue Li, Peiyan Guan, Haoyang Jiang, Junxian Cai, Hualuo Liu...",
+    "summary": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks f",
+    "categories": "cs.CV",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22069v1",
+    "abs_url": "https://arxiv.org/abs/2609.22069v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+    "authors": "Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang...",
+    "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically",
+    "categories": "cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22068v1",
+    "abs_url": "https://arxiv.org/abs/2609.22068v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+    "authors": "Renkai Ma, Ruyuan Wan, Xuan Lu, Fan Yang, Chen Chen...",
+    "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22067v1",
+    "abs_url": "https://arxiv.org/abs/2609.22067v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+    "authors": "Alexandre Andre, Shivashriganesh P. Mahato, Vinam Arora, Keshav Balaji, Divyansha Lachi...",
+    "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn g",
+    "categories": "cs.LG, q-bio.NC",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22064v1",
+    "abs_url": "https://arxiv.org/abs/2609.22064v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Traffic Sign Recognition for Autonomous Driving Using Branched YOLOv2 and Geometric Features",
+    "authors": "Arefeh Rezaei",
+    "summary": "Traffic sign recognition (TSR) is an important perception task for autonomous driving and advanced driver-assistance systems, where a system must both localize traffic signs and determine their semant",
+    "categories": "cs.CV",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22060v1",
+    "abs_url": "https://arxiv.org/abs/2609.22060v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Predictable Failure in Multi-Hop Retrieval: Score-Distributional Confidence Scoring and Abstention",
+    "authors": "Andre Bacellar",
+    "summary": "Multi-hop retrieval failures are not uniformly distributed across queries: they cluster in structurally predictable subpopulations. We prove two results formalizing this structure. First (CWAR Reducib",
+    "categories": "cs.IR, cs.CL, cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22056v1",
+    "abs_url": "https://arxiv.org/abs/2609.22056v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Benchmarking World Models for Continual Learning on Compositional Tasks",
+    "authors": "Haoyu Zhou, Joe Watson, Anson Lei, Ingmar Posner",
+    "summary": "A desirable property of a world model is the ability to learn continually across tasks, adapting to new environments without forgetting what the agent has already learnt. In particular, the ability to",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22055v1",
+    "abs_url": "https://arxiv.org/abs/2609.22055v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Particle Competition and Cooperation for Robust Graph Convolutional Network Learning Under Label Noise",
+    "authors": "Fabricio Breve",
+    "summary": "Graph Convolutional Networks (GCNs) are highly sensitive to label noise, since corrupted supervision can propagate through the graph and degrade learned node representations. This work proposes PCC+GC",
+    "categories": "cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22053v1",
+    "abs_url": "https://arxiv.org/abs/2609.22053v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+    "authors": "Parivesh Priye, Yufeng Wang, Haibin Ling, Michael Chaykowsky",
+    "summary": "A selective predictor acts as a safety gate: it returns an output only when the prediction appears sufficiently trustworthy. Deployments increasingly require this reliability to be certified at a targ",
+    "categories": "cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22048v1",
+    "abs_url": "https://arxiv.org/abs/2609.22048v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "An Interpretable Memory Decision Controller for LLM Agents Based on Three-Signal Complementarity: Decoupling Confidence and Consistency",
+    "authors": "Yiming Zhang, Jinghong Zhang, Haoran Zhao, Yiren Ma, Chunlei Zhao",
+    "summary": "Memory systems for large language models have focused predominantly on efficient retrieval, whereas the decision of whether retrieved memories should be trusted has received comparatively little atten",
+    "categories": "cs.CL",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22043v1",
+    "abs_url": "https://arxiv.org/abs/2609.22043v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "$λ$-Controlled GRPO: Turning Flow-Matching Ratio Instability into a Budgeted Resource",
+    "authors": "Yufeng Wang, Parivesh Priye, Meeshawn Marathe, Ramit Pahwa",
+    "summary": "Reinforcement learning is increasingly used to align image generators with reward signals, and Flow-GRPO recently extended this paradigm to flow-matching models by treating the denoising sampler as a ",
+    "categories": "cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22041v1",
+    "abs_url": "https://arxiv.org/abs/2609.22041v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models",
+    "authors": "Erik Deinzer, Naya Baslan, Luca Paparusso, Narunas Vaskevicius, Peter Knott...",
+    "summary": "Current Vision-Language-Action (VLA) models for autonomous driving operate primarily through feedforward inference across the perception--reasoning--planning hierarchy. While modern architectures main",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22040v1",
+    "abs_url": "https://arxiv.org/abs/2609.22040v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Gricea: An Open Science Platform for Conversational AI Research",
+    "authors": "Nikhil Sharma, Yunlin Gong, Xinyang Cheng, Ziang Xiao",
+    "summary": "We need studies on conversational AI (CAI) at scale to understand human behavior and shape CAI design. However, fragmented reporting of systems and study configurations hinders replication, extension,",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22039v1",
+    "abs_url": "https://arxiv.org/abs/2609.22039v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "QuranicMMLU: A Cognitively-Aware Benchmark for Evaluating Generative AI Solutions on Quranic Linguistic Knowledge",
+    "authors": "Rawan El Ghali, Umm Kulsoom, Anas Madkoor, Dima Faris Alsaudi, Roaa Abdelmagid...",
+    "summary": "We introduce QuranicMMLU, a benchmark for evaluating generative AI on Quranic Arabic across multiple dimensions of linguistic complexity. Existing Quranic benchmarks center on general question answeri",
+    "categories": "cs.CL",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22038v1",
+    "abs_url": "https://arxiv.org/abs/2609.22038v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "COMPLEX: A Closed-Form Certified Embedding of Multiparameter Persistence Modules",
+    "authors": "Sushovan Majhi, Atish Mitra, Žiga Virk, Pramita Bagchi",
+    "summary": "Every multiparameter persistence vectorization we know of carries a one-sided Lipschitz upper bound and nothing below it: without a lower gauge there is no sense in which the features are faithful, an",
+    "categories": "cs.LG, math.AT",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22012v1",
+    "abs_url": "https://arxiv.org/abs/2609.22012v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "DiaVLo: Diagnosing Behaviours of Vision-Language Models",
+    "authors": "Lorenzo Corti, Jie Yang",
+    "summary": "Vision-language models (VLMs) rely on storing and transferring appropriate information across their sub-components. Verifying that the VLMs exhibit desired behaviours, while avoiding harmful ones, is ",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22008v1",
+    "abs_url": "https://arxiv.org/abs/2609.22008v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Abstention and Noise Filtering: Two Missing Primitives of Softmax Attention",
+    "authors": "Richard Zhe Wang",
+    "summary": "Gating the value pathway of attention reportedly improves language model pretraining, and prior studies disagree on why. We argue and provide experimental evidence that such gates supply two different",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22005v1",
+    "abs_url": "https://arxiv.org/abs/2609.22005v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+    "authors": "Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu...",
+    "summary": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather",
+    "categories": "cs.CL, cs.SE",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.22000v1",
+    "abs_url": "https://arxiv.org/abs/2609.22000v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Bayesian Belief Layer for Controllable Opinion Dynamics in LLM Agents",
+    "authors": "Hafsa Akbar, Daniel Platnick, Marjan Alirezaie, Hossein Rahnama",
+    "summary": "LLM agents in social simulation revise their opinions implicitly, in context: how open an agent is to persuasion can neither be specified nor verified, and collective outcomes inherit the model's trai",
+    "categories": "cs.MA, cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21997v1",
+    "abs_url": "https://arxiv.org/abs/2609.21997v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal",
+    "authors": "Hiskias Dingeto",
+    "summary": "Large language models can hold knowledge they do not report. A model may sandbag on a capability evaluation, or answer against what it internally knows, and its outputs alone cannot tell whether it is",
+    "categories": "cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21996v1",
+    "abs_url": "https://arxiv.org/abs/2609.21996v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Assessment of Machine Learning-Based Critical Heat Flux Models in the CTF Subchannel Code for Square Rod Bundle Prediction",
+    "authors": "Aidan Furlong, Vinicius de Melo Monteiro, Robert Salko, Juliana Pacheco Duarte, Xu Wu",
+    "summary": "The prediction of critical heat flux (CHF), a key safety-related quantity in nuclear thermal hydraulics, remains an important challenge due to its direct relationship with fuel performance and reactor",
+    "categories": "cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21995v1",
+    "abs_url": "https://arxiv.org/abs/2609.21995v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+    "authors": "Maciej Skorski",
+    "summary": "Most work in computational ethics treats annotator disagreement on moral content as noise to be voted away, collapsed into majority vote or the more permissive any-annotator rule the moment a single a",
+    "categories": "cs.CL, cs.CY, stat.ML",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21992v1",
+    "abs_url": "https://arxiv.org/abs/2609.21992v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Time series generation with spectrally aligned latent flow matching",
+    "authors": "Camilo Carvajal Reyes, Felipe Tobar",
+    "summary": "Latent flow models have proven to be a reliable and cost-effective method for time series generation. However, the latent compression induces unwanted artefacts, such as a spectral mismatch with respe",
+    "categories": "cs.LG",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21989v1",
+    "abs_url": "https://arxiv.org/abs/2609.21989v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Multiplicative Optimism for Constant Regret in Games",
+    "authors": "Ashkan Soleymani, Georgios Piliouras",
+    "summary": "We introduce Multiplicatively Optimistic Regret Matching (MORM), an uncoupled learning rule for finite general-sum games. Under simultaneous full-information self-play, every player achieves external ",
+    "categories": "cs.GT, cs.LG, math.OC",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21976v1",
+    "abs_url": "https://arxiv.org/abs/2609.21976v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "NemotronLabs VoiceChat: An Open Full-duplex Speech-to-Speech Model with Tool Calling Capabilities",
+    "authors": "Jagadeesh Balam, Travis Bartley, Edresson Casanova, Sanjay Chauhan, Chen Chen...",
+    "summary": "We introduce NemotronLabs VoiceChat, an open full-duplex speech-to-speech model with native tool-calling capabilities. NemotronLabs VoiceChat combines a streaming speech encoder and decoder-only langu",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21967v1",
+    "abs_url": "https://arxiv.org/abs/2609.21967v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Learning Cardiac Features: ECG Biometrics Across Time and~Exercise",
+    "authors": "Luca Thiebaud, Paul Chauchat, Mustapha Ouladsine, Stéphane Delliaux",
+    "summary": "Electrocardiograms (ECGs) carry subject-specific patterns enabling reliable individual discrimination, forming the basis of ECG biometrics. Beyond authentication, this paradigm holds significant poten",
+    "categories": "cs.AI, q-bio.TO",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21962v1",
+    "abs_url": "https://arxiv.org/abs/2609.21962v1",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Schedule optimization for tau-leaping in masked discrete diffusion",
+    "authors": "Cecilia Secchi, Giacomo Zanella",
+    "summary": "Masked discrete diffusion models are commonly accelerated using the so-called tau-leaping discretization method, which reveals several coordinates in parallel at each sampling step. The sampler replac",
+    "categories": "math.ST, cs.LG, stat.ML",
+    "published": "2026-09-18",
+    "pdf_url": "https://arxiv.org/pdf/2609.21960v1",
+    "abs_url": "https://arxiv.org/abs/2609.21960v1",
+    "date": "2026-09-21"
+  }
+]

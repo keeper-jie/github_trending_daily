@@ -1,0 +1,162 @@
+[
+  {
+    "title": "EvoOntology: A Self-Evolving Ontology Layer for Data Agents",
+    "authors": "Meiduo Chong, Shaolei Zhang, Ju Fan, Xiaoyong Du",
+    "summary": "Data agents aim to fulfill natural-language instructions over heterogeneous data, including tables, files, and databases. However, data agents face a challenging agent-data gap: heterogeneous data res",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2609.15779",
+    "paper_url": "https://arxiv.org/abs/2609.15779",
+    "published_at": "2026-09-14",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents",
+    "authors": "Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu...",
+    "summary": "Computer-use agents (CUAs) have advanced along two separate lines: graphical interaction and software development through code and the command line. Real digital work requires both, interleaved rather",
+    "upvotes": 36,
+    "url": "https://huggingface.co/papers/2609.22000",
+    "paper_url": "https://arxiv.org/abs/2609.22000",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+    "authors": "Bowen Ye, Lei Li, Shicheng Li, Zihao Yue, Linghao Zhang...",
+    "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2609.22068",
+    "paper_url": "https://arxiv.org/abs/2609.22068",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Grounded Skill Synthesis from Code at Scale for Agentic Intelligence",
+    "authors": "Yongqi Tong, Pan Wang, Hang Wang, Jianshe Li, Xin Zhang...",
+    "summary": "Reusable skills give agents transferable procedural knowledge, making scalable acquisition essential for extending agents beyond prior experience. Existing methods face two limitations: trajectory-bas",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2609.05571",
+    "paper_url": "https://arxiv.org/abs/2609.05571",
+    "published_at": "2026-09-04",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+    "authors": "Ji Xie, Dewei Zhou, Xinyu Huang, Zhennan Chen, Xun Wang",
+    "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2609.20816",
+    "paper_url": "https://arxiv.org/abs/2609.20816",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation",
+    "authors": "Wenxue Li, Peiyan Guan, Haoyang Jiang, Junxian Cai, Hualuo Liu...",
+    "summary": "Reference-to-video (R2V) generation is evolving toward increasingly general and versatile reference control, giving rise to the emerging paradigm of omni R2V generation. However, existing benchmarks f",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.22069",
+    "paper_url": "https://arxiv.org/abs/2609.22069",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills",
+    "authors": "Rui Sun, Zhi Zheng, Zhenkun Wang, Zhichao Lu",
+    "summary": "Skills can improve the performance of Large Language Model (LLM) agents by providing task-specific procedural guidance, while skill optimization further improves their effectiveness through iterative ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.21749",
+    "paper_url": "https://arxiv.org/abs/2609.21749",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "MintAct: A Unified Visual Agent for Digital Environments",
+    "authors": "Mingfei Gao, Rui Tian, Haiming Gang, Bohan Zhai, Le Zhang...",
+    "summary": "We present MintAct, a family of vision-language models that unifies UI grounding, multi-step navigation across mobile, desktop, and web, and visual tool use, trained at 2B, 4B, and 8B scales. Through ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.22083",
+    "paper_url": "https://arxiv.org/abs/2609.22083",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
+    "authors": "Sy-Tuyen Ho, Minghui Liu, Furong Huang",
+    "summary": "Large language models (LLMs) increasingly participate in scientific evaluation, both as automated reviewers and as assistants to human reviewers. As model-generated reviews enter public data and futur",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.20942",
+    "paper_url": "https://arxiv.org/abs/2609.20942",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup",
+    "authors": "Muchen Li, Leonid Sigal, Renjie Liao",
+    "summary": "Scaling large language models efficiently has motivated sparse capacity mechanisms such as Mixture-of-Experts and, more recently, conditional memory: token-indexed embedding tables that augment the ba",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.15126",
+    "paper_url": "https://arxiv.org/abs/2609.15126",
+    "published_at": "2026-09-14",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Calibrating Teacher--Student Discrepancy for On-Policy Distillation",
+    "authors": "Qiangqiang He, Jin Li, MingCai Chen",
+    "summary": "On-policy distillation (OPD) improves reasoning models by learning the token-level discrepancy between a stronger teacher and an on-policy student. However, this discrepancy does not purely reflect th",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.21619",
+    "paper_url": "https://arxiv.org/abs/2609.21619",
+    "published_at": "2026-09-18",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation",
+    "authors": "Can Li, Jie Gu, Zishun Deng, Jingmin Chen, Lei Sun",
+    "summary": "Creating deformable assets for robot manipulation requires jointly specifying their geometry, appearance, and physical properties. This is especially challenging for deformable objects, since text and",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.18620",
+    "paper_url": "https://arxiv.org/abs/2609.18620",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection",
+    "authors": "Huiyuan Liu, Zhiming Ma, Yanxing Liu, Shun Zhang, Qifan Wang...",
+    "summary": "Telecom fraud scripts evolve rapidly and are often designed to resemble routine service conversations, creating two key requirements for audio-based telecom-fraud evaluation. First, benchmarks must in",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.18748",
+    "paper_url": "https://arxiv.org/abs/2609.18748",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation",
+    "authors": "Meng&#39;en Qin, Yinchen Liu, Mingxuan Cui, Youlu Xing",
+    "summary": "Visual signals require compact yet sufficient representations for robust downstream prediction. Convolutional sparse coding (CSC) provides an explicit mechanism for suppressing redundant components wh",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.19122",
+    "paper_url": "https://arxiv.org/abs/2609.19122",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads",
+    "authors": "Meng&#39;en Qin, Junye Chen, Jucheng Liu, Youlu Xing, Song Wang...",
+    "summary": "Multimodal Large Language Models (MLLMs) often struggle with hallucinations, thus hindering their reliable practical applications. Existing attention-based mitigation methods mainly rely on indirect s",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.09206",
+    "paper_url": "https://arxiv.org/abs/2609.09206",
+    "published_at": "2026-09-05",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Learning Foresight without Explicit Trajectories for 3D Diffusion Policies",
+    "authors": "Zhongbo Zhang, Zaibin Zhang, Yifan Wang, Changbo Yan, Lijun Wang...",
+    "summary": "3D diffusion policies are strong at generating geometrically grounded actions from current observations, but successful manipulation requires not only knowing what motion is feasible now, but also ant",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.20669",
+    "paper_url": "https://arxiv.org/abs/2609.20669",
+    "published_at": "2026-09-17",
+    "date": "2026-09-21"
+  }
+]
