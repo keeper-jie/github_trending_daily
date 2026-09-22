@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "TIL: 0xCAFEBABE",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pwbdecker",
+    "url": "https://www.reddit.com/r/programming/comments/1wmqwd3/til_0xcafebabe/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wmqwd3/til_0xcafebabe/",
+    "rank": 1,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Back to Coupling and Cohesion",
+    "score": 0,
+    "num_comments": 0,
+    "author": "areklanga",
+    "url": "https://www.reddit.com/r/programming/comments/1wmckoi/back_to_coupling_and_cohesion/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wmckoi/back_to_coupling_and_cohesion/",
+    "rank": 2,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Bernstein’s Factorization Method Helped Factor RSA-240 in 2020",
+    "score": 0,
+    "num_comments": 0,
+    "author": "DataBaeBee",
+    "url": "https://www.reddit.com/r/programming/comments/1wmio31/bernsteins_factorization_method_helped_factor/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wmio31/bernsteins_factorization_method_helped_factor/",
+    "rank": 3,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Saving another 100TB of RAM with math (and Rust)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlwr9e/saving_another_100tb_of_ram_with_math_and_rust/",
+    "rank": 4,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "CSE 452: Google's Introduction to Distributed System Design",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wm24ab/cse_452_googles_introduction_to_distributed/",
+    "rank": 5,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Covert Caches: TLB Edition",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wmsvny/covert_caches_tlb_edition/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wmsvny/covert_caches_tlb_edition/",
+    "rank": 6,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Fighting for #1 in the Ultimate Tic-Tac-Toe Arena",
+    "score": 0,
+    "num_comments": 0,
+    "author": "IiIIIlllllLliLl",
+    "url": "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlnfhn/fighting_for_1_in_the_ultimate_tictactoe_arena/",
+    "rank": 7,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Covert Caches: When Is A Cache, A Cache?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wm30hh/covert_caches_when_is_a_cache_a_cache/",
+    "rank": 8,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Functions explained in \"Let's make a programming language\"",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Xaneris47",
+    "url": "https://www.reddit.com/r/programming/comments/1wmbv4d/functions_explained_in_lets_make_a_programming/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wmbv4d/functions_explained_in_lets_make_a_programming/",
+    "rank": 9,
+    "date": "2026-09-22"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Writing Your Own Allocator in Rust (and Why You Should)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "PastEar9661",
+    "url": "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wlho4z/writing_your_own_allocator_in_rust_and_why_you/",
+    "rank": 10,
+    "date": "2026-09-22"
+  }
+]

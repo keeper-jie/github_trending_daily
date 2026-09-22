@@ -1,0 +1,152 @@
+[
+  {
+    "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+    "authors": "Peng Xia, Rujun Han, Zifeng Wang, Yanfei Chen, Yufan Zhang...",
+    "summary": "An LLM agent's capability is largely magnified by its harness, namely the prompts, control flow, tooling, memory, and context management surrounding the frozen backbone model. Recent methods increasin",
+    "upvotes": 56,
+    "url": "https://huggingface.co/papers/2609.24972",
+    "paper_url": "https://arxiv.org/abs/2609.24972",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Transferring the Intelligence of VLMs to Robotic Control",
+    "authors": "Meng-Hao Guo, Zhe-Han Mo, Jia-Jun Wang, Yi Zhang, Kejin Wang...",
+    "summary": "Humans can seamlessly adapt to both physical and digital worlds, suggesting that while a digital-to-real gap exists in embodiment, environment and task, human intelligence itself may transfer across t",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2609.22966",
+    "paper_url": "https://arxiv.org/abs/2609.22966",
+    "published_at": "2026-09-19",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+    "authors": "Wangbo Yu, Kunhao Liu, Wenbo Hu, Shenghai Yuan, Chaoran Feng...",
+    "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2609.24984",
+    "paper_url": "https://arxiv.org/abs/2609.24984",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+    "authors": "Binxu Li, Haoyi Duan, Yuhui Zhang, Yaohui Zhang, Zihao Lin...",
+    "summary": "Recent advances in video generative models have enabled high-fidelity, temporally coherent video generation. However, these models often struggle to satisfy prompts requiring specialized knowledge, sp",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2609.24997",
+    "paper_url": "https://arxiv.org/abs/2609.24997",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+    "authors": "Yiran Wang, Xingyilang Yin, Junfu Pu, Guangzhi Wang, Kaifeng Li...",
+    "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2609.25001",
+    "paper_url": "https://arxiv.org/abs/2609.25001",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Grounded Action Model: 3D Grounding as a Foundation for Robotics",
+    "authors": "Gehao Zhang, Weikai Huang, Shailesh Shailesh, Yiyan Peng, Jiafei Duan...",
+    "summary": "Manipulation policies must know which objects matter and where they are, yet the pretrained backbones that current robot foundation models build on, from language in vision-language-action models (VLA",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.23863",
+    "paper_url": "https://arxiv.org/abs/2609.23863",
+    "published_at": "2026-09-20",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+    "authors": "Jie Zhao, Ziyu Jiang, Suhang Zheng, Minghui Shan, Xiaoxiao Xu...",
+    "summary": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with re",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.23377",
+    "paper_url": "https://arxiv.org/abs/2609.23377",
+    "published_at": "2026-09-20",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Harness-Zero: Harness Distillation via Agent-as-Harness",
+    "authors": "Haoran Ye, Yuxing Lu, Haonan Dong, Zhaochen Su, Guojie Song",
+    "summary": "Agent harnesses, the external systems that mediate model-environment interaction, can substantially improve agent performance, but their gains remain tied to the harness at deployment. Because the bes",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.24974",
+    "paper_url": "https://arxiv.org/abs/2609.24974",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms",
+    "authors": "Yueyan Li, Haibo Wang, Caixia Yuan, Xiaojie Wang",
+    "summary": "Despite impressive visual quality, state-of-the-art video diffusion models often generate content that violates real-world physical laws. While existing solutions rely on external priors or specialize",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.23658",
+    "paper_url": "https://arxiv.org/abs/2609.23658",
+    "published_at": "2026-09-20",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "HuRo: Robotizing Human Videos for Scalable VLA Pretraining",
+    "authors": "Jinho Jeong, Se June Joo, Jaehyun Kang, Dongyun Kim, Yena Kim...",
+    "summary": "Human video datasets offer an abundant and diverse source of interaction data that can complement expensive real-robot data. To bridge the human-to-robot embodiment gap, existing approaches either rob",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.10706",
+    "paper_url": "https://arxiv.org/abs/2609.10706",
+    "published_at": "2026-09-18",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation",
+    "authors": "Huanxin Sheng, Zhiling Ye, Haonan Wang, Jian Wang, Jinjie Gu...",
+    "summary": "Sparse on-policy distillation (OPD) allocates teacher supervision to a small subset of tokens in student-generated trajectories. However, useful teacher guidance can yield a noisy update when its grad",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.24432",
+    "paper_url": "https://arxiv.org/abs/2609.24432",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+    "authors": "Lei Yang, Mengyin Liu, Jia Wang, Hangyu Guo, Liang Zhao...",
+    "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.24983",
+    "paper_url": "https://arxiv.org/abs/2609.24983",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents",
+    "authors": "Dongming Jiang, Yi Li, Bingzhe Li",
+    "summary": "Agentic memory is becoming essential for long-horizon AI agents, yet many existing systems rely on autoregressive LLMs to control how memories are organized, retrieved, and used, placing expensive gen",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.23986",
+    "paper_url": "https://arxiv.org/abs/2609.23986",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles",
+    "authors": "Mingzhe Du, Anh Tuan Luu, Dong Huang, See-Kiong Ng",
+    "summary": "Benchmarks for LLM-generated GPU kernels decide correctness with a few random inputs and a loose floating-point tolerance, and their verdicts now feed leaderboards and reinforcement-learning rewards. ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.22220",
+    "paper_url": "https://arxiv.org/abs/2609.22220",
+    "published_at": "2026-09-02",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies",
+    "authors": "Trung Dao, Sankalp Yamsani, Jaden Park, Joohyung Kim, Yong Jae Lee",
+    "summary": "Vision-Language-Action (VLA) models map observations to actions with no objective that accounts for how the world responds, so their robustness is bounded primarily by data coverage. World models carr",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.24682",
+    "paper_url": "https://arxiv.org/abs/2609.24682",
+    "published_at": "2026-09-21",
+    "date": "2026-09-22"
+  }
+]
