@@ -1,0 +1,142 @@
+[
+  {
+    "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
+    "authors": "Hangyu Ran, Yuhao Zheng, Yingying Zhang, Kevin Qinghong Lin, Han Peng",
+    "summary": "Generating Scalable Vector Graphics (SVG) code from natural-language instructions is an open-ended task without absolute visual ground truth, leaving both evaluation and policy optimization without a ",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2609.25270",
+    "paper_url": "https://arxiv.org/abs/2609.25270",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+    "authors": "Jiahao Lu, Minghao Yin, Wenbo Hu, Hengyu Liu, Wang Zhao...",
+    "summary": "We present a compact geometry-native latent space as a shared foundation for perception and generation. Visual generators can produce photorealistic frames without preserving a consistent 3D scene. We",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2609.24981",
+    "paper_url": "https://arxiv.org/abs/2609.24981",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+    "authors": "Xiaoqiang Wang, Mengyang Xiong, Jun Dai, Bang Liu",
+    "summary": "Language models can be adapted by changing the computations applied to individual tokens. Quantum circuits offer one such approach, but evaluating wider circuits inside a large model can be computatio",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.24657",
+    "paper_url": "https://arxiv.org/abs/2609.24657",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Bellman Policy Optimization",
+    "authors": "Zhuoqing Song, Haotian Xu, Xikun Zhang, Lidong Bing",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived ",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.15987",
+    "paper_url": "https://arxiv.org/abs/2609.15987",
+    "published_at": "2026-09-14",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
+    "authors": "He Hu, Yucheng Zhou, Qianning Wang, Yingjian Zou, Chiyuan Ma...",
+    "summary": "The rising global prevalence of mental health conditions, together with longstanding barriers in traditional healthcare, such as limited resources, high cost, stigma, and privacy concerns, has created",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.25186",
+    "paper_url": "https://arxiv.org/abs/2609.25186",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+    "authors": "Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen",
+    "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.26796",
+    "paper_url": "https://arxiv.org/abs/2609.26796",
+    "published_at": "2026-09-22",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+    "authors": "Bao Tang, Jiahao Guo, Haoxiang Cao, Wenyu Liu, Changqian Yu...",
+    "summary": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.26774",
+    "paper_url": "https://arxiv.org/abs/2609.26774",
+    "published_at": "2026-09-22",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings",
+    "authors": "Embedding Team",
+    "summary": "In this report, we introduce Ovis-Embedding, a state-of-the-art omni-modal embedding family built on native integration of text, image, video, and audio. Instead of assembling separate modality towers",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.25165",
+    "paper_url": "https://arxiv.org/abs/2609.25165",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+    "authors": "Xingsong Ye, Yongkun Du, Jiaxin Zhang, Zhixian Li, Chong Sun...",
+    "summary": "Multilingual scene text recognition (STR) remains challenging due to the scarcity of training data for most languages and the difficulty of serving diverse scripts within a single model. Existing solu",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.24058",
+    "paper_url": "https://arxiv.org/abs/2609.24058",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Lean Pool: An AI-Maintained Archive of Formalized Mathematics",
+    "authors": "Vasily Ilin",
+    "summary": "Lean Pool is a repository of formalized mathematics. It is grown, maintained and optimized by AI agents.",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.25199",
+    "paper_url": "https://arxiv.org/abs/2609.25199",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Recursive self-improvement of AI research agents",
+    "authors": "Dhruv Srikanth, Bingchen Zhao, Dixing Xu, Yuxiang Wu, Zhengyao Jiang",
+    "summary": "AI agents are beginning to automate research and development across the AI stack, from improving training efficiency to optimizing inference. A natural next step is to improve the research efficiency ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.26457",
+    "paper_url": "https://arxiv.org/abs/2609.26457",
+    "published_at": "2026-09-22",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes",
+    "authors": "Hanyang Kong, Xingyi Yang",
+    "summary": "Interaction understanding in 3D scenes requires a joint description of movable parts, their motion, and the regions through which they can be operated. We present Segment-Snap, which connects these ou",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.25247",
+    "paper_url": "https://arxiv.org/abs/2609.25247",
+    "published_at": "2026-09-21",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+    "authors": "Wenbo Pan, Zhichao Liu, Shujie Liu, Jingying Zeng, Chin-Yew Lin...",
+    "summary": "LLM agents increasingly work on long-horizon tasks, and the decisions they make along the way, such as which hypothesis to test or which implementation to build on, determine the outcome of the whole ",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.25804",
+    "paper_url": "https://arxiv.org/abs/2609.25804",
+    "published_at": "2026-09-22",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning",
+    "authors": "Neeraj Yadav",
+    "summary": "Few-shot learning research is predominantly evaluated on accuracy alone, with limited attention to the parameter and training-sample budgets required to reach that accuracy - a real constraint for pra",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.22323",
+    "paper_url": "https://arxiv.org/abs/2609.22323",
+    "published_at": "2026-09-16",
+    "date": "2026-09-23"
+  }
+]

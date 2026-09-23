@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+    "authors": "Quan Nguyen-Tri, Mukul Ranjan, Zhiqiang Shen",
+    "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema",
+    "categories": "cs.CL",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26796v1",
+    "abs_url": "https://arxiv.org/abs/2609.26796v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
+    "authors": "Runyi Yang, Deheng Zhang, Xiaoye Wang, Kanzhi Wu, Lei Sun...",
+    "summary": "3D Gaussian Splatting (3DGS) can reconstruct a captured scene photorealistically, but the resulting representation does not by itself support physical interaction. Robot simulation instead requires ob",
+    "categories": "cs.RO, cs.CV, cs.GR",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26795v1",
+    "abs_url": "https://arxiv.org/abs/2609.26795v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+    "authors": "Shufan Sun, Chen Wang, Enxin Song, Jiatao Gu, Lingjie Liu",
+    "summary": "Compositional 3D scene reconstruction has recently been explored from two directions: agentic reasoning that provides semantic understanding of spatial relationships but lacks precise alignment with i",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26793v1",
+    "abs_url": "https://arxiv.org/abs/2609.26793v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+    "authors": "Ziyang Leng, Sicheng Mo, Seth Z. Zhao, Haoyuan Cai, Yu Zeng...",
+    "summary": "Faithfully evaluating end-to-end driving policies in simulation requires observations that are not merely photo-realistic, but preserve the scene features a policy relies on to make decisions. Existin",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26792v1",
+    "abs_url": "https://arxiv.org/abs/2609.26792v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
+    "authors": "Xiaoxing Ren, Thomas Parisini, Andreas A. Malikopoulos",
+    "summary": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod",
+    "categories": "math.OC, cs.LG, eess.SY, stat.ML",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26783v1",
+    "abs_url": "https://arxiv.org/abs/2609.26783v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+    "authors": "Zhihao Zhan, Ting Song, Li Dong, Shaohan Huang, Jianxun Lian...",
+    "summary": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag",
+    "categories": "cs.CL, cs.MA",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26781v1",
+    "abs_url": "https://arxiv.org/abs/2609.26781v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+    "authors": "Haobo Zheng, Tan Tang, Yan Chen, Weijie Wang, Yingcai Wu",
+    "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho",
+    "categories": "cs.CL, cs.AI, cs.IR, cs.LG",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26780v1",
+    "abs_url": "https://arxiv.org/abs/2609.26780v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
+    "authors": "Trang Nguyen, Eulrang Cho, Bingqing Chen, Tim Dettmers",
+    "summary": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompa",
+    "categories": "cs.AI, cs.LG, cs.SE",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26779v1",
+    "abs_url": "https://arxiv.org/abs/2609.26779v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving",
+    "authors": "Jennifer Williams, Dave Farris, Jeff Farris, Jiantao Jiao",
+    "summary": "We introduce SWE-Serve, a benchmark for evaluating agents on production inference engineering tasks. Implementing an inference feature can require coordinating multiple changes across the serving stac",
+    "categories": "cs.AI, cs.SE",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26777v1",
+    "abs_url": "https://arxiv.org/abs/2609.26777v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+    "authors": "Bao Tang, Jiahao Guo, Haoxiang Cao, Wenyu Liu, Changqian Yu...",
+    "summary": "Vector Quantization (VQ) is fundamental to discrete visual tokenizers that power modern autoregressive and masked image generation models. While recent shared-projection codebook methods have substant",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26774v1",
+    "abs_url": "https://arxiv.org/abs/2609.26774v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+    "authors": "Laizhen Li, Xuan Wang, Peicheng Zhao, Juanjuan Zhao, Kejiang Ye...",
+    "summary": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs",
+    "categories": "cs.CR, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26761v1",
+    "abs_url": "https://arxiv.org/abs/2609.26761v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
+    "authors": "Laizhen Li, Jiarui Li, Juanjuan Zhao, Kejiang Ye, Ye Li...",
+    "summary": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study ",
+    "categories": "cs.AI, cs.SE",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26760v1",
+    "abs_url": "https://arxiv.org/abs/2609.26760v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Type-Safe Is Not Error-Free: A Constrained Decision Head Follows the Option Name, Not the Rubric Bound to It",
+    "authors": "Yu Sun, Junhao Xu",
+    "summary": "Typed decision models are built for settings where model outputs are consumed directly by software. Instead of generating free-form text, they return a decision over a predefined set of options. By co",
+    "categories": "cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26758v1",
+    "abs_url": "https://arxiv.org/abs/2609.26758v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "FleXray: Universal Clinical X-ray Segmentation",
+    "authors": "Victor Ion Butoi, Vivek Gopalakrishnan, John V. Guttag, Adrian V. Dalca, Neel Dey",
+    "summary": "X-ray is medicine's most widely used imaging modality, yet remains among its least quantitative. Unlike volumetric modalities like CT or MRI, X-ray collapses 3D anatomy into a 2D projection, causing s",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26756v1",
+    "abs_url": "https://arxiv.org/abs/2609.26756v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "EquivSVA: A Formally Verified Dataset of Behavioral Assertions Across Equivalent RTL Implementations",
+    "authors": "FNU Aditi",
+    "summary": "Large language models are increasingly used to generate SystemVerilog Assertions from natural-language specifica- tions and register-transfer-level designs. Existing datasets and benchmarks support im",
+    "categories": "cs.LG",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26751v1",
+    "abs_url": "https://arxiv.org/abs/2609.26751v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen",
+    "authors": "Om Nepal, Sushant Aryal, Oluseyi Olukola, Nick Rahimi",
+    "summary": "Large language models (LLMs) are increasingly applied to the automated repair of C/C++ security vulnerabilities, and compile rate is a commonly reported proxy for progress: whether the generated patch",
+    "categories": "cs.SE, cs.AI, cs.CR",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26749v1",
+    "abs_url": "https://arxiv.org/abs/2609.26749v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Automatic depth-based local center clustering via $β$-integrated local depth and adaptive grouping",
+    "authors": "Siyi Wang, Alexandre Leblanc, Paul D. McNicholas",
+    "summary": "Clustering is an unsupervised learning technique that partitions unlabeled data into groups. Most existing methods require user-specified parameters, such as the number of clusters or neighborhood siz",
+    "categories": "stat.ME, cs.LG, stat.ML",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26748v1",
+    "abs_url": "https://arxiv.org/abs/2609.26748v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Diffusion-Induced Spatial Attention Overlapping Community Detection",
+    "authors": "Kosti Koistinen, Vesa Kuikka, Joni Herttuainen, Matthew Hendren, Brian Holt...",
+    "summary": "Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups. Existing graph neural network approaches",
+    "categories": "cs.SI, cs.LG",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26737v1",
+    "abs_url": "https://arxiv.org/abs/2609.26737v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Evaluating the Semantic-to-Geometric Gap in Adversarial Defenses Against Vision-Language Model-Based Plagiarism",
+    "authors": "Christopher Burger, Christina Trotter, Joseph Carlisle, Charles Walter",
+    "summary": "The rapidly advancing capabilities of vision-language models (VLMs) present a systemic challenge to academic integrity. VLMs now allow students to bypass meaningful engagement by capturing and submitt",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26733v1",
+    "abs_url": "https://arxiv.org/abs/2609.26733v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "ASTRA-SR: Atmospheric Seeing and Turbulence Restoration for Astronomical Image Super-Resolution",
+    "authors": "Xining Ge, Ziteng Cui, Shuhong Liu",
+    "summary": "Ground-based planetary imaging suffers from atmospheric turbulence, sensor noise, and limited sampling, making restoration a joint denoising, deblurring, and super-resolution problem. We present ASTRA",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26731v1",
+    "abs_url": "https://arxiv.org/abs/2609.26731v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "GAD-MambaUNet: Direction-Group Mamba with Gradient-Adaptive DINOv3 Distillation for Lightweight Medical Image Segmentation",
+    "authors": "Fang Wang, Huitao Li, Wenhan Chao, Zheng Zhuo, Xinxin Yang",
+    "summary": "In this paper, we proposed GAD-MambaUNet, a lightweight medical image segmentation network that combines efficient local modeling, direction--group state-space interaction, and training-time foundatio",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26729v1",
+    "abs_url": "https://arxiv.org/abs/2609.26729v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Does AI Save Time on Product Design? A Randomized Controlled Experiment of AI Prompt-to-Design Workflows",
+    "authors": "Remy Stewart, Olabode Anise, Andrew Hogan, Augustus Griffin",
+    "summary": "AI tools for digital product design now offer prompt-to-design capabilities, allowing designers and their non-designer colleagues to create prototypes through conversational workflows with large langu",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26725v1",
+    "abs_url": "https://arxiv.org/abs/2609.26725v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "The Sirens' Song: When Proximal Background Context Overshadows Distant Evidence",
+    "authors": "Xiaoyu Yang, Jie Lu, Wei Duan, En Yu",
+    "summary": "Long-context LLMs focus on retrieving distant evidence from extensive context, yet existing work has largely focused on overcoming distance alone. In this work, we identify the Proximity Trap, insuffi",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26718v1",
+    "abs_url": "https://arxiv.org/abs/2609.26718v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "TraceVIC: Causal Reasoning over Code Evolution for Identifying Vulnerability-Inducing Commits",
+    "authors": "Fnu Tanish, Samiha Shimmi, Samikshya Chapagain, Hamed Okhravi, Mona Rahimi...",
+    "summary": "Software vulnerabilities are often discovered long after they are introduced, making it difficult to identify the vulnerability-inducing commit (VIC) responsible for introducing the underlying vulnera",
+    "categories": "cs.SE, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26711v1",
+    "abs_url": "https://arxiv.org/abs/2609.26711v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning",
+    "authors": "Yuanteng Chen, Zhilei Liu, Peisong Wang, Yuantian Shao, Chuangyi Li...",
+    "summary": "Quantization-aware distillation (QAD) restores much of the short-form question-answering performance lost to sub-3-bit quantization, yet leaves mathematical and code reasoning substantially impaired. ",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26708v1",
+    "abs_url": "https://arxiv.org/abs/2609.26708v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Optimal Sequential Annotations for Off-Policy Evaluation",
+    "authors": "Woojin Chae, Ezinne Nwankwo, Haitong Qin, Angela Zhou",
+    "summary": "Offline reinforcement learning and off-policy evaluation evaluates dynamic treatment rules based on retrospectively collected data prior to deployment. In recent AI applications, state and reward info",
+    "categories": "stat.ME, cs.LG, stat.ML",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26707v1",
+    "abs_url": "https://arxiv.org/abs/2609.26707v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "When are bosonic Gaussian states classical to learn?",
+    "authors": "Senrui Chen, Antonio Anna Mele, Francesco Anna Mele, John Preskill",
+    "summary": "A fundamental question in physics is: When does classical behavior emerge from quantum systems? Bosonic Gaussian states provide a natural setting to explore this quantum-classical boundary, as they ca",
+    "categories": "quant-ph, cs.IT, cs.LG, math-ph",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26705v1",
+    "abs_url": "https://arxiv.org/abs/2609.26705v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Beyond Repeated Sampling: Learning Search Policies for LLM Reasoning",
+    "authors": "Ismail Labiad, Matthieu Kowalski, Marc Schoenauer, Rémi Munos, Julia Kempe",
+    "summary": "Large language models increasingly tackle hard reasoning problems by spending more test-time compute, yet the dominant strategy remains naive repeated sampling: draw many independent solutions and hop",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26704v1",
+    "abs_url": "https://arxiv.org/abs/2609.26704v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "DIFTA-3D: Depth-Consistent Instance-Level Feature Transfer and Adaptation of DINOv3 for 3D Detection",
+    "authors": "Linman Wang, ZiFei Zhang, Chunran Zheng, Xiwang Dong, Jiarong Lin",
+    "summary": "RGB-D 3D instance detectors benefit from visual semantics, but the task-specific Faster R-CNN/ResNet branch used by IIFNet3D couples feature extraction to a separately trained 2D detector and its imag",
+    "categories": "cs.CV",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26702v1",
+    "abs_url": "https://arxiv.org/abs/2609.26702v1",
+    "date": "2026-09-23"
+  },
+  {
+    "title": "Measuring the Serving Stack Instead of the Model: Hidden Confounds in Local Tool-Use Evaluation",
+    "authors": "Lijuan Tang, Yuemeng Zheng",
+    "summary": "A coding agent must emit a valid tool call--a parseable invocation of a tool in the provided schema--before the harness can execute its chosen action. We study how local serving stacks affect this pro",
+    "categories": "cs.CL, cs.AI, cs.SE",
+    "published": "2026-09-22",
+    "pdf_url": "https://arxiv.org/pdf/2609.26693v1",
+    "abs_url": "https://arxiv.org/abs/2609.26693v1",
+    "date": "2026-09-23"
+  }
+]
