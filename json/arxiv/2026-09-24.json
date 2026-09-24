@@ -1,0 +1,302 @@
+[
+  {
+    "title": "On the Diffusibility of High-Dimensional Latents",
+    "authors": "Chao Feng, Zhiyang Xu, Bowei Chen, Yuanjun Xiong, Xiyao Wang...",
+    "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28473v1",
+    "abs_url": "https://arxiv.org/abs/2609.28473v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Contrastive Learning for Authorship Verification",
+    "authors": "Peter Kirby",
+    "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, p",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28471v1",
+    "abs_url": "https://arxiv.org/abs/2609.28471v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+    "authors": "Curtis Northcutt, Inaara Hasmani, Kevin Feng, Trevor Khangi, Andreas Plesner...",
+    "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench",
+    "categories": "cs.AI, cs.CY",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28470v1",
+    "abs_url": "https://arxiv.org/abs/2609.28470v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+    "authors": "Zilin Fang, Zishuo Wang, Gim Hee Lee, David Hsu",
+    "summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's ",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28467v1",
+    "abs_url": "https://arxiv.org/abs/2609.28467v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+    "authors": "Harold Haodong Chen, Rongjin Guo, Disen Lan, Wen-Jie Shu, Hongfei Zhang...",
+    "summary": "Advances in generative models have improved video fidelity, enabling long-horizon generation, interactive world modeling, and evolving visual environments. Autoregressive (AR) video generation extends",
+    "categories": "cs.CV",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28466v1",
+    "abs_url": "https://arxiv.org/abs/2609.28466v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+    "authors": "Yingzhen Yang",
+    "summary": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-",
+    "categories": "cs.LG, cs.IT, math.ST",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28459v1",
+    "abs_url": "https://arxiv.org/abs/2609.28459v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Can LLMs Reason About Runtime Behavior? A Repository-Level Dynamic Benchmark",
+    "authors": "Hamed Taherkhani, Mohammad Abdollahi, Melika Sepidband, Hridya Dhulipala, Tien N. Nguyen...",
+    "summary": "Large language models (LLMs) are increasingly used in coding tasks, but their ability to reason about code execution remains unclear. Existing repository-level QA benchmarks mainly evaluate static cod",
+    "categories": "cs.SE, cs.AI, cs.CL",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28449v1",
+    "abs_url": "https://arxiv.org/abs/2609.28449v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Nonequilibrium Phases of Repulsive Self-Attention: Chaos, Attention Condensation, and Emergent Locality",
+    "authors": "Qucheng Gao, Zuyi Yang, Xiao Chen",
+    "summary": "We study the nonequilibrium dynamics of a minimal recurrent transformer with $N$ normalized tokens, $Q=K=I$, and a negative value map $V=-I$. Similarity-based attention selects nearby representations,",
+    "categories": "cond-mat.dis-nn, cond-mat.stat-mech, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28448v1",
+    "abs_url": "https://arxiv.org/abs/2609.28448v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Order-Invariant Answers, Order-Sensitive Representations in Mathematical Reasoning",
+    "authors": "Zhixu Silvia Tao",
+    "summary": "Reordering a set of mathematical rules without changing its meaning should preserve the correct answer, but must a model's internal representations stay invariant too? We investigate this question usi",
+    "categories": "cs.LG, cs.AI, cs.CL, cs.SC",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28442v1",
+    "abs_url": "https://arxiv.org/abs/2609.28442v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning",
+    "authors": "Xiang Ji, Guixu Lin, Jiancheng Zhao, Zhengwei Yin, Yinqiang Zheng",
+    "summary": "The adoption of CMOS sensors in mobile photography is frequently compromised by the rolling shutter (RS) effect, which introduces geometric distortions and motion artifacts. Particularly, recent rolli",
+    "categories": "cs.CV",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28439v1",
+    "abs_url": "https://arxiv.org/abs/2609.28439v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Minimal-Norm Univariate Two-Layer ReLU Classification: Exact Solutions and Global Optimality with Skip Connections",
+    "authors": "Karolina Drabik, Ben Lewis, Antoni Puch, Etienne Boursier, Piotr Hofman...",
+    "summary": "We study minimal-norm interpolation and $\\ell_2$-regularized logistic-loss minimization for binary classification by univariate two-layer ReLU networks. We give complete geometric characterizations of",
+    "categories": "cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28438v1",
+    "abs_url": "https://arxiv.org/abs/2609.28438v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos",
+    "authors": "Reno Kriz, David Etter, Alexander Martin, Cameron Carpenter, Debashish Chakraborty...",
+    "summary": "Online information is increasingly consumed in video format. Much of this comes in the form of *raw video*: continuous footage taken on a cell phone, with a hand-held camera, or via CCTV, which is the",
+    "categories": "cs.CV, cs.IR",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28437v1",
+    "abs_url": "https://arxiv.org/abs/2609.28437v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Predicting the Progression of Adolescent Idiopathic Scoliosis",
+    "authors": "Owen Pullen, Amir Jamaludin, Andrew Zisserman",
+    "summary": "Adolescent Idiopathic Scoliosis is defined as a lateral curvature of the spine that develops during adolescence, without known cause. The condition can result in significant pain and disability, and o",
+    "categories": "cs.CV, eess.IV",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28434v1",
+    "abs_url": "https://arxiv.org/abs/2609.28434v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Cross-Scale Transfer Learning for Depression Severity Prediction: From PHQ-8 to HAMD-17 Across Languages and Clinical Paradigms",
+    "authors": "Wenjie Feng, Sahba Zojaji, Satoshi Nakamura",
+    "summary": "This work addresses continuous depression-severity score prediction from clinical interview transcripts under data scarcity. We propose a sequential low-rank adaptation (LoRA) protocol for cross-scale",
+    "categories": "cs.CL",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28430v1",
+    "abs_url": "https://arxiv.org/abs/2609.28430v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Context-Continuous Preference Learning for Exoskeleton Personalization",
+    "authors": "Sunin Baek, Sungwoo Park, Daekyum Kim",
+    "summary": "Personalizing exoskeleton assistance across operating conditions is constrained by the time and physical effort required to collect user feedback. We examined whether a user's preference landscape var",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28427v1",
+    "abs_url": "https://arxiv.org/abs/2609.28427v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Repairability of Inexact Solvers in Recursive State Estimation with Machine Learning",
+    "authors": "Yanjun Ji, Dennis Willsch, Orkun Şensebat, Priyanka Arkalgud Ganeshamurthy, Zhi Pei...",
+    "summary": "Recursive state estimation often executes approximate numerical solutions inside a feedback loop, where highly accurate local steps do not guarantee better overall results. For a fixed linear Kalman m",
+    "categories": "quant-ph, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28425v1",
+    "abs_url": "https://arxiv.org/abs/2609.28425v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "The Skin-Restricted Reinhard Transform:Uniqueness under a Lightness-Preserving Constraint",
+    "authors": "Vijesh KP",
+    "summary": "Catalog skin recolouring has to change pigment and leave shading alone. The classical Reinhard map does not make that split: it rescales lightness by the ratio of standard deviations, and a flat refer",
+    "categories": "cs.CV",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28424v1",
+    "abs_url": "https://arxiv.org/abs/2609.28424v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+    "authors": "Shuang Sun, Guoxin Chen, Fanzhe Meng, Jia Deng, Huatong Song...",
+    "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typic",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28416v1",
+    "abs_url": "https://arxiv.org/abs/2609.28416v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Frozen Flows Forget: Diagnosing and Restoring Lost Motion in a Latent-flow World Model",
+    "authors": "Xiwen Chen, Rigaudiere Z. Li, Zhiruo Zhou, Xiaojun Zhu, Houde Liu",
+    "summary": "Latent world models that integrate a flow in a frozen self supervised latent space train stably and cheaply, yet silently lose the property manipulation depends on most: motion. The pretrained flow ne",
+    "categories": "cs.CV, cs.AI, cs.RO",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28414v1",
+    "abs_url": "https://arxiv.org/abs/2609.28414v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Learning Holographic Reduced Representations with Clifford Variational Autoencoders",
+    "authors": "Mohamed Malek Abid, P. Michael Furlong",
+    "summary": "Vector Symbolic Algebras project data structures into a hyperdimensional vector space through the application of their vector algebras to randomly generated atomic vector symbols and fractional power ",
+    "categories": "cs.LG, cs.AI, cs.NE",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28409v1",
+    "abs_url": "https://arxiv.org/abs/2609.28409v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Learning Collective Dynamics with Differentiable Gaussian Representations",
+    "authors": "Jianxiang Ma, Mingfu Zhang, Xiaocui Yang, Yichen Gao, Junzhao Huang...",
+    "summary": "Collective responses depend on individual differences, contact opportunities, and accumulated experience. Learning their dynamics from aggregate counts requires connecting a population's response dist",
+    "categories": "cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28405v1",
+    "abs_url": "https://arxiv.org/abs/2609.28405v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Memory Attention",
+    "authors": "Jiale Kang",
+    "summary": "Language models typically construct attention values from contextual hidden states, even when some of their content may be reusable across contexts. We investigate whether token-indexed memory can rep",
+    "categories": "cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28399v1",
+    "abs_url": "https://arxiv.org/abs/2609.28399v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Fine-Tuning LLMs for Translation: General Forgetting Mitigation Does Not Preserve MT-Specific Instruction Following",
+    "authors": "Niklas Scholz, David Thulke, Abdallah Nasir, Will Allred, Evgeny Matusov...",
+    "summary": "Fine-tuning large language models on parallel data improves translation quality but can cause catastrophic forgetting. Mitigation methods are generally evaluated by retention on general benchmarks. We",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28395v1",
+    "abs_url": "https://arxiv.org/abs/2609.28395v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Quantum score matching with applications to learning thermal states",
+    "authors": "Yulong Dong, Jiaqi Leng",
+    "summary": "Score matching has driven major advances in classical generative learning by enabling models to learn from data without evaluating intractable normalization constants, or partition functions. Yet, ext",
+    "categories": "quant-ph, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28391v1",
+    "abs_url": "https://arxiv.org/abs/2609.28391v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "When and Where to Trust the Teacher: Unifying On-Policy Distillation and GRPO through Entropy-Calibrated Credit Assignment",
+    "authors": "Jie Zhang, Jingxiao Yang, Zhehao Huang, Yuhang Liu, Xiaolin Huang",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) supervises mathematical reasoning through final-answer correctness, but provides little guidance on individual tokens. On-policy distillation (OPD",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28385v1",
+    "abs_url": "https://arxiv.org/abs/2609.28385v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "ForgetMimic: Motion Unlearning for Reinforcement Learning Humanoid Control",
+    "authors": "Xukun Luan, Zhongxiang Lei, Chen Gong, Shaowei Li, Yuanguo Bi...",
+    "summary": "Humanoid control, leveraging human demonstrations, has achieved diverse, agile, and natural locomotion behaviors through reinforcement learning (RL). While this paradigm has yielded remarkable perform",
+    "categories": "cs.RO, cs.CR, cs.LG",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28378v1",
+    "abs_url": "https://arxiv.org/abs/2609.28378v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer",
+    "authors": "Davood Wadi, Yu Ma",
+    "summary": "Consumers increasingly delegate purchasing decisions to Large Language Models (LLMs) acting as surrogate consumers. Using \"Tool-Lab,\" an adaptation of information-board process tracing that places pro",
+    "categories": "econ.GN, cs.AI",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28372v1",
+    "abs_url": "https://arxiv.org/abs/2609.28372v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "AnchorReasoning: A Visual Grounding and Causal Reasoning Dataset in Long-Tail Autonomous Driving Scenarios",
+    "authors": "Zhipeng Bao, Wenjie Zhao, Tianle Zhu, Haohua Que, Chence Yang...",
+    "summary": "Vision-language models (VLMs) offer a promising approach to long-tail autonomous driving, but existing driving datasets provide limited supervision for connecting decision-critical visual evidence wit",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28366v1",
+    "abs_url": "https://arxiv.org/abs/2609.28366v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "LEAP-CBF: A Safety Filter for Uncertain Systems with Least-Effort Adversarial Potentials",
+    "authors": "Oswin So, Eric Yu, Chuchu Fan",
+    "summary": "Control barrier functions (CBF) are a popular safety filter to ensure safety for nonlinear dynamical systems. However, when the system is subject to uncertainties and disturbances, this requires the u",
+    "categories": "cs.RO, cs.LG, math.OC",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28364v1",
+    "abs_url": "https://arxiv.org/abs/2609.28364v1",
+    "date": "2026-09-24"
+  },
+  {
+    "title": "Privacy-Preserving Semantic Segmentation from High-Resolution Depth and Ultra-Low-Resolution RGB",
+    "authors": "Xuying Huang, Swithinraj Moses Daniel, Sicong Pan, Sebastian Houben, Maren Bennewitz",
+    "summary": "As mobile robots become increasingly integrated into everyday environments, privacy risks arising from onboard cameras have become a growing concern. Ultra-low-resolution (ULR) RGB can mitigate visual",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-09-23",
+    "pdf_url": "https://arxiv.org/pdf/2609.28360v1",
+    "abs_url": "https://arxiv.org/abs/2609.28360v1",
+    "date": "2026-09-24"
+  }
+]
