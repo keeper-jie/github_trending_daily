@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "NandhaKishorM/laya",
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "language": "Python",
+    "stars": 23407,
+    "forks": 2023,
+    "created_at": "2026-09-18T04:46:33Z",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "browser-use/jev-ultrafast",
+    "description": "Fastest and cheapest web agent",
+    "language": "Python",
+    "stars": 19926,
+    "forks": 1342,
+    "created_at": "2026-09-16T21:30:12Z",
+    "url": "https://github.com/browser-use/jev-ultrafast",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "jaredpalmer/kev",
+    "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+    "language": "Python",
+    "stars": 6798,
+    "forks": 397,
+    "created_at": "2026-09-17T20:49:39Z",
+    "url": "https://github.com/jaredpalmer/kev",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "language": "TypeScript",
+    "stars": 6757,
+    "forks": 399,
+    "created_at": "2026-09-17T05:57:20Z",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "zai-org/ZCode",
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "language": "TypeScript",
+    "stars": 6726,
+    "forks": 2008,
+    "created_at": "2026-09-20T12:01:16Z",
+    "url": "https://github.com/zai-org/ZCode",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "jev-chat/jev-chat-jarvis",
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "language": "Kotlin",
+    "stars": 6253,
+    "forks": 1111,
+    "created_at": "2026-09-21T11:12:53Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "mizorewww/laya-mlx",
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "language": "Python",
+    "stars": 6250,
+    "forks": 483,
+    "created_at": "2026-09-19T13:50:26Z",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "robbietilton/Compositor",
+    "description": "The Photoshop alternative for Mac",
+    "language": "Swift",
+    "stars": 5434,
+    "forks": 587,
+    "created_at": "2026-09-16T20:35:54Z",
+    "url": "https://github.com/robbietilton/Compositor",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "TheoLeeCJ/SemIf-OpenJev",
+    "description": "Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",
+    "language": "Python",
+    "stars": 4257,
+    "forks": 286,
+    "created_at": "2026-09-16T03:51:21Z",
+    "url": "https://github.com/TheoLeeCJ/SemIf-OpenJev",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "Mak5er/AirCard",
+    "description": "Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)",
+    "language": "Swift",
+    "stars": 3991,
+    "forks": 175,
+    "created_at": "2026-09-16T22:20:15Z",
+    "url": "https://github.com/Mak5er/AirCard",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "mcncarl/jianying-headless",
+    "description": "Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",
+    "language": "Python",
+    "stars": 2497,
+    "forks": 1859,
+    "created_at": "2026-09-15T11:51:15Z",
+    "url": "https://github.com/mcncarl/jianying-headless",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "jarrodwatts/jev-trader",
+    "description": "One AI trade decision every Monad block. Jev on Kuru MON-USDC.",
+    "language": "TypeScript",
+    "stars": 2376,
+    "forks": 447,
+    "created_at": "2026-09-16T21:36:20Z",
+    "url": "https://github.com/jarrodwatts/jev-trader",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "TianyuCodings/NanoJev",
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "language": "Python",
+    "stars": 2214,
+    "forks": 236,
+    "created_at": "2026-09-17T16:08:30Z",
+    "url": "https://github.com/TianyuCodings/NanoJev",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "CopilotKit/openmuse",
+    "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
+    "language": "TypeScript",
+    "stars": 2116,
+    "forks": 235,
+    "created_at": "2026-09-15T16:05:44Z",
+    "url": "https://github.com/CopilotKit/openmuse",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "unreallabsai/unreal-agent",
+    "description": "Async-first agent harness",
+    "language": "Go",
+    "stars": 1885,
+    "forks": 98,
+    "created_at": "2026-09-21T23:14:02Z",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "bespokelabsai/nimble",
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "language": "Python",
+    "stars": 1745,
+    "forks": 134,
+    "created_at": "2026-09-18T09:07:48Z",
+    "url": "https://github.com/bespokelabsai/nimble",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "yibie/awesome-jev",
+    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+    "language": "Python",
+    "stars": 1636,
+    "forks": 235,
+    "created_at": "2026-09-17T14:23:21Z",
+    "url": "https://github.com/yibie/awesome-jev",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "hydra-db/open-glean",
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "language": "TypeScript",
+    "stars": 1521,
+    "forks": 514,
+    "created_at": "2026-09-17T05:22:08Z",
+    "url": "https://github.com/hydra-db/open-glean",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "Chuloo/mural",
+    "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+    "language": "Kotlin",
+    "stars": 1483,
+    "forks": 295,
+    "created_at": "2026-09-12T11:51:08Z",
+    "url": "https://github.com/Chuloo/mural",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "QwenLM/Qwen-Image-2.1",
+    "description": "Qwen's most powerful open-source image generation model",
+    "language": "Python",
+    "stars": 1450,
+    "forks": 75,
+    "created_at": "2026-09-14T04:12:17Z",
+    "url": "https://github.com/QwenLM/Qwen-Image-2.1",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "mizorewww/laya-coreml",
+    "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "language": "Python",
+    "stars": 1442,
+    "forks": 121,
+    "created_at": "2026-09-19T23:14:13Z",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "newliver666/apk-reverse",
+    "description": "Suitable for Android APK reverse engineering analysis",
+    "language": "Python",
+    "stars": 1430,
+    "forks": 377,
+    "created_at": "2026-09-19T13:12:54Z",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "vinnylarouge/jevlike",
+    "description": "",
+    "language": "Python",
+    "stars": 1294,
+    "forks": 113,
+    "created_at": "2026-09-16T10:26:01Z",
+    "url": "https://github.com/vinnylarouge/jevlike",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "driceroland/Search",
+    "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+    "language": "Swift",
+    "stars": 1286,
+    "forks": 132,
+    "created_at": "2026-09-20T10:29:47Z",
+    "url": "https://github.com/driceroland/Search",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "zhengkid/Dream-RSI",
+    "description": "The offical repo for \"Dream-RSI: Recursive Self-Improvement through Evolving Worlds\"",
+    "language": "",
+    "stars": 1161,
+    "forks": 102,
+    "created_at": "2026-09-13T20:39:43Z",
+    "url": "https://github.com/zhengkid/Dream-RSI",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "anmolkapil/plexo",
+    "description": "Speed up downloads by combining multiple network connections in parallel",
+    "language": "TypeScript",
+    "stars": 1026,
+    "forks": 95,
+    "created_at": "2026-09-15T09:41:57Z",
+    "url": "https://github.com/anmolkapil/plexo",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "zjwzcx/Awesome-Astra-Embodied-AI",
+    "description": "GPT-6 Astra for embodied AI and robotics.",
+    "language": "",
+    "stars": 1017,
+    "forks": 23,
+    "created_at": "2026-09-12T12:20:24Z",
+    "url": "https://github.com/zjwzcx/Awesome-Astra-Embodied-AI",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "deepopen-com/deepopen",
+    "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "language": "Python",
+    "stars": 1012,
+    "forks": 110,
+    "created_at": "2026-09-21T02:12:24Z",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "theoephraim/awesome-cloudflare-selfhosted",
+    "description": "🍊☁️ Open-source* apps that replace SaaS product + tools, running in your own Cloudflare account",
+    "language": "JavaScript",
+    "stars": 986,
+    "forks": 56,
+    "created_at": "2026-09-15T09:39:14Z",
+    "url": "https://github.com/theoephraim/awesome-cloudflare-selfhosted",
+    "date": "2026-09-25"
+  },
+  {
+    "repo": "agentverse-os/AgentVerse-OS",
+    "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
+    "language": "Rust",
+    "stars": 979,
+    "forks": 26,
+    "created_at": "2026-09-12T18:20:00Z",
+    "url": "https://github.com/agentverse-os/AgentVerse-OS",
+    "date": "2026-09-25"
+  }
+]

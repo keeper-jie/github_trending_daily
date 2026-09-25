@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "We ported the original Doom to SQL",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Yaruxi",
+    "url": "https://www.reddit.com/r/programming/comments/1wo7amj/we_ported_the_original_doom_to_sql/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wo7amj/we_ported_the_original_doom_to_sql/",
+    "rank": 1,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Partitioning in MySQL: How we cut peak database load by more than 80%.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fR0DDY",
+    "url": "https://www.reddit.com/r/programming/comments/1woz4lh/partitioning_in_mysql_how_we_cut_peak_database/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1woz4lh/partitioning_in_mysql_how_we_cut_peak_database/",
+    "rank": 2,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Railway-Oriented Programming",
+    "score": 0,
+    "num_comments": 0,
+    "author": "kciter",
+    "url": "https://www.reddit.com/r/programming/comments/1wo3zxx/railwayoriented_programming/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wo3zxx/railwayoriented_programming/",
+    "rank": 3,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Android 17 enables certificate transparency, and breaks custom CAs",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pimterry",
+    "url": "https://www.reddit.com/r/programming/comments/1wo04r9/android_17_enables_certificate_transparency_and/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wo04r9/android_17_enables_certificate_transparency_and/",
+    "rank": 4,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Modern Object Pascal Introduction for Programmers | Castle Game Engine",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BrewedDoritos",
+    "url": "https://www.reddit.com/r/programming/comments/1wo7osh/modern_object_pascal_introduction_for_programmers/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wo7osh/modern_object_pascal_introduction_for_programmers/",
+    "rank": 5,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How we rebuilt complex permissions without migrating to Zanzibar",
+    "score": 0,
+    "num_comments": 0,
+    "author": "finncmdbar",
+    "url": "https://www.reddit.com/r/programming/comments/1wo11v8/how_we_rebuilt_complex_permissions_without/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wo11v8/how_we_rebuilt_complex_permissions_without/",
+    "rank": 6,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Runtime Lab — Learn Backend & Systems Engineering by building real software from scratch",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Beneficial-Moment414",
+    "url": "https://www.reddit.com/r/programming/comments/1workde/runtime_lab_learn_backend_systems_engineering_by/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1workde/runtime_lab_learn_backend_systems_engineering_by/",
+    "rank": 7,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Implementing MNIST Neural Network from Scratch in Rust (95% acc)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "TechnologySubject259",
+    "url": "https://www.reddit.com/r/programming/comments/1wov53d/implementing_mnist_neural_network_from_scratch_in/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wov53d/implementing_mnist_neural_network_from_scratch_in/",
+    "rank": 8,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "ScyllaDB in 2026: Tablets, Raft and Life Beyond Cassandra",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mmatloka",
+    "url": "https://www.reddit.com/r/programming/comments/1wogdhq/scylladb_in_2026_tablets_raft_and_life_beyond/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wogdhq/scylladb_in_2026_tablets_raft_and_life_beyond/",
+    "rank": 9,
+    "date": "2026-09-25"
+  },
+  {
+    "subreddit": "programming",
+    "title": "C3 0.8.4: Parameter Reflection, Stack Protection, iOS Support—and One Last Renaming",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Nuoji",
+    "url": "https://www.reddit.com/r/programming/comments/1wn5gnz/c3_084_parameter_reflection_stack_protection_ios/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wn5gnz/c3_084_parameter_reflection_stack_protection_ios/",
+    "rank": 10,
+    "date": "2026-09-25"
+  }
+]
