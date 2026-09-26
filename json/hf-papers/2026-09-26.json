@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Training Object Permanence in World Models",
+    "authors": "Haotian Zhang, Fengyuan Yu, Dezhi Luo, Haoran Sun, Zehong Zhao...",
+    "summary": "Object permanence and solidity are hallmarks of human cognitive priors. Recent studies show that video generation models, a paradigmatic class of current world models, have begun to show emerged reaso",
+    "upvotes": 188,
+    "url": "https://huggingface.co/papers/2609.28654",
+    "paper_url": "https://arxiv.org/abs/2609.28654",
+    "published_at": "2026-09-23",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+    "authors": "Pavel Tikhonov, Anton Korznikov, Matvey Mikhalchuk, Nikita Dragunov, Temurbek Rahmatullaev...",
+    "summary": "While Large Language Models (LLMs) rely on highly non-linear components, in this work we demonstrate that they exhibit fundamental linearity: when inputs from distinct text streams are linearly combin",
+    "upvotes": 57,
+    "url": "https://huggingface.co/papers/2609.29845",
+    "paper_url": "https://arxiv.org/abs/2609.29845",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+    "authors": "Yubo Zhu, Yawen Shao, Ziyun Dai, Zixun Fang, Kai Zhu...",
+    "summary": "Video generation begins in text space by authoring a cinematic screenplay, then materializes into pixels. As contemporary video generators scale to 30 seconds and faithfully follow complex conditions,",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2609.30221",
+    "paper_url": "https://arxiv.org/abs/2609.30221",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+    "authors": "Ruixun Liu, Yuxuan Wang, Jiacheng Xie, Yuhuan You, Donghua Cai...",
+    "summary": "Humans can effortlessly localize the direction of a sound source and integrate it with visual cues for reasoning, yet this remains challenging for embodied agents. In particular, it is still unclear h",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2609.23407",
+    "paper_url": "https://arxiv.org/abs/2609.23407",
+    "published_at": "2026-09-20",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+    "authors": "Shuang Sun, Guoxin Chen, Fanzhe Meng, Jia Deng, Huatong Song...",
+    "summary": "Recent advances in large language models (LLMs) have enabled agents to tackle long-horizon tasks across diverse environments. To further improve agent performance, existing language world models typic",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2609.28416",
+    "paper_url": "https://arxiv.org/abs/2609.28416",
+    "published_at": "2026-09-23",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+    "authors": "Alessandro Bondielli, Lucia Passaro, Serena Auriemma, Alessandro Lenci",
+    "summary": "Sparse AutoEncoders (SAEs) offer a promising way to inspect language model representations, but it is still unclear what kind of linguistic structure their latents expose. We use part-of-speech (PoS) ",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.29362",
+    "paper_url": "https://arxiv.org/abs/2609.29362",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+    "authors": "Tingyu Qu, Weigao Sun, Yuecheng Liu, Yucheng Zhao, Yi Zhu...",
+    "summary": "The rapid progression of large language models is extending AI from passive content generation into the active workflows of engineering and scientific discovery. This shift raises a compelling questio",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.29892",
+    "paper_url": "https://arxiv.org/abs/2609.29892",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+    "authors": "Xingyu Wu, Yuchen Yan, Zhengxi Lu, Siqi Chen, Xin ZHANG...",
+    "summary": "Deep search requires LLM agents to decompose complex queries, search for evidence, and synthesize grounded answers, yet existing ReAct-style agents suffer from two limitations: role coupling, where on",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.29444",
+    "paper_url": "https://arxiv.org/abs/2609.29444",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation",
+    "authors": "Shaohua Dong, Zexuan Meng, Haiyan Sun, Bing Fan, Cuicui Zhang...",
+    "summary": "In this paper, we propose RGBD20K, a novel dataset for facilitating the development of more robust and general RGB-D semantic segmentation by encompassing abundant categories and high-quality annotati",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.29028",
+    "paper_url": "https://arxiv.org/abs/2609.29028",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Rufus-Air: An Open LLM Post-Training Recipe",
+    "authors": "Chia-Yuan Chang, Renyuan Cheng, Rui Feng, Xiaotian Han, Yuan He...",
+    "summary": "Rufus-Air is an open and reproducible post-training recipe on GLM-4.5-Air-Base (106B-A12B), organized as a serial pipeline of eight stages: SFT, Reasoning RL, Coding RL, Instruction-Following RL, Gene",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.29421",
+    "paper_url": "https://arxiv.org/abs/2609.29421",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Coding Agents for Generalized Task and Motion Planning Problems",
+    "authors": "Matteo Merler, Bowen Li, Josh Roy, Yichao Liang, Qianwei Wang...",
+    "summary": "Task and motion planning (TAMP) problems remain difficult even with full observability and object-centric states because discrete decisions are tightly coupled to geometric, kinematic, and dynamic con",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.30233",
+    "paper_url": "https://arxiv.org/abs/2609.30233",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone",
+    "authors": "Chenyu Zhu, Ruoyu Zhao, Zhichao Lu",
+    "summary": "Modern Transformer design and compression both reduce to allocating capacity under a budget. The standard scalars for these decisions, #Params and #FLOPs, capture size and compute but not architectura",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.23087",
+    "paper_url": "https://arxiv.org/abs/2609.23087",
+    "published_at": "2026-09-19",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "AgentKernel: The Trust-Native Agentic Operating System",
+    "authors": "Zhenhua Zou, Sheng Guo, Qiuyang Zhan, Lepeng Zhao, Shuo Li...",
+    "summary": "Modern AI agents routinely cross trust boundaries: they ingest untrusted content, combine it with privileged instructions, persist intermediate beliefs in long-term memory, and invoke privileged tools",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.29647",
+    "paper_url": "https://arxiv.org/abs/2609.29647",
+    "published_at": "2026-08-29",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Learning to Discover Interesting Mathematics",
+    "authors": "Niket Patel, Ahmad Rammal, Amaury Hayat, Remi Munos, Julia Kempe",
+    "summary": "Recently, Large Language Models (LLMs) have been increasingly able to solve advanced mathematical problems, including many that have been open for decades. This opens the door to expansion of mathemat",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.28603",
+    "paper_url": "https://arxiv.org/abs/2609.28603",
+    "published_at": "2026-09-23",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "PUBG Ally: A Conversational Embodied Agent as an AI Teammate",
+    "authors": "Beomsoo Kim, Byeongju Kim, Dohyun Kim, Dongwon Kim, Eunchong Kim...",
+    "summary": "We introduce PUBG Ally, an embodied agent for PUBG: BATTLEGROUNDS that can reason, act autonomously, and play alongside players as a voice-enabled teammate. Building such a teammate requires combining",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.29837",
+    "paper_url": "https://arxiv.org/abs/2609.29837",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds",
+    "authors": "Ming Zhang, Zhenghao Xiang, Peizhong Gao, Yujiong Shen, Yuhui Wang...",
+    "summary": "Scientific discovery begins where known problems end. There, AI systems must engage in exploration: framing hypotheses, designing experiments, and iterating on the results. However, evaluating this ab",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.30199",
+    "paper_url": "https://arxiv.org/abs/2609.30199",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation",
+    "authors": "Zhiyu Xu, Weilong Yan, Yufei Shi, Shiyang Li, Yihao Liu...",
+    "summary": "Recent years have witnessed major progress in joint audio-video generation. Existing models still suffer from limited per-modality fidelity, insufficient text-modality alignment and weak cross-modal s",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.29816",
+    "paper_url": "https://arxiv.org/abs/2609.29816",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal",
+    "authors": "Yehang Zhang, Haojian Huang, Yifan Chang, Jianchong Su, Bohan Zhou...",
+    "summary": "General-purpose vision-language models (VLMs) bring broad knowledge and spatial reasoning to robot manipulation, yet existing systems either use them indirectly, to predict constraints or write progra",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.29964",
+    "paper_url": "https://arxiv.org/abs/2609.29964",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures",
+    "authors": "Ruoqi Guo, Yi Liu, Gelei Deng, Yuekang Li, Lida Zhao...",
+    "summary": "Detectors of alignment failures screen deployed language models and score alignment benchmarks. Most are generative judges that spend a decoding pass on every criterion, and classifiers that read toke",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.29429",
+    "paper_url": "https://arxiv.org/abs/2609.29429",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "DeltaWAM: Delta World Action Models for Bimanual Manipulation",
+    "authors": "Han Yan, Zishang Xiang, Haokai Jiang, Zeyu Zhang, Qilin Wang...",
+    "summary": "World-action models (WAMs) transfer visual and motion priors from pretrained video generators to robot control by jointly modeling visual dynamics and actions. Existing WAMs, however, predict dense fu",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.28811",
+    "paper_url": "https://arxiv.org/abs/2609.28811",
+    "published_at": "2026-09-23",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation",
+    "authors": "Zichong Meng, Chongjian Ge, Chun-Hao P. Huang, Yang Zhou, Huaizu Jiang",
+    "summary": "Few-step autoregressive (AR) video diffusion enables low-latency streaming generation, but existing post-training methods predominantly rely on Distribution Matching Distillation (DMD), requiring both",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.28923",
+    "paper_url": "https://arxiv.org/abs/2609.28923",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  },
+  {
+    "title": "Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates",
+    "authors": "Samuel Fernández-Menduiña, Eduardo Pavez, Antonio Ortega",
+    "summary": "Block-based video codecs select coding parameters based on the input by optimizing a rate-distortion trade-off. The conventional distortion choice, the sum of squared errors (SSE), simplifies paramete",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.30077",
+    "paper_url": "https://arxiv.org/abs/2609.30077",
+    "published_at": "2026-09-24",
+    "date": "2026-09-25"
+  }
+]
