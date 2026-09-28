@@ -1,0 +1,302 @@
+[
+  {
+    "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+    "authors": "Hongyang Du, Yunfei Xie, Junjie Ye, Jiawei Yang, Xiaoyan Cong...",
+    "summary": "Representation autoencoders (RAEs) reuse features from a pretrained visual encoder as reconstruction and diffusion latents, integrating strong visual representations into image generation. However, RA",
+    "categories": "cs.CV",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31620v1",
+    "abs_url": "https://arxiv.org/abs/2609.31620v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
+    "authors": "Parsa Hosseini, Akasha Tigalappanavara, Sumit Nawathe, Chenrui Fan, Sourya Basu...",
+    "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31619v1",
+    "abs_url": "https://arxiv.org/abs/2609.31619v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Gap-free Differentially Private PCA for Gaussian Data",
+    "authors": "Alina Ene, Huy L. Nguyen",
+    "summary": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data.",
+    "categories": "cs.DS, cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31614v1",
+    "abs_url": "https://arxiv.org/abs/2609.31614v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "First-Order Stationarity of Reverse Diffusions",
+    "authors": "Zhifeng Chen, Chenyang Jiang, Yazhen Wang",
+    "summary": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of over",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31612v1",
+    "abs_url": "https://arxiv.org/abs/2609.31612v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
+    "authors": "Kevin Jiang, Morgane Austern, Edgar Dobriban, Jason M. Klusowski",
+    "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener",
+    "categories": "stat.ME, cs.AI, cs.LG, math.ST",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31607v1",
+    "abs_url": "https://arxiv.org/abs/2609.31607v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "User Model Extraction via Belief Self-Distillation",
+    "authors": "Ali Holmov, Yiran Huang, Kirill Bykov, Zeynep Akata",
+    "summary": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31603v1",
+    "abs_url": "https://arxiv.org/abs/2609.31603v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "New LoRA Skills Should Read but Never Write",
+    "authors": "Zeyan Li, Panqi Yang, Qirong Guo, Shengda Zhuo, SIyuan Qiu...",
+    "summary": "Low-rank adapters (LoRA) make it cheap to fine-tune a large language model once per task, but combining several independently trained adapters into one model remains difficult: merging the updates in ",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31600v1",
+    "abs_url": "https://arxiv.org/abs/2609.31600v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+    "authors": "Luka Milivojevic, Nikola Popovic, Sayan Deb Sarkar, Sebastian Koch, Iro Armeni...",
+    "summary": "3D scene graphs provide a structured representation of complex environments by encoding objects, their semantic attributes, and the spatial and functional relationships between them. Current approache",
+    "categories": "cs.CV",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31595v1",
+    "abs_url": "https://arxiv.org/abs/2609.31595v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Common-Mode Collapse and Recovery in Direct Feedback Alignment",
+    "authors": "Varun Reddy, Bernardo L. Sabatini, Houman Safaai",
+    "summary": "Direct feedback alignment (DFA) trains hidden layers through fixed random projections of output error. With tanh hidden units and independent sigmoid outputs, plain stochastic gradient descent can sta",
+    "categories": "cs.LG, cs.NE",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31589v1",
+    "abs_url": "https://arxiv.org/abs/2609.31589v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer",
+    "authors": "Md Shohel Arman, Igor Molybog",
+    "summary": "We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores c",
+    "categories": "cs.SE, cs.AI, cs.CL",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31587v1",
+    "abs_url": "https://arxiv.org/abs/2609.31587v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Trust Guided Decision Transformer",
+    "authors": "Chainesh Gautam, Raghuram Bharadwaj Diddigi, Chandramouli Kamanchi, Pankaj Dayama, Sumanta Mukherjee...",
+    "summary": "Decision Transformer performance degrades on long rollouts because the conditioning context drifts out of the training distribution. We show that this drift is visible through the model's own next sta",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31586v1",
+    "abs_url": "https://arxiv.org/abs/2609.31586v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
+    "authors": "Ziyao Shang, Pouya Sadeghi, Letian Jiang, Alexander Wong, Sirisha Rambhatla",
+    "summary": "Biomedical image segmentation is central to medical image analysis, but practical deployment often faces limited annotations, memory constraints, and cross-site distribution shifts. Implicit Neural Re",
+    "categories": "cs.CV",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31573v1",
+    "abs_url": "https://arxiv.org/abs/2609.31573v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
+    "authors": "Jae Joong Lee, Bedrich Benes",
+    "summary": "Uneven rotation and dropped frames make equal-angle assumptions unreliable for turntable reconstruction. We present OC-GS, an object-centric Gaussian splatting that refines each image's angle while ma",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31572v1",
+    "abs_url": "https://arxiv.org/abs/2609.31572v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Strategically Diverse Sampling for Self-Training",
+    "authors": "Alexander Gurung, Esmeralda S. Whitammer, Mirella Lapata",
+    "summary": "Many LLM training and inference methods, including RL and test-time scaling, depend on repeated sampling, but benefit only when the responses meaningfully differ. Self-training faces the same challeng",
+    "categories": "cs.CL",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31571v1",
+    "abs_url": "https://arxiv.org/abs/2609.31571v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Uncertainty and Explainability in Deep Rough Volatility: A Neural Information-Theoretic Posterior Approach",
+    "authors": "Damiano Brigo, Raphaël Huser, Dan Leonte",
+    "summary": "Deep learning has substantially accelerated the calibration of complex stochastic-volatility models, but neural point calibration alone does not capture the uncertainty remaining after an implied-vola",
+    "categories": "stat.ML, cs.LG, stat.AP, stat.CO, stat.OT",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31570v1",
+    "abs_url": "https://arxiv.org/abs/2609.31570v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Adapting for AI: How elementary teachers adjust their practices for an AI-integrated curriculum",
+    "authors": "Fasika Melese, Ruiyang Wu, Xinyue Cui, Joanna Perkins, Xiaoyi Tian...",
+    "summary": "Conversational AI tools are entering children's everyday experiences, and schools are interested in adopting them. However, successful classroom integration depends not only on the technology but also",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31569v1",
+    "abs_url": "https://arxiv.org/abs/2609.31569v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "authors": "Quang Nguyen, Hieu Nguyen, Hien Hoang, Toan Pham, Cong Tran...",
+    "summary": "AI tutoring could markedly improve learning outcomes for students in developing regions such as Vietnam, yet the two obvious paths both fall short. Cloud assistants such as ChatGPT route sensitive stu",
+    "categories": "cs.AI",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31568v1",
+    "abs_url": "https://arxiv.org/abs/2609.31568v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Weight Pair Encoding: Inducing a Smaller Grammar in Neural Network Weights",
+    "authors": "Irene Tallini, Daniele Solombrino, Alberto Cazzaniga, Emanuele Rodolà",
+    "summary": "We show that neural network weights can be explicilty fintuned to admit a smaller grammar. Weight Pair Encoding (WeightPE) does so by placing a lossy Re-Pair compressor inside a straight-through estim",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31564v1",
+    "abs_url": "https://arxiv.org/abs/2609.31564v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Multi-agent Scaling Across Disjunctive and Compensatory Tasks",
+    "authors": "Carolina Fortuna, Blaz Bertalanic",
+    "summary": "Multi-agent LLM systems are often expected to improve as team size increases, yet the scaling behavior may depend on task structure. Our central contribution is to introduce Steiner's taxonomy of grou",
+    "categories": "cs.AI, cs.MA",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31563v1",
+    "abs_url": "https://arxiv.org/abs/2609.31563v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Generalization behavior of OPTQ and the role of regularization",
+    "authors": "Erin George, Rayan Saab",
+    "summary": "Large neural networks can be compressed by rounding or \"quantizing\" their weights to numbers that admit representations with fewer bits. One algorithm for quantization, OPTQ, progressively quantizes t",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31560v1",
+    "abs_url": "https://arxiv.org/abs/2609.31560v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Online Learning via Learned Latent Bayesian Tracking",
+    "authors": "Guy Gerson, Tomer Raviv, Nir Shlezinger, Tirza Routtenberg, Osvaldo Simeone",
+    "summary": "Online learning in non-stationary environments requires models to adapt rapidly from streaming data under strict computational constraints. A principled approach casts online learning as Bayesian stat",
+    "categories": "cs.LG, eess.SP",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31559v1",
+    "abs_url": "https://arxiv.org/abs/2609.31559v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Region-Level Black-Box Defense Against Stealthy Embedding-Space Backdoors in CLIP",
+    "authors": "Ahmed Abdelnaby, Mohamed Elmahallawy",
+    "summary": "Contrastive Language--Image Pretraining (CLIP) has emerged as a dominant vision backbone due to its strong transferability and zero-shot capabilities. However, recent studies reveal a critical vulnera",
+    "categories": "cs.CV, cs.CR",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31558v1",
+    "abs_url": "https://arxiv.org/abs/2609.31558v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "MexHat: A Dataset for Hate Speech Detection in Mexican Spanish Videos",
+    "authors": "Itzel Tlelo-Coyotecatl, Hugo Jair Escalante",
+    "summary": "Ensuring online safety through content monitoring had raised Hate Speech Detection as a crucial task to be addressed. By essence the task demands the capture of contextual cues, which are essential fo",
+    "categories": "cs.CL, cs.CV",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31553v1",
+    "abs_url": "https://arxiv.org/abs/2609.31553v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "EAServe: Encode-Aware Disaggregated Serving for Multimodal Large Language Models",
+    "authors": "Kunxiong Zhu, Zhihao Shu, Hangyu Zheng, Minghai Qin, Miao Yin...",
+    "summary": "Disaggregating the two stages, Prefill and Decode, onto separate GPU pools is now a standard optimization for (text-only) LLM serving. However, multimodal LLMs (MLLMs), which add a third phase, Encode",
+    "categories": "cs.DC, cs.LG, cs.PF",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31551v1",
+    "abs_url": "https://arxiv.org/abs/2609.31551v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Two Conformal Constructions for Adaptive Within-Document AI-Text Screening",
+    "authors": "Marco Mandap, Jerahmeel Hipolito, Arcel Galvez, Charlie Margaret Balagtas, Michael Joshua Buluran...",
+    "summary": "We study false-alert control when screening for text generated by artificial intelligence (AI). The screening procedure selects document prefixes and detectors from observed evidence and may stop befo",
+    "categories": "stat.ME, cs.CL",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31547v1",
+    "abs_url": "https://arxiv.org/abs/2609.31547v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "BeatGraph: Self-Supervised Heartbeat Graphs for Infant ECG Representations from the Home Environment",
+    "authors": "Mohammad Nur Hossain Khan, M. S. Krafczyk, Beverly G. Bolster, Nancy McElwain, Mark A. Hasegawa-Johnson...",
+    "summary": "Electrocardiogram (ECG) foundation models typically tokenize the signal into fixed-length patches that ignore cardiac structure, so a patch may split a heartbeat and the number of beats in each patch ",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31546v1",
+    "abs_url": "https://arxiv.org/abs/2609.31546v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "A Flow Matching Framework for Neural Representational Dissimilarity",
+    "authors": "Zeyuan Ye, Xue-Xin Wei",
+    "summary": "Neural representational dissimilarity quantifies differences between neural response distributions, and is essential for comparing neural codes across stimuli, brain areas, tasks, and models. Commonly",
+    "categories": "cs.AI, cs.IT, cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31544v1",
+    "abs_url": "https://arxiv.org/abs/2609.31544v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Can You Check That? The Checkability Boundary for Local LLM Network Automation",
+    "authors": "Maleeha Masood, Momina Nofal",
+    "summary": "Sending every network-automation input to a third-party frontier LLM exports sensitive artifacts such as production configurations, topologies, and logs. Querying small language models (SLMs) locally ",
+    "categories": "cs.NI, cs.AI",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31540v1",
+    "abs_url": "https://arxiv.org/abs/2609.31540v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "NEXT: Physics-Informed Neuro-Spectral Exponential Time Differencing Architectures",
+    "authors": "Márcio Marques, Leonardo Mendonça, Leonardo M. Moreira, Christian Júnior de Oliveira, Vitor Balestro...",
+    "summary": "Physics-Informed Neural Networks (PINNs) build neural representations of time-dependent PDE solutions, naturally incorporating physics knowledge and observational data, which makes them well suited to",
+    "categories": "cs.LG, math.NA",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31539v1",
+    "abs_url": "https://arxiv.org/abs/2609.31539v1",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "HySTAR: Anchored Hypergraphs for Stable Credit Assignment in Cooperative Multi-Agent Reinforcement Learning",
+    "authors": "Xinglong Luo, Yuding Zhang, Yuheng Kuang, Shuxuan Yuan, Zhenni Zeng...",
+    "summary": "Cooperative multi-agent reinforcement learning under partial observability and shared rewards requires assigning team outcomes to individual agents and high-order coalitions. A MAPPO-style critic comp",
+    "categories": "cs.LG",
+    "published": "2026-09-25",
+    "pdf_url": "https://arxiv.org/pdf/2609.31531v1",
+    "abs_url": "https://arxiv.org/abs/2609.31531v1",
+    "date": "2026-09-28"
+  }
+]

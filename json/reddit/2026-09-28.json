@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Don't couple your Go code to GitHub",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Sir_KnowItAll",
+    "url": "https://www.reddit.com/r/programming/comments/1wrnyer/dont_couple_your_go_code_to_github/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrnyer/dont_couple_your_go_code_to_github/",
+    "rank": 1,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Reducing .NET AWS Lambda Cold Starts by Adding Memory",
+    "score": 0,
+    "num_comments": 0,
+    "author": "ReallySuperName",
+    "url": "https://www.reddit.com/r/programming/comments/1wrv44s/reducing_net_aws_lambda_cold_starts_by_adding/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrv44s/reducing_net_aws_lambda_cold_starts_by_adding/",
+    "rank": 2,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Packing Binary Is Fun, Actually",
+    "score": 0,
+    "num_comments": 0,
+    "author": "GenericAHHyoutuber",
+    "url": "https://www.reddit.com/r/programming/comments/1wrjyyr/packing_binary_is_fun_actually/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrjyyr/packing_binary_is_fun_actually/",
+    "rank": 3,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Postgres AT TIME ZONE 'UTC' does NOT do what you think it does",
+    "score": 0,
+    "num_comments": 0,
+    "author": "tanin47",
+    "url": "https://www.reddit.com/r/programming/comments/1wrc4sh/postgres_at_time_zone_utc_does_not_do_what_you/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrc4sh/postgres_at_time_zone_utc_does_not_do_what_you/",
+    "rank": 4,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Ownership - by Thorsten Ball - Register Spill",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wrwz6a/ownership_by_thorsten_ball_register_spill/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrwz6a/ownership_by_thorsten_ball_register_spill/",
+    "rank": 5,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Go concurrency distilled",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BrewedDoritos",
+    "url": "https://www.reddit.com/r/programming/comments/1wrjd0d/go_concurrency_distilled/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrjd0d/go_concurrency_distilled/",
+    "rank": 6,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Optimizing a Lock-Free Ring Buffer",
+    "score": 0,
+    "num_comments": 0,
+    "author": "david-alvarez-rosa",
+    "url": "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wqok1x/optimizing_a_lockfree_ring_buffer/",
+    "rank": 7,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Category Theory Explained for Haskell Programmers – Part 1 ZuriHac 2026",
+    "score": 0,
+    "num_comments": 0,
+    "author": "frenche_sans",
+    "url": "https://www.reddit.com/r/programming/comments/1wrkl1o/category_theory_explained_for_haskell_programmers/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wrkl1o/category_theory_explained_for_haskell_programmers/",
+    "rank": 8,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Microservices are organizational debt disguised as architecture.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Mustela__",
+    "url": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wq8nbw/microservices_are_organizational_debt_disguised/",
+    "rank": 9,
+    "date": "2026-09-28"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The Cloudflare Blog – Brought to you by EmDash",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wqv795/the_cloudflare_blog_brought_to_you_by_emdash/",
+    "rank": 10,
+    "date": "2026-09-28"
+  }
+]

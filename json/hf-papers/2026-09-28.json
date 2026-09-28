@@ -1,0 +1,132 @@
+[
+  {
+    "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+    "authors": "Hongyang Du, Yunfei Xie, Junjie Ye, Jiawei Yang, Xiaoyan Cong...",
+    "summary": "Representation autoencoders (RAEs) reuse features from a pretrained visual encoder as reconstruction and diffusion latents, integrating strong visual representations into image generation. However, RA",
+    "upvotes": 58,
+    "url": "https://huggingface.co/papers/2609.31620",
+    "paper_url": "https://arxiv.org/abs/2609.31620",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+    "authors": "Xingyu Miao, Zizun Li, Baole Fang, Kaiwen Song, Tenghui Wang...",
+    "summary": "World Action Models (WAMs) jointly model visual dynamics and action generation for generalist robot manipulation. A central challenge is to integrate priors from large-scale pretrained models---includ",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2609.31394",
+    "paper_url": "https://arxiv.org/abs/2609.31394",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Block Sparse Attention with Log-Linear Complexity",
+    "authors": "Bohao Tang, Zhen Qin, Yuqi Pan, Zheng Li, Pengfei Liu",
+    "summary": "Scaling language models to long contexts is limited by the quadratic cost of self-attention. Block sparse attention offers an efficient alternative, but selecting the retained blocks remains a bottlen",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.31093",
+    "paper_url": "https://arxiv.org/abs/2609.31093",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance",
+    "authors": "Jaihyun Lew, Mingi Jung, Minjun Park, Wooseok Song, Sungroh Yoon",
+    "summary": "Reference-based image quality assessment (IQA) metrics aim to reflect how humans perceive the perceptual distance between a pair of images. To learn how the human visual system (HVS) operates, recent ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.25716",
+    "paper_url": "https://arxiv.org/abs/2609.25716",
+    "published_at": "2026-09-22",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem",
+    "authors": "Guoming Ling, Muen Xue, Zijian Ye",
+    "summary": "Jev is a fast, low-cost decision model that answers natural-language questions with choices, binary judgments, and scores. As its public ecosystem grows rapidly, it remains unclear how Jev is used acr",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.30216",
+    "paper_url": "https://arxiv.org/abs/2609.30216",
+    "published_at": "2026-09-24",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation",
+    "authors": "Yutong Song, Jiang Wu, Weijia Zhang, Chengze Shen, Shaofan Yuan...",
+    "summary": "Adapting large language models to individual users remains challenging due to the tension between fine-grained personalization and scalable deployment. We present CARD, a hierarchical framework that a",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2601.06352",
+    "paper_url": "https://arxiv.org/abs/2601.06352",
+    "published_at": "2026-09-20",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations",
+    "authors": "Ayush Jain, Sreeharsha Paruchuri, Ishita Gupta, Fan Zhang, Tanner Schmidt...",
+    "summary": "Existing point tracking models face a fundamental tradeoff: they can either track a sparse set of query points over long horizons, or track all points across only short clips. We introduce TrackEveryt",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.30222",
+    "paper_url": "https://arxiv.org/abs/2609.30222",
+    "published_at": "2026-09-24",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL",
+    "authors": "Yan Zhan, Shaobo Liu, Qiunan Liu, Yuanjun Shi, Siqi Xu...",
+    "summary": "Tool-calling agents produce heterogeneous outputs, interleaving structured tool invocations with user-facing natural language summaries. This output heterogeneity presents a structural failure mode in",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.29050",
+    "paper_url": "https://arxiv.org/abs/2609.29050",
+    "published_at": "2026-09-24",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Game Arena: Strategic LLM Evaluation in Competitive Environments",
+    "authors": "Bovard Doerschuk-Tiberi, Yao Yan, Justin Chiu, Hann Wang, Timothy Chung...",
+    "summary": "We introduce Kaggle Game Arena, an open and ever-expanding platform to evaluate large language models (LLMs) through competitive games. Different from static benchmarks, game arena enables models to p",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.31473",
+    "paper_url": "https://arxiv.org/abs/2609.31473",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs",
+    "authors": "Yutong Song, Jiang Wu, Shaofan Yuan, Chengze Shen, Jian Wang...",
+    "summary": "Personalized large language models are often expected to follow explicit style instructions, yet we find that such instructions can undermine the user-specific characteristics that personalization met",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2601.06362",
+    "paper_url": "https://arxiv.org/abs/2601.06362",
+    "published_at": "2026-09-20",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs",
+    "authors": "Raphael Shu, Yusen Zhang, Young Min Cho, Jin Mo Yang, Yuan Yuan...",
+    "summary": "Existing multi-agent benchmarks primarily test in competitive settings, short-horizon interactions under 20 steps, or simply aggregate individual performance, failing to isolate and highlight genuine ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.31590",
+    "paper_url": "https://arxiv.org/abs/2609.31590",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy",
+    "authors": "Tara Sadjadpour, Siming He, C. K. Wolfe, Haozhi Qi, Lea Wilken...",
+    "summary": "Human hand-object interactions (HOIs) provide a rich source of demonstrations for dexterous manipulation, but learning directly from them presents challenges in bridging morphology gaps, ensuring dyna",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2609.28660",
+    "paper_url": "https://arxiv.org/abs/2609.28660",
+    "published_at": "2026-09-23",
+    "date": "2026-09-28"
+  },
+  {
+    "title": "ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker",
+    "authors": "Siqiao Xue, Shuxuan Liu, Ning Hu",
+    "summary": "Open rerankers trained for general web retrieval transfer imperfectly to e-commerce, where ranking decisions depend not only on topical relevance but also on user preferences, product constraints, and",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2609.31002",
+    "paper_url": "https://arxiv.org/abs/2609.31002",
+    "published_at": "2026-09-25",
+    "date": "2026-09-28"
+  }
+]
