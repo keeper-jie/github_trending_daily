@@ -1,0 +1,302 @@
+[
+  {
+    "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+    "authors": "Ruibin Yuan, Jiahao Pan, Junyan Jiang, Zhiyue Wu, Ziya Zhou...",
+    "summary": "Symbolic models make melody, harmony, rhythm, and form explicit but typically stop before a finished recording; audio models produce complete songs while leaving composition implicit. We introduce YuE",
+    "upvotes": 51,
+    "url": "https://huggingface.co/papers/2609.33757",
+    "paper_url": "https://arxiv.org/abs/2609.33757",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces",
+    "authors": "Dehai Min, Daoan Zhang, Yiming Zeng, Huayi Zhang, Ziyi Chen...",
+    "summary": "An agent can complete a task while exhibiting undesirable behavior during execution. Developers need tests for the specific behaviors encountered in deployment, beyond fixed benchmark suites. We prese",
+    "upvotes": 44,
+    "url": "https://huggingface.co/papers/2609.33295",
+    "paper_url": "https://arxiv.org/abs/2609.33295",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+    "authors": "Hongcheng Gao, Jingjing Zhou, Zelin Zheng, Shijia Ge, Jay Zhu...",
+    "summary": "Vision-language-action (VLA) and world-action (WAM) models map observations and instructions directly to robot actions. This directness ties a policy to training: minor layout or viewpoint changes cau",
+    "upvotes": 39,
+    "url": "https://huggingface.co/papers/2609.35432",
+    "paper_url": "https://arxiv.org/abs/2609.35432",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "authors": "Yichen You, Tianyu Fu, Aosong Feng, Xingtai Lv, Xuefei Ning...",
+    "summary": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLO",
+    "upvotes": 29,
+    "url": "https://huggingface.co/papers/2609.35748",
+    "paper_url": "https://arxiv.org/abs/2609.35748",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks",
+    "authors": "Lizhou Liang, Xinyu Zhong, Miao Pan, Xiaohe Zhou, Xuanyu Liu...",
+    "summary": "Long-horizon embodied interaction requires agents to retain and continually update information about the environment as they observe, act, and encounter change. Yet current agents struggle to maintain",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2609.28236",
+    "paper_url": "https://arxiv.org/abs/2609.28236",
+    "published_at": "2026-09-23",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
+    "authors": "Xin Li, Hao Jiang, Xin Gao, Annan Wang, Yuchen Xie...",
+    "summary": "Reinforcement learning can turn one language model into several specialists, each excellent at a single skill such as mathematics, coding or following instructions, but users need one model with all o",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2609.35347",
+    "paper_url": "https://arxiv.org/abs/2609.35347",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "CompoWorld: Compositional Environment Scaling for General Agents",
+    "authors": "Xiao-Wen Yang, Weiyi Xu, Wen Da, Hang Xu, Canwei Li...",
+    "summary": "Automatically generated environments provide a scalable source of interaction data for training general agents. However, existing approaches mainly generate tasks within a single environment, while re",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2609.33665",
+    "paper_url": "https://arxiv.org/abs/2609.33665",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge",
+    "authors": "Chanuk Lee, Minki Kang, Sangwoo Park, Woongyeong Yeo, Jinheon Baek...",
+    "summary": "Scaling test-time computation is a powerful way to improve language-model reasoning, and is particularly appealing for small reasoning models (sRMs) that are cheap to serve. However, is additional thi",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2609.34327",
+    "paper_url": "https://arxiv.org/abs/2609.34327",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Surprising Success, Repeated Failure: Entropy-Guided Credit Assignment for Exploration in LLM Reasoning",
+    "authors": "Woongyeong Yeo, Minki Kang, Chanuk Lee, Sangwoo Park, Jinheon Baek...",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) enhances reasoning in large language models (LLMs) through outcome-level feedback, yet recent approaches to finer-grained credit assignment often ",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2609.33781",
+    "paper_url": "https://arxiv.org/abs/2609.33781",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Learning to Learn from Context: Synthetic Training from Perturbed Public Documents",
+    "authors": "Haoyi Wu, Yang Xiao, Yusong Sun, Wenyang Hui, Zhaokai Luo...",
+    "summary": "Real-world tasks often require large language models (LLMs) to learn from complex task-specific context rather than pretrained parametric knowledge. This capability remains a weakness of LLMs, while h",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2609.33642",
+    "paper_url": "https://arxiv.org/abs/2609.33642",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+    "authors": "Weiyi Xu, Xiaowen Yang, Wen Da, Hang Xu, Canwei Li...",
+    "summary": "Executable environments are critical for post-training agents on tasks that require tool use and multi-step interaction, but constructing executable tasks together with their environments remains diff",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.33772",
+    "paper_url": "https://arxiv.org/abs/2609.33772",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "SpatialSpeak: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning",
+    "authors": "Yang Cao, Jiaxin Zhang, Dave Zhenyu Chen, Yingji Zhong, Ruiyuan Gao...",
+    "summary": "Vision-language models (VLMs) can benefit from geometric priors for multi-view spatial reasoning, yet answer-only training does not directly supervise the intermediate geometric estimates and their us",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.33616",
+    "paper_url": "https://arxiv.org/abs/2609.33616",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Diffusion Reward Models",
+    "authors": "Xiangyang Wang, Bingxiang He, Zeyuan Liu, Jiaze WangZiqing Qiao, Yuxin Zuo...",
+    "summary": "Reward models underpin the alignment of large language models, yet the dominant designs reduce each prompt--response pair to a point estimate or to a distribution from a fixed parametric family. This ",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.33803",
+    "paper_url": "https://arxiv.org/abs/2609.33803",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research",
+    "authors": "Kailin Jiang, Lei Liu, Jian Xi, Yangqi Chen, Hui Xu...",
+    "summary": "Document rerankers determine what evidence reaches the downstream model in RAG and deep research, yet mainstream rerankers select by relevance matching, and individually relevant documents rarely cons",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.32472",
+    "paper_url": "https://arxiv.org/abs/2609.32472",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents",
+    "authors": "Jingsong Liang, Shuhao Liao, Shizhe Zhang, Diyuan Hou, Yuxin Cai...",
+    "summary": "A foundation model should not act in isolation as an embodied agent. Yet, existing methods often optimize individual components of the agent stack, such as memory, context, skills, or action interface",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2609.32862",
+    "paper_url": "https://arxiv.org/abs/2609.32862",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "DepthBench: Measuring How Residual Connections Enable More Computational Depth",
+    "authors": "Keyu Wang, Yangyi Huang, Jiale Kang, David González-Martínez, Weiyang Liu...",
+    "summary": "Depth is a natural way to increase the computational capacity in Transformers, yet the contribution of deeper layers can diminish as depth grows larger. Recent approaches enhance normalization (e.g., ",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2609.32534",
+    "paper_url": "https://arxiv.org/abs/2609.32534",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue",
+    "authors": "Chengqian Ma, Wenhao Feng, Weixuan Jin, Gaole Dai, Tianyu Xie...",
+    "summary": "Real-time full-duplex speech models can listen while speaking, enabling natural interaction without rigid turn boundaries. Existing benchmarks evaluate turn-taking, interruption handling and multi-rou",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2609.31948",
+    "paper_url": "https://arxiv.org/abs/2609.31948",
+    "published_at": "2026-09-25",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
+    "authors": "Ziyang Zhang, Yubin Jing, Yuanhao Zeng, Yuyao Li, Haofan Wang...",
+    "summary": "We find that language models can transfer capabilities through task-unrelated text. Post-training typically improves language models using task-specific data. Prior work on subliminal learning shows t",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.29233",
+    "paper_url": "https://arxiv.org/abs/2609.29233",
+    "published_at": "2026-09-24",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models",
+    "authors": "Jingdi lei, Junxian Li, Di Zhang, Zhanqiu Zhang, Yiwen Guo...",
+    "summary": "Long visual token sequences often account for a substantial fraction of the computational overhead in multimodal large language models~(MLLMs). Existing approaches reduce this cost by pruning redundan",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2609.34972",
+    "paper_url": "https://arxiv.org/abs/2609.34972",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "REALM: A Coarse-to-Fine Generative Framework for Embodied Reactive Listening",
+    "authors": "Peizhen Li, Longbing Cao, Yang Zhang",
+    "summary": "Generating responsive listener facial motion is an important task for embodied conversational AI. Two modeling challenges are central: accounting for the timing of speaker cues while maintaining conti",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.33095",
+    "paper_url": "https://arxiv.org/abs/2609.33095",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon",
+    "authors": "Haiyu Zhang, Wenqiang Sun, Tengfei Wang, Junta Wu, Jun Zhang...",
+    "summary": "Interactive world models require responding in real time to versatile controls and maintaining long-horizon consistency. However, modeling heterogeneous controls remains difficult, while explosive con",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.35560",
+    "paper_url": "https://arxiv.org/abs/2609.35560",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Program-Verified Self-Evolution for Vision-Language Models",
+    "authors": "Ahmed Heakl, Sungik Choi, Moontae Lee, Salman Khan",
+    "summary": "Self-evolving vision-language models train on questions they generate from unlabeled images. Since these questions have no gold answers, prior methods label them by majority vote over sampled answers ",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.33855",
+    "paper_url": "https://arxiv.org/abs/2609.33855",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It",
+    "authors": "Tianrun Yu, Kaixiang Zhao, Shangzhe Li, Yuxiao Yang, Porter Jenkins...",
+    "summary": "We study training-inference mismatch in reinforcement learning with verifiable rewards (RLVR) for large language models, where rollouts are sampled by an inference engine while gradients are computed ",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.32444",
+    "paper_url": "https://arxiv.org/abs/2609.32444",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "SolveEdit: Benchmarking Visual Problem Solving in Generative Models",
+    "authors": "Wenjie Shu, Yexin Liu, Harold Haodong Chen, Xuerui Qiu, Zehan Wang...",
+    "summary": "Machine intelligence is often evaluated through abstract reasoning problems, yet many real-world problems are visual, such as arranging objects, repairing layouts, or tracing routes. Solving these pro",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.35504",
+    "paper_url": "https://arxiv.org/abs/2609.35504",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Precise Editing and Flexible Referencing for Interactable Worlds",
+    "authors": "Xinyao Liao, Xianfang Zeng, Zhu Liang, Zhoujie Fu, Qianxun Xu...",
+    "summary": "We present EditWorld, a video world model for precise editing and flexible referencing in interactable worlds. Existing video world models primarily focus on navigation, letting users explore generate",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.34470",
+    "paper_url": "https://arxiv.org/abs/2609.34470",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "SciGen-Verifier: A Multimodal Reasoner for Explainable Verification in Scientific Image Generation",
+    "authors": "Jiali Chen, Zhengteng Lin, Zuqi Wang, Shirong Lin, Xi Yu...",
+    "summary": "In realistic education, a solution is often expressed not only in words but in a drawing--a circuit, a geometric construction, a function plot--and a teacher must grade the drawing as carefully as the",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.33399",
+    "paper_url": "https://arxiv.org/abs/2609.33399",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction",
+    "authors": "Junxian Li, Ruixuan Yang, Tianao Zhang, Tiange Xu, Weisheng Dong...",
+    "summary": "Visual token reduction is an effective way to accelerate multimodal large language models (MLLMs), but performance deteriorates rapidly under extremely low token budgets. Existing work has explored bo",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2609.32353",
+    "paper_url": "https://arxiv.org/abs/2609.32353",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
+    "authors": "Kerui Ren, Kaiwen Song, Weiguang Zhao, Yuxi Wang, Yufei Liu...",
+    "summary": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent han",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.35743",
+    "paper_url": "https://arxiv.org/abs/2609.35743",
+    "published_at": "2026-09-28",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining",
+    "authors": "Shih-Ying Yeh, Daniel Z. Kaplan, Xuehai Wang, Fu-En Yang, Min-Hung Chen...",
+    "summary": "Comparisons in video self-supervised learning often evaluate complete training recipes rather than isolating the method itself: architecture, objective, data exposure, schedule, scale, and decoder cap",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.33419",
+    "paper_url": "https://arxiv.org/abs/2609.33419",
+    "published_at": "2026-09-27",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "MassAlloc Attention: Let Attention Allocate Its Own Compute",
+    "authors": "Jingze Shi, Zhangyang Peng, Xianduo Li, Yanlin Qi, Xiaotian Lin...",
+    "summary": "FullAttn often assigns negligible normalized mass to much of the causal score space, yet dense kernels execute the complete post-score path after forming each QK tile. We introduce MALA, a fused atten",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.32712",
+    "paper_url": "https://arxiv.org/abs/2609.32712",
+    "published_at": "2026-09-26",
+    "date": "2026-09-29"
+  }
+]

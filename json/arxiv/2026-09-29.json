@@ -1,0 +1,302 @@
+[
+  {
+    "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+    "authors": "Srinjay Sarkar, Prakhar Kaushik, Soumava Paul, Alan Yuille",
+    "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets",
+    "categories": "cs.CV, cs.AI, cs.GR",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35770v1",
+    "abs_url": "https://arxiv.org/abs/2609.35770v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Telescopic Language Models",
+    "authors": "Zhilin Guo, Boqiao Zhang, Hakan Aktas, Kyle Fogarty, Nursena Koprucu Aslan...",
+    "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35769v1",
+    "abs_url": "https://arxiv.org/abs/2609.35769v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+    "authors": "Zimo Wang, Junkun Yuan, Angtian Wang, Haotian Yang, Canyu Zhang...",
+    "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35768v1",
+    "abs_url": "https://arxiv.org/abs/2609.35768v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+    "authors": "Yijia Fan, Ziqi Huang, Zhongang Cai, Yan Li, Zimo Wen...",
+    "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35767v1",
+    "abs_url": "https://arxiv.org/abs/2609.35767v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+    "authors": "András Kovács, Alexander Conroy, Daniel Hershcovich, Jens Bjerring-Hansen",
+    "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla",
+    "categories": "cs.CL",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35765v1",
+    "abs_url": "https://arxiv.org/abs/2609.35765v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
+    "authors": "Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas...",
+    "summary": "Sparse inertial pose estimation promises camera-free motion capture from consumer devices, but consumer sensors are unreliable: firmware-fused orientations are biased, mounting varies between sessions",
+    "categories": "cs.CV, cs.HC",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35764v1",
+    "abs_url": "https://arxiv.org/abs/2609.35764v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Unifying Distributional Training for One-Step Visual Generation",
+    "authors": "Chi Zhang, Haoyang Shi, Yueyi Liu, Ruichuan An, Junkang Zhou...",
+    "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theo",
+    "categories": "cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35763v1",
+    "abs_url": "https://arxiv.org/abs/2609.35763v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Scaling Long-Form Story Generation via Narrative State Tracking",
+    "authors": "Zhennan Wan, Jianfei Chen",
+    "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex",
+    "categories": "cs.CL",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35759v1",
+    "abs_url": "https://arxiv.org/abs/2609.35759v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+    "authors": "Chaoqian Ouyang, Ling Yue, Libin Zheng, Huanghui Guo, Shengxiang Xu...",
+    "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm",
+    "categories": "cs.LG, cs.AI, cs.SE",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35760v1",
+    "abs_url": "https://arxiv.org/abs/2609.35760v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+    "authors": "Min Kim, José Leonardo Brenes, Fred Hadaegh, Soon-Jo Chung",
+    "summary": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) ",
+    "categories": "eess.SY, cs.LG, cs.RO",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35758v1",
+    "abs_url": "https://arxiv.org/abs/2609.35758v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Neural Harmonic Measure Operator",
+    "authors": "Jinjin He, Sinan Wang, Yuchen Sun, Bo Zhu",
+    "summary": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha",
+    "categories": "cs.LG, math.NA",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35752v1",
+    "abs_url": "https://arxiv.org/abs/2609.35752v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "How to Loop MoE: Flatten the Experts, Untie the Attention",
+    "authors": "Shouren Wang, Chuang Ma, Mohsen Hariri, Debargha Ganguly, Wang Yang...",
+    "summary": "Looped Transformers reuse one block of layers several times: by spending extra computation they push a model of fixed size further, and so use its parameters more fully; while sparse mixture-of-expert",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35751v1",
+    "abs_url": "https://arxiv.org/abs/2609.35751v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "KV-streams for Efficient Compaction in Agentic Reinforcement Learning",
+    "authors": "Emiliano Penaloza, Dane Malenfant, Dheeraj Vattikonda, Roger Creus Castanyer, Siddarth Venkatraman...",
+    "summary": "Scaling the horizon of agentic LLMs is bottlenecked by the need to fit ever longer context traces in GPU memory. Context compaction has been the most popular mechanism to alleviate this issue, keeping",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35750v1",
+    "abs_url": "https://arxiv.org/abs/2609.35750v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Towards Communication-Efficient Social Intelligence in Language Agents",
+    "authors": "Linxiao Gong, Yijie Xu, Tianfu Wang, Yin Wu, Yili Wang...",
+    "summary": "Socially intelligent language agents must negotiate, coordinate, and resolve conflicting preferences while respecting the time and attention of both participants. Balancing these demands is challengin",
+    "categories": "cs.CL",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35749v1",
+    "abs_url": "https://arxiv.org/abs/2609.35749v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Improving Test-Time Scaling with Adaptive Looped Transformers",
+    "authors": "Yichen You, Tianyu Fu, Aosong Feng, Xingtai Lv, Xuefei Ning...",
+    "summary": "Looped transformers have demonstrated promising parameter efficiency by reusing layers for latent computation. Prior studies compare looped and non-looped models at matched parameters or per-token FLO",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35748v1",
+    "abs_url": "https://arxiv.org/abs/2609.35748v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Copy the Same, Distill the Difference: Initializing Linear Vision Transformers",
+    "authors": "Huaiyuan Qin, Muli Yang, Gabriel James Goenawan, Shiqi Huang, Min Kass Chong...",
+    "summary": "Linear Vision Transformers (ViTs) are designed to replace the attention in Softmax ViTs with the linear-complexity attention operator for more efficient token routing, but they require from-scratch pr",
+    "categories": "cs.CV, cs.AI, cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35745v1",
+    "abs_url": "https://arxiv.org/abs/2609.35745v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "FinAutoRubric: Expert-Guided Automatic Rubric Generation for Evaluating Financial Research Agents",
+    "authors": "Hoyoung Lee, Suyeol Yun, Jack Haverty, Yunju Cho, Meesong Kim...",
+    "summary": "Evaluating finance research agents requires rubrics that reflect expert standards and fix the values correct as of an information cutoff. Expert-reviewed finance benchmarks rely on fixed, per-item rub",
+    "categories": "cs.AI, q-fin.CP",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35744v1",
+    "abs_url": "https://arxiv.org/abs/2609.35744v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video",
+    "authors": "Kerui Ren, Kaiwen Song, Weiguang Zhao, Yuxi Wang, Yufei Liu...",
+    "summary": "World-space hand motion estimation from egocentric video requires recovering 3D articulated hand geometry while tracking camera egomotion. Existing approaches heavily rely on cascading independent han",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35743v1",
+    "abs_url": "https://arxiv.org/abs/2609.35743v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Shockingly Simple Self-retrospection Improves Agentic Models Without RL",
+    "authors": "Jonathan Light, Christopher Zhang Cui, Jeonghye Kim, Roger Creus Castanyer, Emiliano Penaloza...",
+    "summary": "People learn not only by repeating successful actions, but also by recounting and explaining their experiences, revising their understanding to guide future behavior. Can a language-model agent improv",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35741v1",
+    "abs_url": "https://arxiv.org/abs/2609.35741v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Harness Learning Enables Generalizable Test-Time Adaptation",
+    "authors": "Alvin Zhang, Xuecheng Liu, Zixuan Wang, Fahim Tajwar, Daman Arora...",
+    "summary": "A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different wa",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35738v1",
+    "abs_url": "https://arxiv.org/abs/2609.35738v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space",
+    "authors": "Kerui Ren, Tao Lu, Linning Xu, Changjian Jiang, Mu Huang...",
+    "summary": "Novel view synthesis from sparse images must reconcile faithful reconstruction of observed regions with plausible completion of unseen content, while maintaining world consistency across viewpoints. E",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35734v1",
+    "abs_url": "https://arxiv.org/abs/2609.35734v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Failure-Transparent Agents: Benchmarking Post-Failure Reporting in Tool-Using Language Models",
+    "authors": "Junru Zhu, Shiming Xie, Aime Lu Fan Chen, Xiaoqing Ding, Chunxin Tang...",
+    "summary": "Tool-using agents can fail twice: a required tool can fail, and the agent can then report success without the evidence needed to justify it. Existing benchmarks often entangle this reporting failure w",
+    "categories": "cs.AI",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35732v1",
+    "abs_url": "https://arxiv.org/abs/2609.35732v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "FlowAct-R2: Beyond Talking Avatar via Streaming Multimodal References and Proactive Agent Planning",
+    "authors": "Ziyao Huang, Zhengkun Rong, Shiyang Qin, Shuang Liang, Wentao Hu...",
+    "summary": "We present FlowAct-R2, a framework for interactive humanoid video generation that combines continuous multimodal control with proactive agent planning. Our method consists of two coupled components. F",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35728v1",
+    "abs_url": "https://arxiv.org/abs/2609.35728v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Impact of Patient Orientation in Single- and Multi-View Camera Environments for AI-based Rehabilitation Monitoring",
+    "authors": "Miriama Jánošová, Andreas Lang, Petra Budikova, Jan Sedmidubsky",
+    "summary": "Automated quality assessment of rehabilitation exercises relies heavily on accurate human pose estimation from video data. Although numerous RGB-based pose estimation methods have been proposed, the i",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35726v1",
+    "abs_url": "https://arxiv.org/abs/2609.35726v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Superquadric Primitive Decomposition of 3D point clouds via Geometric-Aware Inlier Refinement",
+    "authors": "Alessandro Rinaldi, Edoardo Tedesco, Andrea Ferraris, Filippo Leveni, Daniele Baieri...",
+    "summary": "The decomposition of 3D point clouds into interpretable geometric primitives remains a longstanding challenge in Computer Vision and Computer Graphics. Among the available representations, superquadri",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35725v1",
+    "abs_url": "https://arxiv.org/abs/2609.35725v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision",
+    "authors": "Hanoona Rasheed, Mohammed Irfan Kurpath, Bin Ren, Hisham Cholakkal, Fahad Shahbaz Khan...",
+    "summary": "Frontier general-purpose systems are rapidly expanding beyond visual understanding into capabilities traditionally handled by dedicated computer-vision models. As these capabilities expand, a central ",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35718v1",
+    "abs_url": "https://arxiv.org/abs/2609.35718v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets",
+    "authors": "Prithwish Dan, Chenyang Ma, Wei Zhan",
+    "summary": "Reinforcement learning (RL) in simulation can train dexterous manipulation policies without robot demonstrations, but training a single generalist policy with task-agnostic rewards faces a severe expl",
+    "categories": "cs.LG, cs.AI, cs.RO",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35715v1",
+    "abs_url": "https://arxiv.org/abs/2609.35715v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Lagrangian--Hamiltonian Flows for Video Prediction and Image Generation: A Symplectic Perspective",
+    "authors": "Jiawei Hu",
+    "summary": "We introduce LHFM, a geometric framework for learning image dynamics. Drawing on structures central to classical mechanics, symplectic geometry, and geometric quantization, LHFM represents each image ",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35710v1",
+    "abs_url": "https://arxiv.org/abs/2609.35710v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "Mind the RefGAP: Correcting Reference Attention in Diffusion-Based Visual Editing",
+    "authors": "Yanan Wang, Shengcai Liao, Guangyi Liu, Xiaodan Liang",
+    "summary": "Reference-guided diffusion editors struggle to faithfully reproduce user-provided references. We identify a potential bottleneck in diffusion editors: many methods provide limited reference-attention ",
+    "categories": "cs.CV",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35708v1",
+    "abs_url": "https://arxiv.org/abs/2609.35708v1",
+    "date": "2026-09-29"
+  },
+  {
+    "title": "ScAn-Bench: Evaluating Scaling Analysis Methodology",
+    "authors": "Artin Sermaxhaj, Nastaran Alipour, Donat Sinani, Johannes Hog, Neeratyoy Mallik...",
+    "summary": "Recent progress in machine learning is driven by large-scale foundation models, where scaling laws and finding optimal scaling prescriptions for architecture, data, and hyperparameters are key in adva",
+    "categories": "cs.LG",
+    "published": "2026-09-28",
+    "pdf_url": "https://arxiv.org/pdf/2609.35707v1",
+    "abs_url": "https://arxiv.org/abs/2609.35707v1",
+    "date": "2026-09-29"
+  }
+]
