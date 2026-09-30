@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Point2Part: Unified 3D Partitioning from Point Prompts",
+    "authors": "Hao-Tang Tsui, Yu-Rou Tuan, Xiaoxuan Ma, Nicolas Ugrinovic, Takaaki Shiratori...",
+    "summary": "Existing 3D part decomposition methods do not necessarily partition the original shape into non-overlapping parts that collectively cover the entire shape, allowing overlaps or gaps that hinder downst",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38180v1",
+    "abs_url": "https://arxiv.org/abs/2609.38180v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Skill-Space Shooting for Autonomous Robot Policy Improvement",
+    "authors": "Zihang Rui, Renhao Wang, Haoxu Huang, Yang Gao",
+    "summary": "Robots deployed in the physical world must be able to improve beyond their initial training as they encounter new situations and failures. For this improvement to scale across tasks, it must make effe",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38178v1",
+    "abs_url": "https://arxiv.org/abs/2609.38178v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+    "authors": "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim...",
+    "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38177v1",
+    "abs_url": "https://arxiv.org/abs/2609.38177v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Breakdown of Local Denoising as Semantic Speciation",
+    "authors": "Guangkuo Liu, Mert Okyay, Yifan F. Zhang, Fangjun Hu, Rahul Nandkishore...",
+    "summary": "The dynamics of generative models exhibit two apparently distinct temporal windows: a speciation window, in which a sample commits to a semantic class, and a nonlocality window, in which local context",
+    "categories": "cs.LG, cond-mat.dis-nn, cond-mat.stat-mech",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38176v1",
+    "abs_url": "https://arxiv.org/abs/2609.38176v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation",
+    "authors": "Zihan Wang, Zhen Wu, Pieter Abbeel, Rocky Duan, Jitendra Malik...",
+    "summary": "Teaching humanoids loco-manipulation skills, such as carrying diverse objects, via visual imitation is a promising path toward generalist robots. However, collecting diverse, high-quality interaction ",
+    "categories": "cs.RO, cs.CV, cs.GR",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38172v1",
+    "abs_url": "https://arxiv.org/abs/2609.38172v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Adversarial Training for Pixel Diffusion",
+    "authors": "Xin Lin, Zhifei Zhang, Yuqian Zhou, Haitian Zheng, Zhe Lin...",
+    "summary": "Pixel diffusion models generate RGB images directly, avoiding the bottleneck of an autoencoder, yet their outputs still systematically underrepresent fine-scale natural-image statistics. We show that ",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38170v1",
+    "abs_url": "https://arxiv.org/abs/2609.38170v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "authors": "Bingchen Yao, Haobo Xu, Haokun Lin, Yichen Wu, Ziyu Guo...",
+    "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38169v1",
+    "abs_url": "https://arxiv.org/abs/2609.38169v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "LeapQuant: Efficient Linear Attention with Accurate Recurrent State Quantization",
+    "authors": "Yi Pan, Haocheng Xi, Kan Zhu, Xingyang Li, Yibo Wu...",
+    "summary": "Recent LLMs increasingly adopt hybrid designs that replace standard attention with linear attention, such as Gated DeltaNet (GDN) and Kimi Delta Attention (KDA). Although they compress the context int",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38166v1",
+    "abs_url": "https://arxiv.org/abs/2609.38166v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Dataset Disparity for Crop Segmentation in Satellite Imagery Time Series Data",
+    "authors": "Joseph Metcalfe, Sara Sharifzadeh, Fabio Caraffini",
+    "summary": "The landscape of satellite imagery time series datasets and boundary-pushing architectures for cropland segmentation has never been richer. However, in this gold rush, important truths are being misse",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38165v1",
+    "abs_url": "https://arxiv.org/abs/2609.38165v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Rethinking Representations for World-Action Modeling",
+    "authors": "Haoyi Jiang, Liu Liu, Xinjiang Wang, Zhihao Sun, Zequn Chen...",
+    "summary": "World-action models jointly learn robot policies and predict future observations, making the representation space an interface between control and prediction. We study the design of this space through",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38163v1",
+    "abs_url": "https://arxiv.org/abs/2609.38163v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "A Spectral Theory of Distortion in LLM Graph Reconstruction: Sharp Bounds and Empirical Characterization",
+    "authors": "Jianru Shen",
+    "summary": "Evaluations of graph reconstruction by language models typically report a single aggregate distance between the original and the reconstructed graph. We prove that for the Wasserstein distance between",
+    "categories": "cs.LG, cs.DM",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38161v1",
+    "abs_url": "https://arxiv.org/abs/2609.38161v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation",
+    "authors": "Kuan-Po Huang, Haohe Liu, Puyuan Peng, Haibin Wu, Zhaoheng Ni...",
+    "summary": "Emotion-conditioned text-to-speech (TTS) models may fail to express the requested emotion reliably, and improving controllability by additional training is costly in both computation and emotion-label",
+    "categories": "cs.SD, cs.CL, eess.AS",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38157v1",
+    "abs_url": "https://arxiv.org/abs/2609.38157v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "DMA$^2$: Pixel-space Distribution Matching with Adversarial and Anchor Losses",
+    "authors": "Xin Lin, Zhifei Zhang, Yuqian Zhou, Haitian Zheng, Shaoteng Liu...",
+    "summary": "Distribution matching distillation (DMD) provides a general framework for few-step diffusion generation, but its modern text-to-image instantiations have been developed primarily around latent diffusi",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38156v1",
+    "abs_url": "https://arxiv.org/abs/2609.38156v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies",
+    "authors": "Hui Ren, Lei Fan, Henry Pao, Han Guo, Zeeshan Zia...",
+    "summary": "Answering questions about long videos often requires connecting events involving the same objects across hours or days. Chronological descriptions and text-derived entities can leave physical identity",
+    "categories": "cs.CV, cs.AI, cs.CL, cs.IR, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38155v1",
+    "abs_url": "https://arxiv.org/abs/2609.38155v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "LongLive-Plug: Once-for-All Distillation for Video Generation",
+    "authors": "Shuai Yang, Luozhou Wang, Wei Huang, ZhiFei Chen, Bohan Zhang...",
+    "summary": "Video diffusion models are increasingly developed into specialized models for diverse downstream tasks, and this development often includes a distillation stage, for example to accelerate sampling or ",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38154v1",
+    "abs_url": "https://arxiv.org/abs/2609.38154v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "PowerSim: Differentiable Physics Simulation and Rendering with Power Diagrams",
+    "authors": "Trong-Tung Nguyen, Anand Bhattad",
+    "summary": "We introduce PowerSim, a method to bring physically grounded, differentiable dynamics to PowerFoam's power diagram based 3D representation. PowerSim directly couples a pre-trained PowerFoam scene to t",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38153v1",
+    "abs_url": "https://arxiv.org/abs/2609.38153v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "FracGen: Learning How Objects Stretch and Tear with Physics-Informed Video Generation",
+    "authors": "Trong-Tung Nguyen, Jiahan Zhang, Anand Bhattad",
+    "summary": "We introduce FracGen, a fracture-aware video generation model that produces plausible, controllable fracture dynamics from a single image of an intact object, conditioned on physics signals. To train ",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38152v1",
+    "abs_url": "https://arxiv.org/abs/2609.38152v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Pretraining Latent Information Feedback Transformers with Teacher Supervision",
+    "authors": "Dor Tirosh, Ido Amos, Mor Geva",
+    "summary": "Transformer language models (LMs) are feed-forward: deep-layer representations are never fed back to shallower layers, and the only pathway for information to flow downward across generation steps is ",
+    "categories": "cs.CL",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38149v1",
+    "abs_url": "https://arxiv.org/abs/2609.38149v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+    "authors": "Paras Dahal, Anton Bakhtin, Taco Cohen, Zhengxing Chen, Carole-Jean Wu...",
+    "summary": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whe",
+    "categories": "cs.AI",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38147v1",
+    "abs_url": "https://arxiv.org/abs/2609.38147v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation",
+    "authors": "Shengxiang Ji, Boyang Wang, Haiyang Xu, Bingnan Li, Yucheng Mao...",
+    "summary": "We introduce LIFT, a unified image-to-video generation framework that complements camera control with Layout-In-FuTure control, enabling users to specify what should appear in a future view and where ",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38146v1",
+    "abs_url": "https://arxiv.org/abs/2609.38146v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+    "authors": "Cheng Qian, Kunlun Zhu, Beibin Li, Zhenhailong Wang, Heng Ji",
+    "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a ",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38143v1",
+    "abs_url": "https://arxiv.org/abs/2609.38143v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "AdviSD: Learning to Advise Frontier LLMs via Targeted Multi-Turn Self-Distillation",
+    "authors": "Rishabh Agrawal, Hejie Cui, Shasha Li, Shanchan Wu, Sercan Ö. Arık",
+    "summary": "A small trainable advisor can steer a frozen language-model executor using natural-language advice. In addition to learning from task rewards, the advisor can use feedback from completed interactions ",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38142v1",
+    "abs_url": "https://arxiv.org/abs/2609.38142v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+    "authors": "Yu Xu, Yuxin Zhang, Xiao Yang, Haotian Yang, Yizhi Wang...",
+    "summary": "Mixture-of-Experts (MoE), popularized by large language models, is a promising paradigm for scaling visual generative models. However, conventional token-wise MoE routes tokens independently within a ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38140v1",
+    "abs_url": "https://arxiv.org/abs/2609.38140v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "LongHarness Bench: Stress-Testing Language Model Harnesses for Long-Context Reasoning",
+    "authors": "Quang Hieu Pham, Thuy Duong Nguyen, Jocelyn Qiaochu Chen, Xi Ye",
+    "summary": "Language-model (LM) harnesses enable LMs to operate effectively over long contexts using additional compute. However, existing long-context evaluations are insufficient for distinguishing modern harne",
+    "categories": "cs.CL",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38137v1",
+    "abs_url": "https://arxiv.org/abs/2609.38137v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "CLeaR: A Unified Framework for Resolving the Leakage-Degradation Dilemma in Style Transfer",
+    "authors": "Teng Zhou, Yunhao Chen",
+    "summary": "Style transfer aims to render target content in the style of a reference image, but existing methods often suffer from content leakage, where objects, layouts, or semantics from the style reference ap",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38136v1",
+    "abs_url": "https://arxiv.org/abs/2609.38136v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Multi-Agent Flow Matching with Decoupled Generative Guidance",
+    "authors": "Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti",
+    "summary": "Generative modeling is widely used for producing diverse objects from complex, multimodal distributions. However, its expressivity does not, in general, come with formal guarantees that the generated ",
+    "categories": "cs.LG, cs.MA, cs.RO, math.OC",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38133v1",
+    "abs_url": "https://arxiv.org/abs/2609.38133v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Achieving an $O(1/N)$ Optimality Gap in Average-Reward Weakly-Coupled MDPs",
+    "authors": "Yige Hong, Xiangcheng Zhang, Qiaomin Xie, Yudong Chen, Weina Wang",
+    "summary": "We study average-reward weakly-coupled Markov decision processes (WCMDPs), where a WCMDP consists of $N$ smaller MDPs, called arms, that share multiple per-step budget constraints. We consider the set",
+    "categories": "cs.LG, math.OC, math.PR",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38132v1",
+    "abs_url": "https://arxiv.org/abs/2609.38132v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "HelixWorld: A Real-time Interactive Audio-Visual World Model",
+    "authors": "Lei Ke, Jiahao Pan, Zeyue Tian, Jiaming Wang, Haoyuan Huang...",
+    "summary": "World simulation is inherently multisensory, demanding synchronized visual and acoustic dynamics in real time. Yet prevailing interactive world models remain strictly silent, focusing exclusively on v",
+    "categories": "cs.CV",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38123v1",
+    "abs_url": "https://arxiv.org/abs/2609.38123v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+    "authors": "Jiale Chen, Vage Egiazarian, Eldar Kurtić, Torsten Hoefler, Dan Alistarh",
+    "summary": "KV cache memory and bandwidth costs grow with context length and batch size, which limits efficient long-context inference. To address this bottleneck, we introduce WUSH-KV for low-bit KV-cache quanti",
+    "categories": "cs.LG",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38121v1",
+    "abs_url": "https://arxiv.org/abs/2609.38121v1",
+    "date": "2026-09-30"
+  },
+  {
+    "title": "Stochastic World Models for Verifying Vision-Based Neural Feedback Systems",
+    "authors": "I. Samuel Akinwande, Mykel J. Kochenderfer, Clark Barrett",
+    "summary": "Verifying a vision-based neural feedback system requires a model of the observations its controller acts upon. Such a model must capture the variation the sensor produces, while remaining tractable fo",
+    "categories": "cs.AI, eess.SY",
+    "published": "2026-09-29",
+    "pdf_url": "https://arxiv.org/pdf/2609.38120v1",
+    "abs_url": "https://arxiv.org/abs/2609.38120v1",
+    "date": "2026-09-30"
+  }
+]

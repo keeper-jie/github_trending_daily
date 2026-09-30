@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "NandhaKishorM/laya",
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "language": "Python",
+    "stars": 28782,
+    "forks": 2512,
+    "created_at": "2026-09-18T04:46:33Z",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "jaredpalmer/kev",
+    "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
+    "language": "Python",
+    "stars": 7954,
+    "forks": 501,
+    "created_at": "2026-09-17T20:49:39Z",
+    "url": "https://github.com/jaredpalmer/kev",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "tamaratran/fast-jev-compaction",
+    "description": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+    "language": "TypeScript",
+    "stars": 7214,
+    "forks": 462,
+    "created_at": "2026-09-17T05:57:20Z",
+    "url": "https://github.com/tamaratran/fast-jev-compaction",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "zai-org/ZCode",
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "language": "TypeScript",
+    "stars": 7198,
+    "forks": 2186,
+    "created_at": "2026-09-20T12:01:16Z",
+    "url": "https://github.com/zai-org/ZCode",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "jev-chat/jev-chat-jarvis",
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "language": "Kotlin",
+    "stars": 7134,
+    "forks": 1211,
+    "created_at": "2026-09-21T11:12:53Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "mizorewww/laya-mlx",
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "language": "Python",
+    "stars": 6640,
+    "forks": 522,
+    "created_at": "2026-09-19T13:50:26Z",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "cdyforever/how-to-live-better",
+    "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
+    "language": "HTML",
+    "stars": 5161,
+    "forks": 349,
+    "created_at": "2026-09-18T14:35:08Z",
+    "url": "https://github.com/cdyforever/how-to-live-better",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "stars": 3555,
+    "forks": 1014,
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "yetone/magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "language": "Go",
+    "stars": 3129,
+    "forks": 183,
+    "created_at": "2026-09-23T16:22:35Z",
+    "url": "https://github.com/yetone/magpie",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "newliver666/apk-reverse",
+    "description": "Suitable for Android APK reverse engineering analysis",
+    "language": "Python",
+    "stars": 3039,
+    "forks": 613,
+    "created_at": "2026-09-19T13:12:54Z",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "Contrastive-LM/CLM",
+    "description": "",
+    "language": "Python",
+    "stars": 2541,
+    "forks": 220,
+    "created_at": "2026-09-23T19:29:56Z",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "TianyuCodings/NanoJev",
+    "description": "A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",
+    "language": "Python",
+    "stars": 2441,
+    "forks": 249,
+    "created_at": "2026-09-17T16:08:30Z",
+    "url": "https://github.com/TianyuCodings/NanoJev",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "driceroland/Search",
+    "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+    "language": "Swift",
+    "stars": 2281,
+    "forks": 207,
+    "created_at": "2026-09-20T10:29:47Z",
+    "url": "https://github.com/driceroland/Search",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "unreallabsai/unreal-agent",
+    "description": "Async-first agent harness",
+    "language": "Go",
+    "stars": 2035,
+    "forks": 116,
+    "created_at": "2026-09-21T23:14:02Z",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "mexicat/pdoom-video",
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "language": "TypeScript",
+    "stars": 2011,
+    "forks": 209,
+    "created_at": "2026-09-24T21:33:53Z",
+    "url": "https://github.com/mexicat/pdoom-video",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "yibie/awesome-jev",
+    "description": "A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions.",
+    "language": "Python",
+    "stars": 1995,
+    "forks": 299,
+    "created_at": "2026-09-17T14:23:21Z",
+    "url": "https://github.com/yibie/awesome-jev",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "Niko1221/Strata",
+    "description": "Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "language": "C++",
+    "stars": 1975,
+    "forks": 229,
+    "created_at": "2026-09-24T16:40:20Z",
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "tobi/disktree",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "language": "Rust",
+    "stars": 1933,
+    "forks": 123,
+    "created_at": "2026-09-24T20:56:29Z",
+    "url": "https://github.com/tobi/disktree",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "bespokelabsai/nimble",
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "language": "Python",
+    "stars": 1918,
+    "forks": 151,
+    "created_at": "2026-09-18T09:07:48Z",
+    "url": "https://github.com/bespokelabsai/nimble",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "stars": 1808,
+    "forks": 118,
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "deepopen-com/deepopen",
+    "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "language": "Python",
+    "stars": 1623,
+    "forks": 211,
+    "created_at": "2026-09-21T02:12:24Z",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "language": "Markdown",
+    "stars": 1577,
+    "forks": 156,
+    "created_at": "2026-09-19T04:14:43Z",
+    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "hydra-db/open-glean",
+    "description": "An open-source AI platform for knowledge work. Connect your apps, find answers, and get work done.",
+    "language": "TypeScript",
+    "stars": 1539,
+    "forks": 518,
+    "created_at": "2026-09-17T05:22:08Z",
+    "url": "https://github.com/hydra-db/open-glean",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "mizorewww/laya-coreml",
+    "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "language": "Python",
+    "stars": 1530,
+    "forks": 128,
+    "created_at": "2026-09-19T23:14:13Z",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "JohnHeibel/PDoomVideo",
+    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+    "language": "JavaScript",
+    "stars": 1530,
+    "forks": 168,
+    "created_at": "2026-09-22T23:32:19Z",
+    "url": "https://github.com/JohnHeibel/PDoomVideo",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "Mak5er/AirCard-iOS",
+    "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+    "language": "Swift",
+    "stars": 1362,
+    "forks": 137,
+    "created_at": "2026-09-19T09:22:23Z",
+    "url": "https://github.com/Mak5er/AirCard-iOS",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "ntfargo/Relapse-Exploit",
+    "description": "Exploit chain for PS5 7.00 - 13.60",
+    "language": "JavaScript",
+    "stars": 1137,
+    "forks": 286,
+    "created_at": "2026-09-17T19:45:13Z",
+    "url": "https://github.com/ntfargo/Relapse-Exploit",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "852wa/JIZURA",
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "language": "HTML",
+    "stars": 1129,
+    "forks": 160,
+    "created_at": "2026-09-23T04:04:13Z",
+    "url": "https://github.com/852wa/JIZURA",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "mikehasa/golive-skill",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "language": "TypeScript",
+    "stars": 1121,
+    "forks": 83,
+    "created_at": "2026-09-23T13:37:26Z",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "date": "2026-09-30"
+  },
+  {
+    "repo": "shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "language": "Kotlin",
+    "stars": 1113,
+    "forks": 180,
+    "created_at": "2026-09-24T15:36:38Z",
+    "url": "https://github.com/shihabal3amri/DiPlay",
+    "date": "2026-09-30"
+  }
+]
