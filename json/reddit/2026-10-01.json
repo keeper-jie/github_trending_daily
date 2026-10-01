@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "OpenZL v0.2 - decompression 2x faster than Zstandard",
+    "score": 0,
+    "num_comments": 0,
+    "author": "aqrit",
+    "url": "https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wuf5lf/openzl_v02_decompression_2x_faster_than_zstandard/",
+    "rank": 1,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Page table memory consumption",
+    "score": 0,
+    "num_comments": 0,
+    "author": "andreiross",
+    "url": "https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wulcti/page_table_memory_consumption/",
+    "rank": 2,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Adding very basic 3d outside of a standard operating system - Floating points and basic 3d graphics",
+    "score": 0,
+    "num_comments": 0,
+    "author": "eccsoheccsseven",
+    "url": "https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wumd96/adding_very_basic_3d_outside_of_a_standard/",
+    "rank": 3,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "What TLA+ can and can't check",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wuja3f/what_tla_can_and_cant_check/",
+    "rank": 4,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Everyone Should Know SIMD",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wtv3vb/everyone_should_know_simd/",
+    "rank": 5,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "It's the Kernel's Fault! Custom Page Fault Handling With bpf_fault",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wugn5a/its_the_kernels_fault_custom_page_fault_handling/",
+    "rank": 6,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "c++ operating system level primitives 1",
+    "score": 0,
+    "num_comments": 0,
+    "author": "wizard_creator_seth",
+    "url": "https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wulzdy/c_operating_system_level_primitives_1/",
+    "rank": 7,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Zero-Growth Stack, Real Gains: How Stack Allocation Can Save 10% CPU in Go",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1wtnwfs/zerogrowth_stack_real_gains_how_stack_allocation/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wtnwfs/zerogrowth_stack_real_gains_how_stack_allocation/",
+    "rank": 8,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "On Automatic Type Refinements",
+    "score": 0,
+    "num_comments": 0,
+    "author": "radekmie",
+    "url": "https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wtyphe/on_automatic_type_refinements/",
+    "rank": 9,
+    "date": "2026-10-01"
+  },
+  {
+    "subreddit": "programming",
+    "title": "nine npm packages shipping worm that spread by itself over SSH",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BattleRemote3157",
+    "url": "https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wt8odk/nine_npm_packages_shipping_worm_that_spread_by/",
+    "rank": 10,
+    "date": "2026-10-01"
+  }
+]

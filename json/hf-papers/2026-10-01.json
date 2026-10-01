@@ -1,0 +1,302 @@
+[
+  {
+    "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+    "authors": "Hao Li, MeiJia Chen, Weijie Ren, Donghan Li, Zijun Tian...",
+    "summary": "On-policy distillation (OPD) trains a student to match the teacher's next-token distributions on the student's own trajectories and has yielded substantial empirical gains. Generalized variants allow ",
+    "upvotes": 86,
+    "url": "https://huggingface.co/papers/2609.36484",
+    "paper_url": "https://arxiv.org/abs/2609.36484",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+    "authors": "Fang Wu, Da Xing, Yanjie Huang, Junxi Wang, Ji Wang...",
+    "summary": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd",
+    "upvotes": 60,
+    "url": "https://huggingface.co/papers/2609.38721",
+    "paper_url": "https://arxiv.org/abs/2609.38721",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+    "authors": "Young-Jun Lee, Jinheon Baek, Soyeong Jeong, Minki Kang, Seungyeon Jwa...",
+    "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee",
+    "upvotes": 54,
+    "url": "https://huggingface.co/papers/2609.40340",
+    "paper_url": "https://arxiv.org/abs/2609.40340",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+    "authors": "Hongjin Qian, Chaofan Li, Kun Luo, Wenqing Wei, Jianlyu Chen...",
+    "summary": "We present AREX-2, an effort to advance the self-improving capability of LLM agents, which we define as the ability to iteratively refine a solution at test time. This ability rests on two complementa",
+    "upvotes": 48,
+    "url": "https://huggingface.co/papers/2609.38288",
+    "paper_url": "https://arxiv.org/abs/2609.38288",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+    "authors": "Cheng Qian, Kunlun Zhu, Beibin Li, Zhenhailong Wang, Heng Ji",
+    "summary": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a ",
+    "upvotes": 39,
+    "url": "https://huggingface.co/papers/2609.38143",
+    "paper_url": "https://arxiv.org/abs/2609.38143",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "authors": "Ziyan Jiang, Jingbo Yang, Jiabao Ji, Yujian Liu, Qiucheng Wu...",
+    "summary": "As interactive 3D worlds are increasingly used to study intelligent behavior, it becomes important to develop efficient pipelines for identifying anomalies in these simulated environments, such as flo",
+    "upvotes": 39,
+    "url": "https://huggingface.co/papers/2609.40325",
+    "paper_url": "https://arxiv.org/abs/2609.40325",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
+    "authors": "Minki Kang, Ryo Hachiuma, Shaokun Zhang, Subhashree Radhakrishnan, Yonggan Fu...",
+    "summary": "Terminal agents act through stochastic model generations, yet the ability to generate a useful action does not ensure its reliable execution. A poor command (e.g., wrong package install) can change th",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2609.39982",
+    "paper_url": "https://arxiv.org/abs/2609.39982",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "More Choices, Fewer Decisions: Ordinal-Scale Bias in JEV-like Direct-Decision Models",
+    "authors": "Tianxiang Gao, Jinzhe Li, Zhiyuan Li, Yi Chang, Yuan Wu",
+    "summary": "Direct-decision models turn text into low-latency structured labels and scores, making them attractive for classification and automatic evaluation. Yet reliability requires more than accuracy: a model",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2609.38827",
+    "paper_url": "https://arxiv.org/abs/2609.38827",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+    "authors": "Meijia Chen, Hao Li, Zheng Lu, Hongshan Lin, Junbai Tian...",
+    "summary": "Self-evolving search agents build their own training curricula by jointly optimizing a proposer that generates questions and a solver that answers them. This closed loop introduces a failure mode we c",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2609.39102",
+    "paper_url": "https://arxiv.org/abs/2609.39102",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training",
+    "authors": "Kunlun Zhu, Xuyan Ye, Yibo Li, Cheng Qian, Beibin Li...",
+    "summary": "An unsuccessful LLM agent rollout contains more information than its final reward: the observations available to the agent, the actions it chose, and the environment's responses. Reusing this experien",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2609.40111",
+    "paper_url": "https://arxiv.org/abs/2609.40111",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "EVOKE: Eliciting World Knowledge in Agents for Transferable Decision-Making",
+    "authors": "Yuhan Guo, Jinming Liu, Liang Xu, Ziqiang Li, Jianguo Huang...",
+    "summary": "Large language models (LLMs) are increasingly deployed as agents for multi-step decision-making, yet transfer poorly to unseen environments. World-model methods address this by training agents to pred",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2609.38334",
+    "paper_url": "https://arxiv.org/abs/2609.38334",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering",
+    "authors": "Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim...",
+    "summary": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they strugg",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2609.38177",
+    "paper_url": "https://arxiv.org/abs/2609.38177",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Unmask the State: When Does State Adaptation Matter for Masked Diffusion Language Models",
+    "authors": "Injin Kong, Sunghwan Choi, Yohan Jo",
+    "summary": "Masked diffusion language models (MDMs) admit flexible generation orders, making the unmasking strategy an inference decision. Existing methods vary in how they prioritize positions, control paralleli",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2609.33355",
+    "paper_url": "https://arxiv.org/abs/2609.33355",
+    "published_at": "2026-09-27",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Breaking Babel: A Self-Evolving Multi-Agent System for Long-Form Subtitle Translation",
+    "authors": "Haibo Jin, Xinjie Li, Najmeh Sadoughi, Yang Liu, Yibo Wang...",
+    "summary": "Long-form subtitle translation requires reasoning over discourse and cultural context spanning episodes or entire series, while maintaining consistent terminology and style. Existing single-LLM method",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.38660",
+    "paper_url": "https://arxiv.org/abs/2609.38660",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Systematically Exploring the Capabilities of GPT-6 Astra as Embodied Policies",
+    "authors": "Galbot Team, Xuchuan Chen, Xiaoqian Cheng, Yu Deng, Lihe Ding...",
+    "summary": "GPT-6 Astra exhibits a remarkable ability to generate numerical robot actions, extending its role beyond high-level planning. To assess Astra's capabilities as general-purpose embodied policies, we co",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2609.38537",
+    "paper_url": "https://arxiv.org/abs/2609.38537",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "RSIGame: Autonomous Agentic Game Development with Recursive Self-improvement",
+    "authors": "Wenyi Wu, Minghao Fu, Jieyu You, Kun Zhou, Siqi Liu...",
+    "summary": "Recent advances in large language models have made automatic game generation increasingly feasible, yet reliably improving generated games beyond a playable version remains challenging. Naive iterativ",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.39045",
+    "paper_url": "https://arxiv.org/abs/2609.39045",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "DC-SAE: Deep Compression Semantic Autoencoder for Faster Diffusion Convergence",
+    "authors": "Xu Huang, Ye Huang, Zijun Liao, Yuwei Niu, Xiaojie Li...",
+    "summary": "High-compression tokenizers are essential for scaling latent image generative models. However, aggressive compression creates a fundamental tradeoff between reconstruction fidelity and generation effi",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2609.39222",
+    "paper_url": "https://arxiv.org/abs/2609.39222",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "AIM: Agentic Idea Management for Automated Research",
+    "authors": "Hyeong Kyu Choi, Bhavana Dalvi Mishra, Jiefeng Chen, Mihir Parmar, Rui Meng...",
+    "summary": "Frontier LLMs are increasingly used to automate scientific research through iterative search. We distinguish idea-driven search from solution-driven search and identify three core challenges: organizi",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.38445",
+    "paper_url": "https://arxiv.org/abs/2609.38445",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Scaling Laws for Looped Mixture of Experts",
+    "authors": "Yanbei Chen, Anirudh Goyal, Raghuraman Krishnamoorthi",
+    "summary": "Looped transformers and Mixture-of-Experts (MoE) offer complementary routes to efficient scaling: recurrence increases computational depth at fixed parameters, while MoE sparsity expands total capacit",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.40316",
+    "paper_url": "https://arxiv.org/abs/2609.40316",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "RoboCoach: World Models as Active Coaches for Compositional Robot Skills",
+    "authors": "Jiajun Liu, Yifan Chen, Yichao Liu, Jiayi Zhang, Ruoqu Chen...",
+    "summary": "Long-horizon robot manipulation reuses skills across many task compositions, but improving these compositions with additional end-to-end demonstrations is costly. A practical self-improving system mus",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.39685",
+    "paper_url": "https://arxiv.org/abs/2609.39685",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "ThinkV2V: Unleashing the Reasoning Capability of MLLMs for Instruction-Guided Video Editing",
+    "authors": "Donghao Zhou, Haoyang He, Fan Zhang, Hao Yang, Guisheng Liu...",
+    "summary": "Instruction-guided video editing has made significant progress, yet existing methods use multimodal large language models (MLLMs) primarily as semantic encoders, so they often fall short in working wi",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.38541",
+    "paper_url": "https://arxiv.org/abs/2609.38541",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Decompose Radicals, Then Reward: Fine-Grained Inspection for Accurate Chinese Text Rendering",
+    "authors": "Yazhen Xie, Xingsong Ye, Zhineng Chen",
+    "summary": "Rendering accurate Chinese text remains challenging for text-to-image models. Existing OCR-based reinforcement-learning rewards compare decoded transcripts with target strings. Such rewards overlook t",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2609.37569",
+    "paper_url": "https://arxiv.org/abs/2609.37569",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "OSWorld-Science: A Benchmark of Computer Use Agents for Learning and Using Scientific Software",
+    "authors": "Dingyuan Dai, Heli Qi, Lei Liu, Yinxi Li, Baiding Chen...",
+    "summary": "Scientific software presents a demanding test for computer-using agents based on visual language models (VLMs): completing a research workflow requires interpreting specialized interfaces, manipulatin",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.39903",
+    "paper_url": "https://arxiv.org/abs/2609.39903",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "DuoOPD: Learning from Joint Teacher-Student Outcomes for Multi-Task On-Policy Distillation",
+    "authors": "Ao Yu, Weibo Gao, Heng Zhou, Linan Yue, Rui Li...",
+    "summary": "On-policy distillation (OPD) trains a student on its own responses with token-level feedback from a stronger teacher, yet the teacher can fail on questions the student already answers correctly, and h",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.33711",
+    "paper_url": "https://arxiv.org/abs/2609.33711",
+    "published_at": "2026-09-27",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "A2Z GameSpec-Bench: How Faithfully Can Coding Agents Generate Games from Game Design Specifications?",
+    "authors": "Seonho Lee, Wonryeol Jeong, Alberto Cereser, Inha Kang, Hyeonjong Kim...",
+    "summary": "Delegating complete application development to coding agents requires preserving the intended design rather than simply producing plausible outputs through naive prompting. Game development provides a",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2609.39564",
+    "paper_url": "https://arxiv.org/abs/2609.39564",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "PivotOPD: Learning to Recover from Pivotal Mistakes in Multi-Turn Agents",
+    "authors": "Yinghui He, Yapei Chang, Khushi Bhardwaj, Daniele Molinari, Tugrul Konuk...",
+    "summary": "On-policy distillation (OPD) is a promising approach for training language agents, providing dense teacher supervision on student-generated trajectories. However, in multi-turn interaction, an incorre",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.40285",
+    "paper_url": "https://arxiv.org/abs/2609.40285",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Thinking Outside the Box: Can Language Models Rely on External Guidance Selectively?",
+    "authors": "Minghan Wang, Boyuan Wang, Jinhang Zuo, Yuxin Tao, Fang kong",
+    "summary": "Agent harnesses often improve language models with human-designed workflows, but as models grow more capable, unreliable guidance can increasingly constrain their execution. We call the ability to ben",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.39578",
+    "paper_url": "https://arxiv.org/abs/2609.39578",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Game-Guided Skill Discovery through Self-Play for Playable Agent Control",
+    "authors": "Seungeun Rho, Jeonghwan Kim, Xue Bin Peng, Sehoon Ha",
+    "summary": "We present Game-Guided Skill Discovery (GGSD), a framework that uses self-play in games to discover motor skills that are directly playable by humans. Playable skills provide a compact abstraction for",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.40137",
+    "paper_url": "https://arxiv.org/abs/2609.40137",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+    "authors": "Liming Lu, Xianzheng Ma, Wenkun He, Guanqi Zhan, Yilin Zhao...",
+    "summary": "Video world models are expected to predict how the physical world evolves, yet they often produce visually plausible videos that violate basic physical principles. Existing approaches commonly assume ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.40358",
+    "paper_url": "https://arxiv.org/abs/2609.40358",
+    "published_at": "2026-09-30",
+    "date": "2026-10-01"
+  },
+  {
+    "title": "WUSH-KV: KV Cache Quantization with Data-Adaptive Transforms",
+    "authors": "Jiale Chen, Vage Egiazarian, Eldar Kurtić, Torsten Hoefler, Dan Alistarh",
+    "summary": "KV cache memory and bandwidth costs grow with context length and batch size, which limits efficient long-context inference. To address this bottleneck, we introduce WUSH-KV for low-bit KV-cache quanti",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2609.38121",
+    "paper_url": "https://arxiv.org/abs/2609.38121",
+    "published_at": "2026-09-29",
+    "date": "2026-10-01"
+  }
+]

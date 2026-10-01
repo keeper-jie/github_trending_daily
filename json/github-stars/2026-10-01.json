@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "NandhaKishorM/laya",
+    "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+    "language": "Python",
+    "stars": 29384,
+    "forks": 2554,
+    "created_at": "2026-09-18T04:46:33Z",
+    "url": "https://github.com/NandhaKishorM/laya",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "zai-org/ZCode",
+    "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+    "language": "TypeScript",
+    "stars": 7265,
+    "forks": 2203,
+    "created_at": "2026-09-20T12:01:16Z",
+    "url": "https://github.com/zai-org/ZCode",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "jev-chat/jev-chat-jarvis",
+    "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+    "language": "Kotlin",
+    "stars": 7192,
+    "forks": 1214,
+    "created_at": "2026-09-21T11:12:53Z",
+    "url": "https://github.com/jev-chat/jev-chat-jarvis",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "mizorewww/laya-mlx",
+    "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+    "language": "Python",
+    "stars": 6666,
+    "forks": 527,
+    "created_at": "2026-09-19T13:50:26Z",
+    "url": "https://github.com/mizorewww/laya-mlx",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "cdyforever/how-to-live-better",
+    "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
+    "language": "HTML",
+    "stars": 5900,
+    "forks": 408,
+    "created_at": "2026-09-18T14:35:08Z",
+    "url": "https://github.com/cdyforever/how-to-live-better",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "stars": 4209,
+    "forks": 1219,
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "yetone/magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "language": "Go",
+    "stars": 3887,
+    "forks": 242,
+    "created_at": "2026-09-23T16:22:35Z",
+    "url": "https://github.com/yetone/magpie",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "Niko1221/Strata",
+    "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "language": "C++",
+    "stars": 3409,
+    "forks": 317,
+    "created_at": "2026-09-24T16:40:20Z",
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "newliver666/apk-reverse",
+    "description": "Suitable for Android APK reverse engineering analysis",
+    "language": "Python",
+    "stars": 3104,
+    "forks": 630,
+    "created_at": "2026-09-19T13:12:54Z",
+    "url": "https://github.com/newliver666/apk-reverse",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "Contrastive-LM/CLM",
+    "description": "",
+    "language": "Python",
+    "stars": 2637,
+    "forks": 229,
+    "created_at": "2026-09-23T19:29:56Z",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "driceroland/Search",
+    "description": "A small, fast WebKit browser for macOS, by Office Commun.",
+    "language": "Swift",
+    "stars": 2298,
+    "forks": 211,
+    "created_at": "2026-09-20T10:29:47Z",
+    "url": "https://github.com/driceroland/Search",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "mexicat/pdoom-video",
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "language": "TypeScript",
+    "stars": 2138,
+    "forks": 224,
+    "created_at": "2026-09-24T21:33:53Z",
+    "url": "https://github.com/mexicat/pdoom-video",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "tobi/disktree",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "language": "Rust",
+    "stars": 2043,
+    "forks": 129,
+    "created_at": "2026-09-24T20:56:29Z",
+    "url": "https://github.com/tobi/disktree",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "unreallabsai/unreal-agent",
+    "description": "Async-first agent harness",
+    "language": "Go",
+    "stars": 2041,
+    "forks": 116,
+    "created_at": "2026-09-21T23:14:02Z",
+    "url": "https://github.com/unreallabsai/unreal-agent",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "bespokelabsai/nimble",
+    "description": "Local typed decisions, contrastive data curation, and model evaluation.",
+    "language": "Python",
+    "stars": 1996,
+    "forks": 154,
+    "created_at": "2026-09-18T09:07:48Z",
+    "url": "https://github.com/bespokelabsai/nimble",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "feder-cr/dots",
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "language": "Python",
+    "stars": 1956,
+    "forks": 321,
+    "created_at": "2026-09-29T23:06:00Z",
+    "url": "https://github.com/feder-cr/dots",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "stars": 1922,
+    "forks": 128,
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "RubinLabs26/ISpotify",
+    "description": "Local-first desktop music search, playlist, download, and playback app for Windows and Linux",
+    "language": "Python",
+    "stars": 1901,
+    "forks": 0,
+    "created_at": "2026-09-20T07:51:15Z",
+    "url": "https://github.com/RubinLabs26/ISpotify",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows) and keeps an eye on your Claude Code sessions.",
+    "language": "Swift",
+    "stars": 1740,
+    "forks": 221,
+    "created_at": "2026-09-27T21:54:12Z",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "language": "Kotlin",
+    "stars": 1691,
+    "forks": 240,
+    "created_at": "2026-09-24T15:36:38Z",
+    "url": "https://github.com/shihabal3amri/DiPlay",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "deepopen-com/deepopen",
+    "description": "非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",
+    "language": "Python",
+    "stars": 1623,
+    "forks": 211,
+    "created_at": "2026-09-21T02:12:24Z",
+    "url": "https://github.com/deepopen-com/deepopen",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "JohnHeibel/PDoomVideo",
+    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+    "language": "JavaScript",
+    "stars": 1615,
+    "forks": 174,
+    "created_at": "2026-09-22T23:32:19Z",
+    "url": "https://github.com/JohnHeibel/PDoomVideo",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "description": "Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions and Answers.",
+    "language": "Markdown",
+    "stars": 1601,
+    "forks": 161,
+    "created_at": "2026-09-19T04:14:43Z",
+    "url": "https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "Majorclujerk/Server-Raider",
+    "description": "",
+    "language": "",
+    "stars": 1556,
+    "forks": 160,
+    "created_at": "2026-09-21T03:00:30Z",
+    "url": "https://github.com/Majorclujerk/Server-Raider",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "mizorewww/laya-coreml",
+    "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decisions on M3 Max, reproducible speed and energy benchmarks.",
+    "language": "Python",
+    "stars": 1530,
+    "forks": 129,
+    "created_at": "2026-09-19T23:14:13Z",
+    "url": "https://github.com/mizorewww/laya-coreml",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "Mak5er/AirCard-iOS",
+    "description": " Apple Wallet card skins and lock screen passcode themes on iOS 27. ",
+    "language": "Swift",
+    "stars": 1411,
+    "forks": 154,
+    "created_at": "2026-09-19T09:22:23Z",
+    "url": "https://github.com/Mak5er/AirCard-iOS",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "852wa/JIZURA",
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "language": "HTML",
+    "stars": 1235,
+    "forks": 177,
+    "created_at": "2026-09-23T04:04:13Z",
+    "url": "https://github.com/852wa/JIZURA",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "firelex/jeff",
+    "description": "Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification",
+    "language": "Python",
+    "stars": 1212,
+    "forks": 52,
+    "created_at": "2026-09-28T16:18:39Z",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "language": "HTML",
+    "stars": 1182,
+    "forks": 64,
+    "created_at": "2026-09-26T08:23:34Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill",
+    "date": "2026-10-01"
+  },
+  {
+    "repo": "mikehasa/golive-skill",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "language": "TypeScript",
+    "stars": 1150,
+    "forks": 86,
+    "created_at": "2026-09-23T13:37:26Z",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "date": "2026-10-01"
+  }
+]
