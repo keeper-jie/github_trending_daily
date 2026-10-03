@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "<input type=\"password\" maxlength=\"20\"> is considered harmful, and why I couldn't login into Vanguard",
+    "score": 0,
+    "num_comments": 0,
+    "author": "tanin47",
+    "url": "https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1ww842a/input_typepassword_maxlength20_is_considered/",
+    "rank": 1,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "0.17.0 Release Notes â¡ The Zig Programming Language",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BrewedDoritos",
+    "url": "https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1ww6bea/0170_release_notes_â_the_zig_programming_language/",
+    "rank": 2,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Skip List Data structure",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Comfortable-Fan-580",
+    "url": "https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wwfp40/skip_list_data_structure/",
+    "rank": 3,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Partial Evaluation in Truffle - Dynamic Meta-Compilation Tutorial",
+    "score": 0,
+    "num_comments": 0,
+    "author": "grashalm01",
+    "url": "https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wvt9nw/partial_evaluation_in_truffle_dynamic/",
+    "rank": 4,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "GPU-Initiated Communication: Dissecting Down to the Bone",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1ww56qa/gpuinitiated_communication_dissecting_down_to_the/",
+    "rank": 5,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Robert Seacord: \"Unsafe Rust\" | RustConf 2026",
+    "score": 0,
+    "num_comments": 0,
+    "author": "_bijan_",
+    "url": "https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wvf5qb/robert_seacord_unsafe_rust_rustconf_2026/",
+    "rank": 6,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "New Python releases are out, 3.10.x reaches EOL, (and 3.15.0 is scheduled for today)!",
+    "score": 0,
+    "num_comments": 0,
+    "author": "initcommit",
+    "url": "https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wv4hph/new_python_releases_are_out_310x_reaches_eol_and/",
+    "rank": 7,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "A Minsky machine in ncurses terminfo",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Dull_Replacement8890",
+    "url": "https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wvy0zi/a_minsky_machine_in_ncurses_terminfo/",
+    "rank": 8,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Post-Quantum Cryptography Resource Hub",
+    "score": 0,
+    "num_comments": 0,
+    "author": "donutloop",
+    "url": "https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wvncok/postquantum_cryptography_resource_hub/",
+    "rank": 9,
+    "date": "2026-10-03"
+  },
+  {
+    "subreddit": "programming",
+    "title": "C64 Mercenary: a novel exploit bug in a 41-year-old game",
+    "score": 0,
+    "num_comments": 0,
+    "author": "a1r",
+    "url": "https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1wuzsdv/c64_mercenary_a_novel_exploit_bug_in_a_41yearold/",
+    "rank": 10,
+    "date": "2026-10-03"
+  }
+]
