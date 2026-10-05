@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Niko1221/Strata",
+    "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "language": "C++",
+    "stars": 11746,
+    "forks": 1019,
+    "created_at": "2026-09-24T16:40:20Z",
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "stars": 5846,
+    "forks": 1488,
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "yetone/magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "language": "Go",
+    "stars": 4930,
+    "forks": 348,
+    "created_at": "2026-09-23T16:22:35Z",
+    "url": "https://github.com/yetone/magpie",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "language": "Kotlin",
+    "stars": 4148,
+    "forks": 536,
+    "created_at": "2026-09-24T15:36:38Z",
+    "url": "https://github.com/shihabal3amri/DiPlay",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "Louis-CFM/coucou",
+    "description": "A tiny friend that lives in your notch (macOS) or at the top of your screen (Windows, Linux) and keeps an eye on your coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more.",
+    "language": "Swift",
+    "stars": 3517,
+    "forks": 552,
+    "created_at": "2026-09-27T21:54:12Z",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "language": "Python",
+    "stars": 3364,
+    "forks": 292,
+    "created_at": "2026-09-30T05:00:35Z",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "CopilotKit/OpenDots",
+    "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "language": "TypeScript",
+    "stars": 3291,
+    "forks": 434,
+    "created_at": "2026-09-29T17:13:58Z",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "Contrastive-LM/CLM",
+    "description": "",
+    "language": "Python",
+    "stars": 2826,
+    "forks": 244,
+    "created_at": "2026-09-23T19:29:56Z",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "feder-cr/dots",
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "language": "Python",
+    "stars": 2606,
+    "forks": 437,
+    "created_at": "2026-09-29T23:06:00Z",
+    "url": "https://github.com/feder-cr/dots",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "mexicat/pdoom-video",
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "language": "TypeScript",
+    "stars": 2351,
+    "forks": 256,
+    "created_at": "2026-09-24T21:33:53Z",
+    "url": "https://github.com/mexicat/pdoom-video",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "tobi/disktree",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "language": "Rust",
+    "stars": 2336,
+    "forks": 148,
+    "created_at": "2026-09-24T20:56:29Z",
+    "url": "https://github.com/tobi/disktree",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "stars": 2268,
+    "forks": 161,
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "yihui-dev/awesome-opus5-5-videos",
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "language": "",
+    "stars": 1978,
+    "forks": 199,
+    "created_at": "2026-09-27T06:19:36Z",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "Avenuezensport/efjvysuz",
+    "description": "Welcome to Shnek-Tools, a multi-tool with a multitude of options. All functions are completely free and functional. We hope you enjoy it and don't hesitate to give it a star.",
+    "language": "",
+    "stars": 1928,
+    "forks": 0,
+    "created_at": "2026-09-22T07:52:09Z",
+    "url": "https://github.com/Avenuezensport/efjvysuz",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "language": "HTML",
+    "stars": 1888,
+    "forks": 121,
+    "created_at": "2026-09-26T08:23:34Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "JohnHeibel/PDoomVideo",
+    "description": "Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)",
+    "language": "JavaScript",
+    "stars": 1795,
+    "forks": 191,
+    "created_at": "2026-09-22T23:32:19Z",
+    "url": "https://github.com/JohnHeibel/PDoomVideo",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "Droid-Deck/DroidDeck",
+    "description": "DroidDeck brings the SteamOS experience to Android",
+    "language": "C",
+    "stars": 1637,
+    "forks": 51,
+    "created_at": "2026-09-24T15:14:13Z",
+    "url": "https://github.com/Droid-Deck/DroidDeck",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "feitangyuan/onetake",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "language": "Python",
+    "stars": 1539,
+    "forks": 100,
+    "created_at": "2026-09-26T05:35:17Z",
+    "url": "https://github.com/feitangyuan/onetake",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "852wa/JIZURA",
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "language": "HTML",
+    "stars": 1529,
+    "forks": 212,
+    "created_at": "2026-09-23T04:04:13Z",
+    "url": "https://github.com/852wa/JIZURA",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "nanaism/yomiyasu",
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "language": "Python",
+    "stars": 1432,
+    "forks": 32,
+    "created_at": "2026-09-30T11:49:32Z",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "wy51ai/floorplan-3d",
+    "description": "",
+    "language": "HTML",
+    "stars": 1402,
+    "forks": 287,
+    "created_at": "2026-09-29T02:57:30Z",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "firelex/jeff",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "language": "Python",
+    "stars": 1374,
+    "forks": 64,
+    "created_at": "2026-09-28T16:18:39Z",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "Ebony-Vinyl/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+    "language": "JavaScript",
+    "stars": 1287,
+    "forks": 42,
+    "created_at": "2026-09-24T16:17:19Z",
+    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "edenfunf/reelmimic",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "language": "JavaScript",
+    "stars": 1279,
+    "forks": 157,
+    "created_at": "2026-09-28T19:14:59Z",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "language": "C",
+    "stars": 1266,
+    "forks": 235,
+    "created_at": "2026-10-02T18:21:23Z",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "ninjahawk/livenerf",
+    "description": "Benchmark for tracking model capability after release.",
+    "language": "Python",
+    "stars": 1250,
+    "forks": 17,
+    "created_at": "2026-09-22T21:59:26Z",
+    "url": "https://github.com/ninjahawk/livenerf",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "mikehasa/golive-skill",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "language": "TypeScript",
+    "stars": 1222,
+    "forks": 95,
+    "created_at": "2026-09-23T13:37:26Z",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "kryvora-network/kryvora-node",
+    "description": "Reference client daemon and verification worker for Kryvora Network nodes.",
+    "language": "Go",
+    "stars": 1214,
+    "forks": 69,
+    "created_at": "2026-09-22T16:10:23Z",
+    "url": "https://github.com/kryvora-network/kryvora-node",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "ollaya-dev/ollaya",
+    "description": "Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models.",
+    "language": "Rust",
+    "stars": 1193,
+    "forks": 69,
+    "created_at": "2026-09-23T22:11:15Z",
+    "url": "https://github.com/ollaya-dev/ollaya",
+    "date": "2026-10-05"
+  },
+  {
+    "repo": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "language": "JavaScript",
+    "stars": 1171,
+    "forks": 81,
+    "created_at": "2026-10-02T09:57:40Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "date": "2026-10-05"
+  }
+]

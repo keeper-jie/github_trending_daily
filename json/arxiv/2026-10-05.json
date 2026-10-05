@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+    "authors": "Keerthi Kaashyap, Dennis Anthony, Akshay Krishnan, Nhi Ngoc Nguyen, Jeremy Collins...",
+    "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom",
+    "categories": "cs.CV, cs.AI, cs.RO",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03717v1",
+    "abs_url": "https://arxiv.org/abs/2610.03717v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+    "authors": "Jiahuan Cheng, Zhiyi Li, Tian Xia, Ruojin Cai, Yilun Du...",
+    "summary": "Dense 3D point tracking has been a prominent paradigm for modeling motion in dynamic scenes, but a point track is just a 3-DoF translation curve per pixel: it captures where pixels go, not the rotatio",
+    "categories": "cs.CV",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03716v1",
+    "abs_url": "https://arxiv.org/abs/2610.03716v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+    "authors": "Ruihong Shen, Žiga Kovačič, Peter Kulits, Xingrui Wang, Zizhang Li...",
+    "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents",
+    "categories": "cs.CV, cs.AI, cs.GR",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03715v1",
+    "abs_url": "https://arxiv.org/abs/2610.03715v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+    "authors": "Nishit Anand, Ramani Duraiswami, Dinesh Manocha",
+    "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in",
+    "categories": "cs.LG, cs.AI, cs.CV, eess.IV, eess.SP",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03713v1",
+    "abs_url": "https://arxiv.org/abs/2610.03713v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+    "authors": "Yiming Huang, Lennart Bastian, Hanqun Cao, Luis Vollmers, Tolga Birdal",
+    "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing appro",
+    "categories": "cs.LG, physics.bio-ph, q-bio.BM",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03712v1",
+    "abs_url": "https://arxiv.org/abs/2610.03712v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+    "authors": "Kush Hari, Justin Kerr, Nidhya Shivakumar, Samarth Mahapatra, Carmelo Sferrazza...",
+    "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation poi",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03710v1",
+    "abs_url": "https://arxiv.org/abs/2610.03710v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
+    "authors": "Kuangyu Ding, Gesualdo Scutari",
+    "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing dece",
+    "categories": "math.OC, cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03709v1",
+    "abs_url": "https://arxiv.org/abs/2610.03709v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
+    "authors": "Lyuxin David Zhang, Eric Wong, Surbhi Goel, Anton Xue",
+    "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their ",
+    "categories": "cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03702v1",
+    "abs_url": "https://arxiv.org/abs/2610.03702v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Decoding the Functional Roles of Register and High-Norm Patch Tokens in Vision Transformers",
+    "authors": "Neel Varma, Andrew Rufail, Dipika Khullar, Vasu Sharma",
+    "summary": "Self-supervised Vision Transformers (ViTs), such as DINOv2, learn rich visual representations, but the functions of their internal tokens remain poorly understood. Recent architectures introduce dedic",
+    "categories": "cs.CV",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03698v1",
+    "abs_url": "https://arxiv.org/abs/2610.03698v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Language Models that Play Chess and Explain Their Moves",
+    "authors": "Adithya Bhaskar, Jeffrey Cheng, Danqi Chen",
+    "summary": "Modern chess engines are silent experts: they play at a superhuman level, but do not offer explanations for their play. On the other hand, language models (LMs) can generate plausible-sounding explana",
+    "categories": "cs.CL",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03695v1",
+    "abs_url": "https://arxiv.org/abs/2610.03695v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
+    "authors": "Jungkyu Park, Dhruva Biswas, Joseph Cappadona, Cerise Tang, Ken G. Zeng...",
+    "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast ca",
+    "categories": "cs.AI",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03693v1",
+    "abs_url": "https://arxiv.org/abs/2610.03693v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "FlowHMR: Physically Plausible Motion Capture from Video",
+    "authors": "Zhanke Wang, Chengfeng Zhao, Qing Shuai, Jingzhong Lin, Heng Li...",
+    "summary": "We present FlowHMR, a framework for recovering physically plausible global 3D human motion from monocular video. Previous learning-based methods typically regress human motion directly from video and ",
+    "categories": "cs.CV",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03691v1",
+    "abs_url": "https://arxiv.org/abs/2610.03691v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "SigLIP2 for aerial fire risk classification",
+    "authors": "Yunus Serhat Bıçakçı",
+    "summary": "We examine the transfer of a pretrained SigLIP2 image encoder to seven class fire risk classification from aerial imagery. We introduce a reproducible partition of the public FireRisk training mirror ",
+    "categories": "cs.CV",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03689v1",
+    "abs_url": "https://arxiv.org/abs/2610.03689v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Simulation-Free Learning of Population Dynamics with Wasserstein Lagrangian Residuals",
+    "authors": "Fedor Sergeev, Markus Heinonen, Daniel Waxman, Tim Cooijmans, Ricardo Baptista...",
+    "summary": "The dynamics of cells, organisms, and fluids are often modeled as probability distributions evolving over time. Reconstructing and extrapolating this evolution from unpaired snapshots requires assumpt",
+    "categories": "cs.LG, stat.ME, stat.ML",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03679v1",
+    "abs_url": "https://arxiv.org/abs/2610.03679v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution",
+    "authors": "Hui Chen, Xuan Qi, James Xu Zhao, Zhaopeng Feng, Shilong Liu...",
+    "summary": "LLM-guided evolutionary methods, such as AlphaEvolve, have emerged as powerful approaches for challenging computational optimization problems, such as circle packing. However, prior work typically opt",
+    "categories": "cs.NE, cs.AI, cs.CL",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03675v1",
+    "abs_url": "https://arxiv.org/abs/2610.03675v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Planning to Learn",
+    "authors": "Ian Osband",
+    "summary": "Policy-gradient methods are central to modern reinforcement learning, including LLM post-training. When they struggle, the usual suspects are exploration, credit assignment and action-sampling noise. ",
+    "categories": "cs.LG, math.OC, stat.ML",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03667v1",
+    "abs_url": "https://arxiv.org/abs/2610.03667v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models",
+    "authors": "Seo Hyun Kim, Sunwoo Hong, Younwoo Choi, Chen-Hao Chao, Se-Young Yun...",
+    "summary": "Masked diffusion language models (dLMs) offer a promising parallel alternative to autoregressive models for complex reasoning. However, they face a distinct credit-assignment challenge, since a few co",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03665v1",
+    "abs_url": "https://arxiv.org/abs/2610.03665v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "ProAR: Learning Prospective Reasoning with Autoregressive Video Models",
+    "authors": "Linghui Shen, Tinghui Zhu, Sheng Zhang, Muhao Chen",
+    "summary": "Autoregressive (AR) video models excel at causal generation, but their reliance on next-chunk prediction confines them to a short-sighted, reactive paradigm. This limitation is particularly consequent",
+    "categories": "cs.CV",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03664v1",
+    "abs_url": "https://arxiv.org/abs/2610.03664v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Forecasting from Counterfactual Simulator Rollouts: A Sim2Real Evaluation",
+    "authors": "Angel Wang, Dominique Perrault-Joncas, Alvaro Maggiar, Dean Foster, Carson Eisenach",
+    "summary": "Deploying a new decision policy creates a cold-start problem for prediction models whose targets depend on the policy's actions: historical observations reflect earlier policies, while real observatio",
+    "categories": "cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03662v1",
+    "abs_url": "https://arxiv.org/abs/2610.03662v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Revisiting Input Time-frequency Representations in Multi-pitch Estimation for Vocal Ensembles",
+    "authors": "Junyoung Koh, Hao-Wen Dong",
+    "summary": "Multi-pitch estimation in vocal ensembles is challenging because singers occupy overlapping pitch ranges and often sing at closely spaced fundamental frequencies, causing their harmonics to overlap in",
+    "categories": "cs.SD, cs.AI",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03656v1",
+    "abs_url": "https://arxiv.org/abs/2610.03656v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "MRVQ: One Resident Index for Dimension- and Rate-Elastic Vector Search",
+    "authors": "Sean Culatana, Shang-En Huang, Kang Li",
+    "summary": "Dense-retrieval services must switch among embedding-prefix dimensions and index bit rates as latency, quality, and memory budgets change. Tuning a quantizer separately for each rate gives the best qu",
+    "categories": "cs.AI, cs.IR",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03651v1",
+    "abs_url": "https://arxiv.org/abs/2610.03651v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "PoCoFL: POlicy-COmpliant Federated Learning",
+    "authors": "Dominik Roy George, Varesh Mishra, Aysajan Abidin",
+    "summary": "Federated Learning (FL) is a privacy-oriented learning paradigm that enables collaborative model training while keeping training data local to participating clients. However, it does not guarantee tha",
+    "categories": "cs.CR, cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03650v1",
+    "abs_url": "https://arxiv.org/abs/2610.03650v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "On-Board Anomaly Detection for Efficient Marine Environmental Monitoring",
+    "authors": "Thomas Goudemant, Clotilde Szywala, Benjamin Francesconi, Michelle Aubrun, Yves Bobichon...",
+    "summary": "Marine ecosystems are impacted by various threats such as oil spills, algal blooms, and sediment floods, which disrupt habitats, wildlife, and human activities. Advances in satellite imagery and Artif",
+    "categories": "cs.CV, cs.AI, cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03649v1",
+    "abs_url": "https://arxiv.org/abs/2610.03649v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Amortized Structured Stochastic Variational Inference for Gaussian Process Latent Variable Models",
+    "authors": "Maksym Tretiakov, Sarah Lucie Filipp, Vincent Fortuin, Ruth Misener, Ruby Sedgwick...",
+    "summary": "Many machine learning methods aim to approximate the lower-dimensional manifold on which the data lives. A desirable feature of such methods is that they should capture the epistemic uncertainty of th",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03647v1",
+    "abs_url": "https://arxiv.org/abs/2610.03647v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "When May a Bandit Leave Its Anchor? E-Process-Authorized Thompson Sampling under Non-stationarity",
+    "authors": "Mayand Gulati, Kerong Wang, WeiChen Au",
+    "summary": "Stationarity rewards memory, but after a change the same history can mislead. We ask when forgetting should be permitted. E-process-authorized Thompson sampling (e-ATS) gives each arm full-history and",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03646v1",
+    "abs_url": "https://arxiv.org/abs/2610.03646v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "On the Convergence of Success Conditioning for Policy Optimization",
+    "authors": "Matthew Brun, Xu Andy Sun",
+    "summary": "Success conditioning is a strategy for improving decision-making policies in stochastic environments; it updates a policy by increasing the probability of taking actions that yield successful outcomes",
+    "categories": "cs.LG, math.OC",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03642v1",
+    "abs_url": "https://arxiv.org/abs/2610.03642v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "IDRF: Inverse-Distilled Reward Fine-tuning of Masked Discrete Diffusion Models",
+    "authors": "Vladislav Gromadskii, David Li, Samson Gourevitch, Yazid Janati, Eric Moulines...",
+    "summary": "Masked discrete diffusion models offer a promising alternative to autoregressive generation, but iterative sampling can be costly, and intractable sequence likelihoods complicate reward fine-tuning. W",
+    "categories": "cs.LG",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03641v1",
+    "abs_url": "https://arxiv.org/abs/2610.03641v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Broken scale symmetries in undercomplete linear autoencoders",
+    "authors": "Farhad Pashakhanloo, Jacob A. Zavatone-Veth",
+    "summary": "Neural network loss landscapes have many symmetries, which are preserved by gradient flow but broken by finite-stepsize stochastic gradient descent (SGD). A canonical example of such a symmetry is sca",
+    "categories": "cs.LG, q-bio.NC, stat.ML",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03640v1",
+    "abs_url": "https://arxiv.org/abs/2610.03640v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+    "authors": "Rubén Manrique, Michelle Castellanos, Jorge Morales, Juan David Gutiérrez, Antonio Barreto Rozo...",
+    "summary": "Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocum",
+    "categories": "cs.AI, cs.CY",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03639v1",
+    "abs_url": "https://arxiv.org/abs/2610.03639v1",
+    "date": "2026-10-05"
+  },
+  {
+    "title": "LoGo: Local-Global Rewards for Consistent Long-Horizon Video Generation",
+    "authors": "Ziqi Ma, Shreya Sharma, Mohamed El Banani, Katja Schwarz, Chongjie Ye...",
+    "summary": "Camera-controlled video models are rapidly advancing toward long generation horizons and complex camera control. A key failure mode is 3D inconsistency: as the camera moves, objects lose permanence an",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-02",
+    "pdf_url": "https://arxiv.org/pdf/2610.03636v1",
+    "abs_url": "https://arxiv.org/abs/2610.03636v1",
+    "date": "2026-10-05"
+  }
+]
