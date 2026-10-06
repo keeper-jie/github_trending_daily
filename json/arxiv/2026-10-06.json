@@ -1,0 +1,302 @@
+[
+  {
+    "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+    "authors": "Shih-Chen Tseng, Chih-Hsuan Chen, Ryan Yang, Hsi-An Chen, Chun-Wei Tuan Mu...",
+    "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06852v1",
+    "abs_url": "https://arxiv.org/abs/2610.06852v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Base Models Can Reason By Taking a Cue From Training Data",
+    "authors": "Sophie L. Wang, Amil Dravid, Rulin Shao, Kevin Farhat, Sewon Min...",
+    "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06851v1",
+    "abs_url": "https://arxiv.org/abs/2610.06851v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+    "authors": "Yucheng Zhang, Sirui Xu, Jinhong Li, Liuyu Bian, Anatulya Nandi...",
+    "summary": "Captured human-object interactions provide rich supervision for humanoid loco-manipulation, but they are sparse, heterogeneous, and not directly executable by robots. We introduce InterMimicGen, a sel",
+    "categories": "cs.RO, cs.CV, cs.GR",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06850v1",
+    "abs_url": "https://arxiv.org/abs/2610.06850v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+    "authors": "Jeffrey Hu, Daniel Olmeda Reino, Ayush Tewari",
+    "summary": "Bidirectional video diffusion models denoise entire videos in parallel, yet when trained on effectively unlimited in-distribution data from procedural generators, continue to violate physical laws and",
+    "categories": "cs.CV",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06847v1",
+    "abs_url": "https://arxiv.org/abs/2610.06847v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
+    "authors": "Haojin Deng, Zhiping Lin, Yimin Yang",
+    "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitorin",
+    "categories": "cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06846v1",
+    "abs_url": "https://arxiv.org/abs/2610.06846v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+    "authors": "Omer Dahary, Etai Sella, Hadar Averbuch-Elor, Daniel Cohen-Or, Or Patashnik",
+    "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi",
+    "categories": "cs.CV, cs.AI, cs.GR, cs.LG",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06844v1",
+    "abs_url": "https://arxiv.org/abs/2610.06844v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Recursive Video In-Context Learning for Agentic Robot",
+    "authors": "Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang",
+    "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vid",
+    "categories": "cs.RO, cs.AI, cs.CL, cs.MA",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06843v1",
+    "abs_url": "https://arxiv.org/abs/2610.06843v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report",
+    "authors": "Xingyue Zhao, Yanzhou Su, Fang Zhang, Zhanghexuan Ji, Yirui Wang...",
+    "summary": "Accurate T-staging is crucial for guiding personalized treatment strategies for laryngopharyngeal cancer. However, current clinical practice relies on invasive biopsy procedures, whereas CT-based stag",
+    "categories": "cs.CV",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06837v1",
+    "abs_url": "https://arxiv.org/abs/2610.06837v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Direct Intermediate Initialization for Tilted Diffusion Samplers",
+    "authors": "Gregory D. Bellchambers",
+    "summary": "Some diffusion posterior samplers construct Gaussian-tilted intermediate distributions along the reverse process. We observe that these targets can be pulled back to clean-space posteriors with weaker",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06834v1",
+    "abs_url": "https://arxiv.org/abs/2610.06834v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+    "authors": "Benhao Huang, Chufan Shi, Junlin Chen, Shicheng Wen, Zhengzhong Liu...",
+    "summary": "Every recurrence of a looped language model adds cost in training, decoding, prefill, and reinforcement learning (RL). The closer recurrent states get to fixed points, the less the path to them matter",
+    "categories": "cs.LG",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06833v1",
+    "abs_url": "https://arxiv.org/abs/2610.06833v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "UniSlider: Perceptually Uniform Sliders for Continuous Image Editing",
+    "authors": "David Serrano-Lozano, Duygu Ceylan, Yannick Hold-Geoffroy, Iliyan Georgiev, Javier Vazquez-Corral...",
+    "summary": "Sliders provide an intuitive interface for continuous image editing. In current generative approaches, however, the slider is simply a rescaling of the method's strength parameter, such as an adapter ",
+    "categories": "cs.CV, cs.AI, cs.GR",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06831v1",
+    "abs_url": "https://arxiv.org/abs/2610.06831v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "MemPilot: Orchestrating On-Demand Multimodal Memory Curation for LLM Agents",
+    "authors": "Haozhen Zhang, Haodong Yue, Quanyu Long, Jianzhu Bao, Qingyuan Liu...",
+    "summary": "Memory has become integral to the LLM agent ecosystem, supporting information retention and reuse across interactions. However, most existing agent memory systems construct memory in a query-agnostic ",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06830v1",
+    "abs_url": "https://arxiv.org/abs/2610.06830v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling",
+    "authors": "Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu...",
+    "summary": "Open-source web agents are now strong enough to execute realistic browser tasks, but training them with reinforcement learning still depends on weak supervision: binary task success is too sparse for ",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06829v1",
+    "abs_url": "https://arxiv.org/abs/2610.06829v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "PlotGround: Grounding Plot Digitization in Real Scientific Figures and Their Source Data",
+    "authors": "Yaohui Zhang, Binxu Li, Haoyi Duan, Jiacheng Miao, Yixin Wang...",
+    "summary": "Scientific figures often encode quantitative results that are not readily available in machine-readable form, making accurate plot digitization important for verifying and reusing published findings. ",
+    "categories": "cs.CL, cs.CV",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06825v1",
+    "abs_url": "https://arxiv.org/abs/2610.06825v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "TasteVal: Measuring the Experimental Research Taste of AI Systems Against Human Experts",
+    "authors": "Oliver Jaffe, Dane Sherburn",
+    "summary": "We introduce TasteVal, a benchmark to evaluate the experimental research taste of frontier models. We define research taste as the ability to pick interesting problems to solve, design experiments, an",
+    "categories": "cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06824v1",
+    "abs_url": "https://arxiv.org/abs/2610.06824v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Deep Learning for Sleep Heart Rate Estimation from Accelerometers: Toward Population-Scale Cardiac Insight Without Optical Sensors",
+    "authors": "Tanbin Islam Rohan, Pranjol Sen Gupta, Tanusree Debi, Nazmus Sakib",
+    "summary": "Large longitudinal cohorts often contain wrist accelerometry without optical heart-rate sensing, motivating recovery of cardiac information from motion signals already collected during sleep. We prese",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06823v1",
+    "abs_url": "https://arxiv.org/abs/2610.06823v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Private online learning and prediction for Littlestone classes",
+    "authors": "Amartya Sanyal",
+    "summary": "We study mistake bounds for differentially private online learning and online prediction under oblivious realisable adversaries. Online learning requires the learner to release a hypothesis at each ti",
+    "categories": "cs.LG, cs.CR, stat.ML",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06822v1",
+    "abs_url": "https://arxiv.org/abs/2610.06822v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Paradee: Distilling Kokoro-82M into an 8M-Parameter Single-Voice Text-to-Speech Model",
+    "authors": "Sahil Mahendrakar",
+    "summary": "We distill Kokoro-82M, a widely used open text-to-speech model with 54 voices, into Paradee, an 8.07M-parameter model that speaks one of them. Paradee keeps Kokoro's architecture with much narrower la",
+    "categories": "cs.SD, cs.AI, cs.CL, cs.LG, eess.AS",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06817v1",
+    "abs_url": "https://arxiv.org/abs/2610.06817v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "TAPDreamer: Transferable Adversarial Patches for World Action Models",
+    "authors": "Xuanyu Lu, Fengqing Jiang, Kaiyuan Zheng, Yichen Feng, Yaorui Ding...",
+    "summary": "World models learn to predict how their environment will evolve, making them an important foundation for general-purpose robotic control. Yet world action models depend on camera inputs whose manipula",
+    "categories": "cs.CV, cs.AI, cs.RO",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06814v1",
+    "abs_url": "https://arxiv.org/abs/2610.06814v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Less Context, Better Geometry: Masked Geometric Encoder for Robust 3D Foundation Models",
+    "authors": "Zhimin Shao, Xijun Liu, Zhaoliang Zhang, Yutao Tang, Abhay Yadav...",
+    "summary": "Recent progress in 3D foundation models has enabled rapid 3D reconstruction and camera calibration by leveraging learned 3D priors from vast amount of spatial data. However, the all-to-all global atte",
+    "categories": "cs.CV",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06813v1",
+    "abs_url": "https://arxiv.org/abs/2610.06813v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Finding Gaussian Structure in Bosonic States",
+    "authors": "Alvan Arulandu, Sitan Chen, Ziyun Chen, Jerry Li, Eric Ma",
+    "summary": "We study agnostic tomography of pure bosonic Gaussian states: given copies of an arbitrary $n$-mode bosonic state $ρ$, the goal is to output a pure Gaussian state whose infidelity with $ρ$ is at most ",
+    "categories": "quant-ph, cs.DS, cs.LG, math-ph",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06810v1",
+    "abs_url": "https://arxiv.org/abs/2610.06810v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Block Disentanglement in CRL: Bridging Identifiability and Visual State Estimation",
+    "authors": "Emre Acartürk, Pranamya Kulkarni, Puranjay Datta, Karthikeyan Shanmugam, Burak Varıcı...",
+    "summary": "Causal representation learning (CRL) is the process of recovering causally-related latent variables from high-dimensional observations. As a label-free inference method, CRL is particularly attractive",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06809v1",
+    "abs_url": "https://arxiv.org/abs/2610.06809v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning",
+    "authors": "Wancong Zhang, Basile Terver, Michael Rabbat, Yann LeCun, Randall Balestriero",
+    "summary": "Long-horizon planning with latent world models requires reasoning across timescales and levels of abstraction. Existing task-agnostic JEPA world models predict and plan at a single timescale or with m",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06805v1",
+    "abs_url": "https://arxiv.org/abs/2610.06805v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution",
+    "authors": "Erfan Baghaei Potraghloo, Seyedarmin Azizi, Arya Fayyazi, Saeid Shokoufa, Mehdi Kamal...",
+    "summary": "A language model can give a correct answer more probability than any single incorrect answer and still usually sample an incorrect one, because the incorrect answers together hold more probability. Th",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06804v1",
+    "abs_url": "https://arxiv.org/abs/2610.06804v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+    "authors": "Jiarui Chen, Zeqiang Lai, Jiangshan Wang, Ziheng Ouyang, Ye Huang...",
+    "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing met",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06801v1",
+    "abs_url": "https://arxiv.org/abs/2610.06801v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "A Response Theory Probe for Learned Stochastic AI Simulators, Tested on Lorenz-63",
+    "authors": "João Böger, Simon Driscoll, Niccolò Zagli, Valerio Lucarini, Francisco Camara Pereira",
+    "summary": "Machine-learning emulators of chaotic and stochastic systems are usually validated on forecast skill and long-run statistics. Neither certifies that an emulator responds correctly to forcing, the prop",
+    "categories": "math.DS, cs.LG, nlin.CD",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06798v1",
+    "abs_url": "https://arxiv.org/abs/2610.06798v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Round-Trip KNN Clustering: multiscale hierarchical cluster detection on directed nearest-neighbour graphs",
+    "authors": "Eraldo Pereira Marinho, Caetano Mazzoni Ranieri, Fabricio Aparecido Breve",
+    "summary": "We introduce Round-Trip KNN Clustering (RTKNNC), a graph-based method for finding cluster structure at several neighbourhood scales without requiring the number of clusters in advance. Unlike approach",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06795v1",
+    "abs_url": "https://arxiv.org/abs/2610.06795v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "Back to the Future: Rethinking EDA Infrastructure for Agentic Systems in Chip Design Verification",
+    "authors": "Je Yang, Ivan Lobov, Thomas Karpati",
+    "summary": "The unprecedented computational scale of modern artificial intelligence depends on complex, multi-billion-transistor Systems-on-Chip, yet the workflows that verify these chips remain stubbornly manual",
+    "categories": "cs.AI",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06790v1",
+    "abs_url": "https://arxiv.org/abs/2610.06790v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "How to scale your HEP ML models: A recipe for robust architecture comparisons at scale",
+    "authors": "Matthias Vigl, Nikita Pond, Jackson Barr, Alexander Froch, Dan Guest...",
+    "summary": "Much of the recent progress in machine learning domains such as language models has come from scaling laws that predict performance as a function of training effort. In high-energy physics (HEP) simil",
+    "categories": "hep-ex, cs.LG, hep-ph, physics.data-an",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06784v1",
+    "abs_url": "https://arxiv.org/abs/2610.06784v1",
+    "date": "2026-10-06"
+  },
+  {
+    "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
+    "authors": "Olga Tsymboi, Ramil Latypov, Aleksandr Medvedev, Danil Taranets, Dmitrii Stoianov...",
+    "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list",
+    "categories": "cs.CL",
+    "published": "2026-10-05",
+    "pdf_url": "https://arxiv.org/pdf/2610.06782v1",
+    "abs_url": "https://arxiv.org/abs/2610.06782v1",
+    "date": "2026-10-06"
+  }
+]

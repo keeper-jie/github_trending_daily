@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Niko1221/Strata",
+    "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+    "language": "C++",
+    "stars": 14478,
+    "forks": 1227,
+    "created_at": "2026-09-24T16:40:20Z",
+    "url": "https://github.com/Niko1221/Strata",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "stars": 6067,
+    "forks": 1527,
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "yetone/magpie",
+    "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+    "language": "Go",
+    "stars": 5255,
+    "forks": 374,
+    "created_at": "2026-09-23T16:22:35Z",
+    "url": "https://github.com/yetone/magpie",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "shihabal3amri/DiPlay",
+    "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
+    "language": "Kotlin",
+    "stars": 4932,
+    "forks": 632,
+    "created_at": "2026-09-24T15:36:38Z",
+    "url": "https://github.com/shihabal3amri/DiPlay",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "language": "Python",
+    "stars": 3992,
+    "forks": 357,
+    "created_at": "2026-09-30T05:00:35Z",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "CopilotKit/OpenDots",
+    "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "language": "TypeScript",
+    "stars": 3741,
+    "forks": 498,
+    "created_at": "2026-09-29T17:13:58Z",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "Louis-CFM/coucou",
+    "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+    "language": "Swift",
+    "stars": 3725,
+    "forks": 612,
+    "created_at": "2026-09-27T21:54:12Z",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "Contrastive-LM/CLM",
+    "description": "",
+    "language": "Python",
+    "stars": 2863,
+    "forks": 247,
+    "created_at": "2026-09-23T19:29:56Z",
+    "url": "https://github.com/Contrastive-LM/CLM",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "feder-cr/dots",
+    "description": "Open-source dots for the web: an AI agent with its own browser, one that does not get blocked.",
+    "language": "Python",
+    "stars": 2621,
+    "forks": 438,
+    "created_at": "2026-09-29T23:06:00Z",
+    "url": "https://github.com/feder-cr/dots",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "mexicat/pdoom-video",
+    "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
+    "language": "TypeScript",
+    "stars": 2404,
+    "forks": 264,
+    "created_at": "2026-09-24T21:33:53Z",
+    "url": "https://github.com/mexicat/pdoom-video",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "tobi/disktree",
+    "description": "A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",
+    "language": "Rust",
+    "stars": 2368,
+    "forks": 152,
+    "created_at": "2026-09-24T20:56:29Z",
+    "url": "https://github.com/tobi/disktree",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "omlahore/RemoveMacAI",
+    "description": "Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible.",
+    "language": "Swift",
+    "stars": 2351,
+    "forks": 51,
+    "created_at": "2026-09-29T11:02:39Z",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "stars": 2319,
+    "forks": 168,
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "storytold/photocraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "language": "Rust",
+    "stars": 2298,
+    "forks": 239,
+    "created_at": "2026-09-30T13:37:48Z",
+    "url": "https://github.com/storytold/photocraft",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "Droid-Deck/DroidDeck",
+    "description": "DroidDeck brings the SteamOS experience to Android",
+    "language": "C",
+    "stars": 2210,
+    "forks": 71,
+    "created_at": "2026-09-24T15:14:13Z",
+    "url": "https://github.com/Droid-Deck/DroidDeck",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "yihui-dev/awesome-opus5-5-videos",
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "language": "",
+    "stars": 2164,
+    "forks": 212,
+    "created_at": "2026-09-27T06:19:36Z",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "language": "HTML",
+    "stars": 2059,
+    "forks": 141,
+    "created_at": "2026-09-26T08:23:34Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "nykooi1/vibe-wise",
+    "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+    "language": "Python",
+    "stars": 1947,
+    "forks": 94,
+    "created_at": "2026-09-29T01:29:57Z",
+    "url": "https://github.com/nykooi1/vibe-wise",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "Ebony-Vinyl/dsh-our-free-model",
+    "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+    "language": "JavaScript",
+    "stars": 1819,
+    "forks": 50,
+    "created_at": "2026-09-24T16:17:19Z",
+    "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "feitangyuan/onetake",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "language": "Python",
+    "stars": 1668,
+    "forks": 107,
+    "created_at": "2026-09-26T05:35:17Z",
+    "url": "https://github.com/feitangyuan/onetake",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "852wa/JIZURA",
+    "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
+    "language": "HTML",
+    "stars": 1590,
+    "forks": 217,
+    "created_at": "2026-09-23T04:04:13Z",
+    "url": "https://github.com/852wa/JIZURA",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "nanaism/yomiyasu",
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "language": "Python",
+    "stars": 1549,
+    "forks": 35,
+    "created_at": "2026-09-30T11:49:32Z",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "language": "JavaScript",
+    "stars": 1542,
+    "forks": 108,
+    "created_at": "2026-10-02T09:57:40Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "kargulstudio/sales-crm",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 1509,
+    "forks": 315,
+    "created_at": "2026-10-04T10:55:58Z",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "language": "C",
+    "stars": 1467,
+    "forks": 284,
+    "created_at": "2026-10-02T18:21:23Z",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "edenfunf/reelmimic",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "language": "JavaScript",
+    "stars": 1439,
+    "forks": 164,
+    "created_at": "2026-09-28T19:14:59Z",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "wy51ai/floorplan-3d",
+    "description": "",
+    "language": "HTML",
+    "stars": 1430,
+    "forks": 294,
+    "created_at": "2026-09-29T02:57:30Z",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "firelex/jeff",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "language": "Python",
+    "stars": 1401,
+    "forks": 68,
+    "created_at": "2026-09-28T16:18:39Z",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "mikehasa/golive-skill",
+    "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+    "language": "TypeScript",
+    "stars": 1229,
+    "forks": 96,
+    "created_at": "2026-09-23T13:37:26Z",
+    "url": "https://github.com/mikehasa/golive-skill",
+    "date": "2026-10-06"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "language": "JavaScript",
+    "stars": 1223,
+    "forks": 142,
+    "created_at": "2026-09-26T10:10:41Z",
+    "url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "date": "2026-10-06"
+  }
+]
