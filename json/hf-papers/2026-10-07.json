@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
+    "authors": "Bingxi Hou, Guochao Jiang, Guofeng Quan, Weiqing Li, Wenfeng Feng...",
+    "summary": "On-Policy Distillation (OPD) trains a student on its own generations using teacher feedback. With different tokenizers, comparing teacher and student predictions requires alignment at both sequence an",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2610.08448",
+    "paper_url": "https://arxiv.org/abs/2610.08448",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation",
+    "authors": "Jiahao Zhan, Yan Wang, Yongrui Ma, Qunliang Xing, Ruchang Yao...",
+    "summary": "Streaming video generation has benefited from distribution matching distillation (DMD), which matches the joint distribution of video frames to a video teacher's approximation of the real video distri",
+    "upvotes": 36,
+    "url": "https://huggingface.co/papers/2610.03543",
+    "paper_url": "https://arxiv.org/abs/2610.03543",
+    "published_at": "2026-10-02",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents",
+    "authors": "Dongki Kim, Namkyeong Lee, Surag Nair, Carl Edwards, Xiner Li...",
+    "summary": "As agents rapidly evolve, existing benchmarks can become saturated, limiting their ability to distinguish capabilities and reveal remaining failure modes. Particularly in scientific domains, construct",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.05140",
+    "paper_url": "https://arxiv.org/abs/2610.05140",
+    "published_at": "2026-10-04",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "From Evidence to Action: How Tool-Using Agents Fail",
+    "authors": "Hongzhan Lin, Shidong Cao, Ziyang Luo, Wenhao Chai, Mong-Li Lee...",
+    "summary": "Tool-using agents make consequential changes to external state, yet correct outcomes do not guarantee that their actions were supported by evidence established beforehand. We study where this evidence",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2610.07753",
+    "paper_url": "https://arxiv.org/abs/2610.07753",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing",
+    "authors": "Sohyun Lee, Yoonjae Baek, Jaesang Won, Jinnyeong Kim, Kang Hyunwoo...",
+    "summary": "Vision-language-action (VLA) policies often fail when a robot's executed motion deviates from their commanded action. Such execution errors arise from the robot's mechanics and operating conditions, s",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2609.37334",
+    "paper_url": "https://arxiv.org/abs/2609.37334",
+    "published_at": "2026-09-29",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
+    "authors": "Xin Wang, Hao Yu, Zhengyang Zhuge, Bochao Mao, Zheng Li...",
+    "summary": "Reinforcement learning (RL) for post-training large language models (LLMs) incurs substantial computation and memory overhead during rollout generation, which motivates low-precision rollout for effic",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2610.07767",
+    "paper_url": "https://arxiv.org/abs/2610.07767",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "EVISKILL: Grounding Skill Evolution in Replayable Evidence",
+    "authors": "Yan Zhou, Yili Wang, Yiwei Dai, Qinggang Zhang, Xin Wang",
+    "summary": "Continual skill evolution enables LLM agents to accumulate and refine reusable procedural knowledge from interaction experience without updating model parameters. Its effectiveness depends on determin",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2610.05030",
+    "paper_url": "https://arxiv.org/abs/2610.05030",
+    "published_at": "2026-10-04",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "HuatuoGPT-3: RL-Only Domain Adaptation from Base Models",
+    "authors": "Junying Chen, Xinyuan Xie, Ziniu Li, Wenyuan Gu, Jianquan Li...",
+    "summary": "Domain adaptation aims to turn a general-purpose large language model (LLM) into an expert for a target domain. While the dominant SFT+RL pipeline offers a convenient cold start, it may reduce explora",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.05966",
+    "paper_url": "https://arxiv.org/abs/2610.05966",
+    "published_at": "2026-10-05",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "World Action Learning via Interaction-Centric Spectral Latent Guidance",
+    "authors": "Zhiming Liu, Yikun Miao, Ying Chen, Hongrui Yin, Fangqi Zhu...",
+    "summary": "Learning general-purpose robot policies requires large-scale real-world interaction data, yet collecting robot demonstrations remains expensive and difficult to scale. Egocentric videos offer abundant",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2610.03607",
+    "paper_url": "https://arxiv.org/abs/2610.03607",
+    "published_at": "2026-10-02",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+    "authors": "Feiyu Gavin Zhu, Xiaoyu Zhu, Jiqi Yang, Rui Yang, Arnab Kumar Mondal...",
+    "summary": "Multimodal agents commonly generate free-form reasoning before each action. For small models, limited model capacity can result in lengthy reasoning that provides little useful guidance for action gen",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.01892",
+    "paper_url": "https://arxiv.org/abs/2610.01892",
+    "published_at": "2026-10-01",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution",
+    "authors": "Geyi Yang, Zikun Qu, Xiang Li, Zhiyong Wang, Min Zhang...",
+    "summary": "The executable harness surrounding a GUI model determines how observations are assembled, actions are executed, and verification, recovery, and termination are controlled. Compared with harness optimi",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.00948",
+    "paper_url": "https://arxiv.org/abs/2610.00948",
+    "published_at": "2026-10-01",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation",
+    "authors": "Yikai Qin, Yifei Deng, Mingjian Liang, Wenxuan Song, Zepeng Lin...",
+    "summary": "Scaling robotic foundation models requires diverse training data and reliable evaluation environments. Simulation offers a scalable solution, yet existing generation pipelines remain constrained by pr",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.07969",
+    "paper_url": "https://arxiv.org/abs/2610.07969",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling",
+    "authors": "Seongheon Park, Heecheol Kim, Shulin Tian, Lilika Makabe, Namiko Saito...",
+    "summary": "Scaling robot data and model capacity has improved Vision-Language-Action (VLA) policies, but further progress is constrained by the high cost of robotic data. Verifier-guided test-time scaling offers",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.04933",
+    "paper_url": "https://arxiv.org/abs/2610.04933",
+    "published_at": "2026-10-04",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment",
+    "authors": "Yihuai Hong, Shauli Ravfogel, Chen Zhao, Eunsol Choi",
+    "summary": "Chain-of-thought (CoT) traces often serve as a proxy for how Large Language Models (LLMs) arrive at their answers. However, growing evidence shows that models' CoT often fails to reflect their interna",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.38972",
+    "paper_url": "https://arxiv.org/abs/2609.38972",
+    "published_at": "2026-09-30",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training",
+    "authors": "Qiusi Zhan, Nian Lyu, Stephanie Ding, Arnav Mehta, Xander Davies...",
+    "summary": "Developers can build LLM agents by adapting third-party models through benign post-training. We study a supply-chain threat in which an attacker supplies a model with a backdoor: hidden behavior that ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.07510",
+    "paper_url": "https://arxiv.org/abs/2610.07510",
+    "published_at": "2026-10-05",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution",
+    "authors": "Kyudan Jung, Hyunsin Park, Yoonhyung Lee, Jinhwan Park, Jinhyeok Yang...",
+    "summary": "Tool-augmented speech assistants typically serialize automatic speech recognition, large language model inference, and external tool execution. As a result, tool latency is incurred only after the use",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.07641",
+    "paper_url": "https://arxiv.org/abs/2610.07641",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+    "authors": "Zhenghong Zhou, Zhe Lin, Jiebo Luo, Yuqian Zhou",
+    "summary": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.08779",
+    "paper_url": "https://arxiv.org/abs/2610.08779",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "authors": "Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma...",
+    "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.08773",
+    "paper_url": "https://arxiv.org/abs/2610.08773",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents",
+    "authors": "Gyusik Seo, Jaehong Yoon",
+    "summary": "A central capability of embodied agents is to accomplish complex objectives through sequences of interdependent tasks. Yet existing visual goal-conditioned policies underlying these agents are typical",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.07785",
+    "paper_url": "https://arxiv.org/abs/2610.07785",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Personal-Agent Mediated Recommendation with Cross-Platform User History",
+    "authors": "Yu Xia, Jiangfan Zhang, Jun Xiao, Julian McAuley, Xiangjun Fan",
+    "summary": "Modern recommendation is shifting from platform-centric personalization toward user-governed personalization, where a personal LLM agent can act on the user's behalf across services. We formalize this",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.07588",
+    "paper_url": "https://arxiv.org/abs/2610.07588",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models",
+    "authors": "Kyudan Jung, Hyunsin Park, Yoonhyung Lee, Jinhwan Park, Jinhyeok Yang...",
+    "summary": "As human--AI interactions become more conversational, full-duplex speech language models capable of natural real-time dialogue are growing in importance. Beyond generating appropriate responses, these",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.07727",
+    "paper_url": "https://arxiv.org/abs/2610.07727",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale",
+    "authors": "Songlin Jiang, Zhiyu Li, Terry Kong, Yu Yao, Youngeun Kwon...",
+    "summary": "Agentic reinforcement learning (RL) disaggregates training from rollout, so each policy update must reach the rollout clusters before the next batch. Transferring a full 1T checkpoint for such weight ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.08430",
+    "paper_url": "https://arxiv.org/abs/2610.08430",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing",
+    "authors": "Zhuokun Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai...",
+    "summary": "Linear attention enables efficient long-context autoregressive decoding by compressing history into recurrent states, but this compression can make selective access to sparse and distant information d",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.05842",
+    "paper_url": "https://arxiv.org/abs/2610.05842",
+    "published_at": "2026-10-05",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "MiniCorp: The Last Mile of the AI Agent Firm",
+    "authors": "Jingying Zeng, Zhenwei Dai, Jinning Li, Changho Shin, Dylan Zhang...",
+    "summary": "The last mile toward enterprise AGI is a company that runs itself. Training and adapting such agents require longitudinal enterprise data, which remain scarce, costly to acquire, and often restricted ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.05912",
+    "paper_url": "https://arxiv.org/abs/2610.05912",
+    "published_at": "2026-10-05",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
+    "authors": "Haoyu Huang, Zhongwei Xie, Jiaxin Bai, Yisen Gao, Hong Ting Tsang...",
+    "summary": "Recently Large Language Models (LLMs) and LLM-based agents increasingly need to incorporate knowledge acquired after pretraining, e.g., domain facts, user preferences, documents, and interaction exper",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.08630",
+    "paper_url": "https://arxiv.org/abs/2610.08630",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Judged Useless, Queried Anyway: Tool-Using Agents Rarely Turn Their Own Evidence Judgments into Stopping Decisions",
+    "authors": "Chubin Zhang, Zhenglin Wan, Xingrui Yu, Jingxuan Wu, Yaxin Zhou...",
+    "summary": "An agent whose tool keeps returning nothing useful should stop relying on it. In a retrieval environment with controlled source failures, we separate how agents judge results from what they do. We com",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.06191",
+    "paper_url": "https://arxiv.org/abs/2610.06191",
+    "published_at": "2026-10-05",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "DistScene: Object-to-Scene Distillation for 3D Scene Generation",
+    "authors": "Kunming Luo, Hongyu Yan, Ken Deng, Chengcheng Zhou, Tianyu Liu...",
+    "summary": "We present DistScene, a framework for single-image compositional 3D scene generation by jointly modeling the environment and individual objects. Unlike existing methods that represent scenes primarily",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.06960",
+    "paper_url": "https://arxiv.org/abs/2610.06960",
+    "published_at": "2026-10-03",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "authors": "Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng...",
+    "summary": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.08761",
+    "paper_url": "https://arxiv.org/abs/2610.08761",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "World Models' Last Exam in Physics",
+    "authors": "Mingju Gao, Qingle Liu, Yuzhao Peng, Xinjie Lin, Ziming Qin...",
+    "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluati",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.08791",
+    "paper_url": "https://arxiv.org/abs/2610.08791",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Building Rome from a Single Image",
+    "authors": "Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, Depu Meng, Quentin Herau...",
+    "summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape p",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.08790",
+    "paper_url": "https://arxiv.org/abs/2610.08790",
+    "published_at": "2026-10-06",
+    "date": "2026-10-07"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "title": "World Models' Last Exam in Physics",
+    "authors": "Mingju Gao, Qingle Liu, Yuzhao Peng, Xinjie Lin, Ziming Qin...",
+    "summary": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluati",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08791v1",
+    "abs_url": "https://arxiv.org/abs/2610.08791v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Building Rome from a Single Image",
+    "authors": "Jiraphon Yenphraphai, Fang Li, Tianshuo Xu, Depu Meng, Quentin Herau...",
+    "summary": "Single-image scene generation aims to produce a complete 3D scene mesh from a single image, including surfaces the camera did not observe. While pretrained 3D object generators encode a strong shape p",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08790v1",
+    "abs_url": "https://arxiv.org/abs/2610.08790v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+    "authors": "Chung Min Kim, Brent Yi, David McAllister, Hongsuk Choi, Himanshu Gaurav Singh...",
+    "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08789v1",
+    "abs_url": "https://arxiv.org/abs/2610.08789v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+    "authors": "Kevin Zhang, Stephen Bates",
+    "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic mea",
+    "categories": "cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08785v1",
+    "abs_url": "https://arxiv.org/abs/2610.08785v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+    "authors": "Shiqi Li, Sean Cho, Yijie Li, Fengzhi Guo, Bowen Wen...",
+    "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un",
+    "categories": "cs.CV, cs.AI, cs.GR",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08782v1",
+    "abs_url": "https://arxiv.org/abs/2610.08782v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+    "authors": "Ziyu Chen, Yilun Zhao, Jiashuo Sun, Yiling Ma, Manasi Patwardhan...",
+    "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08781v1",
+    "abs_url": "https://arxiv.org/abs/2610.08781v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "DepthWorld: 3D World Model for Robot Manipulation",
+    "authors": "Jai Bardhan, Josef Sivic, Vladimir Petrik",
+    "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D ge",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08780v1",
+    "abs_url": "https://arxiv.org/abs/2610.08780v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
+    "authors": "Zhenghong Zhou, Zhe Lin, Jiebo Luo, Yuqian Zhou",
+    "summary": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08779v1",
+    "abs_url": "https://arxiv.org/abs/2610.08779v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Sherpa: Teaching LLMs to Teach Adaptively",
+    "authors": "Weixian Xu, Yanzhe Zhang, Zora Zhiruo Wang, Changyu Chen, Diyi Yang",
+    "summary": "Large language models (LLMs) have become increasingly capable problem solvers, but being able to solve a problem is not the same as being able to teach it. Existing approaches to training LLMs as teac",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08778v1",
+    "abs_url": "https://arxiv.org/abs/2610.08778v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching",
+    "authors": "Shangye Song, Dong Gong, Hong Jia, Yun Sing Koh, Xinyu Zhang",
+    "summary": "Interactive video world models need to generate each video chunk efficiently while responding faithfully to user controls. Many systems use chunk-wise autoregressive generation with few-step denoising",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08777v1",
+    "abs_url": "https://arxiv.org/abs/2610.08777v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?",
+    "authors": "Ankit Sonthalia, Haritz Puerto, Alexander Rubinstein, Martin Gubri, Seong Joon Oh",
+    "summary": "Large language models (LLMs) can solve many narrow tasks, but querying them separately for millions of related instances can be prohibitively expensive. Can LLM agents autonomously create cheaper solu",
+    "categories": "cs.AI",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08775v1",
+    "abs_url": "https://arxiv.org/abs/2610.08775v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+    "authors": "Sarim Hashmi, Mukul Ranjan, Kshitij Mishra, Mikhail Kuznetsov, Praneeth Vepakomma...",
+    "summary": "Web agents complete user requests by reading and acting on pages that third parties write, so an instruction planted on a page can redirect the agent away from the user's goal. The agent cannot simply",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08773v1",
+    "abs_url": "https://arxiv.org/abs/2610.08773v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Backend-Agnostic Sparse Attention for Fast High-Resolution Visual Generation",
+    "authors": "Liao Ma, Jiayi Song, Yunfeng Wu, Songhua Liu, Peilin Zhao",
+    "summary": "Diffusion Transformers (DiTs) have achieved strong performance in image and video generation, but the quadratic complexity of full attention makes high-resolution generation computationally expensive.",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08772v1",
+    "abs_url": "https://arxiv.org/abs/2610.08772v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Data Leakage in Patch-Based Hyperspectral Image Classification: Quantifying the Impact of Spatial Overlap",
+    "authors": "Mohammed Q. Alkhatib",
+    "summary": "Patch-based learning improves hyperspectral image (HSI) classification by exploiting local spectral-spatial information, but random train-test sampling from the same image can cause spatial patch over",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08770v1",
+    "abs_url": "https://arxiv.org/abs/2610.08770v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Rapid Fredholm stabilization of the Kuramoto--Sivashinsky equation with unrestricted, spatially-varying anti-diffusion",
+    "authors": "Luke Bhan, Miroslav Krstic, Yuanyuan Shi",
+    "summary": "We develop the first feedback design for rapid stabilization of the Kuramoto--Sivashinsky equation with a spatially varying anti-diffusion coefficient. For constant coefficients, the single-input Fred",
+    "categories": "eess.SY, cs.LG, math.AP, math.OC",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08764v1",
+    "abs_url": "https://arxiv.org/abs/2610.08764v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning",
+    "authors": "Zewei Zhou, Rachel Luo, Yulong Cao, Chaowei Xiao, Chensheng Peng...",
+    "summary": "Self-improving policies continually expose new failure patterns, changing what their judges must be able to verify. However, current fixed judges constrain both optimization feedback and the discovery",
+    "categories": "cs.AI, cs.RO",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08761v1",
+    "abs_url": "https://arxiv.org/abs/2610.08761v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "authors": "Pengjun Fang, Jingyi Fa, Kam Man Wu, Jiaming Wang, Haoyuan Huang...",
+    "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core chall",
+    "categories": "cs.SD, cs.AI, cs.CV, eess.AS",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08760v1",
+    "abs_url": "https://arxiv.org/abs/2610.08760v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error",
+    "authors": "Iván Verdugo Guerra, Ezequiel López Rubio, Jorge García González",
+    "summary": "The same Gaussian of a 3D Gaussian Splatting model is seen from many views, and these views do not always agree on the class it belongs to. The Gaussian may be occluded in some of them, and the confid",
+    "categories": "cs.CV",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08756v1",
+    "abs_url": "https://arxiv.org/abs/2610.08756v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Neural Petri flows for chemical reactions",
+    "authors": "Jose Eduardo Escrig Molina, Daniel Probst",
+    "summary": "Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond o",
+    "categories": "cs.LG, physics.chem-ph, q-bio.QM",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08750v1",
+    "abs_url": "https://arxiv.org/abs/2610.08750v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "The Missing Minimal Pair: Stereotype Evaluation in LLMs",
+    "authors": "Nataliya Stepanova, Ivan Titov, Emily Allaway, Björn Ross",
+    "summary": "A common approach to measuring bias in Large Language Models is to compare the log-likelihoods of two contrastive stereotype sentences. We argue that such single-pair comparisons are often unreliable:",
+    "categories": "cs.CL",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08747v1",
+    "abs_url": "https://arxiv.org/abs/2610.08747v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Linear Bandits under Exact Sliding-Window Constraints",
+    "authors": "Seyed Mohammad Hadi Hosseini, Yasin Abbasi-Yadkori, Sattar Vakili",
+    "summary": "We study linear bandits under exact sliding-window constraints, where every consecutive block of actions must belong to a prescribed feasible set. In the offline setting, where the reward function is ",
+    "categories": "cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08745v1",
+    "abs_url": "https://arxiv.org/abs/2610.08745v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Reinforcement Learning with Conformal Action Sets: An Application to Sequential Recommendation",
+    "authors": "Wenwen Si, Honghao Wei",
+    "summary": "Sequential recommenders typically use a fixed slate size even though the number of useful alternatives changes within a session. We propose Reinforcement Learning with Calibrated Pruning (RLCP), which",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08743v1",
+    "abs_url": "https://arxiv.org/abs/2610.08743v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "On the Computational Tractability of Robust Bandits",
+    "authors": "Vanessa Kosoy, Vinayak Pathak",
+    "summary": "Learning when the environment does not belong to the learner's hypothesis class is typically handled using agnostic learning guarantees. However, for anything beyond supervised learning, agnostic guar",
+    "categories": "cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08740v1",
+    "abs_url": "https://arxiv.org/abs/2610.08740v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Denoising Hierarchical Representations: Joint Continuous Diffusion for Language Modeling",
+    "authors": "Mathias Ollu, Nikos Komodakis",
+    "summary": "Diffusion Language Models (DLMs) hold the promise of order-agnostic, parallel text generation. Recently, continuous diffusion and flow matching models have seen substantial gains, driven by carefully ",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08738v1",
+    "abs_url": "https://arxiv.org/abs/2610.08738v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Optimal and Efficient Online Inverse Optimization",
+    "authors": "Anupam Gupta, Guru Guruganesh, Honghao Lin, Vahab Mirrokni, Renato Paes Leme...",
+    "summary": "In online inverse linear optimization, a learner recommends an action and then observes the choice of an expert who maximizes a fixed, unknown linear objective on $\\mathbb{R}^{d}$; the goal is to lear",
+    "categories": "cs.LG, cs.DS",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08735v1",
+    "abs_url": "https://arxiv.org/abs/2610.08735v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "A Systematic Study of Semantic ID Spaces for Generative Information Retrieval",
+    "authors": "Alexia Allal, Hicham Randrianarivo, Sylvain Lamprier",
+    "summary": "Generative Information Retrieval (GIR) has emerged as a transformative paradigm, shifting document retrieval from a traditional \"retrieve-and-rank\" workflow to sequence-to-sequence generation, where a",
+    "categories": "cs.IR, cs.CL",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08732v1",
+    "abs_url": "https://arxiv.org/abs/2610.08732v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "EgoLAP: Learning from Egocentric Human Data through Language-Action Reasoning",
+    "authors": "Lihan Zha, Shresth Grover, Tenny Yin, Samuel M. Bateman, Hengkai Pan...",
+    "summary": "Egocentric human data offer a path to scaling robot learning beyond costly robot demonstrations, yet the embodiment gap makes raw human trajectories a poor supervisory target for control. Our key insi",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08726v1",
+    "abs_url": "https://arxiv.org/abs/2610.08726v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Does an Agent's History Tell You When Compaction Will Hurt? A Modest, Bounded Effect on the TRACE Paired-Replay Corpus",
+    "authors": "Egor Pakhomov, Erik Nijkamp",
+    "summary": "Many long-horizon agents compact their context on a global rule, usually a token budget, blind to what the agent was doing. We ask whether the agent's recent behaviour predicts when a compaction will ",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08722v1",
+    "abs_url": "https://arxiv.org/abs/2610.08722v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "WorldSolver: Can LLM Agents Simulate the Physical Dynamics via Solver Generation?",
+    "authors": "Siru Jiang, Yongzhe Lyu, Shuo Lu, Yubin Wang, Yuxiang Zhang...",
+    "summary": "LLM-based agents are increasingly advancing scientific and engineering problem solving, with physics simulation emerging as a challenging yet practical testbed for reproducing complex physical phenome",
+    "categories": "cs.AI",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08720v1",
+    "abs_url": "https://arxiv.org/abs/2610.08720v1",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Holdout Best-of-N: Unbiased Evaluation and Its Cost",
+    "authors": "Shrey Shah, Yinheng Li",
+    "summary": "Reusing the scores that select a Best-of-$N$ winner can overstate its expected reward. We study evaluation from a fixed matrix of $K$ independent scores per candidate for a policy that selects using $",
+    "categories": "cs.CL",
+    "published": "2026-10-06",
+    "pdf_url": "https://arxiv.org/pdf/2610.08719v1",
+    "abs_url": "https://arxiv.org/abs/2610.08719v1",
+    "date": "2026-10-07"
+  }
+]
