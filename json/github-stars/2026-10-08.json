@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "storytold/photocraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+    "language": "Rust",
+    "stars": 19714,
+    "forks": 2579,
+    "created_at": "2026-09-30T13:37:48Z",
+    "url": "https://github.com/storytold/photocraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "openai/math",
+    "description": "",
+    "language": "Lean",
+    "stars": 10561,
+    "forks": 1059,
+    "created_at": "2026-10-06T21:47:02Z",
+    "url": "https://github.com/openai/math",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "KKKKhazix/AIHOT",
+    "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+    "language": "TypeScript",
+    "stars": 6553,
+    "forks": 1614,
+    "created_at": "2026-09-28T23:40:05Z",
+    "url": "https://github.com/KKKKhazix/AIHOT",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "language": "Python",
+    "stars": 5310,
+    "forks": 486,
+    "created_at": "2026-09-30T05:00:35Z",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "CopilotKit/OpenDots",
+    "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+    "language": "TypeScript",
+    "stars": 4289,
+    "forks": 609,
+    "created_at": "2026-09-29T17:13:58Z",
+    "url": "https://github.com/CopilotKit/OpenDots",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "Louis-CFM/coucou",
+    "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+    "language": "Swift",
+    "stars": 4094,
+    "forks": 681,
+    "created_at": "2026-09-27T21:54:12Z",
+    "url": "https://github.com/Louis-CFM/coucou",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "storytold/filmcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Premiere Pro built in pure Rust.",
+    "language": "Rust",
+    "stars": 3751,
+    "forks": 1212,
+    "created_at": "2026-09-30T13:41:20Z",
+    "url": "https://github.com/storytold/filmcraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "omlahore/RemoveMacAI",
+    "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+    "language": "Swift",
+    "stars": 3630,
+    "forks": 98,
+    "created_at": "2026-09-29T11:02:39Z",
+    "url": "https://github.com/omlahore/RemoveMacAI",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "storytold/lightcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Lightroom in pure Rust.",
+    "language": "Rust",
+    "stars": 3503,
+    "forks": 1029,
+    "created_at": "2026-09-30T14:09:27Z",
+    "url": "https://github.com/storytold/lightcraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "nykooi1/vibe-wise",
+    "description": "A Claude Code plugin that helps you learn how to build while AI writes the code.",
+    "language": "Python",
+    "stars": 3014,
+    "forks": 128,
+    "created_at": "2026-09-29T01:29:57Z",
+    "url": "https://github.com/nykooi1/vibe-wise",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "shader-effects-inc/shaders",
+    "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+    "language": "TypeScript",
+    "stars": 2895,
+    "forks": 103,
+    "created_at": "2026-09-29T16:36:26Z",
+    "url": "https://github.com/shader-effects-inc/shaders",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "storytold/pdfcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Acrobat built in pure Rust",
+    "language": "Rust",
+    "stars": 2856,
+    "forks": 944,
+    "created_at": "2026-09-30T13:39:37Z",
+    "url": "https://github.com/storytold/pdfcraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "yihui-dev/awesome-opus5-5-videos",
+    "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+    "language": "",
+    "stars": 2836,
+    "forks": 292,
+    "created_at": "2026-09-27T06:19:36Z",
+    "url": "https://github.com/yihui-dev/awesome-opus5-5-videos",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "feder-cr/invisible_playwright_mcp",
+    "description": "Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.",
+    "language": "Python",
+    "stars": 2644,
+    "forks": 461,
+    "created_at": "2026-09-29T23:06:00Z",
+    "url": "https://github.com/feder-cr/invisible_playwright_mcp",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "storytold/vectorcraft",
+    "description": "An open-source, clean-room reimplementation of Adobe Illustrator, built in pure Rust.",
+    "language": "Rust",
+    "stars": 2598,
+    "forks": 980,
+    "created_at": "2026-09-30T13:43:03Z",
+    "url": "https://github.com/storytold/vectorcraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "dzhng/jevgrep",
+    "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+    "language": "TypeScript",
+    "stars": 2424,
+    "forks": 171,
+    "created_at": "2026-09-26T04:06:56Z",
+    "url": "https://github.com/dzhng/jevgrep",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "kaankiziltug/logo-design-skill",
+    "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+    "language": "HTML",
+    "stars": 2309,
+    "forks": 157,
+    "created_at": "2026-09-26T08:23:34Z",
+    "url": "https://github.com/kaankiziltug/logo-design-skill",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "language": "JavaScript",
+    "stars": 2193,
+    "forks": 148,
+    "created_at": "2026-10-02T09:57:40Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "alchaincyf/huashu-art-motion",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "language": "JavaScript",
+    "stars": 1977,
+    "forks": 218,
+    "created_at": "2026-10-06T04:49:37Z",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "feitangyuan/onetake",
+    "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+    "language": "Python",
+    "stars": 1905,
+    "forks": 119,
+    "created_at": "2026-09-26T05:35:17Z",
+    "url": "https://github.com/feitangyuan/onetake",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "storytold/effectcraft",
+    "description": "",
+    "language": "Rust",
+    "stars": 1883,
+    "forks": 766,
+    "created_at": "2026-10-01T14:24:46Z",
+    "url": "https://github.com/storytold/effectcraft",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "KingKongRobotics/jumper",
+    "description": "🦀 Jumper — an crab robot.",
+    "language": "Python",
+    "stars": 1744,
+    "forks": 157,
+    "created_at": "2026-09-28T05:56:04Z",
+    "url": "https://github.com/KingKongRobotics/jumper",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "nanaism/yomiyasu",
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "language": "Python",
+    "stars": 1733,
+    "forks": 38,
+    "created_at": "2026-09-30T11:49:32Z",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "edenfunf/reelmimic",
+    "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
+    "language": "JavaScript",
+    "stars": 1704,
+    "forks": 182,
+    "created_at": "2026-09-28T19:14:59Z",
+    "url": "https://github.com/edenfunf/reelmimic",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "language": "C",
+    "stars": 1702,
+    "forks": 341,
+    "created_at": "2026-10-02T18:21:23Z",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "deadinside28/bloodborne_pc",
+    "description": "",
+    "language": "C++",
+    "stars": 1701,
+    "forks": 185,
+    "created_at": "2026-10-01T05:50:31Z",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "wy51ai/floorplan-3d",
+    "description": "",
+    "language": "HTML",
+    "stars": 1697,
+    "forks": 331,
+    "created_at": "2026-09-29T02:57:30Z",
+    "url": "https://github.com/wy51ai/floorplan-3d",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "kargulstudio/sales-crm",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 1643,
+    "forks": 356,
+    "created_at": "2026-10-04T10:55:58Z",
+    "url": "https://github.com/kargulstudio/sales-crm",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "firelex/jeff",
+    "description": "Millisecond decisions, any domain: a 0.8B open \"System 1\" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware.",
+    "language": "Python",
+    "stars": 1443,
+    "forks": 68,
+    "created_at": "2026-09-28T16:18:39Z",
+    "url": "https://github.com/firelex/jeff",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "lemomo-ai/lemo-opuscar",
+    "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+    "language": "JavaScript",
+    "stars": 1373,
+    "forks": 160,
+    "created_at": "2026-09-26T10:10:41Z",
+    "url": "https://github.com/lemomo-ai/lemo-opuscar",
+    "date": "2026-10-08"
+  }
+]

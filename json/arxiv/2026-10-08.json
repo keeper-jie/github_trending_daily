@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+    "authors": "Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, Kyehong Park, Seungryong Kim",
+    "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
+    "categories": "cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10539v1",
+    "abs_url": "https://arxiv.org/abs/2610.10539v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+    "authors": "Shravan Chaudhari, William Paul, Suchi Saria, Rama Chellappa, Homanga Bharadhwaj",
+    "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,",
+    "categories": "cs.CV, cs.AI, cs.RO",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10538v1",
+    "abs_url": "https://arxiv.org/abs/2610.10538v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Decoupling Exploration from Optimization in RLVR",
+    "authors": "Saif Punjwani, Micah Goldblum",
+    "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10536v1",
+    "abs_url": "https://arxiv.org/abs/2610.10536v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+    "authors": "Hongru Cai, Ran Wei, Wenjie Wang, Chengfa Wu, Ning Song...",
+    "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be",
+    "categories": "cs.CL",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10533v1",
+    "abs_url": "https://arxiv.org/abs/2610.10533v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "authors": "Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai Yang...",
+    "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10528v1",
+    "abs_url": "https://arxiv.org/abs/2610.10528v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+    "authors": "Aleksandar Armacki, Haoyuan Cai, Ali H. Sayed",
+    "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized s",
+    "categories": "math.OC, cs.LG, cs.MA",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10527v1",
+    "abs_url": "https://arxiv.org/abs/2610.10527v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+    "authors": "Mikey Watts, Yuchen Cui",
+    "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo",
+    "categories": "cs.RO, cs.CL, cs.LG",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10526v1",
+    "abs_url": "https://arxiv.org/abs/2610.10526v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "GRACE: Generation-aware latent compression for efficient video generation",
+    "authors": "Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam, Donghoon Lee, Hyunsung Go...",
+    "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challe",
+    "categories": "cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10524v1",
+    "abs_url": "https://arxiv.org/abs/2610.10524v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+    "authors": "Zhewei Chen, Hao Zhu, Jiaojiao Jiang, Ahad N. Zehmakan",
+    "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use",
+    "categories": "cs.LG",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10520v1",
+    "abs_url": "https://arxiv.org/abs/2610.10520v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Why Forget-Only Unlearning Needs Memorization",
+    "authors": "Luka Radić, Vikrant Singhal, Amartya Sanyal",
+    "summary": "Machine unlearning asks for a deletion algorithm whose output is close to retraining from scratch without the selected forget examples. In this work, we study forget-only unlearning, where the deletio",
+    "categories": "cs.LG, cs.IT, stat.ML",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10519v1",
+    "abs_url": "https://arxiv.org/abs/2610.10519v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "RoboJEPA: Scaling Robotic Latent World Models",
+    "authors": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan, Sarath Chandar, Tushar Nagarajan...",
+    "summary": "Latent world models have shown a remarkable ability to predict future states and to plan in the real world. In practice, however, we lack a principled way to estimate how their capabilities scale with",
+    "categories": "cs.AI, cs.RO",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10515v1",
+    "abs_url": "https://arxiv.org/abs/2610.10515v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
+    "authors": "Yinling Zhang, Langchen Liu, Dongbin Xiu, Xueyan Zou, Xu Kuang...",
+    "summary": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of w",
+    "categories": "cs.AI, cs.LG, physics.ao-ph",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10513v1",
+    "abs_url": "https://arxiv.org/abs/2610.10513v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery",
+    "authors": "Chen Xu, Yunqi Li, Binbin Huang, Brent Yi, Shenghua Gao...",
+    "summary": "Recovering faithful 3D hand motion from video remains challenging due to frequent occlusions and incomplete visual observations, which make frame-wise pose estimates unreliable and temporally inconsis",
+    "categories": "cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10512v1",
+    "abs_url": "https://arxiv.org/abs/2610.10512v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Your Prompt Should Do More: Effects of Retrieval Instructions in Embedding Models",
+    "authors": "Amanda Myntti, Jenna Kanerva, Veronika Laippala, Filip Ginter",
+    "summary": "Prompted embedding models have recently received increasing attention, particularly for retrieval, where detailed retrieval instructions are provided as part of the retrieval prompt. Several new datas",
+    "categories": "cs.CL",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10508v1",
+    "abs_url": "https://arxiv.org/abs/2610.10508v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+    "authors": "Yilun Hao, Krishna Sayana, Isabella Ye, James S Ren, Sukhdeep Sodhi...",
+    "summary": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieva",
+    "categories": "cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10507v1",
+    "abs_url": "https://arxiv.org/abs/2610.10507v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Validity Without Ground Truth: What Stated-Preference Economics Offers the Evaluation of Language Models",
+    "authors": "Daniel Robert Kling Alexander, Catherine Louise Kling",
+    "summary": "Many of the questions now put to large language models have no correct answer to score against: what a policy is worth, which option a user should choose, how to weigh competing values. Stated-prefere",
+    "categories": "cs.AI, cs.CL, econ.GN",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10506v1",
+    "abs_url": "https://arxiv.org/abs/2610.10506v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Oracle-Efficient and Parameter-Free Agnostic Smoothed Online Learning",
+    "authors": "Sasha Voitovych, Adam Block, Alexander Rakhlin, Abhishek Shetty",
+    "summary": "Online learning is an attractive framework in many domains because it permits well-defined learning even when data are dependent or chosen adversarially. This generality, however, comes at a steep pri",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10499v1",
+    "abs_url": "https://arxiv.org/abs/2610.10499v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
+    "authors": "Python Song, Zhixuan Liang, Kelsey Fu, Mengdi Wang, Junfeng Yang...",
+    "summary": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on subs",
+    "categories": "cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10498v1",
+    "abs_url": "https://arxiv.org/abs/2610.10498v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation",
+    "authors": "Yucheng Mao, Zeyuan Chen, Xiaojun Shan, Xiang Zhang, Divyansh Srivastava...",
+    "summary": "We introduce QuadTok, a novel framework for visual tokenization and autoregressive image generation. Compared to traditional approaches using 2D grids or 1D token sequences, we propose a hierarchical ",
+    "categories": "cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10497v1",
+    "abs_url": "https://arxiv.org/abs/2610.10497v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Evolutionary Architecture Search for Chlorophyll-$a$ Prediction in Lakes using Sentinel-2",
+    "authors": "Kursat Komurcu, Linas Petkevicius",
+    "summary": "Small tabular datasets with expert-designed spectral features are the norm in operational Earth observation, and the networks applied to them are typically hand-designed. We revisit one such published",
+    "categories": "cs.NE, cs.LG",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10496v1",
+    "abs_url": "https://arxiv.org/abs/2610.10496v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Insights from Autoresearch for Solar Panel Segmentation",
+    "authors": "Justinas Lekavicius, Kursat Komurcu, Valentas Gruzauskas, Linas Petkevicius",
+    "summary": "This paper investigates AutoResearch, a protocol in which a coding language model edits a training program under a one-hour GPU budget and retains a change only if validation IoU improves. The protoco",
+    "categories": "cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10491v1",
+    "abs_url": "https://arxiv.org/abs/2610.10491v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Best Arm Identification for Bandits with Shifting Means",
+    "authors": "Lukas Zierahn, Wouter M. Koolen, Shubhada Agrawal, Christina Katsimerou, Dirk van der Hoeven",
+    "summary": "We study the best arm identification problem in a stochastic environment with a novel form of adversarial perturbations, which we coin Shifting Means. While classically the mean rewards of the $K$ arm",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10488v1",
+    "abs_url": "https://arxiv.org/abs/2610.10488v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+    "authors": "Walid Bendada, Guillaume Salha-Galvan",
+    "summary": "Sampling from a softmax distribution is a fundamental operation in machine learning, but its linear complexity in the number of items makes exact sampling impractical at scale. Two-level softmax (2LS)",
+    "categories": "cs.LG, cs.IR, stat.ML",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10483v1",
+    "abs_url": "https://arxiv.org/abs/2610.10483v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Agentic RSR: Real-to-Sim-to-Real through Scene Reconstruction and Execution-Grounded Robot Policies",
+    "authors": "Yihan Li, Yating Feng, Shengjiu Sun, Jianing Chen, Hao Ren...",
+    "summary": "A simulation of a real robot workspace must preserve task-relevant interactions, while policies developed in it must operate on observations available to the real robot. Yet scene reconstruction and p",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10479v1",
+    "abs_url": "https://arxiv.org/abs/2610.10479v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Before They Can Solve: Predicting Post-Training Coding-Agent Performance from Base Models",
+    "authors": "Tan Yu, Alexander Bukharin, Khushi Bhardwaj, Jennifer Williams, Zirui Liu...",
+    "summary": "How can we predict which base checkpoint is worth an expensive round of agentic post-training? End-to-end pass@$K$ tests whether successful behavior already appears in a base model's distribution, but",
+    "categories": "cs.AI, cs.SE",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10478v1",
+    "abs_url": "https://arxiv.org/abs/2610.10478v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Label-free cell counting and viability prediction with brightfield imaging and deep learning",
+    "authors": "Amir Reza Vazifeh, Christian Zeigler, Sornanathan Meyyappan, Richard Jeske, Jason W. Fleischer",
+    "summary": "Cell viability assessment is a core requirement in cell culture systems, with critical applications in biopharmaceutical manufacturing and drug development. Conventionally, it is measured by adding me",
+    "categories": "cs.CV, q-bio.CB",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10473v1",
+    "abs_url": "https://arxiv.org/abs/2610.10473v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "A Society of Researchers: Designing Institutions for Populations of Autonomous Research Agents",
+    "authors": "Ali Asaria, Deep Gandhi, Tony Salomone",
+    "summary": "Deployments of research agents are moving to populations of thousands that share one pool of compute, while most current systems organize one project at a time or leave the population unorganized. We ",
+    "categories": "cs.MA, cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10468v1",
+    "abs_url": "https://arxiv.org/abs/2610.10468v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "How assigned AI use before class shapes active student engagement in class",
+    "authors": "Dan J. Wang, Neelam Modi Jain, Vanessa Burbano, Jorge Guzman, Daniel Keum...",
+    "summary": "AI learning tools are rapidly entering classrooms, but evidence about whether they help students learn is mixed and rests mostly on test scores. Comparatively less research addresses whether the use o",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10463v1",
+    "abs_url": "https://arxiv.org/abs/2610.10463v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "FoldBack: Self-Correcting Masked Generative Policy for Long-Horizon Garment Folding",
+    "authors": "Lipeng Zhuang, Shiyu Fan, Yingdong Ru, Zhuo He, Florent P. Audonnet...",
+    "summary": "We present FoldBack, a self-correcting masked generative policy for long-horizon garment folding. Existing long-trajectory policies may continue after a missed or slipped grasp even when the garment h",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10462v1",
+    "abs_url": "https://arxiv.org/abs/2610.10462v1",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts",
+    "authors": "Hejian Sang, Zhengze Zhou, Shayan Mohajer Hamidi, Xiaomin Li, Rohit Jain...",
+    "summary": "Multi-teacher on-policy distillation (MOPD) is used in two settings. In common-domain composition, several teachers score each student rollout from one prompt domain and their signals form a single ta",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-07",
+    "pdf_url": "https://arxiv.org/pdf/2610.10460v1",
+    "abs_url": "https://arxiv.org/abs/2610.10460v1",
+    "date": "2026-10-08"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "repo": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 17480,
+    "forks": 1830,
+    "today_stars": 4655,
+    "url": "https://github.com/morluto/rea",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 280099,
+    "forks": 23472,
+    "today_stars": 1403,
+    "url": "https://github.com/mattpocock/skills",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 11636,
+    "forks": 887,
+    "today_stars": 2716,
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "ayghri/i-have-adhd",
+    "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+    "language": "Python",
+    "stars": 55397,
+    "forks": 3167,
+    "today_stars": 619,
+    "url": "https://github.com/ayghri/i-have-adhd",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 45315,
+    "forks": 2908,
+    "today_stars": 825,
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 103017,
+    "forks": 10783,
+    "today_stars": 677,
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "EpicGames/raddebugger",
+    "description": "A native, user-mode, multi-process, graphical debugger.",
+    "language": "C",
+    "stars": 7942,
+    "forks": 386,
+    "today_stars": 90,
+    "url": "https://github.com/EpicGames/raddebugger",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "stars": 97920,
+    "forks": 8612,
+    "today_stars": 578,
+    "url": "https://github.com/thedotmack/claude-mem",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "manaflow-ai/cmux",
+    "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+    "language": "Swift",
+    "stars": 27946,
+    "forks": 2466,
+    "today_stars": 44,
+    "url": "https://github.com/manaflow-ai/cmux",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "trycua/cua",
+    "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+    "language": "Rust",
+    "stars": 28887,
+    "forks": 2043,
+    "today_stars": 228,
+    "url": "https://github.com/trycua/cua",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 26249,
+    "forks": 1576,
+    "today_stars": 576,
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "tester-army/e2e",
+    "description": "Next generation e2e testing framework for web and mobile apps.",
+    "language": "TypeScript",
+    "stars": 7786,
+    "forks": 354,
+    "today_stars": 1390,
+    "url": "https://github.com/tester-army/e2e",
+    "date": "2026-10-08"
+  },
+  {
+    "repo": "DuarteSantos8/openGym",
+    "description": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+    "language": "JavaScript",
+    "stars": 7371,
+    "forks": 955,
+    "today_stars": 1493,
+    "url": "https://github.com/DuarteSantos8/openGym",
+    "date": "2026-10-08"
+  }
+]

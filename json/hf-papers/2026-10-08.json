@@ -1,0 +1,302 @@
+[
+  {
+    "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+    "authors": "Bingchen Yao, Haobo Xu, Haokun Lin, Yichen Wu, Ziyu Guo...",
+    "summary": "Linear attention replaces growing KV caches with fixed-size recurrent states, yet these persistent states can become a substantial memory bottleneck under concurrent serving. Directly quantizing recur",
+    "upvotes": 79,
+    "url": "https://huggingface.co/papers/2609.38169",
+    "paper_url": "https://arxiv.org/abs/2609.38169",
+    "published_at": "2026-09-29",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Long-WAM: Scaling the Context of World-Action Models",
+    "authors": "Wei Huang, Bohan Zhang, Chenzhi Liu, Isabella Liu, Shuai Yang...",
+    "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con",
+    "upvotes": 69,
+    "url": "https://huggingface.co/papers/2610.10528",
+    "paper_url": "https://arxiv.org/abs/2610.10528",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+    "authors": "Jiajun Chen, Haoyu Wu, Mingda Jia, Xihui Liu",
+    "summary": "Recent game design agents have made substantial progress in generating playable games. However, program correctness does not ensure an enjoyable experience for players. We present Recursive Game Creat",
+    "upvotes": 58,
+    "url": "https://huggingface.co/papers/2610.08621",
+    "paper_url": "https://arxiv.org/abs/2610.08621",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Questioning the Questions: Sustaining Self-Evolution in Reasoning Models",
+    "authors": "Jinyuan Li, Chengsong Huang, Langlin Huang, Donghong Cai, Shiping Gao...",
+    "summary": "Self-evolving reasoning models learn from their own generated questions, yet repeated self-training can lead to performance collapse. In this paper, we investigate why performance deteriorates over su",
+    "upvotes": 55,
+    "url": "https://huggingface.co/papers/2610.04299",
+    "paper_url": "https://arxiv.org/abs/2610.04299",
+    "published_at": "2026-10-03",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "GRACE: Generation-aware latent compression for efficient video generation",
+    "authors": "Jiyoung Kim, Paul Hyunbin Cho, Jisu Nam, Donghoon Lee, Hyunsung Go...",
+    "summary": "Highly compressed video autoencoders offer an effective way to accelerate video diffusion models, as the Diffusion Transformer (DiT) operates on far fewer tokens. However, such autoencoders are challe",
+    "upvotes": 54,
+    "url": "https://huggingface.co/papers/2610.10524",
+    "paper_url": "https://arxiv.org/abs/2610.10524",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+    "authors": "Guangyi Liu, Yong Liu, Jiangning Zhang",
+    "summary": "Assistants from 2011 answered and waited, and agents from 2023 did a task and stopped. In September 2026 Meta's Muse showed an agent for one person, with accounts, devices, memory and a conversation t",
+    "upvotes": 53,
+    "url": "https://huggingface.co/papers/2610.08699",
+    "paper_url": "https://arxiv.org/abs/2610.08699",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
+    "authors": "Zihan Su, Junhao Zhuang, Yaowei Li, Siwen Lu, Haoran Li...",
+    "summary": "Autoregressive video generation requires denoising the current frames while writing their key-value representations as context for future predictions. However, these two roles typically share paramete",
+    "upvotes": 42,
+    "url": "https://huggingface.co/papers/2610.10429",
+    "paper_url": "https://arxiv.org/abs/2610.10429",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Semifactual Credit-Augmented Policy Optimization",
+    "authors": "Junshu Pan, Zhizhang Fu, Shulin Huang, Yiran Ding, Zifan Cheng...",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features",
+    "upvotes": 33,
+    "url": "https://huggingface.co/papers/2609.40360",
+    "paper_url": "https://arxiv.org/abs/2609.40360",
+    "published_at": "2026-09-30",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "RunningTab: Direct Workspace Interaction with Environment-Side Tabs",
+    "authors": "Jinheon Baek, Soyeong Jeong, Yumin Choi, Dongsu Han, Sung Ju Hwang",
+    "summary": "Much knowledge work produces new deliverables from files a workspace already holds, and LLM agents are beginning to take such work over. Through direct corpus interaction, an agent can search and read",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2610.10444",
+    "paper_url": "https://arxiv.org/abs/2610.10444",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "DecepEval: A Benchmark for Evaluating Deception in LLM Agents",
+    "authors": "Yiming Xu, Hongyue Yu, Beihua Yang, Zihan Chen, Yixin Liu...",
+    "summary": "As large language model (LLM) agents become increasingly autonomous, they may pursue task performance through deception, raising concerns about their reliable deployment. Existing evaluations show tha",
+    "upvotes": 29,
+    "url": "https://huggingface.co/papers/2610.07967",
+    "paper_url": "https://arxiv.org/abs/2610.07967",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+    "authors": "Jaeyeong Kim, Jinhyuk Jang, Jongmin Lee, Kyehong Park, Seungryong Kim",
+    "summary": "We propose Tetris3D, a generative framework for single-image 3D scene reconstruction that recovers objects which are physically and geometrically coherent as a scene. Existing methods often generate o",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2610.10539",
+    "paper_url": "https://arxiv.org/abs/2610.10539",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "WorldSonus: Bringing Sound to Worlds",
+    "authors": "Pengjun Fang, Jingyi Fa, Kam Man Wu, Jiaming Wang, Haoyuan Huang...",
+    "summary": "Recent advances in world models have enabled increasingly realistic visual synthesis. However, these generated environments remain largely silent. Bringing sound to world models poses three core chall",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2610.08760",
+    "paper_url": "https://arxiv.org/abs/2610.08760",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation",
+    "authors": "Shengjie Jin, Hengbo Xu, Zelong Sun, YuJie Guo, Zhiwu Lu",
+    "summary": "Iterative self-distillation enables LLM agents to learn from successive deployments, offering a path toward recursive self-improvement (RSI). Yet our experiments with existing methods reveal a collaps",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2609.39306",
+    "paper_url": "https://arxiv.org/abs/2609.39306",
+    "published_at": "2026-09-30",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "UniWAM: Unified World-Action Model",
+    "authors": "Jiayi Chen, Wenxuan Song, Jingbo Wang, Shuai Zhou, Xicheng Gong...",
+    "summary": "Vision-language-action models benefit from the understanding and reasoning capabilities of pretrained vision-language models, but action-only supervision provides limited grounding in world dynamics. ",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2610.02054",
+    "paper_url": "https://arxiv.org/abs/2610.02054",
+    "published_at": "2026-10-01",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position",
+    "authors": "Xiaoran Liu, Ziwei He, Xipeng Qiu",
+    "summary": "The architectural design of Large Language Models (LLMs) is shifting from traditional full-attention-only models to hybrid models, which combine different attention modules to improve long-context eff",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2610.10114",
+    "paper_url": "https://arxiv.org/abs/2610.10114",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective",
+    "authors": "Han Cui, Jianhao Yan, Yun Luo, Hongbo Zhang, Zhizhang Fu...",
+    "summary": "On-policy distillation (OPD) has become an important approach to language model post-training. However, despite its performance gains, OPD can also collapse into excessively long and repetitive genera",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.03185",
+    "paper_url": "https://arxiv.org/abs/2610.03185",
+    "published_at": "2026-10-02",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments",
+    "authors": "Zhiqin Yang, Chenxin Li, Xiaomeng Hu, Yibin Liu, Weidong Huang...",
+    "summary": "General-purpose agents increasingly write code, use tools, and complete complex digital tasks, raising the question of how far these capabilities carry into the physical world. To investigate this, we",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.10409",
+    "paper_url": "https://arxiv.org/abs/2610.10409",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "SWE-Game: Can Coding Agents Build the Games We Want?",
+    "authors": "Xiaoyu Chen, Lai Wei, Jin Wang, Xiangyu Zou, Ruochen Fan...",
+    "summary": "We introduce SWE-Game, a benchmark of 247 tasks grounded in 41 executable reference Godot games spanning 13 gameplay categories in 2D and 3D. Five task types cover development from a brief, implementa",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2609.33678",
+    "paper_url": "https://arxiv.org/abs/2609.33678",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Recurrent Looped Transformer",
+    "authors": "Yifan Zhang, Jichen Feng, Shihan Qin",
+    "summary": "State tracking requires an update at every input, but the depth a Transformer applies to each token is fixed regardless of sequence length. We introduce the Recurrent Looped Transformer (RLT), which s",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2610.07591",
+    "paper_url": "https://arxiv.org/abs/2610.07591",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "VIEScore2: Unified Image Evaluation with Spatially Grounded Explanations",
+    "authors": "Xianda Du, Max Ku, Weiming Ren, Zhi Rui Tam, Chunlin Ren...",
+    "summary": "Existing synthetic image evaluators typically provide only a scalar quality score and do not identify the image regions that support it. We introduce VIEScore2, a unified evaluator for image generatio",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.00994",
+    "paper_url": "https://arxiv.org/abs/2610.00994",
+    "published_at": "2026-10-01",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "On KL-Regularized Policy Optimization",
+    "authors": "Yifan Zhang",
+    "summary": "Asynchronous reinforcement learning (RL) for large language model (LLM) agents trains one policy on trajectories generated by another: rollouts come from stale checkpoints, and the inference engine's ",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.08963",
+    "paper_url": "https://arxiv.org/abs/2610.08963",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
+    "authors": "Qiutong Chen, Yuchan Guo, Zhenlong Yuan, Haobo Yang, Fangfang Lin...",
+    "summary": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable potential in video understanding, yet their reliance on retrospective summarization and text-centric priors often limits their abi",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.06293",
+    "paper_url": "https://arxiv.org/abs/2610.06293",
+    "published_at": "2026-10-05",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation",
+    "authors": "Zhifei Yang, Zhao Jiang, Keyang Lu, Honghe Zhu, Zheng Zhang...",
+    "summary": "Product-centric advertisement video generation aims to create promotional videos that preserve fine-grained product identity while presenting selling points through coherent multi-shot narratives. How",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.10047",
+    "paper_url": "https://arxiv.org/abs/2610.10047",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Agentic RAG Evaluation: Budget Allocation Across Questions, Trajectories, and Reads",
+    "authors": "Jingjie Ning, Xueqi Li, Yibo Kong",
+    "summary": "Evaluation budgets in agentic retrieval-augmented generation span questions, search trajectories, and repeated answers. We measure allocation precision, reading efficiency, and cost boundaries using a",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.05034",
+    "paper_url": "https://arxiv.org/abs/2610.05034",
+    "published_at": "2026-10-04",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Inverting Multi-Vector Visual Document Indices",
+    "authors": "Zhuchenyang Liu, Yao Zhang, Yu Xiao",
+    "summary": "Prevailing multi-vector visual document retrievers store each page as about a thousand patch vectors, often in vector databases run by a third party. Since no one can read a page from its vectors, thi",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.09920",
+    "paper_url": "https://arxiv.org/abs/2610.09920",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting",
+    "authors": "Xiaobiao Du, Beixi Hao, Zhen Fang, Tianqing Zhu, Richard Hartley...",
+    "summary": "Recent advances in 3D Gaussian Splatting (3DGS) have achieved remarkable performance in novel view synthesis, yet deploying both static and dynamic Gaussian representations on resource-constrained mob",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.05289",
+    "paper_url": "https://arxiv.org/abs/2610.05289",
+    "published_at": "2026-10-04",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation",
+    "authors": "Deyuan Liu, Yihao Hu, Jingxuan Zhang, Xingying Li, Jun Xie...",
+    "summary": "Dense visual text requires image generators to reproduce long strings across multiple regions with correct placement and legibility. As short-string rendering improves, evaluation must test sustained ",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.09823",
+    "paper_url": "https://arxiv.org/abs/2610.09823",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Minimal Witness Reinforcement Learning",
+    "authors": "T. Y. Tsui, Zihao Ye, Pengxiang Cai, Yanchao Li, Yuqiang Li...",
+    "summary": "``What are the irreducible conditions that are sufficient to produce an outcome?'' is one of the most common questions that recur across computation and science. Its answers, the minimal sufficient wi",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.07226",
+    "paper_url": "https://arxiv.org/abs/2610.07226",
+    "published_at": "2026-10-05",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites",
+    "authors": "Jiangang Han",
+    "summary": "We present WebFovea, a vision-based web agent that placed 2nd in the WebRetriever Challenge 2026 with a final score of 57.0 out of 100. The challenge evaluates agents end to end on Protocol III of the",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.03036",
+    "paper_url": "https://arxiv.org/abs/2610.03036",
+    "published_at": "2026-10-07",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "On-Policy Distillation with Negative-Policy Rollouts",
+    "authors": "Jaehui Hwang, Dongyoon Han, Sangdoo Yun, Byeongho Heo",
+    "summary": "On-policy distillation (OPD) has been widely studied as a post-training method in which a student model obtains token-level supervision from a stronger teacher on its own rollouts. Recent studies have",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.07874",
+    "paper_url": "https://arxiv.org/abs/2610.07874",
+    "published_at": "2026-10-06",
+    "date": "2026-10-08"
+  }
+]
