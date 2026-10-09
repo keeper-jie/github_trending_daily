@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+    "authors": "Jusuk Lee, Sungha Kim, Yeonsoo Park, Jonguk Cheon, Yoonkyo Jung...",
+    "summary": "While learning dexterous manipulation from a single human video offers a promising alternative to costly robot demonstrations, many recent methods predominantly imitate demonstrated motions. Such stri",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12470v1",
+    "abs_url": "https://arxiv.org/abs/2610.12470v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+    "authors": "Ritesh Thawkar, Shubham Patle, Shravan Venkatraman, Rao Muhammad Anwer",
+    "summary": "Instruction-guided image editors have become highly capable, yet improving them further still depends on human-edited training pairs or external reward models. Such supervision is costly to obtain and",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12469v1",
+    "abs_url": "https://arxiv.org/abs/2610.12469v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "authors": "Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun...",
+    "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12468v1",
+    "abs_url": "https://arxiv.org/abs/2610.12468v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "CSF: Contextual Safety Filtering for Motion Generators",
+    "authors": "Lizhi Yang, Yiling Hou, Yao Tang, Junheng Li, Daniel Weng...",
+    "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12467v1",
+    "abs_url": "https://arxiv.org/abs/2610.12467v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+    "authors": "Drew T. Nguyen, William Fithian",
+    "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and",
+    "categories": "cs.AI",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12466v1",
+    "abs_url": "https://arxiv.org/abs/2610.12466v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+    "authors": "Octi Zhang, Mateo Guaman Castro, Patrick Yin, Ignacio Dagnino, Abhishek Gupta...",
+    "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12465v1",
+    "abs_url": "https://arxiv.org/abs/2610.12465v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+    "authors": "Abbas Raftari",
+    "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i",
+    "categories": "cs.CR, cs.AI",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12463v1",
+    "abs_url": "https://arxiv.org/abs/2610.12463v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+    "authors": "Jiahua Dong, Anurag Bagchi, Yash Jangir, Muhammad Zubair Irshad, Sergey Zakharov...",
+    "summary": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 h",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12464v1",
+    "abs_url": "https://arxiv.org/abs/2610.12464v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "authors": "You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li, Kaipeng Zhang, Zhixiang Wang...",
+    "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12461v1",
+    "abs_url": "https://arxiv.org/abs/2610.12461v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "authors": "Ankan Deria, Komal Kumar, Hisham Cholakkal, Fahad Shahbaz Khan, Salman Khan",
+    "summary": "Video generators and video-based world models can synthesize plausible visual trajectories, but long-horizon procedural tasks require generation to adapt to what has actually been produced. A model mu",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12459v1",
+    "abs_url": "https://arxiv.org/abs/2610.12459v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+    "authors": "Zhongyu Yang, Jiale Tao, Ruitao Chen, Zuhao Yang, Yingfang Yuan...",
+    "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12458v1",
+    "abs_url": "https://arxiv.org/abs/2610.12458v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Hybrid Cinematography: Previsualizing and Managing Hallucination Risk in Generative Video Reshooting",
+    "authors": "Nhan, Tran, Neal Wadhwa, Abe Davis, Stefan Stojanov",
+    "summary": "On a film set, the camera move is committed during a take. Generative video reshooting lets filmmakers change it afterward, but may require hallucinating unrecorded content, a gap sometimes discovered",
+    "categories": "cs.HC, cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12455v1",
+    "abs_url": "https://arxiv.org/abs/2610.12455v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "BrickBench: Evaluating Agentic Brick Design",
+    "authors": "Peter Kulits, Yiqing Xu, R. Kenny Jones, Cordelia Schmid, Jiajun Wu",
+    "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but",
+    "categories": "cs.AI, cs.CV, cs.GR",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12452v1",
+    "abs_url": "https://arxiv.org/abs/2610.12452v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+    "authors": "Boyao Han, Chen Shi, Jingjing Qian, ZhuoTan Tian, Li Jiang",
+    "summary": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in ca",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12451v1",
+    "abs_url": "https://arxiv.org/abs/2610.12451v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+    "authors": "Adrian Bulat, Yassine Ouali, Georgios Tzimiropoulos",
+    "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12448v1",
+    "abs_url": "https://arxiv.org/abs/2610.12448v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "authors": "Anna Zimmel, Fleur Hendriks, Markus Holzleitner, Florian Sestak, Martin Weichselbaumer...",
+    "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing",
+    "categories": "cs.LG, cs.AI, cs.CE, physics.comp-ph",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12449v1",
+    "abs_url": "https://arxiv.org/abs/2610.12449v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+    "authors": "Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba, Adam Gleave, Chris Cundy",
+    "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12445v1",
+    "abs_url": "https://arxiv.org/abs/2610.12445v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+    "authors": "Hanyang Li, Shao Tang, Daniel Thomas Braithwaite, Gregory Dexter, Leonardo Neves...",
+    "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st",
+    "categories": "cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12444v1",
+    "abs_url": "https://arxiv.org/abs/2610.12444v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+    "authors": "Suhwan Cho, Yonwoo Choi, Soongjin Kim, Jicheol Park, Taegyu Lim",
+    "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Curr",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12442v1",
+    "abs_url": "https://arxiv.org/abs/2610.12442v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Density Ratio Estimation with Stein Displacement Fields",
+    "authors": "Song Liu",
+    "summary": "Density ratios quantify distribution shift from a probability-mass point of view, whereas displacement fields describe, from a dynamical point of view, how one distribution is transported onto another",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12437v1",
+    "abs_url": "https://arxiv.org/abs/2610.12437v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff",
+    "authors": "Erin Crawley, Hidenori Tanaka",
+    "summary": "AI agents can now conduct real-world cyberattacks, scale up capabilities with the number of agents, and collectively pursue misaligned goals to obtain rewards. Together, these factors raise the risk o",
+    "categories": "cs.AI, cond-mat.dis-nn, cs.MA, physics.bio-ph",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12436v1",
+    "abs_url": "https://arxiv.org/abs/2610.12436v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "VioLA: Learning Generalist Humanoid Control Policies from Human Data",
+    "authors": "Mert Albaba, Jens Beißwenger, Anna Manasyan, Daniel Marta, Michael J. Black...",
+    "summary": "Teaching a humanoid to follow instructions with its whole body runs into two obstacles. Its action space is large and tightly coupled: legs, arms, and fingers must move together while the robot keeps ",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12435v1",
+    "abs_url": "https://arxiv.org/abs/2610.12435v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "FAITH: Feasibility-Aware Safety-Filtered RL for High-Dimensional Systems",
+    "authors": "Songyuan Zhang, Baljeet Singh, Sarthak Ranjeet Kaingade, Chuchu Fan, Bryan Trinh",
+    "summary": "Safe reinforcement learning commonly places safety and task performance in the same policy objective, where they can introduce competing updates. Safety filters separate them at action execution, but ",
+    "categories": "cs.RO, cs.LG, eess.SY",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12432v1",
+    "abs_url": "https://arxiv.org/abs/2610.12432v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Toward Joint Optimization of Circuit Depth and Training Data Size in Adaptively Grown Quantum Classifiers",
+    "authors": "Saeefa Rubaiyet Nowmi, Md Mahmuduzzaman Kamol, Mohammad Saidur Rahman",
+    "summary": "Building a quantum model involves a tradeoff: how complex the circuit should be, and how much training data it needs. Caro et al. show that models with fewer trainable gates need less training data to",
+    "categories": "quant-ph, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12428v1",
+    "abs_url": "https://arxiv.org/abs/2610.12428v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams?",
+    "authors": "Yuxuan Hu, Weikang Shi, Yang Bo, Xudong Lu, Xintong Guo...",
+    "summary": "Streaming Video Large Language Models (VLMs) enable continuous video understanding, yet existing benchmarks focus on low-dynamic scenarios. Under bounded context budgets, models must balance temporal ",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12427v1",
+    "abs_url": "https://arxiv.org/abs/2610.12427v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "RoboRSI: Stable, efficient, and reusable robot self-evolution in complex real-world environments",
+    "authors": "Zimo Wen, Yijin Chen, Yuxuan Cao, Wendi Chen, Yanwen Zou...",
+    "summary": "A generalist robot should not only perform diverse tasks but also improve through experience, turning what it learns during execution into capabilities that later tasks can reuse. Robot agents that ac",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12424v1",
+    "abs_url": "https://arxiv.org/abs/2610.12424v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Pumpire: Unified Benchmark for Metric Distance Estimation",
+    "authors": "Siyu Chen, Zehan Wang, Jiayang Xu, Yihan Wu, Jialei Wang...",
+    "summary": "We present Pumpire, a unified benchmark for evaluating metric point-pair distance estimation capability of both image- and video-level 3D foundation models, with or without depth priors. In contrast t",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12423v1",
+    "abs_url": "https://arxiv.org/abs/2610.12423v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching",
+    "authors": "Luping Liu, Bingyi Kang, Yifan Wang, Dong Xu",
+    "summary": "Dense correspondence matching has historically been bounded by simplifying spatio-temporal priors, such as smooth motion and rigid geometry. While effective for classical tasks, these assumptions brea",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12421v1",
+    "abs_url": "https://arxiv.org/abs/2610.12421v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "A Unified Bellman Operator for Safety-Critical Reinforcement Learning",
+    "authors": "Nishanth Arun Rao, Royina Karegoudra Jayanth, Benjamin Eysenbach, Jaime Fernández Fisac",
+    "summary": "Reinforcement learning in safety-critical domains requires maximizing task performance while strictly adhering to safety constraints. Existing safe reinforcement learning paradigms typically force a t",
+    "categories": "cs.LG",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12420v1",
+    "abs_url": "https://arxiv.org/abs/2610.12420v1",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "authors": "Hongyu Li, Manyuan Zhang, Kaituo Feng, Shu Chen, Dian Zheng...",
+    "summary": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserv",
+    "categories": "cs.CV",
+    "published": "2026-10-08",
+    "pdf_url": "https://arxiv.org/pdf/2610.12419v1",
+    "abs_url": "https://arxiv.org/abs/2610.12419v1",
+    "date": "2026-10-09"
+  }
+]

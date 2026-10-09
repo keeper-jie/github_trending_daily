@@ -1,0 +1,302 @@
+[
+  {
+    "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
+    "authors": "Quanyu Long, Xiao Chen, Jianda Chen, Haozhen Zhang, Qisheng Hu...",
+    "summary": "Realistic environment replicas are increasingly valuable for training and evaluating LLM agents, yet the original systems may be inaccessible or impractical to reproduce. We explore agentic language w",
+    "upvotes": 70,
+    "url": "https://huggingface.co/papers/2610.06100",
+    "paper_url": "https://arxiv.org/abs/2610.06100",
+    "published_at": "2026-10-05",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+    "authors": "Tianyu Fu, Tengxuan Liu, Ruoxi Wang, Yixin Dong, Yi Ge...",
+    "summary": "Large language model (LLM) routing distributes inference work across different models, advancing the cost-quality Pareto frontier of LLM serving. While coarse-grained routing at the session or query l",
+    "upvotes": 55,
+    "url": "https://huggingface.co/papers/2610.12242",
+    "paper_url": "https://arxiv.org/abs/2610.12242",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+    "authors": "Yibo Li, Jinhang Qiu, Zhi Zheng, Qianyun Guo, Jiaying Wu...",
+    "summary": "Learning from experience is essential for LLM agents to adapt to unfamiliar and dynmaic environments. Evaluating this ability is therefore important for understanding how effectively agents acquire an",
+    "upvotes": 54,
+    "url": "https://huggingface.co/papers/2610.08215",
+    "paper_url": "https://arxiv.org/abs/2610.08215",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+    "authors": "Jinkai Zhang, Jingyi Xu, Yuanhong Yu, Jiarui Guo, Ruizhen Hu...",
+    "summary": "General-purpose service robots need navigation systems that can handle diverse human requests in unfamiliar environments, combining task generality with scene generality. Some existing methods fine-tu",
+    "upvotes": 52,
+    "url": "https://huggingface.co/papers/2610.12126",
+    "paper_url": "https://arxiv.org/abs/2610.12126",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "AgentGarten: Code Worlds for Evolving Agents",
+    "authors": "Jiawei Chi, Shangchen Miao, Zhiyuan Shi, Kailu Wu, Hanyang Wang...",
+    "summary": "Interactive virtual worlds allow agents to learn through exploration and interaction. What agents can learn is bounded by the environments they practice in, which must be faithful, with consistent sta",
+    "upvotes": 50,
+    "url": "https://huggingface.co/papers/2610.12374",
+    "paper_url": "https://arxiv.org/abs/2610.12374",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "authors": "Core Team, Zongming Qiao, Ziyue Hua, Zirui Ou, Zihao Yue...",
+    "summary": "Reinforcement learning (RL) is the central training paradigm for advancing large foundation models towards self-improvement. This report introduces the MiMo-V2.6 series, an omni-modal family that push",
+    "upvotes": 35,
+    "url": "https://huggingface.co/papers/2610.11959",
+    "paper_url": "https://arxiv.org/abs/2610.11959",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks",
+    "authors": "Minxing Li, Minghao Han, Weizhi Zhao, Hanwen Wang, Xiangshuo Liu...",
+    "summary": "We study robotic in-context learning (ICL), an emerging paradigm that enables robots to infer and execute tasks from visual demonstrations. Despite its growing promise, the problem itself remains unde",
+    "upvotes": 33,
+    "url": "https://huggingface.co/papers/2609.38173",
+    "paper_url": "https://arxiv.org/abs/2609.38173",
+    "published_at": "2026-09-29",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "authors": "Dahyun Chung, Siyoon Jin, Hyunwook Choi, Honggyu An, Junyoung Seo...",
+    "summary": "Egocentric world models predict first-person observations conditioned on an agent's actions, but most focus on a single agent. Real embodied settings often involve multiple agents that act and interac",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2610.12299",
+    "paper_url": "https://arxiv.org/abs/2610.12299",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "authors": "Junyan Li, Ruizhi Li, Yu Liu, Xiangshuo Liu, Mingchao Sun...",
+    "summary": "We present DreamTrue, a multi-view, cross-embodiment robot world model for action-faithful and physically plausible video prediction. Training such a model on existing robot datasets faces two obstacl",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2610.12468",
+    "paper_url": "https://arxiv.org/abs/2610.12468",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "authors": "You-Zhe Xie, Ting-Wei Chou, Yu-Hsuan Li, Kaipeng Zhang, Zhixiang Wang...",
+    "summary": "Recent 3D world models generate photorealistic, explorable scenes that remain frozen in time. OuroWorld is a mask-free framework that turns any static 3D Gaussian Splatting scene into a 3D cinemagraph",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2610.12461",
+    "paper_url": "https://arxiv.org/abs/2610.12461",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers",
+    "authors": "Jiarui Chen, Zeqiang Lai, Jiangshan Wang, Ziheng Ouyang, Ye Huang...",
+    "summary": "Sparse attention is a primary approach to reducing the latency of diffusion transformers in long-sequence generation tasks, such as video and high-resolution 3D asset generation. However, existing met",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2610.06801",
+    "paper_url": "https://arxiv.org/abs/2610.06801",
+    "published_at": "2026-10-05",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SparseDecoding: Decoding-Aware Pruning for Accurate and Efficient LLM Inference",
+    "authors": "Qitong Wang, Xinwei Niu, Mingluo Su, Shanwei Zhao, Shiai Zhu...",
+    "summary": "The memory-bound nature of the decoding stage of large language model (LLM) inference incurs significant latency. Layer-wise training-free network pruning approaches guided by the Hessian have been a ",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.12327",
+    "paper_url": "https://arxiv.org/abs/2610.12327",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards",
+    "authors": "Yuanhao Ban, I-Hung Hsu, Anastasios Angelopoulos, Wei-Lin Chiang, Ion Stoica...",
+    "summary": "Recent text-to-image generation models have achieved remarkable visual quality, but improving them through post-training remains challenging because no single reward signal captures the full range of ",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2610.02967",
+    "paper_url": "https://arxiv.org/abs/2610.02967",
+    "published_at": "2026-10-02",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+    "authors": "Han Li, Lingxiang Hu, Jiacheng Huang, Ziqian Jiang, Jingkai Luo...",
+    "summary": "Large language model (LLM) coding agents have advanced test generation across diverse programming tasks. However, the common practice of evaluating tests against a single reference solution overlooks ",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.12289",
+    "paper_url": "https://arxiv.org/abs/2610.12289",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation",
+    "authors": "Suhwan Cho, Yonwoo Choi, Soongjin Kim, Jicheol Park, Taegyu Lim",
+    "summary": "Generating an egocentric video from a single exocentric recording is a challenging case of novel view synthesis, as the two cameras share little overlap and much of the target view is unobserved. Curr",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.12442",
+    "paper_url": "https://arxiv.org/abs/2610.12442",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents",
+    "authors": "Zhongxiang Sun, Jiahao Yan, Hongkang Zhao, Haojie Ding, Boheng Zhang...",
+    "summary": "As agents take on long-horizon tasks, users shift from making individual decisions to overseeing autonomous execution. Yet the volume of agent activity and the fragmentation of supporting evidence mak",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.06406",
+    "paper_url": "https://arxiv.org/abs/2610.06406",
+    "published_at": "2026-10-05",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation",
+    "authors": "Chuanrui Zhang, Zaijia Yang, Duomin Wang, Lu Shi, Daquan Zhou...",
+    "summary": "Geometrically faithful and functional articulated 3D assets are essential for real-to-sim robot manipulation, where policies trained in simulation must transfer to physical objects. Recent mesh-based ",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.11322",
+    "paper_url": "https://arxiv.org/abs/2610.11322",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "authors": "Hongyu Li, Manyuan Zhang, Kaituo Feng, Shu Chen, Dian Zheng...",
+    "summary": "Single-image, multi-image, and video deep research require different visual operations but share a workflow of visual grounding, external retrieval, and fact composition. A key challenge is to preserv",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.12419",
+    "paper_url": "https://arxiv.org/abs/2610.12419",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "VibeEdit: Image Editing with Canvas Instructions",
+    "authors": "Jinjing Zhao, Fangyun Wei, Yitong Wang, Xiuyu Wu, Yunuo Chen...",
+    "summary": "In text-guided image editing, describing the desired change is often straightforward, but identifying the intended object or region can be cumbersome, especially when several objects look alike. We in",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.12229",
+    "paper_url": "https://arxiv.org/abs/2610.12229",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+    "authors": "Zhongyu Yang, Jiale Tao, Ruitao Chen, Zuhao Yang, Yingfang Yuan...",
+    "summary": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual capt",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.12458",
+    "paper_url": "https://arxiv.org/abs/2610.12458",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills",
+    "authors": "Hongxing Li, Dingming Li, Yixin Li, Yong Du, Wenqi Zhang...",
+    "summary": "Skill-augmented agents improve sample efficiency by distilling successful trajectories into reusable strategies. Yet most existing approaches remain text-centric, linearizing spatial layouts and actio",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.12403",
+    "paper_url": "https://arxiv.org/abs/2610.12403",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "ReSPO: Reshaped Sequence Policy Optimization for Gradient Starvation in Off-Policy Learning",
+    "authors": "Yihang Chen, Yuanhao Ban, Cho-Jui Hsieh",
+    "summary": "Reinforcement learning from verifiable rewards (RLVR) frequently reuses rollouts across multiple policy updates, increasing the mismatch between the current policy and the data-generating policy. We i",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.35433",
+    "paper_url": "https://arxiv.org/abs/2609.35433",
+    "published_at": "2026-09-28",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SparseEngine: Sparse-First Inference Engine",
+    "authors": "Jitai Hao, Quansheng Gu, Qiang Huang, Jun Yu",
+    "summary": "Long-context LLM agents accumulate interaction histories that strain KV-cache memory and attention computation. Although sparse attention reduces these costs, heterogeneous cache representations and w",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2609.39068",
+    "paper_url": "https://arxiv.org/abs/2609.39068",
+    "published_at": "2026-09-30",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "V-CoLA: Vision Token Compression with Linear Attention",
+    "authors": "Hao Jiang, Yiru Mao, Tianpeng Bu, Hao Zhou, Hongtao Duan...",
+    "summary": "Vision-language models (VLMs) have demonstrated impressive capabilities but suffer from substantial computational overhead, as vision tokens dominate the input sequence. This motivates vision token co",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.11251",
+    "paper_url": "https://arxiv.org/abs/2610.11251",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Do LLMs Understand Sequential Structure? A Controlled Study of Inference and Generation",
+    "authors": "Jerry Wang, Zhengxiang Wang, Ting Yu Liu, Hsin-Ling Hsu, Yi-Cheng Lai...",
+    "summary": "Large language models (LLMs) are increasingly used as interactive agents and simulators, yet it remains unclear whether they can recover latent sequential structure beyond surface action frequencies. ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.04977",
+    "paper_url": "https://arxiv.org/abs/2610.04977",
+    "published_at": "2026-10-04",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
+    "authors": "Hongxing Li, Jinyue Su, Dingming Li, Wenqi Zhang, Weiming Lu...",
+    "summary": "Existing spatial reasoning benchmarks mainly test spatial perception: reading off relations already visible in the input. Yet real-world spatial intelligence demands predictive spatial reasoning: cons",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.12402",
+    "paper_url": "https://arxiv.org/abs/2610.12402",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SpatialOPSD: Self-Distilling Spatial Intelligence from Verified Coding Agent Traces",
+    "authors": "Rongxue Li, Meng Yang, Yiru Mao, Yongliang Tao, Lulu Hu...",
+    "summary": "Spatial coding agents significantly improve spatial reasoning in Multimodal Large Language Models (MLLMs) by using external tools to generate verified execution traces. However, this paradigm inherent",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.11366",
+    "paper_url": "https://arxiv.org/abs/2610.11366",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "From Prompting to Composing: A Spatial Canvas Interface for Poster Generation",
+    "authors": "Yitong Wang, Fangyun Wei, Jinjing Zhao, Sirui Zhang, Hongyang Zhang...",
+    "summary": "Text prompting is an indirect interface for poster generation, requiring users to encode inherently two-dimensional composition intent into a one-dimensional sequence of words. We introduce a Spatial ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.12230",
+    "paper_url": "https://arxiv.org/abs/2610.12230",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "SanSi: A Looped Typed Decision Model for System 1.5 Thinking",
+    "authors": "Shuyu Gan, Young-Jun Lee, Dongyeop Kang",
+    "summary": "Typed decision models answer a declared question without generating text: a decision head returns a probability for each of the declared options in a single forward pass. A single pass is fast, intuit",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.07730",
+    "paper_url": "https://arxiv.org/abs/2610.07730",
+    "published_at": "2026-10-06",
+    "date": "2026-10-09"
+  },
+  {
+    "title": "Chaos in the Text: Revealing the Modality Preference in Mixed-Modality Retrievers",
+    "authors": "Yubo Sun, Chunyi Peng, Yukun Yan, Zhenghao Liu, Zhipeng Xu...",
+    "summary": "Dense retrievers have made significant progress on text and image corpora, but whether these capabilities extend reliably to mixed corpora containing text, image, and fused text-image documents remain",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.11816",
+    "paper_url": "https://arxiv.org/abs/2610.11816",
+    "published_at": "2026-10-08",
+    "date": "2026-10-09"
+  }
+]
