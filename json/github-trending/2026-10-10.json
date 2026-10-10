@@ -1,0 +1,112 @@
+[
+  {
+    "repo": "morluto/rea",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "stars": 53824,
+    "forks": 10147,
+    "today_stars": 14927,
+    "url": "https://github.com/morluto/rea",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "boykopovar/AnyPS5",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "stars": 23300,
+    "forks": 1923,
+    "today_stars": 5868,
+    "url": "https://github.com/boykopovar/AnyPS5",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 283180,
+    "forks": 23723,
+    "today_stars": 1687,
+    "url": "https://github.com/mattpocock/skills",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "cathrynlavery/diagram-design",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "stars": 48194,
+    "forks": 3050,
+    "today_stars": 1739,
+    "url": "https://github.com/cathrynlavery/diagram-design",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "alibaba/open-code-review",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "stars": 45505,
+    "forks": 3284,
+    "today_stars": 326,
+    "url": "https://github.com/alibaba/open-code-review",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 28425,
+    "forks": 3255,
+    "today_stars": 709,
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "BerriAI/litellm",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "language": "Python",
+    "stars": 60786,
+    "forks": 12201,
+    "today_stars": 95,
+    "url": "https://github.com/BerriAI/litellm",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 104178,
+    "forks": 10873,
+    "today_stars": 436,
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "storytold/artcraft",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "stars": 12188,
+    "forks": 1857,
+    "today_stars": 3752,
+    "url": "https://github.com/storytold/artcraft",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "Robbyant/lingbot-map",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "language": "Python",
+    "stars": 17805,
+    "forks": 1957,
+    "today_stars": 110,
+    "url": "https://github.com/Robbyant/lingbot-map",
+    "date": "2026-10-10"
+  },
+  {
+    "repo": "twostraws/SwiftUI-Agent-Skill",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "",
+    "stars": 5574,
+    "forks": 197,
+    "today_stars": 65,
+    "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+    "date": "2026-10-10"
+  }
+]
