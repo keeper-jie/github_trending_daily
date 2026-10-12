@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Can Language Models Play the Wikipedia Game?",
+    "authors": "Alexander Hickey, Joanna Knight, James Bishop",
+    "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled",
+    "categories": "cs.AI, cs.IR",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13948v1",
+    "abs_url": "https://arxiv.org/abs/2610.13948v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+    "authors": "Xudong Cai, Ruijie Zhu, Haoliang Shang, Ruining Li, Marc Pollefeys...",
+    "summary": "In this paper, we study physically grounded articulated 3D asset generation---moving the goal from reproducing how objects look to capturing how they move and function. Inspired by the literature on p",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13947v1",
+    "abs_url": "https://arxiv.org/abs/2610.13947v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+    "authors": "Xiaomeng Ye, Krishna Jaganathan, Gyubeum Lim, Gunjan Chhablani, Muhammad Zubair Irshad...",
+    "summary": "A user who brings a generalist manipulation policy into their home or office wants it to pick up their objects from their shelves, counters, and tables. Yet even a strong generalist like $π_{0.5}$ ach",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13945v1",
+    "abs_url": "https://arxiv.org/abs/2610.13945v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+    "authors": "Xuanlang Dai, Jiazi Bu, Yujie Zhou, Yuhong Liu, Beichen Zhang...",
+    "summary": "Diffusion/flow models have emerged as the de facto paradigms for image generation, giving rise to a diverse family of modern generators with increasingly heterogeneous architectures and representation",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13944v1",
+    "abs_url": "https://arxiv.org/abs/2610.13944v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+    "authors": "Yucheng Yang, Xiaoxiao Sun, Shusheng Yang, Jiakang Chen, Serena Yeung-Levy",
+    "summary": "Multimodal diffusion transformers (MMDiTs) allow the evolving image to update internal text representations through joint attention. These representations then guide subsequent image updates, raising ",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13941v1",
+    "abs_url": "https://arxiv.org/abs/2610.13941v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+    "authors": "Bhanu Tokas, Rahul Nair, Rockwell Jackson, Hannah Kerner",
+    "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts",
+    "categories": "cs.CV, cs.AI, cs.LG",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13935v1",
+    "abs_url": "https://arxiv.org/abs/2610.13935v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+    "authors": "Kosio Beshkov",
+    "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand",
+    "categories": "math.AT, cs.LG",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13931v1",
+    "abs_url": "https://arxiv.org/abs/2610.13931v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Chronos Policy: Learning Robot Policies on Physical Time",
+    "authors": "Changhao Wang, Jaden Clark, Shuran Song",
+    "summary": "Robot policies often convert sensing and control into fixed-rate observation-action sequences, leaving physical time implicit in sequence position. This assumption breaks when observation rates or del",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13929v1",
+    "abs_url": "https://arxiv.org/abs/2610.13929v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+    "authors": "Andis Draguns, Sumeet Ramesh Motwani, Raymond Douglas, Christian Schroeder de Witt",
+    "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe",
+    "categories": "cs.LG, cs.CR",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13928v1",
+    "abs_url": "https://arxiv.org/abs/2610.13928v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Can machines reason non-verbally?",
+    "authors": "Shaheer U. Saeed, Zion Tse, Gregory Slabaugh, Daniel C. Alexander, Yipeng Hu",
+    "summary": "Modern machines can solve equations, follow logic and reason through language, yet they still struggle with problems that require visual non-verbal reasoning. This is evident even in advanced systems ",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13925v1",
+    "abs_url": "https://arxiv.org/abs/2610.13925v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+    "authors": "Tianyi Wu",
+    "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averag",
+    "categories": "cs.LG, cs.IT",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13924v1",
+    "abs_url": "https://arxiv.org/abs/2610.13924v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Goal-Oriented Bundle Management and Flow Control for Deep-Space Communications via Reinforcement Learning",
+    "authors": "Sajjad Baghaeea, Aimin Lib, Shanmugarajan Balasubramanian, Elif Uysal",
+    "summary": "Deep-space communications operate under intermittent connectivity, long propagation delays, and relay storage constraints. In such networks, the Bundle Protocol enables store-carry-forward communicati",
+    "categories": "cs.NI, cs.LG, eess.SY",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13923v1",
+    "abs_url": "https://arxiv.org/abs/2610.13923v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "DyssomniaNN: Multi-Scale Spiking Neural Modeling of Human Sleep Disorders and Perceived Restedness",
+    "authors": "Daniel Szelogowski",
+    "summary": "Clinical sleep medicine repeatedly documents profound divergences between objective sleep duration and subjective daytime impairment, notably exemplified by sleep state misperception in paradoxical in",
+    "categories": "cs.NE, cs.ET, cs.LG, q-bio.NC",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13918v1",
+    "abs_url": "https://arxiv.org/abs/2610.13918v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Designing Protein Structures from Natural Language",
+    "authors": "Joseph Lee, Yanjing Li, Bo Qiang, Gregory Lau, Allyson Ettinger...",
+    "summary": "A central challenge in de novo protein design is generating proteins with desired structural and functional properties. Existing design models typically require a dedicated input representation for ea",
+    "categories": "cs.LG, q-bio.BM",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13917v1",
+    "abs_url": "https://arxiv.org/abs/2610.13917v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
+    "authors": "Junkai Liu, Le Zhang",
+    "summary": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However, random cropping implicitly treats all spatial regions as equally worth observin",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13915v1",
+    "abs_url": "https://arxiv.org/abs/2610.13915v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+    "authors": "Taoyong Cui, Pinxian Zeng, Wanghan Xu, Hao Xiao, Shuhan Xue...",
+    "summary": "Recursive self-improvement (RSI) aims to transform interaction experience into persistent improvements, yet external feedback is costly and world-model predictions may become unreliable as policies ev",
+    "categories": "cs.CL",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13912v1",
+    "abs_url": "https://arxiv.org/abs/2610.13912v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "When VLMs Destroy What They Know: Spatial Representations Fall Below Lexical Priors",
+    "authors": "Shubh Garg, Chen Shani",
+    "summary": "Vision-Language Models (VLMs) increasingly analyze and reason about images, yet it remains unclear whether their internal representations faithfully encode the structured relations required for such r",
+    "categories": "cs.CL",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13910v1",
+    "abs_url": "https://arxiv.org/abs/2610.13910v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Revisiting Tabular Deep Regression: Objectives and the Limits of Global Early Stopping",
+    "authors": "Danil Rudenko, Georgii Bulgakov, Nikolay Kartashev, Ivan Rubachev, Daniil Krasylnikov...",
+    "summary": "While deep learning models for tabular data have recently received significant research attention, the choice of objective functions for regression tasks remains an understudied degree of freedom. Sev",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13909v1",
+    "abs_url": "https://arxiv.org/abs/2610.13909v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Hitting-Time Bounds for Asynchronous Q-Learning",
+    "authors": "Yang Peng",
+    "summary": "We study the last iterate of standard asynchronous Q-learning from a single trajectory of a finite Markov decision process. The trajectory follows a fixed behavior policy whose state--action chain is ",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13901v1",
+    "abs_url": "https://arxiv.org/abs/2610.13901v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Structural Automata for Neural Semantic Parsing",
+    "authors": "Xiao Zhang",
+    "summary": "Neural semantic parsers generate meaning representations token by token, yet well-formedness depends on references, scope, and graph relations that unfold during generation. Constrained decoding preve",
+    "categories": "cs.CL",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13896v1",
+    "abs_url": "https://arxiv.org/abs/2610.13896v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Task Context Shapes Component Roles in Language Models",
+    "authors": "Sovesh Mohapatra, Dani S Bassett",
+    "summary": "Large language models reuse the same attention heads across tasks, but identifying these shared heads does not explain what they do differently in each task. A natural source of inspiration is task-de",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13895v1",
+    "abs_url": "https://arxiv.org/abs/2610.13895v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Beyond the Snowflakes: Disentangling Weather Effects from Confounding Meta-Factors in LiDAR Object Detection",
+    "authors": "Yiming Yang, Jeremy P. Bos",
+    "summary": "Light Detection and Ranging (LiDAR) is critical for autonomous perception, yet its performance is known to degrade in adverse weather. While existing literature models snow as atmospheric noise that d",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13891v1",
+    "abs_url": "https://arxiv.org/abs/2610.13891v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+    "authors": "Weiliang Chen, Song Liao",
+    "summary": "As AI agents increasingly rely on external tools, accurate retrieval is essential for reliable behavior. Existing methods optimize semantic relevance but largely ignore tool availability during execut",
+    "categories": "cs.AI, cs.IR",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13889v1",
+    "abs_url": "https://arxiv.org/abs/2610.13889v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+    "authors": "Yeonsung Jung, Zhiyuan Wang, Zifan Wang, Vítor Albiero, Benjamin Newman...",
+    "summary": "Personal agents increasingly connect to services across the web and applications by using tools. As the effects of their actions accumulate and interact across services, unintended or harmful outcomes",
+    "categories": "cs.AI",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13886v1",
+    "abs_url": "https://arxiv.org/abs/2610.13886v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Prediction Is Not a Sufficient Memory State",
+    "authors": "Robert Jenkinson Alvarez",
+    "summary": "A memory that reproduces every current prediction may still have forgotten how to learn from the next observation. We characterize this distinction for exact cumulative learning and attention. For smo",
+    "categories": "cs.LG",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13881v1",
+    "abs_url": "https://arxiv.org/abs/2610.13881v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Tracking the Invisible: Self-Supervised Wheel Track Detection with Thermal-RGB Fusion",
+    "authors": "Yiming Yang, Jeremy P. Bos",
+    "summary": "Accurate detection of drivable area is essential for autonomous driving and advanced driver assistance systems. While state-of-the-art methods focus on general traversability estimation, they prove in",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13872v1",
+    "abs_url": "https://arxiv.org/abs/2610.13872v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Partially Informed Stochastic Optimization via Zeroth-Order Residual Tracking",
+    "authors": "El Mahdi Chayti, Alireza Mirrokni, Martin Jaggi",
+    "summary": "Many optimization problems provide direct access to only part of the gradient, while the remaining component must be inferred from function evaluations. This structure arises in performative predictio",
+    "categories": "cs.LG",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13871v1",
+    "abs_url": "https://arxiv.org/abs/2610.13871v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Make It Flow: Animating Water in 3D Gaussian Splatting Scenes",
+    "authors": "Kjell Keune, Florian Hahlbohm, Jannis Möller, Susana Castillo, Martin Eisemann...",
+    "summary": "Explicit 3D scene representations such as 3D Gaussian Splatting (3DGS) have recently enabled high-quality, real-time novel view synthesis. However, these methods assume static scenes, limiting realism",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13860v1",
+    "abs_url": "https://arxiv.org/abs/2610.13860v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "LapMerge: Differentiable Exact-Budget Token Merging in Linear Time",
+    "authors": "Magdalena Trędowicz, Aleksandra Nowak, Tomasz Steifer, Łukasz Struski, Szymon Płotka...",
+    "summary": "Modern vision and language models process ever longer token sequences, and reducing them is the main lever on downstream cost. Token compression, however, faces a fundamental trade-off: selecting toke",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13858v1",
+    "abs_url": "https://arxiv.org/abs/2610.13858v1",
+    "date": "2026-10-12"
+  },
+  {
+    "title": "Revisiting the Task of Building Damage Assessment by Satellite Imaging",
+    "authors": "Anthony Cioppa, Virgile Blua, Sébastien Piérard, Pietro Ceccato, Marc Van Droogenbroeck",
+    "summary": "Natural disasters such as earthquakes, tropical storms, and floods cause extensive damage to buildings, and rapid, reliable damage maps are essential to guide emergency response. Automating this task,",
+    "categories": "cs.CV",
+    "published": "2026-10-09",
+    "pdf_url": "https://arxiv.org/pdf/2610.13857v1",
+    "abs_url": "https://arxiv.org/abs/2610.13857v1",
+    "date": "2026-10-12"
+  }
+]
