@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+    "authors": "Shun Zou, Ziyu Ma, Yi Zou, Yong Wang, Lin Chen...",
+    "summary": "Terminal agents are moving beyond local operations toward completing real-world professional tasks. Short trajectories can demonstrate commands and tool calls, but they do not fully show how agents ac",
+    "upvotes": 66,
+    "url": "https://huggingface.co/papers/2610.13166",
+    "paper_url": "https://arxiv.org/abs/2610.13166",
+    "published_at": "2026-10-09",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+    "authors": "Qize Yu, Lianrui Fan, Boyu Chen, Jiaqi Liang, Xini Ding...",
+    "summary": "Precise grounding matters. It specifies which object is the target and where that object is, even in clutter and for tiny objects, and it has to be fast enough for closed-loop control. Yet vision-lang",
+    "upvotes": 62,
+    "url": "https://huggingface.co/papers/2609.39601",
+    "paper_url": "https://arxiv.org/abs/2609.39601",
+    "published_at": "2026-09-30",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+    "authors": "Jiahao Wang, Hongjin Qian, Yuyang Hu, Jiajun Zhang, Zheng Liu",
+    "summary": "As the production of software passes into the hands of software itself, coding agents are increasingly commissioned to build agents fitted to their users' own workflows. This delegation carries a quie",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2610.13361",
+    "paper_url": "https://arxiv.org/abs/2610.13361",
+    "published_at": "2026-10-09",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "Multi-Stream Attention Residuals",
+    "authors": "Xiaohan Qin, Xiangdong Zhang, Tuo Dai, Sunan Zou, Huaijin Wu...",
+    "summary": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2610.13630",
+    "paper_url": "https://arxiv.org/abs/2610.13630",
+    "published_at": "2026-10-09",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
+    "authors": "Fuyao Zhang, Xuan Wang, Zherui Li, Jiaming Zhang, Longtao Huang...",
+    "summary": "Personal Graphical User Interface (GUI) agents rely on interaction history to infer what a user wants from ambiguous instructions and to anticipate recurring routines. Existing approaches retrieve tas",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2609.33304",
+    "paper_url": "https://arxiv.org/abs/2609.33304",
+    "published_at": "2026-09-27",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+    "authors": "Dianqiao Lei, Kevin Qinghong Lin, Pan Lu, Philip Torr, James Zou",
+    "summary": "Large Language Models (LLMs) increasingly ship with explicit \"thinking modes\", yet their counterpart, \"no-thinking\", has received far less attention. We study LLMs' no-thinking behavior along two axes",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2610.11765",
+    "paper_url": "https://arxiv.org/abs/2610.11765",
+    "published_at": "2026-10-08",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed",
+    "authors": "Qize Yu, Lianrui Fan, Bowen Ping, Xini Ding, Zetian Song...",
+    "summary": "Autoregressive (AR) grounding models serialize spatial predictions, introducing sequential latency and imposing a causal order on output tokens. We view grounding as visual evidence extraction: object",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2609.39600",
+    "paper_url": "https://arxiv.org/abs/2609.39600",
+    "published_at": "2026-09-30",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "SpatialASM: Internalizing Active Mentalization for Spatial Reasoning",
+    "authors": "Yuhong Liu, Shenxi Wu, Junyi Chi, Beichen Zhang, Xuanlang Dai...",
+    "summary": "When solving complex spatial reasoning tasks, ordinary humans naturally revisit the scenes from task-relevant viewpoints and mentally reconstruct the spatial layouts from those viewpoints. But can Lar",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.13832",
+    "paper_url": "https://arxiv.org/abs/2610.13832",
+    "published_at": "2026-10-09",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+    "authors": "Yunzhe Xu, Zhe Liu",
+    "summary": "Vision-and-Language Navigation (VLN) has largely focused on a single agent following a single instruction, yet many real-world applications require teams of robots to tackle tasks beyond the capabilit",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2609.35965",
+    "paper_url": "https://arxiv.org/abs/2609.35965",
+    "published_at": "2026-10-07",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images",
+    "authors": "Atsuhiro Noguchi, Tianhan Xu, Yiming Liang, Yuta Kikuchi, Masahiro Ishiyama...",
+    "summary": "We reconstruct high-fidelity 3D scene meshes from posed multi-view images without per-scene optimization, across scales ranging from single objects to large outdoor scenes. Per-scene optimization meth",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.03308",
+    "paper_url": "https://arxiv.org/abs/2610.03308",
+    "published_at": "2026-10-02",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "ARCS: Towards Precise Text-to-SQL via Structured Disambiguation",
+    "authors": "Yihao Hu, Yanlin Feng, Naoki Otani, Nikita Bhutani",
+    "summary": "As text-to-SQL systems move beyond demonstrations toward real-world deployment, ambiguity in user questions becomes a primary source of errors. Such ambiguities are often subtle, domain- or data-speci",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.09396",
+    "paper_url": "https://arxiv.org/abs/2610.09396",
+    "published_at": "2026-10-07",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
+    "authors": "Bingxuan Li, Yiwen Song, Xueqing Wu, Yanzhou Pan, Yang Li...",
+    "summary": "Video interactive storytelling enables viewers to actively steer how a video unfolds. However, once we allow viewers to intervene during generation, a new challenge arises: The viewer's request can ha",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.09326",
+    "paper_url": "https://arxiv.org/abs/2610.09326",
+    "published_at": "2026-10-07",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training",
+    "authors": "Suorong Yang, Jiaxin Wang, Jiaming Su, Chentao Yue, Furao Shen...",
+    "summary": "Large language models have achieved remarkable advances in complex reasoning. However, scaling reasoning post-training with ever-larger corpora can substantially increase training cost without proport",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.12933",
+    "paper_url": "https://arxiv.org/abs/2610.12933",
+    "published_at": "2026-10-09",
+    "date": "2026-10-13"
+  },
+  {
+    "title": "SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code",
+    "authors": "Seemandhar Jain, Keshav Gupta, Manmohan Chandraker",
+    "summary": "The rapid growth of 3D Gaussian Splatting (3DGS) research demands significant effort to reimplement papers before building on them. We introduce SPLATIFY, a multi-agent framework that converts 3DGS pa",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.09116",
+    "paper_url": "https://arxiv.org/abs/2610.09116",
+    "published_at": "2026-10-06",
+    "date": "2026-10-13"
+  }
+]

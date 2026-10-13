@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "storytold/photocraft",
+    "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 54767,
+    "forks": 9176,
+    "created_at": "2026-09-30T13:37:48Z",
+    "url": "https://github.com/storytold/photocraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "openai/math",
+    "description": "",
+    "language": "Lean",
+    "stars": 14521,
+    "forks": 1643,
+    "created_at": "2026-10-06T21:47:02Z",
+    "url": "https://github.com/openai/math",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/pdfcraft",
+    "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 11821,
+    "forks": 4496,
+    "created_at": "2026-09-30T13:39:37Z",
+    "url": "https://github.com/storytold/pdfcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/filmcraft",
+    "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 11816,
+    "forks": 4759,
+    "created_at": "2026-09-30T13:41:20Z",
+    "url": "https://github.com/storytold/filmcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/lightcraft",
+    "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 11461,
+    "forks": 4121,
+    "created_at": "2026-09-30T14:09:27Z",
+    "url": "https://github.com/storytold/lightcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/wordcraft",
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "language": "Rust",
+    "stars": 9724,
+    "forks": 2517,
+    "created_at": "2026-10-07T08:34:24Z",
+    "url": "https://github.com/storytold/wordcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/vectorcraft",
+    "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 8065,
+    "forks": 3766,
+    "created_at": "2026-09-30T13:43:03Z",
+    "url": "https://github.com/storytold/vectorcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "rehan-remade/universal-modder",
+    "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+    "language": "Python",
+    "stars": 7171,
+    "forks": 753,
+    "created_at": "2026-09-30T05:00:35Z",
+    "url": "https://github.com/rehan-remade/universal-modder",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "wheresryan22/anatomy",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "language": "JavaScript",
+    "stars": 6875,
+    "forks": 496,
+    "created_at": "2026-10-08T10:12:49Z",
+    "url": "https://github.com/wheresryan22/anatomy",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/effectcraft",
+    "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 5920,
+    "forks": 3018,
+    "created_at": "2026-10-01T14:24:46Z",
+    "url": "https://github.com/storytold/effectcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/gridcraft",
+    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+    "language": "Rust",
+    "stars": 4009,
+    "forks": 1751,
+    "created_at": "2026-10-07T05:18:16Z",
+    "url": "https://github.com/storytold/gridcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "mhtsec/ARTEX",
+    "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+    "language": "Go",
+    "stars": 3714,
+    "forks": 6092,
+    "created_at": "2026-10-08T05:33:06Z",
+    "url": "https://github.com/mhtsec/ARTEX",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "alchaincyf/huashu-art-motion",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "language": "JavaScript",
+    "stars": 3696,
+    "forks": 409,
+    "created_at": "2026-10-06T04:49:37Z",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/cadcraft",
+    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "language": "Rust",
+    "stars": 3659,
+    "forks": 1689,
+    "created_at": "2026-10-07T05:22:31Z",
+    "url": "https://github.com/storytold/cadcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/designcraft",
+    "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+    "language": "Rust",
+    "stars": 3501,
+    "forks": 2349,
+    "created_at": "2026-10-01T13:13:14Z",
+    "url": "https://github.com/storytold/designcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "zhongerxin/iPhone-use",
+    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "language": "Python",
+    "stars": 3432,
+    "forks": 347,
+    "created_at": "2026-10-06T15:09:33Z",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "language": "JavaScript",
+    "stars": 3211,
+    "forks": 217,
+    "created_at": "2026-10-02T09:57:40Z",
+    "url": "https://github.com/QingYunA/answer-me-with-html",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "LosaLosSantos/aurelio-finance",
+    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+    "language": "Python",
+    "stars": 3047,
+    "forks": 381,
+    "created_at": "2026-10-06T20:14:19Z",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "nullmoth/nvidia-macos-driver",
+    "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source included.",
+    "language": "Rust",
+    "stars": 2810,
+    "forks": 255,
+    "created_at": "2026-10-07T08:13:12Z",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/deckcraft",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+    "language": "Rust",
+    "stars": 2691,
+    "forks": 1446,
+    "created_at": "2026-10-07T05:27:21Z",
+    "url": "https://github.com/storytold/deckcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "deadinside28/bloodborne_pc",
+    "description": "",
+    "language": "C++",
+    "stars": 2654,
+    "forks": 465,
+    "created_at": "2026-10-01T05:50:31Z",
+    "url": "https://github.com/deadinside28/bloodborne_pc",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "t4t5/omdrop-owl",
+    "description": "airdrop for non-apple devices",
+    "language": "Shell",
+    "stars": 2485,
+    "forks": 180,
+    "created_at": "2026-10-08T06:38:33Z",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/soundcraft",
+    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+    "language": "Rust",
+    "stars": 2332,
+    "forks": 1424,
+    "created_at": "2026-10-07T08:31:31Z",
+    "url": "https://github.com/storytold/soundcraft",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "Jakeschincariol/replica-skill",
+    "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+    "language": "Python",
+    "stars": 2218,
+    "forks": 321,
+    "created_at": "2026-10-03T12:07:49Z",
+    "url": "https://github.com/Jakeschincariol/replica-skill",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "facebookincubator/muse-gadget-sdk",
+    "description": "Open source SDK to build Muse gadgets",
+    "language": "C",
+    "stars": 2084,
+    "forks": 429,
+    "created_at": "2026-10-02T18:21:23Z",
+    "url": "https://github.com/facebookincubator/muse-gadget-sdk",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "alejandrobujan/tendedero",
+    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "language": "Swift",
+    "stars": 2038,
+    "forks": 168,
+    "created_at": "2026-10-07T01:29:54Z",
+    "url": "https://github.com/alejandrobujan/tendedero",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "ARahim3/DigUp",
+    "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
+    "language": "Swift",
+    "stars": 2019,
+    "forks": 153,
+    "created_at": "2026-10-08T20:37:51Z",
+    "url": "https://github.com/ARahim3/DigUp",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "noahdunnagan/fsearch",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "language": "Rust",
+    "stars": 1992,
+    "forks": 131,
+    "created_at": "2026-10-08T17:50:33Z",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "nanaism/yomiyasu",
+    "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+    "language": "Python",
+    "stars": 1926,
+    "forks": 46,
+    "created_at": "2026-09-30T11:49:32Z",
+    "url": "https://github.com/nanaism/yomiyasu",
+    "date": "2026-10-13"
+  },
+  {
+    "repo": "storytold/craft-launcher",
+    "description": "The Craft App Launcher",
+    "language": "Rust",
+    "stars": 1883,
+    "forks": 642,
+    "created_at": "2026-10-09T23:21:59Z",
+    "url": "https://github.com/storytold/craft-launcher",
+    "date": "2026-10-13"
+  }
+]
