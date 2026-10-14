@@ -1,0 +1,302 @@
+[
+  {
+    "title": "DoSA: Dots Sparse Attention",
+    "authors": "Fanxu Meng, Taosong Fang",
+    "summary": "Sparse attention visits few keys, yet finding them can still require scoring every key with every indexer head. We introduce DoSA (Dots Sparse Attention), a lossless method for making this computation",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2610.13990",
+    "paper_url": "https://arxiv.org/abs/2610.13990",
+    "published_at": "2026-09-26",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Vela: User Behavior as Supervision Sparks LLM Intelligence",
+    "authors": "Yang Xiao, Yusong Sun, Haoyi Wu, Wenyang Hui, Weiqiang Hang...",
+    "summary": "Large language models are increasingly deployed in applications that act on users' long-term behavior histories, from personal assistants to recommendation and advertising systems. These applications ",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2610.14709",
+    "paper_url": "https://arxiv.org/abs/2610.14709",
+    "published_at": "2026-10-10",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "UltraBERT: Beyond the Limit of BERT Pre-Training",
+    "authors": "Jungwoo Park, Taewhoo Lee, Jaewoo Kang",
+    "summary": "Recent bidirectional encoders have been modernized with innovations from causal large language models (LLMs). However, the pretraining recipe itself remains inherited from small-scale conventions, lea",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2610.15028",
+    "paper_url": "https://arxiv.org/abs/2610.15028",
+    "published_at": "2026-10-10",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics",
+    "authors": "Maoqi Liu, Junwei He, Bowen Zhang, Feiran Li, Wentao Ma...",
+    "summary": "Rubric-based reinforcement learning (Rubric-RL) trains language models where no verifier exists. A judge checks each criterion of a rubric, and the verdicts are aggregated into a reward, most often by",
+    "upvotes": 29,
+    "url": "https://huggingface.co/papers/2609.38847",
+    "paper_url": "https://arxiv.org/abs/2609.38847",
+    "published_at": "2026-09-30",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "LeWAM: End-to-End World and Action Modeling with JEPAs",
+    "authors": "Minghao Fu, Tavis Siebert, Eryk Halicki, Randall Balestriero",
+    "summary": "Joint-embedding predictive architectures (JEPAs) learn compact latent world models without pixel reconstruction. Existing JEPA pipelines typically train visual representations and action-conditioned d",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2610.12818",
+    "paper_url": "https://arxiv.org/abs/2610.12818",
+    "published_at": "2026-10-08",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Harness^2: Recursive Agent Harnessing for an Open World",
+    "authors": "Ruiyao Xu, Yanfei Chen, Zhongying CuiZhu, Bhavana Dalvi Mishra, Yifei Ming...",
+    "summary": "LLM agents' capabilities depend not only on their underlying models but also on their execution harnesses. Recursive self-improvement (RSI) offers a promising approach to automatically evolve these ha",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2610.14224",
+    "paper_url": "https://arxiv.org/abs/2610.14224",
+    "published_at": "2026-10-09",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "TPPO: Tracking-Value PPO For Language Model Reasoning",
+    "authors": "Futing Wang, Chenxi Li, Jianhao Yan, Yun Luo, Zhi Wang...",
+    "summary": "Proximal Policy Optimization (PPO) is widely used in reinforcement learning with verifiable rewards for language-model reasoning. While value evolution along trajectory characterizes relative token-le",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.16794",
+    "paper_url": "https://arxiv.org/abs/2610.16794",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "SALD: Self-Referenced Advantage Learning for Diffusion Models",
+    "authors": "Aryan Das, Surjo Dey, Koushik Biswas, Swalpa Kumar Roy, Moloud Abdar...",
+    "summary": "Recent work on language-model adaptation has shown that single models can obtain informative training signals by evaluating their behavior in demonstrationor feedback-augmented contexts, with the help",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.01496",
+    "paper_url": "https://arxiv.org/abs/2610.01496",
+    "published_at": "2026-10-07",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction",
+    "authors": "Jialei Wang, Zehan Wang, XiaoYang Wu, Ziang Zhang, Siyu Chen...",
+    "summary": "Reconstructing reference videos as editable dynamic 3D scenes is an important path toward controllable video generation for filmmaking: these scenes provide modifiable, renderable visual proxies that ",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.16577",
+    "paper_url": "https://arxiv.org/abs/2610.16577",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter",
+    "authors": "Xuyan Ye, Xiyan Fu, Shengda Fan, Jiawei Cui, Yankai Lin...",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) for multi-turn agents relies on sparse terminal rewards that say little about individual steps. Within-group step comparisons depend on reliable s",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.17666",
+    "paper_url": "https://arxiv.org/abs/2610.17666",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
+    "authors": "Hansi Yang, Linji Hao, Hongyan Hao, An Wang, Han Wu...",
+    "summary": "The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directl",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.14118",
+    "paper_url": "https://arxiv.org/abs/2610.14118",
+    "published_at": "2026-10-09",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Multics: Generative Multi-Player World Model with Hierarchical Communication",
+    "authors": "Kaiyi Huang, Wangbo Yu, Yukun Huang, Jiwen Yu, Kunhao Liu...",
+    "summary": "Multi-player interactive world models aim to simulate shared environments from multiple players' perspectives, but achieving robust generation while scaling to more players remains challenging. Existi",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.17201",
+    "paper_url": "https://arxiv.org/abs/2610.17201",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Learning How to Remember: Memory Modality Selection for GUI Agents",
+    "authors": "Taeyun Roh, Suhyeong Park, Gijin Kim, Wonjune Jang, Jaewoo Kang",
+    "summary": "Recent advances in vision-language models (VLMs) have substantially improved the capabilities of GUI agents, while memory augmentation has emerged as a promising approach for reusing knowledge from pa",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.17928",
+    "paper_url": "https://arxiv.org/abs/2610.17928",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
+    "authors": "Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi...",
+    "summary": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.18872",
+    "paper_url": "https://arxiv.org/abs/2610.18872",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling",
+    "authors": "Xinge Peng, Zhen Fang, Ruibing Wang, Yongxuan Lv, Haodong Li...",
+    "summary": "Coding agents are increasingly evolving beyond reproducing what a world looks like toward constructing executable worlds that capture how a world works. This shift calls for executable world modeling,",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.15166",
+    "paper_url": "https://arxiv.org/abs/2610.15166",
+    "published_at": "2026-10-10",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+    "authors": "Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang...",
+    "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.18868",
+    "paper_url": "https://arxiv.org/abs/2610.18868",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos",
+    "authors": "Max Ku, Jiaojiao Fan, Zekun Hao, Francesco Ferroni, Heng Wang...",
+    "summary": "Evaluating the physical consistency of generated videos remains a fundamental challenge. Existing approaches rely on off-the-shelf vision-language models, which can often be myopic to physical dynamic",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2609.38377",
+    "paper_url": "https://arxiv.org/abs/2609.38377",
+    "published_at": "2026-09-29",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "VideoJev: System One Model for Video Understanding and Interaction",
+    "authors": "Yuhan Zhu, Xiangyu Zeng, Qingyi Si, Chenxu Yang, Yifei Li...",
+    "summary": "Visual agents must turn video observations into timely decisions to track progress and choose what to do next. Building on the emerging System One paradigm, we introduce VideoJev, a family of models t",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.18615",
+    "paper_url": "https://arxiv.org/abs/2610.18615",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning",
+    "authors": "Yi Wang, Zhenlong Yuan, Yuchan Guo, Maolei Huang, Zijian Song...",
+    "summary": "Chest X-ray (CXR) interpretation often requires integrating visual findings with task-specific evidence rather than relying on direct visual recognition alone. While tool-augmented medical agents can ",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.16811",
+    "paper_url": "https://arxiv.org/abs/2610.16811",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces",
+    "authors": "M. Yigit Turali, Shreyas Rajesh, M. Efe Lorasdagi, Chenda Duan, Kartik Sharma...",
+    "summary": "Deep research requires connecting multiple steps of search, reasoning, and computation, with intermediate findings guiding what to investigate next. As investigations grow, agents must maintain resear",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.15208",
+    "paper_url": "https://arxiv.org/abs/2610.15208",
+    "published_at": "2026-10-10",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers",
+    "authors": "Javad Rajabi, Koorosh Roohi, David B. Lindell, Babak Taati",
+    "summary": "Generating images beyond the training resolution of Diffusion Transformers (DiTs) remains challenging, as the number of tokens grows rapidly with resolution, full attention becomes expensive, and outp",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.17227",
+    "paper_url": "https://arxiv.org/abs/2610.17227",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "GeoFix: Geometry Fixing for 4D Consistent Generation",
+    "authors": "Yeobin Hong, Hyojun Go, Dohun Lee, Jeongjae Lee, Sunghwan Hong...",
+    "summary": "Video diffusion models increasingly serve as priors for 4D generation, but the generated videos often lack geometric consistency. Recent approaches address this through post-training by designing geom",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.14293",
+    "paper_url": "https://arxiv.org/abs/2610.14293",
+    "published_at": "2026-10-09",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Spectral-Driven Adaptive-Rank Optimizer for Large Language Model Reinforcement Learning with Verifiable Rewards",
+    "authors": "Zhipeng Chen, Wayne Xin Zhao, Ji-Rong Wen",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) is reshaping how large language models (LLMs) acquire reasoning capabilities, yet the optimizers used remain largely inherited from teacher-forcin",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.16533",
+    "paper_url": "https://arxiv.org/abs/2610.16533",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution",
+    "authors": "Alan Wu, Wei Tao, Yiwen Guo",
+    "summary": "Large language model agents are emerging as an important new class of users of desktop applications. However, existing desktop interfaces were designed for human end users or application developers, l",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.15765",
+    "paper_url": "https://arxiv.org/abs/2610.15765",
+    "published_at": "2026-10-11",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges",
+    "authors": "Tianci Liu, Haoyu Wang",
+    "summary": "Rubric-based reward models (RMs) evaluate responses against explicit criteria. However, existing methods often derive criteria from observed response candidates, introducing response-induced bias that",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.18766",
+    "paper_url": "https://arxiv.org/abs/2610.18766",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution",
+    "authors": "Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu...",
+    "summary": "Scaling interactive environments is important for training long-horizon agents through reinforcement learning. These environments often require further testing and refinement after initial generation,",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.18067",
+    "paper_url": "https://arxiv.org/abs/2610.18067",
+    "published_at": "2026-10-13",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution",
+    "authors": "Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian...",
+    "summary": "Recent focus in agentic reinforcement learning (RL) seeks to improve credit assignment in long-horizon tasks. One promising direction combines reinforcement learning with verifiable rewards (RLVR) and",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.15772",
+    "paper_url": "https://arxiv.org/abs/2610.15772",
+    "published_at": "2026-10-11",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval",
+    "authors": "Shahaf Wagner, Gabriele Serussi, Dan Ben Ami, Tomer Galanti, Chaim Baskin",
+    "summary": "Finding the right video often requires distinguishing similar scenes in which different events occur. Joint matching improves retrieval, but processing rich video representations for each query is cos",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.11850",
+    "paper_url": "https://arxiv.org/abs/2610.11850",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding",
+    "authors": "Shuo Gao, Chenhao Zheng, Zhongzheng Ren",
+    "summary": "Hour-long videos, streaming feeds, and movie-length content are pushing vision-language models (VLMs) past their breaking point -- the standard recipe of encoding each frame into visual tokens yields ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.16118",
+    "paper_url": "https://arxiv.org/abs/2610.16118",
+    "published_at": "2026-10-12",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "VIEWCRAFT: Evolving What Multimodal Agents See and How They Read It",
+    "authors": "Binxiao Xu, Ruichuan An, Bocheng Zou, Weihua Du, Xinyu Wei...",
+    "summary": "Reusable skills improve multimodal agents without updating model weights, but their effectiveness depends on both the evidence presented and the procedure used to read it. We introduce ViewCraft, whic",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.15915",
+    "paper_url": "https://arxiv.org/abs/2610.15915",
+    "published_at": "2026-10-11",
+    "date": "2026-10-14"
+  }
+]

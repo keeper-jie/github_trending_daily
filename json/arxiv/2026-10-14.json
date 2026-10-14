@@ -1,0 +1,302 @@
+[
+  {
+    "title": "ChunkAct: Action Chunking for Agentic Robotics",
+    "authors": "Bingxin Xu, Wenrui Bao, Xinxin Liu, Jiawei Zhou, Yuzhang Shang...",
+    "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th",
+    "categories": "cs.RO, cs.AI, cs.CL, cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18874v1",
+    "abs_url": "https://arxiv.org/abs/2610.18874v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts",
+    "authors": "Wenxuan Guo, Yingping Liang, Zhaoguo Wang, Ziyuan Li, Angyuan Ma...",
+    "summary": "Scaling expert demonstrations alone does not enable generalist robot policies to improve from deployment. Real-world rollouts contain successes, suboptimal behavior, and failures: imitating every reco",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18873v1",
+    "abs_url": "https://arxiv.org/abs/2610.18873v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ",
+    "authors": "Yunsong Zhou, Xuekun Jiang, Haiqi Shen, Hangxu Liu, Chaojian Shi...",
+    "summary": "Learning humanoid loco-manipulation from human demonstrations rests on observing how locomotion, posture, and object interaction evolve together as tasks unfold. Scaling collection across diverse envi",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18872v1",
+    "abs_url": "https://arxiv.org/abs/2610.18872v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Dog-Breed Text-to-image Flow Matching from Pretraining to Fine-Tuning on 4 Consumer GPUs",
+    "authors": "Reyhaneh Esmailizadeh, Xingjian Leng, Zhanhao Liang, Liang Zheng",
+    "summary": "We generally perceive that training text-to-image diffusion models requires heavy compute: it is true if we aim at a comprehensive frontier model. This understanding prevents people from training thei",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18870v1",
+    "abs_url": "https://arxiv.org/abs/2610.18870v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+    "authors": "Chih-Hai Su, Tsung-Wei Ke, Yu-Lun Liu",
+    "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ",
+    "categories": "cs.CV, cs.GR, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18871v1",
+    "abs_url": "https://arxiv.org/abs/2610.18871v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+    "authors": "Mingxuan Yan, Litian Gong, Dihong Huang, Zhixu Li, Tianyu Zhang...",
+    "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18869v1",
+    "abs_url": "https://arxiv.org/abs/2610.18869v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+    "authors": "Wenbo Hu, Shraman Pramanick, Krishna Kumar Singh, Nanyun Peng, Kai-Wei Chang...",
+    "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur",
+    "categories": "cs.CL, cs.AI, cs.CV, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18868v1",
+    "abs_url": "https://arxiv.org/abs/2610.18868v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "PLAYGROUND: Progressive Layout Generation with Render-Grounded Planning",
+    "authors": "Jaeho Lee, Junhwan Heo, Junghyun Park, WonJun Moon, Eunju Yang...",
+    "summary": "Generating editable graphic designs requires arranging visual and textual elements into a coherent composition while preserving their content and editability. Although recent MLLM-based approaches emp",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18865v1",
+    "abs_url": "https://arxiv.org/abs/2610.18865v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+    "authors": "Dennis Grinwald, Ankur Singha, Khaled Kahouli, Karl Jansen, Shinichi Nakajima",
+    "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration",
+    "categories": "hep-lat, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18863v1",
+    "abs_url": "https://arxiv.org/abs/2610.18863v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+    "authors": "Minghao Luo, Liang Chen",
+    "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18862v1",
+    "abs_url": "https://arxiv.org/abs/2610.18862v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+    "authors": "Xin Gao, Yifan Yang, Xin Li, Pan Wang, Yan Li...",
+    "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how t",
+    "categories": "cs.AI",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18860v1",
+    "abs_url": "https://arxiv.org/abs/2610.18860v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Hybrid Reasoning Agents",
+    "authors": "Jiaru Zou, Yunzhe Qi, Sirui Chen, Federico Bianchi, Shang Zhu...",
+    "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18861v1",
+    "abs_url": "https://arxiv.org/abs/2610.18861v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs",
+    "authors": "Aimon Rahman, Joymallya Chakraborty, Vidit Bansal, Abhishek Dan",
+    "summary": "Multimodal large language models have advanced rapidly, but most remain optimized for single-image inputs. Multi-image reasoning is costly because each image adds many visual tokens, increasing encodi",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18858v1",
+    "abs_url": "https://arxiv.org/abs/2610.18858v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "PixelMoE: Scaling Pixel-Space Diffusion with LLM-Style Mixture-of-Experts",
+    "authors": "Ruixiao Dong, Jianmin Bao, Bozhi Luan, Zijie Meng, Xin Tao...",
+    "summary": "Pixel-space diffusion models provide an appealing alternative to latent-space diffusion models by directly modeling raw images without relying on a learned tokenizer. However, scaling pixel-space mode",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18857v1",
+    "abs_url": "https://arxiv.org/abs/2610.18857v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+    "authors": "Mattie Ji, Indradyumna Roy, Vikas Garg",
+    "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing ",
+    "categories": "cs.LG, math.AT",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18856v1",
+    "abs_url": "https://arxiv.org/abs/2610.18856v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Two Clocks: Why Larger Rollout Batches Learn Slower but Fail on Schedule in Reinforcement Learning with Verifiable Rewards",
+    "authors": "Yuante Li, Junwei Quan, Kai Qiu, Kate Zhang, Yicheng Tao",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) relies on costly model-generated responses, motivating larger rollout batches and square-root learning-rate scaling. Reported to approximately pre",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18853v1",
+    "abs_url": "https://arxiv.org/abs/2610.18853v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "MFG: Multi-turn Feedback Guided Molecular Optimization",
+    "authors": "Trieu Nguyen, Frazier N. Baker, Ruoxi Gao, Daniel Adu-Ampratwum, Xia Ning",
+    "summary": "Multi-objective molecular optimization is a critical process in drug discovery that aims to modify a given molecule to simultaneously improve multiple properties while maintaining a similar overall st",
+    "categories": "cs.AI, cs.LG, q-bio.QM",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18851v1",
+    "abs_url": "https://arxiv.org/abs/2610.18851v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World",
+    "authors": "Mengchen Zhang, Yang Li, Chunshi Wang, Tong Wu, Chunchao Guo",
+    "summary": "Reconstructing complete, high-quality meshes of large-scale scenes from unposed multi-view images requires faithful geometric grounding while plausibly completing surfaces that are unobserved or only ",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18846v1",
+    "abs_url": "https://arxiv.org/abs/2610.18846v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+    "authors": "Sijie Zhao, Zeqi Zhou, Heli Qi, Xuanchao Fu, Zhuo Zheng...",
+    "summary": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifi",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18845v1",
+    "abs_url": "https://arxiv.org/abs/2610.18845v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "RepProbe: Can Video Language Models Count Repeated Actions? A Diagnostic Benchmark",
+    "authors": "Mahsa Khoshnoodi, Sarah Adel Bargal",
+    "summary": "Repetition counting requires identifying and enumerating action cycles over time. While state-of-the-art video language models describe actions fluently, they fail to reliably count how many times an ",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18844v1",
+    "abs_url": "https://arxiv.org/abs/2610.18844v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+    "authors": "Andrea Yaoyun Cui, Hanyu Wang, Xinyi Wang, Bangzheng Li, Lin Zhang...",
+    "summary": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different r",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18843v1",
+    "abs_url": "https://arxiv.org/abs/2610.18843v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Who Improves the Robot? Toward Physical Recursive Self-Improvement",
+    "authors": "Hai Zhou, Fan Yang, Zeyi Chen, Lejun Zhang, Chenyang Fu...",
+    "summary": "Robots are increasingly autonomous in task execution, yet their improvement remains largely human-driven. This study investigates Physical Recursive Self-Improvement (Physical RSI), in which physical ",
+    "categories": "cs.AI, cs.LG, cs.RO",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18842v1",
+    "abs_url": "https://arxiv.org/abs/2610.18842v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Fast Rates for Offline Q-Learning with KL Regularization",
+    "authors": "Yize Hao, Guangxin Jiang, Shuang Qiu",
+    "summary": "This paper investigates offline Q-learning for finite-horizon Markov decision processes with Kullback-Leibler (KL) regularization. Recent studies have shown that KL regularization can yield fast rates",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18839v1",
+    "abs_url": "https://arxiv.org/abs/2610.18839v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Scaling Online Optimal Transport Minibatches for Flow Matching",
+    "authors": "Peter Chen, Sergey Levine",
+    "summary": "A central challenge in scaling flow models is maintaining stability in training and integration. In flow matching, this stability depends critically on how source samples are paired with data. Indepen",
+    "categories": "cs.LG, cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18838v1",
+    "abs_url": "https://arxiv.org/abs/2610.18838v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Plan-Bench: Can Existing VLMs Go Well Beyond Perception to Reason and Plan in Embodied Worlds?",
+    "authors": "Juntong Feng, Qingan Liu, Jingru Dong, Yue Zhu, Weiming Zheng...",
+    "summary": "Vision-Language Models (VLMs) have achieved strong performance in visual perception and spatial reasoning, leading to growing interest in using them as high-level planners for embodied AI. However, ph",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18836v1",
+    "abs_url": "https://arxiv.org/abs/2610.18836v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "RoboSimStudio: An Interactive Toolkit for Rapid Real2Sim of Robot Manipulation Tasks",
+    "authors": "Kaiyuan Chen, Shuangyu Xie, Uksang Yoo, Xinyue Zhu, Cael Magner...",
+    "summary": "It is difficult to accurately model the physics of the interaction between a robot and the objects it manipulates, including contact mechanics, coupled contact dynamics, deformations, stiffness and fr",
+    "categories": "cs.RO, cs.AI, cs.GR, cs.LG",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18835v1",
+    "abs_url": "https://arxiv.org/abs/2610.18835v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Game2Real-Bench: Do Toy Games Reveal and Transfer to Real-World Visual Reasoning?",
+    "authors": "Qingan Liu, Juntong Feng, Yue Zhu, Yujie Cheng, Xinzhe Han...",
+    "summary": "Visual reasoning is an important capability for vision-language models (VLMs) to understand visual evidence, spatial structure, constraints, and state changes. Existing evaluations mainly rely on real",
+    "categories": "cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18834v1",
+    "abs_url": "https://arxiv.org/abs/2610.18834v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+    "authors": "Xuyang Liu, Shihao Wang, Xinyu Wei, Minghan Li, Zeqing Wang...",
+    "summary": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov",
+    "categories": "cs.CV, cs.CL, cs.MM",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18829v1",
+    "abs_url": "https://arxiv.org/abs/2610.18829v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "WorldOracle: Benchmarking Action-Conditioned World Models against Real-World Executions",
+    "authors": "Haoyi Duan, Liliang Chen, Nan Wang, Yang Zhang, Yuhang Lu...",
+    "summary": "We introduce WorldOracle, a benchmark specifically designed to evaluate action-conditioned world models (ACWMs) against paired real-world executions. Given the same initial observation and low-level a",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18826v1",
+    "abs_url": "https://arxiv.org/abs/2610.18826v1",
+    "date": "2026-10-14"
+  },
+  {
+    "title": "Joint Neural Posterior Estimation and Model Selection for Chemical Reaction Networks",
+    "authors": "J. Arturo Esquivel, Jorge A. Campos-Gonzalez-Angulo, Sergio Pablo-García, Alán Aspuru-Guzik, Vianey Leos-Barajas",
+    "summary": "Simulation-based Bayesian inference for Chemical Reaction Networks (CRNs) must simultaneously solve two computationally demanding problems: discriminating between overlapping reaction pathways and est",
+    "categories": "stat.ML, cs.LG, physics.chem-ph",
+    "published": "2026-10-13",
+    "pdf_url": "https://arxiv.org/pdf/2610.18825v1",
+    "abs_url": "https://arxiv.org/abs/2610.18825v1",
+    "date": "2026-10-14"
+  }
+]
