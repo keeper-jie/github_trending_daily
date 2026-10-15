@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "A C++ Trick Question - Blog Post",
+    "score": 0,
+    "num_comments": 0,
+    "author": "MegaGreenLightning",
+    "url": "https://www.reddit.com/r/programming/comments/1x62x6p/a_c_trick_question_blog_post/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x62x6p/a_c_trick_question_blog_post/",
+    "rank": 1,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Zxc 0.15.0 - decompression 2x faster than Zstandard",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pollop-12345",
+    "url": "https://www.reddit.com/r/programming/comments/1x5nxzy/zxc_0150_decompression_2x_faster_than_zstandard/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5nxzy/zxc_0150_decompression_2x_faster_than_zstandard/",
+    "rank": 2,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Why I Love AI (No, Not That Kind)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Iamsodarncool",
+    "url": "https://www.reddit.com/r/programming/comments/1x5tyjg/why_i_love_ai_no_not_that_kind/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5tyjg/why_i_love_ai_no_not_that_kind/",
+    "rank": 3,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How Netflix Simplified Batch Compute with Kueue",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1x63fdq/how_netflix_simplified_batch_compute_with_kueue/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x63fdq/how_netflix_simplified_batch_compute_with_kueue/",
+    "rank": 4,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Where do you go for help when you're stuck now? Survey says 64% of developers visit Stack Overflow less for simple questions",
+    "score": 0,
+    "num_comments": 0,
+    "author": "masaischool_in",
+    "url": "https://www.reddit.com/r/programming/comments/1x5uh6j/where_do_you_go_for_help_when_youre_stuck_now/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5uh6j/where_do_you_go_for_help_when_youre_stuck_now/",
+    "rank": 5,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "yet another place where a linux man page is inaccurate",
+    "score": 0,
+    "num_comments": 0,
+    "author": "lelanthran",
+    "url": "https://www.reddit.com/r/programming/comments/1x6d3zd/yet_another_place_where_a_linux_man_page_is/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x6d3zd/yet_another_place_where_a_linux_man_page_is/",
+    "rank": 6,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Black-Box HashDoS: Attacking Hash Tables Without Knowing the Hash Function",
+    "score": 0,
+    "num_comments": 0,
+    "author": "nightcracker",
+    "url": "https://www.reddit.com/r/programming/comments/1x5w7hh/blackbox_hashdos_attacking_hash_tables_without/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5w7hh/blackbox_hashdos_attacking_hash_tables_without/",
+    "rank": 7,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Do you still need to drain the response body in Go 1.27?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Efficient_File",
+    "url": "https://www.reddit.com/r/programming/comments/1x6a1vp/do_you_still_need_to_drain_the_response_body_in/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x6a1vp/do_you_still_need_to_drain_the_response_body_in/",
+    "rank": 8,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "kcgi: minimal CGI and FastCGI library for C/C++",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BrewedDoritos",
+    "url": "https://www.reddit.com/r/programming/comments/1x5nds0/kcgi_minimal_cgi_and_fastcgi_library_for_cc/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5nds0/kcgi_minimal_cgi_and_fastcgi_library_for_cc/",
+    "rank": 9,
+    "date": "2026-10-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Ensuring Similar Computational Resources to Stateful Workloads Running on a Diverse Server Fleet",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1x5q4tz/ensuring_similar_computational_resources_to/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x5q4tz/ensuring_similar_computational_resources_to/",
+    "rank": 10,
+    "date": "2026-10-15"
+  }
+]

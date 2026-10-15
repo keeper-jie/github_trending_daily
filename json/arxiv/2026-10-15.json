@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+    "authors": "Jahyeok Koo, Hyeonseo Yu, Seungho Jang, Jaewoo Jung, Jiwon Kang...",
+    "summary": "Generating novel views from limited observations requires preserving both the appearance and spatial structure of a scene. Although recent approaches exploit fine-grained geometric cues, they do not e",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20610v1",
+    "abs_url": "https://arxiv.org/abs/2610.20610v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+    "authors": "Huixuan Cheng, Bike Zhang, Shankar Sastry, Koushil Sreenath",
+    "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20606v1",
+    "abs_url": "https://arxiv.org/abs/2610.20606v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Representation Conditioning for Generation",
+    "authors": "Saeed Razavi, Xingjian Leng, Liang Zheng",
+    "summary": "Representation-alignment methods effectively accelerate the diffusion transformer training. REPA, for example, uses a pretrained vision encoder to supervise an intermediate layer through an MLP projec",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20608v1",
+    "abs_url": "https://arxiv.org/abs/2610.20608v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+    "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang, Jiachen Li",
+    "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20607v1",
+    "abs_url": "https://arxiv.org/abs/2610.20607v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "VITAL: From Visual Motion to Precise Action",
+    "authors": "Ao Liang, Youquan Liu, Mingxiao Li, Wei Chow, Lingdong Kong...",
+    "summary": "World-action models aim to turn visual anticipation into driving decisions, yet typically train action experts on trajectory representations defined independently of visual dynamics. This motivates de",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20604v1",
+    "abs_url": "https://arxiv.org/abs/2610.20604v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+    "authors": "Xiaoli Xu, Zhengtao Wu, Zhengze Xu, Tao Liu, Yongchao Du...",
+    "summary": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20603v1",
+    "abs_url": "https://arxiv.org/abs/2610.20603v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+    "authors": "Qihang Cao, Haoyuan Li, Zihan Guo, Sensen Gao, Zihui Gao...",
+    "summary": "Achieving general spatial intelligence requires a unified understanding of both static 3D and dynamic 4D. However, we find that existing models struggle to excel at both: 3D post-training can weaken d",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20598v1",
+    "abs_url": "https://arxiv.org/abs/2610.20598v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Co-Evolving Acting and Forecasting for Language Agents",
+    "authors": "Haofei Yu, Yixing Chen, Yining Zhao, Xuyan Ye, Yuxiang Liu...",
+    "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20597v1",
+    "abs_url": "https://arxiv.org/abs/2610.20597v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "GeoThinker-$F$: Endogenous Predictive World Representations for Fast Spatial Intelligence",
+    "authors": "Haoyuan Li, Qihang Cao, Huanyuan Zhou, Xin Hu, Sijia Chen...",
+    "summary": "Existing geometry-aware Multimodal Large Language Models (MLLMs) increasingly rely on external 3D encoders to provide structural priors, but executing these additional encoder paths at inference intro",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20592v1",
+    "abs_url": "https://arxiv.org/abs/2610.20592v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting",
+    "authors": "Seungmi Choi, Ji-Hyoun Choi, Suhyun Jo, Tae-Gwon Park, Hui Yong Kim",
+    "summary": "Feed-forward 3D Gaussian Splatting (3DGS) methods enable efficient reconstruction of 3D scenes from sparse multi-view images in a single forward pass, without scene-specific optimization. However, exi",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20590v1",
+    "abs_url": "https://arxiv.org/abs/2610.20590v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Your Transformer Is Secretly Elastic",
+    "authors": "Walter Simoncini, Dheeraj Varghese, Gertjan J. Burghouts, Cees G. M. Snoek",
+    "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20588v1",
+    "abs_url": "https://arxiv.org/abs/2610.20588v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+    "authors": "Shubhendu Trivedi, Jacob Eisenstein, Alekh Agarwal, Ian Gemp, Michael Kaisers...",
+    "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re",
+    "categories": "cs.GT, cs.AI, cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20587v1",
+    "abs_url": "https://arxiv.org/abs/2610.20587v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Continuum Attention",
+    "authors": "Afshin Khadangi",
+    "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20586v1",
+    "abs_url": "https://arxiv.org/abs/2610.20586v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+    "authors": "Stavros Nousias, Akis Nousias, Konstantinos Gkrispanis",
+    "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that par",
+    "categories": "cs.LG, cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20585v1",
+    "abs_url": "https://arxiv.org/abs/2610.20585v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Player-1: Learning to Play from Synthetic Experience",
+    "authors": "Mingyu Ouyang, Yiran Wang, Siyuan Hu, Xingyilang Yin, Huiqiang Sun...",
+    "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remai",
+    "categories": "cs.CV, cs.AI, cs.HC",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20584v1",
+    "abs_url": "https://arxiv.org/abs/2610.20584v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Latent Compaction with Test-Time Training",
+    "authors": "Yingfa Chen, Xingyu Shen, Chaojun Xiao, Xu Han",
+    "summary": "Long contexts enlarge key--value (KV) caches, increasing memory use and attention costs during generation. Compressing these caches must preserve information for unseen questions. We introduce **Laten",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20582v1",
+    "abs_url": "https://arxiv.org/abs/2610.20582v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+    "authors": "Artin Tajdini, Manpreet Kaur, Peng Qi",
+    "summary": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave ",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20576v1",
+    "abs_url": "https://arxiv.org/abs/2610.20576v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Beyond LLM Judge: Mechanical Verification for Agentic Autoformalization",
+    "authors": "Anna Mei, Michael R. Douglas",
+    "summary": "We introduce a novel method for verifying Lean formalizations that goes beyond LLM-judged faithfulness. Unlike most verification methods, which rely on LLMs or trained models, our method combines LLM-",
+    "categories": "cs.LO, cs.AI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20573v1",
+    "abs_url": "https://arxiv.org/abs/2610.20573v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Recovering Reliable Supervision via Critique-Guided On-Policy Distillation",
+    "authors": "Kaixiang Zhao, Tianrun Yu, Shangzhe Li, Yuxiao Yang, Amanda Hughes...",
+    "summary": "On-policy distillation (OPD) trains a student model on its own rollouts with token-level supervision from a teacher, assuming that the teacher can reach a correct answer from any prefix the student wr",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20572v1",
+    "abs_url": "https://arxiv.org/abs/2610.20572v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+    "authors": "Weijie Wang, Haomin Zhang, Ye Li, Akide Liu, Zeyu Zhang...",
+    "summary": "Long-form agentic video generation must turn a screenplay into shots that remain spatially and temporally consistent across nonconsecutive requests. Passing prompts or recent frames between shots does",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20571v1",
+    "abs_url": "https://arxiv.org/abs/2610.20571v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Manacá-1B-Instruct-2: Reproducible Safety Alignment for a Native Brazilian-Portuguese LLM. Negative DPO Results, a Controlled Composition Scan, and a Silent Failure Mode of the LLM Judge",
+    "authors": "Bruno Leonardo Santos Menezes, Carlos Leonardo Souza Cardoso, Fabio André Machado Porto",
+    "summary": "Brazilian Portuguese remains underserved by open-source language models, and the few that are safety-aligned rarely document what did not work or validate comparisons with statistical significance. We",
+    "categories": "cs.CL",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20570v1",
+    "abs_url": "https://arxiv.org/abs/2610.20570v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Scaling Discovery Requires Forgetting",
+    "authors": "Shangyin Tan, Ben Zhou, Lakshya A Agrawal, Jialin Zhang, Yilin Chen...",
+    "summary": "Automated research with LLM agents has shown promising results in various domains. Through iterative refinement and scored verifiers, LLM agents are capable of discovering new ideas. There are differe",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20563v1",
+    "abs_url": "https://arxiv.org/abs/2610.20563v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "A$^3$PreCore: Robust Rigid Registration for Native FLAIR-Space Brain-Mask Transfer",
+    "authors": "Elmira Mirzabeigi, Zahra Khalilzad, Taylor Snowden-Richardson, Jesus Eduardo Lugo Arce, Jodie R. Gawryluk...",
+    "summary": "Reliable brain-mask transfer into native fluid-attenuated inversion recovery (FLAIR) space can fail when T1-to-FLAIR rigid registration is unstable. We developed A$^3$PreCore, a six-degree-of-freedom ",
+    "categories": "cs.CV, eess.IV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20561v1",
+    "abs_url": "https://arxiv.org/abs/2610.20561v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+    "authors": "Weichen Lyu, Chong Xia, Mingyu Dong, Long Xu, Shengjun Zhang...",
+    "summary": "3D object composition is pivotal to digital content creation and robot simulation, while also serving as a critical testbed for physical intelligence in foundation models. Previous methods either leve",
+    "categories": "cs.AI, cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20560v1",
+    "abs_url": "https://arxiv.org/abs/2610.20560v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Speculative Sampling in Interactive Video Generation",
+    "authors": "Yubo Huang, Yuxuan Zhang, Jiaming Liu, Sirui Zhao, Enhong Chen",
+    "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize ",
+    "categories": "cs.CV, cs.HC",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20556v1",
+    "abs_url": "https://arxiv.org/abs/2610.20556v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "PerSo: Investigating Facets of LLMs' Social Intelligence in Real-World Persuasion Scenarios",
+    "authors": "Ali Zamani, Soroush Esfahanian, Erfan Shahabi, Mohammad Taher Pilehvar, Azadeh Shakery...",
+    "summary": "Understanding the social intelligence of large language models (LLMs) is increasingly important for applications involving human-AI interaction and multi-agent environments. Social intelligence compri",
+    "categories": "cs.CL, cs.AI, cs.SI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20548v1",
+    "abs_url": "https://arxiv.org/abs/2610.20548v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Detection of Potato Plant Leaf Diseases using Convolutional Neural Networks",
+    "authors": "Haimanot Bitew Alemayehu, Simachew Melaku Ayalew, Chilotie Desalew Mengesha, Ayisheshim Almaw Bogale, Anteneh Birhan Yenew...",
+    "summary": "Potato is an important food-security crop in Ethiopia, but its production is affected by foliar diseases, particularly early blight and late blight. This study develops a lightweight convolutional neu",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20544v1",
+    "abs_url": "https://arxiv.org/abs/2610.20544v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Reliability-Aware Multimodal Sentiment Prediction Under Local Modality Missingness",
+    "authors": "Minghao Kong, Deng Yao, Xi Zhang, Ying Gao, Jiurun Chen...",
+    "summary": "Multimodal sentiment models are usually evaluated on complete utterances, yet streams often lose a contiguous span of text, audio, or video. We study local missingness on aligned CMU-MOSEI features. O",
+    "categories": "cs.CV",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20543v1",
+    "abs_url": "https://arxiv.org/abs/2610.20543v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
+    "authors": "Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Zhangyue Yin...",
+    "summary": "Multimodal code intelligence connects the symbolic world of programs with the visual world their execution creates. Interest in this capability is burgeoning, as models are increasingly asked to produ",
+    "categories": "cs.CL, cs.AI, cs.CV, cs.LG, cs.SE",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20538v1",
+    "abs_url": "https://arxiv.org/abs/2610.20538v1",
+    "date": "2026-10-15"
+  },
+  {
+    "title": "Revisiting Simple Baselines for Relational Deep Learning",
+    "authors": "Viet The Nguyen, Vijay Prakash Dwivedi, Gunther Gust",
+    "summary": "Relational deep learning has emerged as a powerful paradigm for learning end-to-end predictive models over relational databases by representing them as temporal heterogeneous graphs. Recent advances b",
+    "categories": "cs.LG",
+    "published": "2026-10-14",
+    "pdf_url": "https://arxiv.org/pdf/2610.20534v1",
+    "abs_url": "https://arxiv.org/abs/2610.20534v1",
+    "date": "2026-10-15"
+  }
+]
