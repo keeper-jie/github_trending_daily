@@ -1,0 +1,302 @@
+[
+  {
+    "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+    "authors": "Zhixu Li, Keqian Tang, Litian Gong, Jingyu Yao, Wenqian Zhang...",
+    "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22372v1",
+    "abs_url": "https://arxiv.org/abs/2610.22372v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Gen4P: Video Generators are 4D Perceivers",
+    "authors": "Yitong Xia, Zeren Jiang, Chuanxia Zheng",
+    "summary": "We introduce Gen4P, a unified framework for recovering 4D geometry and motion from monocular video. We show that a pretrained video generator can be repurposed into a feed-forward 4D perceiver without",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22371v1",
+    "abs_url": "https://arxiv.org/abs/2610.22371v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
+    "authors": "SeungJu Cha, Ye-Chan Kim, HyunGee Kim, Sungho Koh, Dong-Jin Kim",
+    "summary": "Token merging has emerged as an effective training-free strategy for accelerating diffusion models by reducing redundant token computation while minimizing generation degradation. A key challenge is d",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22370v1",
+    "abs_url": "https://arxiv.org/abs/2610.22370v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
+    "authors": "Shimon Malnick, Nadav Orenstein, Ohad Fried, Shai Avidan",
+    "summary": "Diffusion and flow models generate a sample over iterative steps, each a full pass through a large network, and that pass dominates generation cost. Training-free caching accelerates them by reusing a",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22369v1",
+    "abs_url": "https://arxiv.org/abs/2610.22369v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Discovering state-of-the-art quantum circuits with large language models",
+    "authors": "Andi Gu, Alek H. Kemeny, Susanne F. Yelin, Mikhail D. Lukin",
+    "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici",
+    "categories": "quant-ph, cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22367v1",
+    "abs_url": "https://arxiv.org/abs/2610.22367v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+    "authors": "Chenyuan Zhou, Yining Hong, Huang Huang, Yunfan Jiang, Wenlong Huang...",
+    "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22364v1",
+    "abs_url": "https://arxiv.org/abs/2610.22364v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
+    "authors": "Zirui Wu, Chen Guo, Tianjian Jiang, Zeren Jiang, Zeming Li...",
+    "summary": "We introduce P$^{3}$-WAM, a unified world action model for egocentric dexterous manipulation that learns 3D perception, action-conditioned prediction, and goal-directed planning through three compleme",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22363v1",
+    "abs_url": "https://arxiv.org/abs/2610.22363v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
+    "authors": "Tianjiao Yu, Zhilin Ou, Yifan Shen, Xinzhuo Li, Yuanzhe Liu...",
+    "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22362v1",
+    "abs_url": "https://arxiv.org/abs/2610.22362v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Grounding Generative Verification in 3D Content",
+    "authors": "Shuanglin Li, Jiaying Lin, Shuquan Ye",
+    "summary": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D ev",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22360v1",
+    "abs_url": "https://arxiv.org/abs/2610.22360v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+    "authors": "Jiachen Yao, Xiyuan Zhang, Annan Yu, Boran Han, Abdul Fatir Ansari...",
+    "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra",
+    "categories": "cs.LG",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22358v1",
+    "abs_url": "https://arxiv.org/abs/2610.22358v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+    "authors": "Han Su, Meng Tian, Tianyu Huang, Mingyu Gao, Lennox Wei...",
+    "summary": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22356v1",
+    "abs_url": "https://arxiv.org/abs/2610.22356v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+    "authors": "Bowei Liu, Xinchen Zhang, Xuhuan Li, Tianlin Zhang, Kaian Jiang...",
+    "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements",
+    "categories": "cs.CL",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22355v1",
+    "abs_url": "https://arxiv.org/abs/2610.22355v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
+    "authors": "Bingcong Li, Hao Ma, Michael Muehlebach, Niao He, Yi Ma",
+    "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and s",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22353v1",
+    "abs_url": "https://arxiv.org/abs/2610.22353v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "SUPRA-TEX: 3D Generation with Super-Aligned Texture",
+    "authors": "Chen Yang, Jiemin Fang, Fanpeng Meng, Zihao Huang, Jichen Pang...",
+    "summary": "Single image 3D generation aims to dress a given 3D mesh with relightable materials while faithfully preserving the visual details of a reference image. Existing methods either introduce artifacts whe",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22352v1",
+    "abs_url": "https://arxiv.org/abs/2610.22352v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "FDE-Gym: The Last Mile of AI Delivery",
+    "authors": "Dongxu Yang, Hongda Yan, Renxin Wang, Baoli Zhang, Haojia Zuo...",
+    "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin",
+    "categories": "cs.AI, cs.CL, cs.SE",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22350v1",
+    "abs_url": "https://arxiv.org/abs/2610.22350v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "authors": "Hyunwook Choi, Seungryong Kim, Dongyoon Han, Sangdoo Yun",
+    "summary": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform comput",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22347v1",
+    "abs_url": "https://arxiv.org/abs/2610.22347v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "authors": "Shangheng Du, Jinxin Shi, Shuaiyu Zhang, Yiming Wu, Junpeng Zhao...",
+    "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recur",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22344v1",
+    "abs_url": "https://arxiv.org/abs/2610.22344v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+    "authors": "Hongchang Liu, Jian Liu, Yujuan Ding, Liang Peng, Xun Jiang...",
+    "summary": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these f",
+    "categories": "cs.CV, cs.AI, cs.LG, cs.RO",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22343v1",
+    "abs_url": "https://arxiv.org/abs/2610.22343v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "authors": "Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong...",
+    "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22341v1",
+    "abs_url": "https://arxiv.org/abs/2610.22341v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Dexterity from Supervised Play",
+    "authors": "Botao He, Yiming Dou, Yiannis Aloimonos, Jitendra Malik, Akash Sharma...",
+    "summary": "How can robots autonomously collect the contact-rich experience needed to learn dexterous manipulation? We present DSP: Dexterity from supervised play, a framework in which a robot learns a play polic",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22340v1",
+    "abs_url": "https://arxiv.org/abs/2610.22340v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Lean Graph Search for Formal Theorem Proving",
+    "authors": "Yihan Xu, Jia-Chen Gu, Junyi Zhang, Di Wu, Haikang Deng...",
+    "summary": "Retrieving relevant lemmas is crucial for formal theorem proving, enabling provers to build machine-checkable proofs from established mathematical results. Recent retrieval systems match library decla",
+    "categories": "cs.LG",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22339v1",
+    "abs_url": "https://arxiv.org/abs/2610.22339v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Robust Reinforcement Learning for Dynamic Treatment Regimes under Model and Measurement Uncertainty",
+    "authors": "Chengze Xie, Xuan Wang, Ying Ding, Hairong Wang, Yan Li",
+    "summary": "We develop a robust reinforcement learning (RL) framework for learning adaptive treatment policies that generalize across patients and remain reliable under errors in the measured biomarker and shifts",
+    "categories": "cs.LG",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22336v1",
+    "abs_url": "https://arxiv.org/abs/2610.22336v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Evaluation Awareness Beyond English: Do LLMs Act Differently When Tested in Indic Languages?",
+    "authors": "Trizal Garg, Sibayan Mitra, Arya Karanjkar, Advait Singh, Jagat Sesh Challa...",
+    "summary": "Large language models (LLMs) can often tell when they are being tested. This ability, known as evaluation awareness, can lead models to act more cautiously during safety evaluations than in real use. ",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22333v1",
+    "abs_url": "https://arxiv.org/abs/2610.22333v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "KnowGPO: Knowledge-Grouped Policy Optimization for Search Agents",
+    "authors": "Siqi Chen, Zhengxi Lu, Yuchen Yan, Xingyu Wu, Qipeng Chen...",
+    "summary": "Deep search agents solve knowledge-intensive tasks through long-horizon, multi-turn interactions, where assigning credit to individual search decisions is fundamentally difficult. Outcome-based reinfo",
+    "categories": "cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22331v1",
+    "abs_url": "https://arxiv.org/abs/2610.22331v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Designing Transformers for Continuous Diffusion Language Models",
+    "authors": "Weijian Luo, Yujian Chen, Hao Jiang, Guang Cheng, Tianyang Hu",
+    "summary": "Continuous diffusion language models (CDLMs) offer an alternative approach to parallel language generation; however, most existing studies directly use transformer architectures from either causal lar",
+    "categories": "cs.AI",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22330v1",
+    "abs_url": "https://arxiv.org/abs/2610.22330v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "ACEdit: Stable Multi-Turn Image Editing via Asymmetric Conditioning",
+    "authors": "Sara Dorfman, Nir Goren, Gal Barak, Daniel Cohen-Or, Or Patashnik",
+    "summary": "Image editing models produce impressive results for individual edits, but their quality often deteriorates over multiple editing turns. Each editing turn introduces small distribution shifts that accu",
+    "categories": "cs.CV, cs.AI, cs.GR",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22328v1",
+    "abs_url": "https://arxiv.org/abs/2610.22328v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Twice Upon a Time: Complementary Representations for Time-Series Reasoning",
+    "authors": "Hedi Zisling, Liran Nochumsohn, Ilan Naiman, Mihir Parmar, Omri Azencot",
+    "summary": "Time Series Language Models (TSLMs) enable language-based understanding and reasoning over temporal data, yet a fundamental question remains: what information should their time-series representations ",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22327v1",
+    "abs_url": "https://arxiv.org/abs/2610.22327v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Dense4D: Pixel-Level 4D Human Correspondence",
+    "authors": "Rıza Alp Güler",
+    "summary": "Reconstructing human motion in 4D requires identifying the same surface points through articulation, deformation and changes in visibility. We introduce Dense4D, to our knowledge the first feed-forwar",
+    "categories": "cs.CV",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22325v1",
+    "abs_url": "https://arxiv.org/abs/2610.22325v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Training Reasoning Models to Generate Diverse Scientific Ideas",
+    "authors": "Manya Wadhwa, Pranav Narayanan Venkit, Hiroaki Hayashi, Yu Li, Tuhin Chakrabarty...",
+    "summary": "One of the first steps of a research pipeline is generating ideas. Large Language Models (LLMs) are increasingly used to automate this step, but most of this work optimizes the quality of individual i",
+    "categories": "cs.CL",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22324v1",
+    "abs_url": "https://arxiv.org/abs/2610.22324v1",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+    "authors": "Guowei Xu, Zhenting Qi, Amani Kiruga, Himabindu Lakkaraju, Yilun Du",
+    "summary": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating ",
+    "categories": "cs.MA, cs.AI, cs.CL",
+    "published": "2026-10-15",
+    "pdf_url": "https://arxiv.org/pdf/2610.22322v1",
+    "abs_url": "https://arxiv.org/abs/2610.22322v1",
+    "date": "2026-10-16"
+  }
+]

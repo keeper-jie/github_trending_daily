@@ -1,0 +1,302 @@
+[
+  {
+    "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+    "authors": "Xuyang Liu, Shihao Wang, Xinyu Wei, Minghan Li, Zeqing Wang...",
+    "summary": "With the rapid development of multimodal large language models (MLLMs), evaluating their video understanding capabilities has become increasingly important. Existing video understanding benchmarks cov",
+    "upvotes": 81,
+    "url": "https://huggingface.co/papers/2610.18829",
+    "paper_url": "https://arxiv.org/abs/2610.18829",
+    "published_at": "2026-10-13",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Speculative Forcing for Efficient Autoregressive Video Generation",
+    "authors": "Hyunwook Choi, Seungryong Kim, Dongyoon Han, Sangdoo Yun",
+    "summary": "Few-step autoregressive video generators enable streaming generation, yet they run every token through the final denoising step, regardless of how much refinement it needs. We find this uniform comput",
+    "upvotes": 51,
+    "url": "https://huggingface.co/papers/2610.22347",
+    "paper_url": "https://arxiv.org/abs/2610.22347",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Self-Evolving Agent Harness",
+    "authors": "Chuyang Wei, Haoxiang Guan, Minghang Zhu, Kexin Zhou, Jiyan He...",
+    "summary": "Harness self-evolution revises an agent's software scaffolding, including prompts, memory, workflows, and executable components, while keeping model weights fixed. We formalize a feedback-driven proce",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2610.18813",
+    "paper_url": "https://arxiv.org/abs/2610.18813",
+    "published_at": "2026-10-13",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Orbia: Do Generated Videos Form a Consistent 3D World?",
+    "authors": "Dongyue Lu, Guian Fang, Hur Lim, Yonggang Wu, Yanrong Wang...",
+    "summary": "Video generators serve as interactive worlds for exploration and simulation, yet realistic and visually appealing frames do not necessarily depict a consistent 3D world. Existing benchmarks assess sel",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2610.20693",
+    "paper_url": "https://arxiv.org/abs/2610.20693",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation",
+    "authors": "Yufei Jiao, Jinfa Huang, Zeyue Xue, Tianyu Xie, Yuexiao Ma...",
+    "summary": "Reinforcement learning (RL) enables language models to improve text-to-image (T2I) generation by rewriting prompts for a frozen image generator. Existing methods typically apply a single signal derive",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2610.22264",
+    "paper_url": "https://arxiv.org/abs/2610.22264",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation",
+    "authors": "Qian Yu, Zongyang Qiu, Juncheng Yan, Hongliang Li, Qi Qin...",
+    "summary": "Unified multimodal generation covers discrete, continuous, and hybrid paradigms. Discrete approaches with single-codebook visual tokenizers align naturally with text modeling but have limited represen",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2610.20818",
+    "paper_url": "https://arxiv.org/abs/2610.20818",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "3DCodeVerse: Exploring 3D Worlds as Code",
+    "authors": "Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong...",
+    "summary": "We introduce 3DCodeVerse, a research ecosystem that enables coding agents to create editable and verifiable 3D content at scale. 3DCodeVerse comprises large-scale, high-quality datasets of executable ",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2610.22341",
+    "paper_url": "https://arxiv.org/abs/2610.22341",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Learning Where to Split: Dynamic Band Splitting for Audio Source Separation",
+    "authors": "Bingzhe Zhang, Kai Li, Xiaolin Hu",
+    "summary": "Audio source separation models must preserve fine spectral structure while keeping the cost of the separator tractable. Band-split architectures reduce this cost by manually partitioning the spectrum ",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.14993",
+    "paper_url": "https://arxiv.org/abs/2610.14993",
+    "published_at": "2026-10-10",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "EdgeWise: Bringing Long-Horizon Agents to the Edge via Selective Cloud Delegation",
+    "authors": "Zeru Shi, Jindong Jiang, Ryo Hachiuma, Yonggan Fu, Byung-Kwan Lee...",
+    "summary": "Complex and long-horizon agent tasks often rely on frontier models deployed in the cloud to achieve strong performance. However, using these models for every step of a long-horizon trajectory incurs s",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2610.17560",
+    "paper_url": "https://arxiv.org/abs/2610.17560",
+    "published_at": "2026-10-13",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Routing Policy Optimization for Online Diffusion Reinforcement Learning",
+    "authors": "Qiuhong Shen, Yiding Yang, Yuxin Zhang, Xinwei Huang, Minxuan Lin...",
+    "summary": "Reinforcement learning can align visual generators with reward signals beyond their pretraining objectives, but existing score-function methods typically introduce stochasticity by perturbing the reve",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2610.22282",
+    "paper_url": "https://arxiv.org/abs/2610.22282",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+    "authors": "Xiaoli Xu, Zhengtao Wu, Zhengze Xu, Tao Liu, Yongchao Du...",
+    "summary": "We present CommerceGen-Studio, an end-to-end framework for generating commercial-grade main images for e-commerce Stock Keeping Units (SKUs). Our framework is organized along a three-stage pipeline of",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.20603",
+    "paper_url": "https://arxiv.org/abs/2610.20603",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding",
+    "authors": "Boyuan Sun, Deshui Miao, Wenzhao Gao, Shaoyong Jia, Shaohui Jiao...",
+    "summary": "We propose DeltaStreamer, a novel agentic framework for streaming video understanding inspired by how humans observe, remember, and investigate. Streaming video understanding requires a system to reta",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.19849",
+    "paper_url": "https://arxiv.org/abs/2610.19849",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "InfoVis: Unified Slide Image Generation and Editing",
+    "authors": "Jiahao Wang, Xiyan Jiang, Chenyuan Wu, Haoqiang Zhang, Xin Luo...",
+    "summary": "Generating and editing presentation slides requires models to combine accurate text rendering, instruction following, visual grounding, aesthetic design, and precise editing within one canvas. Existin",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.16784",
+    "paper_url": "https://arxiv.org/abs/2610.16784",
+    "published_at": "2026-10-12",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Intern-Decision: Efficient Multimodal Decision Making with Autoregressive Masked Language Modeling",
+    "authors": "Tong Zhu, Zhe Xu, Zefeng He, Yunkai Chai, Xuyang Hu...",
+    "summary": "Interactive agents repeatedly choose among a finite set of actions, labels, or ordinal outcomes. Generating a free-form response for each choice adds latency and complicates the interface between a mo",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.22131",
+    "paper_url": "https://arxiv.org/abs/2610.22131",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine",
+    "authors": "Junyao Yang, Zongxia Li, Yucheng Shi, Zhongzhi Li, Ruhan Wang...",
+    "summary": "Converting verifier outcomes into useful policy updates and partial progress into complete task resolution is crucial for terminal agents. We present Terminal-RSI, which alternates Recursive Self-Rewr",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.22192",
+    "paper_url": "https://arxiv.org/abs/2610.22192",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Velox: Spatial Memory Makes World Models Efficient",
+    "authors": "Qiuhong Shen, Shizun Wang, Xinchao Wang",
+    "summary": "Video world models turn actions and camera motion into long visual rollouts, making video a natural interface for interactive simulation. Such interaction requires responsive generation, yet coherent ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2610.22311",
+    "paper_url": "https://arxiv.org/abs/2610.22311",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs",
+    "authors": "Kunlun Zhu, Tao Feng, Xu Han, Heng Wang, Ling Yang...",
+    "summary": "Large language model (LLM) agents now fix software, operate computers and serve customers, but their harnesses, the programs that run them, call a large LLM at every step, which makes long tasks slow ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2610.21412",
+    "paper_url": "https://arxiv.org/abs/2610.21412",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes",
+    "authors": "Silin Chen, Zihan Zhang, Xiaodong Gu, Jiale Huang, Yuling Shi...",
+    "summary": "As coding agents become increasingly capable, robust evaluation requires a broader and more diverse supply of verifiable software engineering (SWE) tasks. However, real-world tasks are constrained by ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2610.21359",
+    "paper_url": "https://arxiv.org/abs/2610.21359",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "WorldCast: Exploring Intelligent Visual Generation in World State Prediction",
+    "authors": "Wenhao Yan, Haodong Li, Xiaotong Li, Yaxin Luo, Zhengrong Yue...",
+    "summary": "Humans interpret multimodal observations of the world and forecast how it will evolve. Recent multimodal generative systems have demonstrated similar capabilities: they can integrate multimodal contex",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.20731",
+    "paper_url": "https://arxiv.org/abs/2610.20731",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views",
+    "authors": "Yongzhen Hu, Hao Yu, Jiawei Wang, Xianming Zeng, Jianyun Xu...",
+    "summary": "Feed-forward Gaussian reconstruction builds 3D scenes directly from input images for novel view rendering, but learning Gaussian attributes from predicted geometry for high-quality rendering under lar",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.20341",
+    "paper_url": "https://arxiv.org/abs/2610.20341",
+    "published_at": "2026-10-14",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving?",
+    "authors": "Zihao Zhang, Haochen Tian, Tianyu Li, Changhui Jing, Jingliang He...",
+    "summary": "Visual foundation models (VFMs) are increasingly integrated into end-to-end autonomous driving for their powerful representations, yet it remains unclear when these representations improve driving per",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.09695",
+    "paper_url": "https://arxiv.org/abs/2610.09695",
+    "published_at": "2026-10-07",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models",
+    "authors": "Changhui Jing, Haochen Tian, Hongchen Li, Tianyu Li, Caojun Wang...",
+    "summary": "Driving world action models (WAMs) learn from paired trajectories and future observations. Post-training with reinforcement learning allows the policy to explore alternative trajectories and improve p",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.13781",
+    "paper_url": "https://arxiv.org/abs/2610.13781",
+    "published_at": "2026-10-09",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
+    "authors": "Yilong Xu, Minrui Xu, Xinyu Zhou, Xiang Long, Haochen Tan...",
+    "summary": "Most existing agentic reinforcement learning methods assume single-session trajectories, where interaction proceeds within one continuously accumulated context. However, agentic techniques such as con",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.22174",
+    "paper_url": "https://arxiv.org/abs/2610.22174",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Athanor: An Agent-Native System for Autonomous Post-Training Research",
+    "authors": "Yufa Zhou, Yichen Wang, Jiakun Fan, Ziqi Shu, Zhichao Liu...",
+    "summary": "Recursive self-improvement, in which AI systems build stronger AI systems, is one promising route to superintelligence. We study a weaker form that can be measured today: frontier agents post-training",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.21055",
+    "paper_url": "https://arxiv.org/abs/2610.21055",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL",
+    "authors": "Skylar Zhai, Haonan Wang, Zhining Liu, Linxin Song, Xuwei Ding...",
+    "summary": "Language models are increasingly trained against several verifiable rewards at once, such as the correctness and the format of a tool call, or the individual constraints of a complex instruction. Rewa",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.21439",
+    "paper_url": "https://arxiv.org/abs/2610.21439",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance",
+    "authors": "Zixuan Wang, Yuqi Liu, Yuxin Chen, Sengqiao Yang, Jinhui Ye...",
+    "summary": "While generalist vision-language-action (VLA) models have enabled diverse open-world manipulation, real-world robotic assistance requires two critical capabilities they currently lack: personalization",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.21453",
+    "paper_url": "https://arxiv.org/abs/2610.21453",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Memory as Weights: Internalizing Long-Term History for Streaming Videos",
+    "authors": "Zhuoming Liu, Jinhong Lin, Lin Zhang, Yiwu Zhong, Yin Li",
+    "summary": "Streaming vision-language models (VLMs) must continuously integrate information from the past while remaining responsive to current observations and user queries. Existing memory mechanisms typically ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.22070",
+    "paper_url": "https://arxiv.org/abs/2610.22070",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "Learning Self-Orchestration in Decentralized Agent Swarms",
+    "authors": "Guowei Xu, Zhenting Qi, Amani Kiruga, Himabindu Lakkaraju, Yilun Du",
+    "summary": "The capabilities of an agent swarm depend on both its individual members and how they coordinate. Yet existing multi-agent systems often train agents within fixed orchestration structures, separating ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.22322",
+    "paper_url": "https://arxiv.org/abs/2610.22322",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning",
+    "authors": "Bingxiang He, Pengqi Sun, Shihao Peng, Shaoxuan Li, Huiyu Xiao...",
+    "summary": "Language model agents increasingly automate post-training, but when given the full training stack they converge on supervised fine-tuning and spend most effort revising training data. Existing systems",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.22194",
+    "paper_url": "https://arxiv.org/abs/2610.22194",
+    "published_at": "2026-10-15",
+    "date": "2026-10-16"
+  },
+  {
+    "title": "MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal",
+    "authors": "Xiyan Huang, Qingdong He, Peng Tang, Bo Yin, Chaoyi Wang...",
+    "summary": "Video subtitle removal (VSR) is an important video restoration task, yet existing evaluation remains limited by low-resolution datasets, fragmented test sets, and generic video-inpainting protocols th",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.18461",
+    "paper_url": "https://arxiv.org/abs/2610.18461",
+    "published_at": "2026-10-13",
+    "date": "2026-10-16"
+  }
+]
