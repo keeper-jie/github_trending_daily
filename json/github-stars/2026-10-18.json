@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "wheresryan22/anatomy",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "language": "JavaScript",
+    "stars": 15316,
+    "forks": 1174,
+    "created_at": "2026-10-08T10:12:49Z",
+    "url": "https://github.com/wheresryan22/anatomy",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "openai/math",
+    "description": "",
+    "language": "Lean",
+    "stars": 15118,
+    "forks": 1749,
+    "created_at": "2026-10-06T21:47:02Z",
+    "url": "https://github.com/openai/math",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/wordcraft",
+    "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+    "language": "Rust",
+    "stars": 14110,
+    "forks": 3707,
+    "created_at": "2026-10-07T08:34:24Z",
+    "url": "https://github.com/storytold/wordcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/cadcraft",
+    "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+    "language": "Rust",
+    "stars": 5631,
+    "forks": 2511,
+    "created_at": "2026-10-07T05:22:31Z",
+    "url": "https://github.com/storytold/cadcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/gridcraft",
+    "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+    "language": "Rust",
+    "stars": 5629,
+    "forks": 2583,
+    "created_at": "2026-10-07T05:18:16Z",
+    "url": "https://github.com/storytold/gridcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "ARahim3/DigUp",
+    "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+    "language": "Swift",
+    "stars": 4625,
+    "forks": 332,
+    "created_at": "2026-10-08T20:37:51Z",
+    "url": "https://github.com/ARahim3/DigUp",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "tangency-labs/solidcraft",
+    "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+    "language": "Rust",
+    "stars": 4446,
+    "forks": 529,
+    "created_at": "2026-10-07T18:57:48Z",
+    "url": "https://github.com/tangency-labs/solidcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "alchaincyf/huashu-art-motion",
+    "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+    "language": "JavaScript",
+    "stars": 4257,
+    "forks": 459,
+    "created_at": "2026-10-06T04:49:37Z",
+    "url": "https://github.com/alchaincyf/huashu-art-motion",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "zhongerxin/iPhone-use",
+    "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+    "language": "Python",
+    "stars": 4092,
+    "forks": 410,
+    "created_at": "2026-10-06T15:09:33Z",
+    "url": "https://github.com/zhongerxin/iPhone-use",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "LosaLosSantos/aurelio-finance",
+    "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+    "language": "Python",
+    "stars": 3951,
+    "forks": 498,
+    "created_at": "2026-10-06T20:14:19Z",
+    "url": "https://github.com/LosaLosSantos/aurelio-finance",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "jhaizhou-ops/d2r-mobile",
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "language": "C",
+    "stars": 3742,
+    "forks": 1065,
+    "created_at": "2026-10-12T08:41:19Z",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/deckcraft",
+    "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+    "language": "Rust",
+    "stars": 3715,
+    "forks": 2096,
+    "created_at": "2026-10-07T05:27:21Z",
+    "url": "https://github.com/storytold/deckcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "nullmoth/nvidia-macos-driver",
+    "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+    "language": "Rust",
+    "stars": 3329,
+    "forks": 323,
+    "created_at": "2026-10-07T08:13:12Z",
+    "url": "https://github.com/nullmoth/nvidia-macos-driver",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/craft-launcher",
+    "description": "The Craft App Launcher",
+    "language": "Rust",
+    "stars": 3202,
+    "forks": 1076,
+    "created_at": "2026-10-09T23:21:59Z",
+    "url": "https://github.com/storytold/craft-launcher",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/soundcraft",
+    "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+    "language": "Rust",
+    "stars": 3196,
+    "forks": 2015,
+    "created_at": "2026-10-07T08:31:31Z",
+    "url": "https://github.com/storytold/soundcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "language": "C",
+    "stars": 3020,
+    "forks": 391,
+    "created_at": "2026-10-11T19:10:25Z",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "T-Auto/dsh-ops",
+    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "language": "JavaScript",
+    "stars": 2873,
+    "forks": 80,
+    "created_at": "2026-10-08T07:09:25Z",
+    "url": "https://github.com/T-Auto/dsh-ops",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "t4t5/omdrop-owl",
+    "description": "airdrop for non-apple devices",
+    "language": "Shell",
+    "stars": 2843,
+    "forks": 220,
+    "created_at": "2026-10-08T06:38:33Z",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "language": "Python",
+    "stars": 2663,
+    "forks": 510,
+    "created_at": "2026-10-13T03:09:42Z",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "liseami/CCBaga",
+    "description": "",
+    "language": "Rust",
+    "stars": 2597,
+    "forks": 263,
+    "created_at": "2026-10-11T03:47:06Z",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "storytold/figcraft",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+    "language": "Rust",
+    "stars": 2496,
+    "forks": 919,
+    "created_at": "2026-10-09T16:02:13Z",
+    "url": "https://github.com/storytold/figcraft",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "Fei2411/DeepSeek-Bot",
+    "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+    "language": "JavaScript",
+    "stars": 2397,
+    "forks": 233,
+    "created_at": "2026-10-07T15:37:36Z",
+    "url": "https://github.com/Fei2411/DeepSeek-Bot",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "alejandrobujan/tendedero",
+    "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+    "language": "Swift",
+    "stars": 2282,
+    "forks": 203,
+    "created_at": "2026-10-07T01:29:54Z",
+    "url": "https://github.com/alejandrobujan/tendedero",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "noahdunnagan/fsearch",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "language": "Rust",
+    "stars": 2122,
+    "forks": 137,
+    "created_at": "2026-10-08T17:50:33Z",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "language": "JavaScript",
+    "stars": 2083,
+    "forks": 297,
+    "created_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/HeyPuter/everything",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "LoreanXavier/pt-pc",
+    "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+    "language": "C++",
+    "stars": 1921,
+    "forks": 124,
+    "created_at": "2026-10-07T09:33:31Z",
+    "url": "https://github.com/LoreanXavier/pt-pc",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "stars": 1835,
+    "forks": 22,
+    "created_at": "2026-10-12T09:19:02Z",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "google-research/harness2",
+    "description": "",
+    "language": "Python",
+    "stars": 1820,
+    "forks": 155,
+    "created_at": "2026-10-06T21:48:11Z",
+    "url": "https://github.com/google-research/harness2",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "ahwootech/BRUTAL",
+    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+    "language": "C#",
+    "stars": 1812,
+    "forks": 97,
+    "created_at": "2026-10-14T19:33:56Z",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-18"
+  },
+  {
+    "repo": "academa-labs/manimgx",
+    "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+    "language": "Python",
+    "stars": 1726,
+    "forks": 121,
+    "created_at": "2026-10-05T20:57:05Z",
+    "url": "https://github.com/academa-labs/manimgx",
+    "date": "2026-10-18"
+  }
+]

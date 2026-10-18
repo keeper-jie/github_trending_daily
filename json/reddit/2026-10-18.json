@@ -1,0 +1,222 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Python's binary wheels and supply chain attacks",
+    "score": 0,
+    "num_comments": 0,
+    "author": "f311a",
+    "url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x8eqt6/pythons_binary_wheels_and_supply_chain_attacks/",
+    "rank": 1,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Much Ado About Seven Bytes",
+    "score": 0,
+    "num_comments": 0,
+    "author": "zeroone",
+    "url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x8fvz1/much_ado_about_seven_bytes/",
+    "rank": 2,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "I Traced a Postgres INSERT to Raw Bytes on Disk",
+    "score": 0,
+    "num_comments": 0,
+    "author": "IndicationAntique667",
+    "url": "https://www.reddit.com/r/programming/comments/1x8gk1v/i_traced_a_postgres_insert_to_raw_bytes_on_disk/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x8gk1v/i_traced_a_postgres_insert_to_raw_bytes_on_disk/",
+    "rank": 3,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Compression is prediction",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x7x6dq/compression_is_prediction/",
+    "rank": 4,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Mobile Application GPU Optimization Guide",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x8uq7d/mobile_application_gpu_optimization_guide/",
+    "rank": 5,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Improving heuristics for A* search",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1x80isg/improving_heuristics_for_a_search/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x80isg/improving_heuristics_for_a_search/",
+    "rank": 6,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Domain-Driven Design (DDD) — The Complete Guide | Visually Explained",
+    "score": 0,
+    "num_comments": 0,
+    "author": "correctMeIfImcorrect",
+    "url": "https://www.reddit.com/r/programming/comments/1x7o6km/domaindriven_design_ddd_the_complete_guide/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x7o6km/domaindriven_design_ddd_the_complete_guide/",
+    "rank": 7,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How Not to Build a Five-in-a-Row Game Engine",
+    "score": 0,
+    "num_comments": 0,
+    "author": "OtherwisePush6424",
+    "url": "https://www.reddit.com/r/programming/comments/1x88p5f/how_not_to_build_a_fiveinarow_game_engine/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x88p5f/how_not_to_build_a_fiveinarow_game_engine/",
+    "rank": 8,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Learning Postgres extensions using Zig",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pseudocharleskk",
+    "url": "https://www.reddit.com/r/programming/comments/1x7mmu6/learning_postgres_extensions_using_zig/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x7mmu6/learning_postgres_extensions_using_zig/",
+    "rank": 9,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Learned Index Lab: Replacing B-Trees with streaming linear models in pure Rust (-99% RAM, 3x faster)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "gilnett",
+    "url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1x71ti7/learned_index_lab_replacing_btrees_with_streaming/",
+    "rank": 10,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "HolidayBit143",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
+    "rank": 11,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "The whale girl mode in DeepSeek-V4.1-Flash-1017 is still there.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "General_Vermicelli53",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ret6/the_whale_girl_mode_in_deepseekv41flash1017_is/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8ret6/the_whale_girl_mode_in_deepseekv41flash1017_is/",
+    "rank": 12,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Opencode breached, rotate keys to be safe.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "chemist_slime",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
+    "rank": 13,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Informal-Trouble2183",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
+    "rank": 14,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "You don’t need that expensive of a build for local llms.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Maglcite",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8s73i/you_dont_need_that_expensive_of_a_build_for_local/",
+    "rank": 15,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Openspline - host a realtime talking avatar on a commercial GPU (90+ FPS on RTX4090)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Mikasa0xdev",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8oqng/openspline_host_a_realtime_talking_avatar_on_a/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8oqng/openspline_host_a_realtime_talking_avatar_on_a/",
+    "rank": 16,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Xolotl (Strata based) - DeepSeek-V4.1-Flash (552B) on a single 4090 at ~27 tok/s, Uncensored 1017 quant coming in a couple of days",
+    "score": 0,
+    "num_comments": 0,
+    "author": "indrasmirror",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8m0jj/xolotl_strata_based_deepseekv41flash_552b_on_a/",
+    "rank": 17,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017 · Hugging Face",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Bestlife73",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x84po4/deepseekaideepseekv41flash1017_hugging_face/",
+    "rank": 18,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Nvidia has officially confirmed that the 5090 is not discontinued and will continue shipping.",
+    "score": 0,
+    "num_comments": 0,
+    "author": "chemist_slime",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x88txd/nvidia_has_officially_confirmed_that_the_5090_is/",
+    "rank": 19,
+    "date": "2026-10-18"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "AutoTrust's HF models are trending thanks to thousands of farmed likes",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mrfakename0",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8sq4z/autotrusts_hf_models_are_trending_thanks_to/",
+    "rank": 20,
+    "date": "2026-10-18"
+  }
+]
