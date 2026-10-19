@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Pack Light, CarryOn: Building Object-Oriented Context for Long-Horizon Agents",
+    "authors": "Yuchen Lu, Julian McAuley, Lei Zhang",
+    "summary": "Long-horizon agents accumulate progress in persistent task state, yet repeatedly process interaction histories describing how that progress was achieved. This raises a natural question: can long-horiz",
+    "upvotes": 79,
+    "url": "https://huggingface.co/papers/2610.18784",
+    "paper_url": "https://arxiv.org/abs/2610.18784",
+    "published_at": "2026-10-13",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+    "authors": "SenseNova, Joint Research Team, Zhongang Cai, Ziang Cao, Tailai Chen...",
+    "summary": "GPT-6-Astra demonstrates a level of competence in robotic manipulation and navigation that challenges the conventional paradigm of building specialized models for individual tasks and embodiments. In ",
+    "upvotes": 70,
+    "url": "https://huggingface.co/papers/2610.22471",
+    "paper_url": "https://arxiv.org/abs/2610.22471",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+    "authors": "Hongcheng Gao, Alex Zhou, Jay Zhu, Zelin Zheng, Shijia Ge...",
+    "summary": "Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer,",
+    "upvotes": 64,
+    "url": "https://huggingface.co/papers/2610.23479",
+    "paper_url": "https://arxiv.org/abs/2610.23479",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+    "authors": "Seungone Kim, Jiayi Geng, Young-Jun Lee, Bo Liu, Juyoung Suk...",
+    "summary": "Can AI agents carry out research on open scientific problems? We introduce Into the Unknown, a benchmark that provides an agent with a science paper along with a research direction to pursue and tasks",
+    "upvotes": 62,
+    "url": "https://huggingface.co/papers/2610.19159",
+    "paper_url": "https://arxiv.org/abs/2610.19159",
+    "published_at": "2026-10-13",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+    "authors": "Enhan Zhao, Yongqi Tong, Xuejun Yu, Hang Wang, Pan Wang...",
+    "summary": "Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to na",
+    "upvotes": 50,
+    "url": "https://huggingface.co/papers/2610.20424",
+    "paper_url": "https://arxiv.org/abs/2610.20424",
+    "published_at": "2026-10-14",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "OpenMobile-2: Building Versatile Mobile Agents with Scalable Environments and App-Native Tools",
+    "authors": "Chenyang Yan, Yingying Zhang, Kanzhi Cheng, Qiushi Sun, Zhengyuan Pan...",
+    "summary": "We introduce OpenMobile-2, a near-frontier mobile agent with fully open training environments and recipes. We make three key advances: (1) Diverse environments with simulated commercial apps: We build",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2610.14157",
+    "paper_url": "https://arxiv.org/abs/2610.14157",
+    "published_at": "2026-10-09",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
+    "authors": "Heming Zou, Qi Wang, Yixiu Mao, Yun Qu, Yuyi Guo...",
+    "summary": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: ",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2610.23181",
+    "paper_url": "https://arxiv.org/abs/2610.23181",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "BridgeWAM: Bridging Video and Action Experts via Latent Bridge Queries",
+    "authors": "Jiaxin Fang, Ruitong Liu, Zeyu Lai, Xingyu Wang, Mingyuan Jia...",
+    "summary": "World Action Models (WAMs) commonly couple video and action experts through dense, layer-wise Mixture-of-Transformers (MoT) attention, exposing action prediction to irrelevant visual features while en",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.14746",
+    "paper_url": "https://arxiv.org/abs/2610.14746",
+    "published_at": "2026-10-10",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "From Research Goals to Scientific Closure: Evaluating Agents Through Evidence-Supported Physics Research",
+    "authors": "Yijia Mao, Song Dai, Tao Chen, Xiangyu Lu, Linqian Zeng...",
+    "summary": "Can AI agents organize scientific investigations that lead to well-supported conclusions? To evaluate this capability, we introduce PhysClosureBench, a benchmark of 50 expert-verified, goal-specified ",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.21767",
+    "paper_url": "https://arxiv.org/abs/2610.21767",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Execution Before Memory: Diagnosing Memory Failures in Video World Models",
+    "authors": "Weiyang Jin, Jiwen Yu, Sihan Xu, Yuwei Niu, Xihui Liu",
+    "summary": "A memory test for a video world model should say whether the scene was set, whether the asked change was carried out, and whether the last frame shows the result. Current tests fold these into one num",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.23542",
+    "paper_url": "https://arxiv.org/abs/2610.23542",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses",
+    "authors": "Jianyuan Zhong, Chenwei Wu, Zhaochen Yu, Xixian Jiang, Xuewei Li...",
+    "summary": "Scientific discovery requires developing worthwhile hypotheses into practical investigations, yet learning from this evolving research process remains challenging. We introduce an operational definiti",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2610.23839",
+    "paper_url": "https://arxiv.org/abs/2610.23839",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Learning to Think and Explore in 3D World",
+    "authors": "Yijiang Li, Bingyang Wang, Nuno Vasconcelos",
+    "summary": "We study how vision-language models (VLMs) can learn to think and actively explore in 3D space. Instead of providing multi-view images, videos, or 3D representations to the model, we preserve the nati",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.21783",
+    "paper_url": "https://arxiv.org/abs/2610.21783",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents",
+    "authors": "Youran Sun, Xingyu Ren, Chugang Yi, Kejia Zhang, Di Wu...",
+    "summary": "Large language model (LLM) agents can keep scientific experiments running for months with little human supervision, but reliable autonomous research also requires scientific judgment. Evaluating scien",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.21082",
+    "paper_url": "https://arxiv.org/abs/2610.21082",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "DLite: History-free Speculative Decoding for Agentic AI",
+    "authors": "Jiaming Xu, Hanzhen Wang, Tianlang Zhao, Jiewen Xiao, Chengze Yuan...",
+    "summary": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verif",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.23787",
+    "paper_url": "https://arxiv.org/abs/2610.23787",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "OfficeTown: Generative Organizations for Evolving Agent Intelligence",
+    "authors": "Hongchen Wei, Daohong Ying, Zhi Hong, Aidan Wu, Bei Liu...",
+    "summary": "AI agents increasingly use files and software tools to produce professional deliverables. Such work draws on materials, decisions, and feedback accumulated across assignments. We introduce OfficeTown,",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.23194",
+    "paper_url": "https://arxiv.org/abs/2610.23194",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "MOSS-Image Technical Report",
+    "authors": "MOSI. AI",
+    "summary": "Recent closed-source image generation systems can produce diverse visual content from simple compositions to information-dense graphics, yet open-weight text-to-image models still struggle with dense ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.23374",
+    "paper_url": "https://arxiv.org/abs/2610.23374",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Can Visual Generation Expand What Unified Multimodal Models Know?",
+    "authors": "Wenkai Li, Wenyi Hong, Zhuoyi Yang, Jie Tang",
+    "summary": "Unified multimodal models (UMMs) receive image-generation supervision that exposes them to visual information not fully documented in text. Can learning to generate images expand what pretrained model",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.21459",
+    "paper_url": "https://arxiv.org/abs/2610.21459",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "AVC-Reward: Event-Centric Audio-Video Consistency Evaluation",
+    "authors": "Yuruo Wu, Kaihang Pan, Kai Shen, Jiacheng Li, Shuyuan Tu...",
+    "summary": "As joint audio-video generation models become more capable, they can generate audio-visual scenes exhibiting three forms of complexity: multi-event composition, multi-layer audio mixture, and asymmetr",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.22321",
+    "paper_url": "https://arxiv.org/abs/2610.22321",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "DuoDiscover: Scaling Autonomous Discovery Beyond the Evaluation Bottleneck",
+    "authors": "Shubham Agarwal, Akshat Gupta, Mike Heddes, Dilara Soylu, Rui Meng...",
+    "summary": "Evaluation has been central to advances in AI, and it is equally critical to autonomous discovery. Yet scaling autonomous discovery to real-world engineering challenges faces a fundamental bottleneck:",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.17184",
+    "paper_url": "https://arxiv.org/abs/2610.17184",
+    "published_at": "2026-10-12",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "authors": "Bowen Yang, Kaiming Jin, Zichen Ding, Zhenyu Wu, Zehao Li...",
+    "summary": "Real desktop automation is neither purely visual nor purely programmatic. Agents must understand user-facing interfaces while efficiently manipulating files, scripts, and system state. However, native",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.22234",
+    "paper_url": "https://arxiv.org/abs/2610.22234",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Dream2Discern: Learning from Hard Latent Variants for Runtime Failure Prediction in Multi-Agent Systems",
+    "authors": "Boxuan Zhang, jianing Zhu, Xiaotian Han, Ruixiang Tang",
+    "summary": "Reliable deployment of LLM-based multi-agent systems calls for runtime auditors that predict terminal outcomes from observed execution prefixes. These auditors typically learn from a limited corpus of",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.16071",
+    "paper_url": "https://arxiv.org/abs/2610.16071",
+    "published_at": "2026-10-12",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "MorphAct: Robot Policies Morphing with the Worlds They Act In",
+    "authors": "Ziyan Liu, Jiting Liu, Weihong Zhong, Wenda Yu, Yeqiu Chen...",
+    "summary": "Progress toward general intelligence in the physical world requires scaling robot learning across diverse environments and interactions. However, existing robot policies use shared parameters that rem",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.20019",
+    "paper_url": "https://arxiv.org/abs/2610.20019",
+    "published_at": "2026-10-14",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Speculative Sampling in Interactive Video Generation",
+    "authors": "Yubo Huang, Yuxuan Zhang, Jiaming Liu, Sirui Zhao, Enhong Chen",
+    "summary": "Interactive video generation commonly relies on small bidirectional chunks to reduce response latency. Yet our preliminary experiments show that larger chunks improve video quality and better utilize ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.20556",
+    "paper_url": "https://arxiv.org/abs/2610.20556",
+    "published_at": "2026-10-14",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Persistent Planar Memory for Video World Models",
+    "authors": "Yuze He, Bin Tan, Zelin Gao, Yujun Shen, Yong-Jin Liu...",
+    "summary": "Video world models that generate and explore environments at scale need a persistent 3D memory of what they have produced. Plane primitives offer a natural candidate: a compact set of oriented planes ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.23795",
+    "paper_url": "https://arxiv.org/abs/2610.23795",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Game2Real-Bench: Do Toy Games Reveal and Transfer to Real-World Visual Reasoning?",
+    "authors": "Qingan Liu, Juntong Feng, Yue Zhu, Yujie Cheng, Xinzhe Han...",
+    "summary": "Visual reasoning is an important capability for vision-language models (VLMs) to understand visual evidence, spatial structure, constraints, and state changes. Existing evaluations mainly rely on real",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.18834",
+    "paper_url": "https://arxiv.org/abs/2610.18834",
+    "published_at": "2026-10-13",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "FC-SWE: Failure-Conditioned RL for Long-Horizon Software Engineering Agents",
+    "authors": "Jia Liufu, Bin Hu, Linglin Jing, Terry Kong, Yuki Huang...",
+    "summary": "Repository-level software engineering (SWE) is a challenging long-horizon setting: agents must reason over extended interactions, use tools, and adapt to stateful environments. Recent work trains SWE ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.07898",
+    "paper_url": "https://arxiv.org/abs/2610.07898",
+    "published_at": "2026-10-06",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Stuck on Shuffle: On Attribute-Object Binding in Vision-Language Models",
+    "authors": "Netanel Y. Tamir, Michael Green, Issar Tzachor, Or Shimshi, Dvir Samuel...",
+    "summary": "Retrieval is a fundamental task in multimodal systems: given an image or text query, the goal is to find the most relevant images or texts in a collection, often using a shared embedding space. Reliab",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.22602",
+    "paper_url": "https://arxiv.org/abs/2610.22602",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews",
+    "authors": "Dingjie Song, Zhiling Yan, Ziqian Zhang, Yuxuan Zhang, Lichao Sun",
+    "summary": "Peer review is under strain from the growth of submissions, and review comments written by humans or AI can misstate what a paper says. We introduce ReviewFact, a benchmark that labels such factual er",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.21046",
+    "paper_url": "https://arxiv.org/abs/2610.21046",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Skip the Compressor: Coding Agents Fix More Issues When They Pick Whole Files",
+    "authors": "Xiaocong Yang, Rishit Chatterjee, Himanshu Udupi, Vikram Ramavarapu, ChengXiang Zhai",
+    "summary": "A coding agent works on repositories that can be far larger than its context window can hold. Prompt compressors and retrievers offer solutions to this problem, but patching an issue needs two things ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.21073",
+    "paper_url": "https://arxiv.org/abs/2610.21073",
+    "published_at": "2026-10-15",
+    "date": "2026-10-19"
+  },
+  {
+    "title": "Towards Looped Models Done Right, Part I: Topology, Input Injection, Recurrent-State Design",
+    "authors": "Benhao Huang, Chufan Shi, Junlin Chen, Shicheng Wen, Zhengzhong Liu...",
+    "summary": "Looped language models reuse physical Transformer blocks across logical depth, but established architectures entangle recurrence placement, input injection, and recurrent state organization. We isolat",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.23036",
+    "paper_url": "https://arxiv.org/abs/2610.23036",
+    "published_at": "2026-10-16",
+    "date": "2026-10-19"
+  }
+]
