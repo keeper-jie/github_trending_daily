@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+    "authors": "Keshigeyan Chandrasegaran, Yue Zhao, Armin W. Thomas, Ehsan Adeli, Jiajun Wu...",
+    "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu",
+    "categories": "cs.LG, cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26863v1",
+    "abs_url": "https://arxiv.org/abs/2610.26863v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+    "authors": "Yu Zhou, Cheng-Fu Yang, Rui Sun, Di Wu, Sibo Peng...",
+    "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud",
+    "categories": "cs.CL, cs.AI, cs.CV, cs.LG, cs.MM",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26860v1",
+    "abs_url": "https://arxiv.org/abs/2610.26860v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+    "authors": "Wenqian Zhang, Yangyi Huang, Zigeng Xu, Weiyang Liu, Zhen Liu",
+    "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret",
+    "categories": "cs.CV, cs.CL, cs.GR",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26861v1",
+    "abs_url": "https://arxiv.org/abs/2610.26861v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+    "authors": "Shiao Xie, Siyu Chen, Jianwei Lv, Xiandong Li, Yujin Wang",
+    "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26856v1",
+    "abs_url": "https://arxiv.org/abs/2610.26856v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+    "authors": "Sangbeom Lim, Seoung Wug Oh, Heeji Yoon, Seungryong Kim, Joon-Young Lee",
+    "summary": "Diffusion-based video matting has recently emerged as a leading approach, leveraging video diffusion priors from internet-scale pretraining to achieve strong zero-shot generalization from limited synt",
+    "categories": "cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26857v1",
+    "abs_url": "https://arxiv.org/abs/2610.26857v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+    "authors": "Tianqi Liu, Hanfei Zhao, Qifeng Liang, Hui En Pang, Jiarui Xu...",
+    "summary": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action space",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26855v1",
+    "abs_url": "https://arxiv.org/abs/2610.26855v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "InfiniDream: Open-Ended Photorealistic 3D Worlds Through Procedural Generation",
+    "authors": "Yi-Chuan Huang, Hao-Jen Chien, Zheng-Hui Huang, Yu-Lun Liu, Kaipeng Zhang...",
+    "summary": "Procedural generation plays a key role in synthetic data creation and game development, offering greater controllability, editability, and diversity than static mesh representations. However, VLM-base",
+    "categories": "cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26853v1",
+    "abs_url": "https://arxiv.org/abs/2610.26853v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+    "authors": "Zehao Wang, Jianpeng Yao, Yuping Wang, Yiping Li, Jiaqi Li...",
+    "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26852v1",
+    "abs_url": "https://arxiv.org/abs/2610.26852v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Manga2Animate: An Agentic Framework for Faithful Manga Animation with Script and Storyboard Planning",
+    "authors": "Sheng-Wei Zhang, Hsi-An Chen, Yan-Ting Liou, Chih-Hsuan Chen, Shih-Chen Tseng...",
+    "summary": "Adapting existing manga into coherent animation that stays faithful to the source is a valuable yet challenging task. Existing methods either access the manga mainly through text, losing its character",
+    "categories": "cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26851v1",
+    "abs_url": "https://arxiv.org/abs/2610.26851v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "GenOlympiad: Benchmarking Frontier Image Models at Their Capability Boundaries",
+    "authors": "Xi Hu, Martin Bell, Liang Zheng",
+    "summary": "Text-to-image models have made tremendous progress and can produce high-quality images. However, a question which would be asked in any other discipline is where the frontier models fall short. We int",
+    "categories": "cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26850v1",
+    "abs_url": "https://arxiv.org/abs/2610.26850v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+    "authors": "Zekai Li, Jiayi Yu, Jinlu Zhang, Luyang Niu, Zekun Qi...",
+    "summary": "In this paper, we systematically investigate the mechanisms, scaling behavior, and generalization of physical Recursive self-improvement. We introduce PhysRSI-eval to quantify physical RSI through a f",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26848v1",
+    "abs_url": "https://arxiv.org/abs/2610.26848v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+    "authors": "Rui Shi, Xunjian Yin, Jiacheng Sang, Zichuan Liu, Shuyan Zhou",
+    "summary": "Long-horizon agents must learn heterogeneous capabilities from interleaved trajectories. Updating shared parameters to learn new capabilities can degrade previously acquired ones, resulting in catastr",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26847v1",
+    "abs_url": "https://arxiv.org/abs/2610.26847v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Train An Imaginative Agent",
+    "authors": "Jiaxin Ge, Junyi Zhang, Tianning Chai, Hanjun Yoo, Chenyang Wang...",
+    "summary": "A seemingly reasonable push in Sokoban can make the puzzle unsolvable. To avoid such mistakes, an agent has to anticipate the consequences of its actions before execution, especially when feedback fro",
+    "categories": "cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26845v1",
+    "abs_url": "https://arxiv.org/abs/2610.26845v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
+    "authors": "Heejeong Nam, Divyat Mahajan, Quentin Le Lidec, Randall Balestriero, David Klindt",
+    "summary": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For the",
+    "categories": "cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26844v1",
+    "abs_url": "https://arxiv.org/abs/2610.26844v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "LatComm: Reusable Context Compression for Latent Communication between Large Language Models",
+    "authors": "Huawei Lin, Jinting Liu, Tan Yu, Weijie Zhao",
+    "summary": "Systems that combine several large language models (LLMs) often use one context for many questions. When the context is passed between models as text, the receiving model processes all of its tokens a",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26840v1",
+    "abs_url": "https://arxiv.org/abs/2610.26840v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Newton-Based Methods for Bilevel Optimization Beyond Lower-Level Strong Convexity",
+    "authors": "Youran Dong, Junfeng Yang, Wei Yao, Jin Zhang",
+    "summary": "Bilevel optimization provides a framework for machine learning tasks such as hyperparameter optimization, data reweighting, and meta-learning. Existing Newton-based bilevel methods typically rely on t",
+    "categories": "math.OC, cs.LG",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26839v1",
+    "abs_url": "https://arxiv.org/abs/2610.26839v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration",
+    "authors": "Javad Rajabi, Hakki Can Karaimer, David B. Lindell, Babak Taati, Michael S. Brown",
+    "summary": "Diffusion Transformers (DiTs) achieve high-fidelity image and video generation, but they suffer from substantial inference costs due to repeated transformer evaluations across many denoising steps. Fe",
+    "categories": "cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26837v1",
+    "abs_url": "https://arxiv.org/abs/2610.26837v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy",
+    "authors": "Ke Zhang, Sahchit Chundur, Jerry Peprah Owusu, Mohammad Javad Abdolhosseini Qomi, Maziar Raissi",
+    "summary": "LLM agents that compute the right answer can still answer wrongly. Agent harnesses increasingly keep long tool outputs out of the context window, saving them to files that the agent searches or reads ",
+    "categories": "cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26836v1",
+    "abs_url": "https://arxiv.org/abs/2610.26836v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Kronecker Delta Rule for Long Context Linear Attention",
+    "authors": "Anamaria-Roberta Hartl, Levente Zólyomi, Michael List, Günter Klambauer, Sebastian Böck...",
+    "summary": "We propose KronLSTM, a linear attention architecture based on the Kronecker Delta Rule, a novel update rule for associative matrix memories. KronLSTM extends the xLSTM family with a memory-revision me",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26834v1",
+    "abs_url": "https://arxiv.org/abs/2610.26834v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Supervised Learning with Quantum Hamiltonian Embeddings",
+    "authors": "Riccardo Molteni, Minjun Jeon, Paolo Braccia, Abhinav Deshpande, Vedran Dunjko...",
+    "summary": "Machine learning is widely regarded as a promising application in which quantum computing could offer a computational advantage. However, general quantum machine learning models with provable guarante",
+    "categories": "quant-ph, cs.LG",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26833v1",
+    "abs_url": "https://arxiv.org/abs/2610.26833v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Competing Learning in Hybrid Architectures",
+    "authors": "Xingyu Shen, Yingfa Chen, Ziqing Qiao, Chaojun Xiao, Xu Han...",
+    "summary": "Many modern language models have adopted hybrid architectures that incorporate both linear-time recurrence and softmax attention. Modern recurrence layers provide a highly expressive mixing mechanism ",
+    "categories": "cs.CL",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26830v1",
+    "abs_url": "https://arxiv.org/abs/2610.26830v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "ProteinGeoBench: Frontier Structural-Biology Agents Are Fluent at Lookup but Lost in Geometry",
+    "authors": "Matt Turk, Brandon L. Neel, Diana M. Lopez, Zachary D. Smith, Grace N. Johnecheck...",
+    "summary": "Frontier agents retrieve structural metadata well and compute geometry from coordinates less reliably. We ask how much of a benchmark score reflects that gap and how much reflects the evaluation confi",
+    "categories": "cs.AI, cs.LG, q-bio.BM",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26829v1",
+    "abs_url": "https://arxiv.org/abs/2610.26829v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "authors": "Zhaoyang Wang, Qianhui Wu, Haorui Wang, Simon Yu, Baolin Peng...",
+    "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and c",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26828v1",
+    "abs_url": "https://arxiv.org/abs/2610.26828v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "KEEP-Bench: Evaluating Evidence Preservation in Context Compression",
+    "authors": "Ziqing Man, Di Wu, Jia-Chen Gu, Junyi Zhang, Kai-Wei Chang...",
+    "summary": "Context compression improves long-context efficiency but may introduce faithfulness issues through an information bottleneck. Existing evaluations rely on QA metrics, but a reader can still answer cor",
+    "categories": "cs.CL",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26827v1",
+    "abs_url": "https://arxiv.org/abs/2610.26827v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "RefCraft: Benchmarking Visual-Reference-Conditioned Agentic Generation through Web Development",
+    "authors": "Yuchi Wang, Rongyao Fang, Weihao Yu, Xilin Wei, Tiancheng Gu...",
+    "summary": "Beyond basic tool use and coding skills, effectively incorporating visual references into agentic generation is equally essential for applying AI agents to real-world productivity tasks. We study this",
+    "categories": "cs.CL, cs.AI, cs.CV",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26826v1",
+    "abs_url": "https://arxiv.org/abs/2610.26826v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "MemT-1.0: Towards Memory-Native Evolution",
+    "authors": "Zhiyu Li, Zeyu Zhang, Linyun Liu, Yiwei Bu, Chenyang Xi...",
+    "summary": "Memory-native evolution requires making memory an intrinsic capability of foundation models, enabling them to continuously accumulate and utilize information. To this end, we introduce MemT-1.0, a new",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26825v1",
+    "abs_url": "https://arxiv.org/abs/2610.26825v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "SpecMRL: Redesign Matryoshka Representation Learning within Parametric Spectrum",
+    "authors": "Zhongxin Chen, Songhao Wu, Heng Cui, Cong Li, Xiao Zhou...",
+    "summary": "Matryoshka Representation Learning (MRL) is designed to support flexible representation sizes by jointly optimizing nested prefixes. While effective, this design lacks an explicit constraint to ensure",
+    "categories": "cs.CL",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26824v1",
+    "abs_url": "https://arxiv.org/abs/2610.26824v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "AfriBED: a Speech Recognition Bias Evaluation Dataset for Low Resource African Languages",
+    "authors": "Claytone Sikasote, Hussein Suleman, Jan Buys",
+    "summary": "Despite advancements in automatic speech recognition systems (ASR), current systems exhibit speaker-attribute bias, i.e., their speech recognition performance is biased against certain speakers based ",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26821v1",
+    "abs_url": "https://arxiv.org/abs/2610.26821v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "Open-Form Geometric Style Transfer",
+    "authors": "Adar Elad, Gal Metzer, Omer Dahari, Min Lu, Daniel Cohen-Or",
+    "summary": "A geometric style learned from one family of shapes is typically applied to new shapes from the same family. We consider a more challenging setting: learning the geometric design language of a stylize",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26820v1",
+    "abs_url": "https://arxiv.org/abs/2610.26820v1",
+    "date": "2026-10-20"
+  },
+  {
+    "title": "ASTOR: Benchmarking and Improving Autoformulation for Soft-Constraint Optimization with a Formal Grammar",
+    "authors": "Amer Goel, Yeganeh Alimohammadi, Andrew Daw",
+    "summary": "Real-world decision problems combine two qualitatively different kinds of constraints: requirements that must be satisfied, called hard constraints, and preferences that can be violated, called soft c",
+    "categories": "cs.CL",
+    "published": "2026-10-19",
+    "pdf_url": "https://arxiv.org/pdf/2610.26819v1",
+    "abs_url": "https://arxiv.org/abs/2610.26819v1",
+    "date": "2026-10-20"
+  }
+]
