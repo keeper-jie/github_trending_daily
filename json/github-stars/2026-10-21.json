@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "wheresryan22/anatomy",
+    "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+    "language": "JavaScript",
+    "stars": 17783,
+    "forks": 1370,
+    "created_at": "2026-10-08T10:12:49Z",
+    "url": "https://github.com/wheresryan22/anatomy",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "deepseek-ai/DeepInfer",
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "language": "Python",
+    "stars": 14724,
+    "forks": 1422,
+    "created_at": "2026-10-16T07:47:23Z",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "Gathin23/cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "language": "Java",
+    "stars": 13482,
+    "forks": 1504,
+    "created_at": "2026-10-17T08:12:35Z",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "ARahim3/DigUp",
+    "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+    "language": "Swift",
+    "stars": 5265,
+    "forks": 390,
+    "created_at": "2026-10-08T20:37:51Z",
+    "url": "https://github.com/ARahim3/DigUp",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "jhaizhou-ops/d2r-mobile",
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "language": "C",
+    "stars": 4216,
+    "forks": 1160,
+    "created_at": "2026-10-12T08:41:19Z",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "storytold/craft-launcher",
+    "description": "The Craft App Launcher",
+    "language": "Rust",
+    "stars": 3687,
+    "forks": 1191,
+    "created_at": "2026-10-09T23:21:59Z",
+    "url": "https://github.com/storytold/craft-launcher",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "language": "Python",
+    "stars": 3519,
+    "forks": 631,
+    "created_at": "2026-10-13T03:09:42Z",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "T-Auto/dsh-ops",
+    "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+    "language": "JavaScript",
+    "stars": 3518,
+    "forks": 100,
+    "created_at": "2026-10-08T07:09:25Z",
+    "url": "https://github.com/T-Auto/dsh-ops",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "language": "C",
+    "stars": 3423,
+    "forks": 459,
+    "created_at": "2026-10-11T19:10:25Z",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "language": "JavaScript",
+    "stars": 3272,
+    "forks": 408,
+    "created_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/HeyPuter/everything",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "ly05010419/MacNativeGames",
+    "description": "",
+    "language": "C",
+    "stars": 3062,
+    "forks": 446,
+    "created_at": "2026-10-17T19:52:00Z",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "storytold/figcraft",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+    "language": "Rust",
+    "stars": 2972,
+    "forks": 1168,
+    "created_at": "2026-10-09T16:02:13Z",
+    "url": "https://github.com/storytold/figcraft",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "t4t5/omdrop-owl",
+    "description": "airdrop for non-apple devices",
+    "language": "Shell",
+    "stars": 2922,
+    "forks": 222,
+    "created_at": "2026-10-08T06:38:33Z",
+    "url": "https://github.com/t4t5/omdrop-owl",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "liseami/CCBaga",
+    "description": "",
+    "language": "Rust",
+    "stars": 2806,
+    "forks": 286,
+    "created_at": "2026-10-11T03:47:06Z",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "SubmitGame/awesome-decomp-games",
+    "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+    "language": "Python",
+    "stars": 2170,
+    "forks": 116,
+    "created_at": "2026-10-09T15:15:18Z",
+    "url": "https://github.com/SubmitGame/awesome-decomp-games",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "noahdunnagan/fsearch",
+    "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+    "language": "Rust",
+    "stars": 2157,
+    "forks": 138,
+    "created_at": "2026-10-08T17:50:33Z",
+    "url": "https://github.com/noahdunnagan/fsearch",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "stars": 2087,
+    "forks": 31,
+    "created_at": "2026-10-12T09:19:02Z",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "ahwootech/BRUTAL",
+    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+    "language": "C#",
+    "stars": 2072,
+    "forks": 116,
+    "created_at": "2026-10-14T19:33:56Z",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "language": "Java",
+    "stars": 2015,
+    "forks": 208,
+    "created_at": "2026-10-19T19:29:01Z",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "language": "Python",
+    "stars": 1988,
+    "forks": 113,
+    "created_at": "2026-10-15T06:52:46Z",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "chenglou/handwired",
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "stars": 1858,
+    "forks": 155,
+    "created_at": "2026-10-15T02:15:09Z",
+    "url": "https://github.com/chenglou/handwired",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "opengeos/RustGIS",
+    "description": "A fast, free and open-source GIS in pure Rust.",
+    "language": "Rust",
+    "stars": 1756,
+    "forks": 251,
+    "created_at": "2026-10-10T18:45:41Z",
+    "url": "https://github.com/opengeos/RustGIS",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "NVIDIA-Omniverse/usd-brep",
+    "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+    "language": "C++",
+    "stars": 1754,
+    "forks": 259,
+    "created_at": "2026-10-08T17:27:36Z",
+    "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "Supermedo/uncharted_pc",
+    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "language": "C++",
+    "stars": 1735,
+    "forks": 93,
+    "created_at": "2026-10-15T00:17:23Z",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "xiaoyang111222/cn-math-taxonomy",
+    "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中），课标对齐、人教版，1244 知识点、5123 题、自适应诊断",
+    "language": "Python",
+    "stars": 1704,
+    "forks": 374,
+    "created_at": "2026-10-18T09:04:43Z",
+    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "shaongitbd/doory",
+    "description": "Open source canva alternative",
+    "language": "TypeScript",
+    "stars": 1687,
+    "forks": 129,
+    "created_at": "2026-10-10T00:03:25Z",
+    "url": "https://github.com/shaongitbd/doory",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "language": "Python",
+    "stars": 1524,
+    "forks": 484,
+    "created_at": "2026-10-12T07:11:01Z",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "rohit267/net-merge",
+    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "language": "Go",
+    "stars": 1508,
+    "forks": 75,
+    "created_at": "2026-10-12T19:28:45Z",
+    "url": "https://github.com/rohit267/net-merge",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "peiikai/LASRecomp",
+    "description": "Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux",
+    "language": "C",
+    "stars": 1498,
+    "forks": 172,
+    "created_at": "2026-10-08T22:42:12Z",
+    "url": "https://github.com/peiikai/LASRecomp",
+    "date": "2026-10-21"
+  },
+  {
+    "repo": "trhhubsd/ARTEX",
+    "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+    "language": "Go",
+    "stars": 1492,
+    "forks": 718,
+    "created_at": "2026-10-08T20:35:22Z",
+    "url": "https://github.com/trhhubsd/ARTEX",
+    "date": "2026-10-21"
+  }
+]

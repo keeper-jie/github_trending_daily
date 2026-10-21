@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+    "authors": "Noam Rotstein, Yoad Tewel, Chen Tessler, Haggai Maron, Gal Chechik...",
+    "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For",
+    "categories": "cs.CV, cs.AI, cs.GR, cs.LG, cs.RO",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28632v1",
+    "abs_url": "https://arxiv.org/abs/2610.28632v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "AEON: Unifying Video and 3D World Models",
+    "authors": "Weiqi Zhang, Wenyuan Zhang, Yu-Shen Liu, Junsheng Zhou",
+    "summary": "Current world models for explicit world simulation typically follow two distinct pathways: (1) video generative models (e.g., Sora), which simulate realistic appearances but fail to preserve 3D consis",
+    "categories": "cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28631v1",
+    "abs_url": "https://arxiv.org/abs/2610.28631v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+    "authors": "Guian Fang, Shengju Qian, Dongyue Lu, Junchao Huang, Lutao Jiang...",
+    "summary": "Game engines and coding agents can specify the layout, motion, and camera of a scene, yet turning such coarse structure into realistic video requires a renderer that follows the structure and complete",
+    "categories": "cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28630v1",
+    "abs_url": "https://arxiv.org/abs/2610.28630v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "authors": "Yazhuo Liu, Kunqing Ding, Xiaoguo Gong, Zifeng Wang, Yichen Yang...",
+    "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation",
+    "categories": "cond-mat.mtrl-sci, cond-mat.mes-hall, cs.AI, cs.MA",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28629v1",
+    "abs_url": "https://arxiv.org/abs/2610.28629v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+    "authors": "Yuxuan Kuang, Jiashun Wang, Yixuan Sun, Yufei Ye, Sungjae Park...",
+    "summary": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci",
+    "categories": "cs.RO, cs.CV, cs.GR, cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28628v1",
+    "abs_url": "https://arxiv.org/abs/2610.28628v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+    "authors": "Rahul Sajnani, Diego Romeres, Mingyuan Zhang, Kai Gao, Carl Qi...",
+    "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28626v1",
+    "abs_url": "https://arxiv.org/abs/2610.28626v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
+    "authors": "Heran Hu, Yuhang Dong, Zhucun Xue, Kaiwei Chen, Yong Liu...",
+    "summary": "Understanding human needs and selecting responses require distinct judgments that aggregate accuracy can obscure. We introduce PsycheMME, a video benchmark informed by psychology, with eight capabilit",
+    "categories": "cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28625v1",
+    "abs_url": "https://arxiv.org/abs/2610.28625v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+    "authors": "Jad Yammine, Malek Wahidi, Abrar Anwar, Yan Chang, Mihir Acharya...",
+    "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ",
+    "categories": "cs.RO, cs.AI, cs.SE",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28624v1",
+    "abs_url": "https://arxiv.org/abs/2610.28624v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Planning under Noise with Neural Operators",
+    "authors": "Michael Chen, Hong Chul Nam, Xi Deng, Anima Anandkumar",
+    "summary": "Planning under uncertain control execution noise requires reliable feedback policies across diverse environments. We introduce Planning Under Noise (PUN), a neural operator that learns noise-aware val",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28623v1",
+    "abs_url": "https://arxiv.org/abs/2610.28623v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "MindView: Benchmarking Generative Multi-View Spatial Intelligence",
+    "authors": "Yanbo Wang, Siqi Luo, Siyu Zhang, Chenming Zhu, Wenzhao Zheng...",
+    "summary": "Spatial intelligence has recently been assessed through generative tasks such as spatially grounded image editing, yet language-guided generation of spatially consistent views from partial multi-view ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28622v1",
+    "abs_url": "https://arxiv.org/abs/2610.28622v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Adaptive Multi-Token Prediction: How far should we go?",
+    "authors": "Emile Anand, Mohammed Rehan Parwani, Xinyuan Cao",
+    "summary": "Multi-token prediction (MTP) can accelerate language-model decoding by drafting several tokens and verifying them in a single target-model pass. However, the best speculation horizon changes with cont",
+    "categories": "cs.AI, cs.LG, eess.SY",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28619v1",
+    "abs_url": "https://arxiv.org/abs/2610.28619v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Efficient Edge-aware Attention Network for Graph Generation",
+    "authors": "Vincent Jung, Alba Carballo-Castro, Yiming Qin, Lonneke van der Plas, Pascal Frossard",
+    "summary": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware ",
+    "categories": "cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28618v1",
+    "abs_url": "https://arxiv.org/abs/2610.28618v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
+    "authors": "Qingming Li, Ruiyan Sun, Satoshi Nakamura",
+    "summary": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and s",
+    "categories": "cs.CL",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28616v1",
+    "abs_url": "https://arxiv.org/abs/2610.28616v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting",
+    "authors": "Radu Beche, Raoul de Charette",
+    "summary": "Deploying a trained 3D Gaussian Splatting scene under shrinking compute budgets requires one primitive set to remain effective when rendered at smaller prefixes. In this continuous level of detail (Lo",
+    "categories": "cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28615v1",
+    "abs_url": "https://arxiv.org/abs/2610.28615v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Semantic Observability for Autonomous Systems Diagnostics",
+    "authors": "Jitendra Solanki, Anand Todkar, Ziran Min",
+    "summary": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes",
+    "categories": "cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28611v1",
+    "abs_url": "https://arxiv.org/abs/2610.28611v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Benchmarking Arabic Dialects for Math Problems",
+    "authors": "Noor Abo Mokh, Teresa Lynn, Nizar Habash, Ahmed Elshabrawy, Sara Alhajeri...",
+    "summary": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Ben",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28607v1",
+    "abs_url": "https://arxiv.org/abs/2610.28607v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Value-Rich, Differently Organized: Measuring Value Expression and Organization in AI-Generated Debates",
+    "authors": "Maoyuan Li, Haoyuan Li, Zhongsheng Wang, Jiamou Liu",
+    "summary": "Current evaluation of LLM-generated debate largely focuses on argumentative quality, leaving the value structure of generated arguments underexamined. We introduce a diagnostic metric framework for co",
+    "categories": "cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28604v1",
+    "abs_url": "https://arxiv.org/abs/2610.28604v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
+    "authors": "Vasilii Feofanov, Zhenghan Tai, Andrei Ermakov, Irina Rish",
+    "summary": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by ",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28602v1",
+    "abs_url": "https://arxiv.org/abs/2610.28602v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Evolving Agent Interfaces",
+    "authors": "Saaket Agashe, Yuzhe Yang, Gonzalo Gonzalez-Pumariega, Bhuvan Chandra Koduru, Chih-Lun Li...",
+    "summary": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through ",
+    "categories": "cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28601v1",
+    "abs_url": "https://arxiv.org/abs/2610.28601v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Neural Implicit Energy Optimization for LiDAR Mapping",
+    "authors": "Hrishikesh Viswanath, Md Ashiqur Rahman, Chi Lin, Damon Conover, Aniket Bera",
+    "summary": "Neural implicit representations provide memory-efficient signed distance field (SDF) parameterizations for large-scale LiDAR scenes, but the geometry recovered from sparse and often noisy inputs carri",
+    "categories": "cs.CV, cs.GR, cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28598v1",
+    "abs_url": "https://arxiv.org/abs/2610.28598v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "What Do RTL Repair Benchmarks Actually Measure?",
+    "authors": "Yeyin Eva Zhu, Rishabh Ranawat",
+    "summary": "RTL repair benchmarks should measure whether a model can fix broken RTL given a specification. To this end, we construct and hash-bind RTLRepairDataset, 5,784 (broken, fixed) training pairs; RTLRepair",
+    "categories": "cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28595v1",
+    "abs_url": "https://arxiv.org/abs/2610.28595v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Learning the 4D World through Point Trajectory Forecasting",
+    "authors": "Byungwoo Jeon, Sunghwan Hong, Dohyeon Kim, Jonghoon Lee, Jungwoo Park...",
+    "summary": "Reliable multi-view forecasting requires videos from different cameras to describe the same evolving 3D scene. To this end, we introduce Video-Point Model (VPM), a world model that conditions on multi",
+    "categories": "cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28594v1",
+    "abs_url": "https://arxiv.org/abs/2610.28594v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "PaPi: Parallel Picard-Duhamel Integration for Fast Neuro-Spectral Architectures",
+    "authors": "Arthur Bizzi, Márcio Marques, Kleyton Da Costa, Vitor Balestro, Tiago Novello...",
+    "summary": "Neuro-spectral architectures (NeuSA) are a class of physics-informed neural networks (PINNs) that have proven effective for solving time-dependent PDEs in the frequency domain. However, training and i",
+    "categories": "cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28591v1",
+    "abs_url": "https://arxiv.org/abs/2610.28591v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "WildMAE: Structure-Aware Masked Autoencoding for Wildlife Image Reconstruction",
+    "authors": "Yicheng Zhang, Yujie Jin, Ke Zhang, Jiaxin Wu",
+    "summary": "Camera-trap imagery presents substantial variation in animal appearance, illumination, background clutter, and visual degradation. Masked autoencoders (MAEs) offer a label-free framework for modeling ",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28590v1",
+    "abs_url": "https://arxiv.org/abs/2610.28590v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Two $\\operatorname{ReLU}$ Layers is All You Need",
+    "authors": "Florestan Brunck, Christoph Hertrich, Kilian Ruess, Jack Stade, Amir Yehudayoff",
+    "summary": "We prove that every $\\operatorname{ReLU}$ network can be exactly simulated by a $\\operatorname{ReLU}$ network with two hidden layers. We present two proofs: one that is based on fillings in homologica",
+    "categories": "cs.CC, cs.CG, cs.LG",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28587v1",
+    "abs_url": "https://arxiv.org/abs/2610.28587v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+    "authors": "Shu Zhao, Tan Yu",
+    "summary": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28586v1",
+    "abs_url": "https://arxiv.org/abs/2610.28586v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images",
+    "authors": "Rundong Luo, Yunong Liu, Di Cao, Matthew Tancik, Shyamal Buch...",
+    "summary": "Simulation is a powerful tool for robotics, but building diverse, simulation-ready scenes at scale remains difficult. Reconstructing scenes from single images is a promising alternative, but visual si",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28585v1",
+    "abs_url": "https://arxiv.org/abs/2610.28585v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Beyond the Sequentiality Bottleneck: A Hybrid Diffusion-Autoregressive Framework for Efficient Multimodal Reasoning",
+    "authors": "Wei Cai, Jian Zhao, Yuchen Yuan, Xuelong Li",
+    "summary": "Autoregressive models (ARMs) face a \"Sequentiality Bottleneck\" in reasoning, while diffusion language models (DLMs) offer parallelism but lack semantic coherence. To addresses both limitations, we pro",
+    "categories": "cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28584v1",
+    "abs_url": "https://arxiv.org/abs/2610.28584v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Continuous-Time Policy Gradient from Discrete Data: Convergence Analysis and Model-Free Algorithms",
+    "authors": "Martin Hernandez, Xinyan Qing, Mo Zhou, Yuhua Zhu",
+    "summary": "Continuous-time reinforcement learning seeks an optimal policy under unknown dynamics driven by stochastic differential equations using observations collected at discrete times. We develop a policy gr",
+    "categories": "cs.LG, math.OC",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28580v1",
+    "abs_url": "https://arxiv.org/abs/2610.28580v1",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "Spatially Informed and Direction Sensitive Representation Learning for Spatial Transcriptomics",
+    "authors": "Azim Dehghani Amirabad, Ali Khodabandeh Yalabadi, Artem Moskalev, Yun-Ching Chen, Mehdi Pirooznia...",
+    "summary": "Cellular states are shaped by both intrinsic gene expression programs and the spatial microenvironment in which cells reside. Spatial transcriptomics makes this context measurable, but effective repre",
+    "categories": "q-bio.QM, cs.AI",
+    "published": "2026-10-20",
+    "pdf_url": "https://arxiv.org/pdf/2610.28579v1",
+    "abs_url": "https://arxiv.org/abs/2610.28579v1",
+    "date": "2026-10-21"
+  }
+]
