@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Agent World Model in the Wild: Computer-Use Agent Environment Synthesis",
+    "authors": "Zhaoyang Wang, Qianhui Wu, Haorui Wang, Simon Yu, Baolin Peng...",
+    "summary": "Agent learning is shifting from learning from human data toward learning through interaction with the world. However, scaling such learning directly in real-world computer systems is challenging and c",
+    "upvotes": 48,
+    "url": "https://huggingface.co/papers/2610.26828",
+    "paper_url": "https://arxiv.org/abs/2610.26828",
+    "published_at": "2026-10-19",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Cache Engineering for Agents",
+    "authors": "Tianyu Fu, Ruoxi Wang, Zihan Min, Zhongqi Ren, Zhihao Li...",
+    "summary": "Large Language Model (LLM) agents can handle increasingly complex tasks, navigating long trajectories of observations and actions. As these trajectories grow, key-value (KV) cache I/O and storage beco",
+    "upvotes": 44,
+    "url": "https://huggingface.co/papers/2610.28577",
+    "paper_url": "https://arxiv.org/abs/2610.28577",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
+    "authors": "Ruopeng Gao, Yukun Huang, Jiarui Hu, Shuai Wang, Wenbo Hu...",
+    "summary": "Autoregressive video diffusion models generate videos chunk by chunk, yet producing plausible continuations does not guarantee that they capture how scenes evolve. Under teacher forcing, strong tempor",
+    "upvotes": 37,
+    "url": "https://huggingface.co/papers/2610.29989",
+    "paper_url": "https://arxiv.org/abs/2610.29989",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Socratic Skill Learning: Interleaving Teaching and Practice for Transferable Agent Skills",
+    "authors": "Letian Zhu, Han Li, Yifan Yao, Xinping Lei, Xinyu Che...",
+    "summary": "Agent Skills improve LLM agents by making task knowledge reusable across sessions. Learning transferable Skills requires evidence about a procedure and its conditions of use, which a successful task a",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2610.17860",
+    "paper_url": "https://arxiv.org/abs/2610.17860",
+    "published_at": "2026-10-13",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics",
+    "authors": "Xinxin Liu, Bingxin Xu, Wenrui Bao, Ming Li, Wentao Bao...",
+    "summary": "Agentic robotics systems combine planners with robot harnesses to perform complex manipulation tasks. Recent work improves these systems through better harnesses and external memory, but relies on pow",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.28589",
+    "paper_url": "https://arxiv.org/abs/2610.28589",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds",
+    "authors": "Kuan Zhang, Yukun Chen, Zhihao Yang, Yue Su, Xiangnan Wu...",
+    "summary": "Scaling data, diversity and model capacity has improved embodied learning in physical environments, where diverse experiences remain grounded in shared physical laws. Whether these gains extend to vir",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.28698",
+    "paper_url": "https://arxiv.org/abs/2610.28698",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Spectral-Spatial Interpretation",
+    "authors": "Haotian Ma, Ruqi Yang, Philip Townsend",
+    "summary": "Post-hoc image explanations usually show where a model looks using spatial heatmaps or indicate which channels matter using global channel scores. These separate views are limiting for multispectral d",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.21114",
+    "paper_url": "https://arxiv.org/abs/2610.21114",
+    "published_at": "2026-10-15",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Memory-Centric Continual Learning for AI Agents",
+    "authors": "Dongfang Li, Zhuoen Chen, Bonian Jia, Zixuan Liu, Zhengxuan Lu...",
+    "summary": "Autonomous agents powered by foundation models can reason, plan, and use tools, but their fixed weights and context limits hinder sustained learning from experience over long-term deployment. While ex",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.29357",
+    "paper_url": "https://arxiv.org/abs/2610.29357",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+    "authors": "Mingze Sun, Ziang Cao, Yuan Fei, Qiankuan Tao, Zihan Wang...",
+    "summary": "Despite recent progress in dexterous reference tracking, existing models focus primarily on single-hand manipulation and a limited range of interactions, leaving the bimanual dexterous behaviors commo",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.29997",
+    "paper_url": "https://arxiv.org/abs/2610.29997",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "TraceForge: Distilling with Your Own Thinking",
+    "authors": "Yan Wang",
+    "summary": "Using an LLM to generate training data for another is among the most general ways to train one, and it remains common practice. Some frontier teams have closed that route for their own models: what co",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.29680",
+    "paper_url": "https://arxiv.org/abs/2610.29680",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Sparsity Should Be ALLOTted by Output: Training-Free Allocation of Block-Sparse Attention for Video Diffusion Transformers",
+    "authors": "Tianze Xia, Xiaoling Zhou, Ruya Lan, Yiqiao Liao, Chengru Song...",
+    "summary": "Full 3D attention is costly in video Diffusion Transformers. Block-sparse attention reduces this cost by computing only selected attention blocks. However, existing methods either overlook the potenti",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.29441",
+    "paper_url": "https://arxiv.org/abs/2610.29441",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "ALPS: Visual State Encoders for World Models",
+    "authors": "Yanqing Liu, Letian Zhang, Chengzhi Liu, Zijun Wang, Jieru Mei...",
+    "summary": "World models turn visual representations into predictions and actions. We argue that their visual foundation should combine physical-state information, native language alignment, and pixel reconstruct",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2610.30120",
+    "paper_url": "https://arxiv.org/abs/2610.30120",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+    "authors": "Yanzhe Chen, Ziyi Yang, Jifeng Zhu, Qiming Huang, Ruihe An...",
+    "summary": "Multimodal agents (MMAs) sustain interaction through reasoning, memory, tools, and feedback, most visibly as computer-use agents, while robotic systems (RSs) couple sensing and actuation under physica",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.30108",
+    "paper_url": "https://arxiv.org/abs/2610.30108",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures",
+    "authors": "Yujian Liu, Li An, Zelin He, Jacob Helwig, Jiabao Ji...",
+    "summary": "Autonomous agents can increasingly propose ideas, modify code, and run experiments, creating an opportunity to accelerate scientific discovery using teams of collaborative AI researchers. To escape lo",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.28887",
+    "paper_url": "https://arxiv.org/abs/2610.28887",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Real In, Real Out: What If We Only Use Real Data for Scene Text Editing?",
+    "authors": "Xingsong Ye, Yongkun Du, Jiaxin Zhang, Chong Sun, Zhineng Chen",
+    "summary": "Aiming to modify textual content while preserving the original style, Scene Text Editing (STE) has significant practical value in many applications. STE typically requires paired images before and aft",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.27592",
+    "paper_url": "https://arxiv.org/abs/2610.27592",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
+    "authors": "StreamEval Team",
+    "summary": "As streaming video generation advances, enabling real-time interaction with generated video is becoming increasingly important. We introduce StreamEval, a unified benchmark for interactive streaming v",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.28402",
+    "paper_url": "https://arxiv.org/abs/2610.28402",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams",
+    "authors": "Yanan Ma, Yang Wang, David Le, Chenhan Yuan, Yizheng Sun...",
+    "summary": "Cooperative language-model agents can improve without weight updates by revising reusable skills, but only if a shared team reward is traced to the responsible agent and skill. Existing methods credit",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.27227",
+    "paper_url": "https://arxiv.org/abs/2610.27227",
+    "published_at": "2026-10-19",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "DeLoop: Repeated Actions as Self-Supervision for Long-Horizon Agents",
+    "authors": "Tianle Chen, Pushkar Singh, Ketan Todi, Biswajit Paria, Qijia He...",
+    "summary": "Language-model agents that run long tasks often redo work they have already done: they re-issue a tool call they made earlier and get back exactly the same observation, a step that adds no new informa",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.19376",
+    "paper_url": "https://arxiv.org/abs/2610.19376",
+    "published_at": "2026-10-14",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Harness Scaling for Generalizable Agentic Reinforcement Learning",
+    "authors": "Fei Bai, Huatong Song, Chuan Hao, Ran Tao, Jian Yang...",
+    "summary": "Agent harnesses have become a central component of modern agentic systems, shaping how models use tools, manage context, and coordinate long-horizon interaction. Realizing the benefits of these harnes",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.29458",
+    "paper_url": "https://arxiv.org/abs/2610.29458",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis",
+    "authors": "Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Zhangyue Yin...",
+    "summary": "Multimodal code intelligence connects the symbolic world of programs with the visual world their execution creates. Interest in this capability is burgeoning, as models are increasingly asked to produ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.20538",
+    "paper_url": "https://arxiv.org/abs/2610.20538",
+    "published_at": "2026-10-14",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?",
+    "authors": "Ming Zhong, Stacy Li, Nicholas Carlini, Matthew Jagielski",
+    "summary": "Frontier coding agents are increasingly framed as end-to-end automated researchers, and ML for science offers a demanding test of that promise: improving a scientific model often requires domain insig",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.28763",
+    "paper_url": "https://arxiv.org/abs/2610.28763",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "SpatialBrain: Spatial Intelligence Growing from Experience",
+    "authors": "Yifan Zhou, Ziyang Gong, Xiaojun Ye, Yifei Liu, Donggang Li...",
+    "summary": "Spatial reasoning requires more than access to geometric tools: a reasoner must decide when direct observation is sufficient and when to reconstruct, measure, or change reference frames. We present Sp",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.29317",
+    "paper_url": "https://arxiv.org/abs/2610.29317",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models",
+    "authors": "Yinhe Wang, Tao Tao, Zexin He, Shuang Luo, Wei Mao...",
+    "summary": "General-purpose multimodal models, including GPT-6 Astra and Claude Opus 5.5, demonstrate broad capabilities in embodied manipulation. Our analysis indicates that this generality is accompanied by str",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.27040",
+    "paper_url": "https://arxiv.org/abs/2610.27040",
+    "published_at": "2026-10-19",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+    "authors": "Zhanshuo Cao, Jiakai Tang, Yuqi Zhou, Sunhao Dai, Jun Xu",
+    "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.30128",
+    "paper_url": "https://arxiv.org/abs/2610.30128",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Qwen-Audio-3.1-ASR Technical Report",
+    "authors": "Chuanmeng Bian, Daren Chen, Peixin Chen, Zhigao Chen, Chong Deng...",
+    "summary": "We present Qwen-Audio-3.1-ASR, a family of audio-language models that builds upon its predecesor Qwen-Audio-3.0-ASR with improved speech recognition and expanded capabilities in speaker-diarized trans",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.28711",
+    "paper_url": "https://arxiv.org/abs/2610.28711",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Agentic World Action Models",
+    "authors": "Zhuoyang Liu, Dantong Niu, Botong Zhang, Boning Shao, Jing Wang...",
+    "summary": "Recent world action models provide visual foresight and future prediction for robot manipulation, but lack explicit mechanisms for compositional skill reuse. Agentic robotics combines code-based plann",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.30136",
+    "paper_url": "https://arxiv.org/abs/2610.30136",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training",
+    "authors": "Zhizhuo Kou, Heming Li, Jian Yang, Junyu Luo, Jingshu Peng...",
+    "summary": "People adapt how they talk to the person in front of them. However, chat models tend to respond in Standard English regardless of the dialect used by the user. A uniform answer can hide whether traini",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.28474",
+    "paper_url": "https://arxiv.org/abs/2610.28474",
+    "published_at": "2026-10-20",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Entertain, then Cancel: How Thinking Makes Reasoning Models Read Some and Or Literally",
+    "authors": "Zhizhuo Kou, Jian Yang, Pengfei Hao, Junyu Luo, Jingshu Peng...",
+    "summary": "When a speaker says ``some students passed'', listeners infer that not all of them did. Reasoning models now let users decide how long a model thinks before it answers, but we do not know what extra t",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.21204",
+    "paper_url": "https://arxiv.org/abs/2610.21204",
+    "published_at": "2026-10-15",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
+    "authors": "Zhipeng Chen, Yunsen Liang, Yanxi Chen, Hongkang Zhao, Lingyun Feng...",
+    "summary": "Most contemporary artificial intelligence (AI) systems are released with frozen parameters and improve through external updates, whereas an ideal system would keep improving from its own experience, a",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.29784",
+    "paper_url": "https://arxiv.org/abs/2610.29784",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "CulturalRiddles: A Multicultural Benchmark of Riddles",
+    "authors": "My Chiffon Nguyen, Tianyi Hu, Vinod Anbalagan, Henry Gagnier, Pouya Sadeghi...",
+    "summary": "As LLMs expand their language coverage, evaluating how well they understand and represent diverse cultures becomes increasingly important. However, many benchmarks remain English-centric, with limited",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.29968",
+    "paper_url": "https://arxiv.org/abs/2610.29968",
+    "published_at": "2026-10-21",
+    "date": "2026-10-22"
+  }
+]

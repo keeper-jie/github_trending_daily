@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Gathin23/cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "language": "Java",
+    "stars": 20426,
+    "forks": 2225,
+    "created_at": "2026-10-17T08:12:35Z",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "deepseek-ai/DeepInfer",
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "language": "Python",
+    "stars": 18541,
+    "forks": 1921,
+    "created_at": "2026-10-16T07:47:23Z",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "jhaizhou-ops/d2r-mobile",
+    "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+    "language": "C",
+    "stars": 4343,
+    "forks": 1184,
+    "created_at": "2026-10-12T08:41:19Z",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "ly05010419/MacNativeGames",
+    "description": "",
+    "language": "C",
+    "stars": 4058,
+    "forks": 574,
+    "created_at": "2026-10-17T19:52:00Z",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "storytold/craft-launcher",
+    "description": "The Craft App Launcher",
+    "language": "Rust",
+    "stars": 3780,
+    "forks": 1220,
+    "created_at": "2026-10-09T23:21:59Z",
+    "url": "https://github.com/storytold/craft-launcher",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "language": "Python",
+    "stars": 3596,
+    "forks": 644,
+    "created_at": "2026-10-13T03:09:42Z",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "language": "C",
+    "stars": 3508,
+    "forks": 463,
+    "created_at": "2026-10-11T19:10:25Z",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "language": "JavaScript",
+    "stars": 3497,
+    "forks": 434,
+    "created_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/HeyPuter/everything",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "storytold/figcraft",
+    "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+    "language": "Rust",
+    "stars": 3076,
+    "forks": 1223,
+    "created_at": "2026-10-09T16:02:13Z",
+    "url": "https://github.com/storytold/figcraft",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "liseami/CCBaga",
+    "description": "",
+    "language": "Rust",
+    "stars": 2852,
+    "forks": 300,
+    "created_at": "2026-10-11T03:47:06Z",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "language": "Java",
+    "stars": 2842,
+    "forks": 358,
+    "created_at": "2026-10-19T19:29:01Z",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "language": "Kotlin",
+    "stars": 2438,
+    "forks": 178,
+    "created_at": "2026-10-20T09:13:06Z",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "SubmitGame/awesome-decomp-games",
+    "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+    "language": "Python",
+    "stars": 2224,
+    "forks": 119,
+    "created_at": "2026-10-09T15:15:18Z",
+    "url": "https://github.com/SubmitGame/awesome-decomp-games",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "ahwootech/BRUTAL",
+    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+    "language": "C#",
+    "stars": 2127,
+    "forks": 121,
+    "created_at": "2026-10-14T19:33:56Z",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "stars": 2102,
+    "forks": 32,
+    "created_at": "2026-10-12T09:19:02Z",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "xiaoyang111222/cn-math-taxonomy",
+    "description": "中小学知识图谱 + 前置诊断：数学（一–九年级、高中必修与选择性必修）+ 英语（小学、初中、高中），课标对齐、人教版，1503 知识点、6159 题、自适应诊断",
+    "language": "Python",
+    "stars": 2062,
+    "forks": 469,
+    "created_at": "2026-10-18T09:04:43Z",
+    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "language": "Python",
+    "stars": 2061,
+    "forks": 117,
+    "created_at": "2026-10-15T06:52:46Z",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "tek-sys-hub/Rubix-lang",
+    "description": "The 100% Pure x86-64 Assembly Systems Language",
+    "language": "Assembly",
+    "stars": 1895,
+    "forks": 1,
+    "created_at": "2026-10-19T05:34:37Z",
+    "url": "https://github.com/tek-sys-hub/Rubix-lang",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "chenglou/handwired",
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "stars": 1875,
+    "forks": 156,
+    "created_at": "2026-10-15T02:15:09Z",
+    "url": "https://github.com/chenglou/handwired",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "opengeos/RustGIS",
+    "description": "A fast, free and open-source GIS in pure Rust.",
+    "language": "Rust",
+    "stars": 1819,
+    "forks": 260,
+    "created_at": "2026-10-10T18:45:41Z",
+    "url": "https://github.com/opengeos/RustGIS",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "Supermedo/uncharted_pc",
+    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "language": "C++",
+    "stars": 1799,
+    "forks": 98,
+    "created_at": "2026-10-15T00:17:23Z",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "shaongitbd/doory",
+    "description": "Open source canva alternative",
+    "language": "TypeScript",
+    "stars": 1724,
+    "forks": 131,
+    "created_at": "2026-10-10T00:03:25Z",
+    "url": "https://github.com/shaongitbd/doory",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "language": "Python",
+    "stars": 1633,
+    "forks": 513,
+    "created_at": "2026-10-12T07:11:01Z",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "rohit267/net-merge",
+    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "language": "Go",
+    "stars": 1572,
+    "forks": 81,
+    "created_at": "2026-10-12T19:28:45Z",
+    "url": "https://github.com/rohit267/net-merge",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "AhmadHassan-BTed/.github",
+    "description": "",
+    "language": "",
+    "stars": 1430,
+    "forks": 0,
+    "created_at": "2026-10-09T13:13:36Z",
+    "url": "https://github.com/AhmadHassan-BTed/.github",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "JoasASantos/REA-Prompts",
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+    "language": "",
+    "stars": 1375,
+    "forks": 205,
+    "created_at": "2026-10-19T22:20:47Z",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "rociiu/talorys",
+    "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+    "language": "TypeScript",
+    "stars": 1366,
+    "forks": 117,
+    "created_at": "2026-10-10T09:46:56Z",
+    "url": "https://github.com/rociiu/talorys",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "AjncSystem/ShadowOfTheColossus-PC",
+    "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+    "language": "C++",
+    "stars": 1342,
+    "forks": 77,
+    "created_at": "2026-10-12T13:11:53Z",
+    "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Image",
+    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+    "language": "Python",
+    "stars": 1331,
+    "forks": 66,
+    "created_at": "2026-10-16T01:18:13Z",
+    "url": "https://github.com/OpenMOSS/MOSS-Image",
+    "date": "2026-10-22"
+  },
+  {
+    "repo": "Caho1/open-claude-ui",
+    "description": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。",
+    "language": "TypeScript",
+    "stars": 1320,
+    "forks": 267,
+    "created_at": "2026-10-14T14:05:05Z",
+    "url": "https://github.com/Caho1/open-claude-ui",
+    "date": "2026-10-22"
+  }
+]
