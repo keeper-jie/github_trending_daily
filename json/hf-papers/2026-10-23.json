@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Deep Search in Real-World Web Environments",
+    "authors": "Xiaomin Yu, Hongliang Chen, Zhe Huang, Shilin Yan, Shao-Rong Su...",
+    "summary": "Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings,",
+    "upvotes": 72,
+    "url": "https://huggingface.co/papers/2610.30181",
+    "paper_url": "https://arxiv.org/abs/2610.30181",
+    "published_at": "2026-10-19",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
+    "authors": "Songlin Yang, Zhe Wang, Xiaotong Zhao, Xi Wang, Ran Zhang...",
+    "summary": "Cinematic video generation requires both temporal inference from limited inputs (i.e., sparse rather than frame-by-frame guidance) and factor-aware control of character, scene, action, and camera. Mul",
+    "upvotes": 59,
+    "url": "https://huggingface.co/papers/2610.30926",
+    "paper_url": "https://arxiv.org/abs/2610.30926",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models",
+    "authors": "Rubin Wei, Siyuan Sun, Hao Sun, Yuliang Liu, Xiang Shi...",
+    "summary": "Large language models need effective ways to acquire and use external knowledge beyond what they retain from pretraining. Continued pretraining risks catastrophic forgetting, while retrieval at infere",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2610.25100",
+    "paper_url": "https://arxiv.org/abs/2610.25100",
+    "published_at": "2026-10-18",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE",
+    "authors": "Ermo Hua, Xiangyu Hong, Baiting Wu, Che Jiang, Haozheng Hou...",
+    "summary": "As model parameters scale up, sparsely activated Mixture-of-Experts (MoE) approaches have become essential for model scaling. However, mainstream models currently adopt hierarchical architectures, whe",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2610.27598",
+    "paper_url": "https://arxiv.org/abs/2610.27598",
+    "published_at": "2026-10-20",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos",
+    "authors": "Zhuoran Zhang, Yang Shi, Qixun Wang, Tengfei Liu, Yuqi Tang...",
+    "summary": "Recent advances in video generation have made synthetic videos increasingly realistic, placing greater demands on reliable AI-generated video detection. Existing artifact-based detectors typically ide",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.30866",
+    "paper_url": "https://arxiv.org/abs/2610.30866",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Rethinking Sequence Compression with Test-time Regression",
+    "authors": "Sihan Yang, Jie Huang, Hanxuan Li, Yifan Guo, Weigao Sun...",
+    "summary": "Sequence compression is a fundamental operation and a critical information bottleneck in efficient language and multimodal models, and yet prevailing approaches based on pooling or learned projections",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.31574",
+    "paper_url": "https://arxiv.org/abs/2610.31574",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V",
+    "authors": "Zhenghan Chen, Zekai Shao, Xin Lin, Leting Cheng, Siming Chen",
+    "summary": "Code-based video generation offers fine-grained control, targeted editing, and component reuse compared with direct video generation. This approach requires multimodal large language models (MLLMs) to",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.28416",
+    "paper_url": "https://arxiv.org/abs/2610.28416",
+    "published_at": "2026-10-20",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents",
+    "authors": "Zhenyu Zhang, Kewei Fu, Yongqi Tong, Chenzhi Zheng, Wei Wu...",
+    "summary": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.26233",
+    "paper_url": "https://arxiv.org/abs/2610.26233",
+    "published_at": "2026-10-19",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought",
+    "authors": "Zhengye Bao, Shengtao Zhang, Haokai Zhang, Shiqi Lou, Muning Wen...",
+    "summary": "LLM memory is widely used in long-term conversation understanding. Agentic memory systems often use mutation, structural organization, learned retrieval strategies, or other complex operations. Is thi",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.30755",
+    "paper_url": "https://arxiv.org/abs/2610.30755",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+    "authors": "Jiahao Meng, Qize Yang, Yuxuan Wang, Yunfei Chu, Wensi Dai...",
+    "summary": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Genera",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.31158",
+    "paper_url": "https://arxiv.org/abs/2610.31158",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
+    "authors": "Wen Xue, Yong Liu, Xueheng Li, Si Wu, Yong Xu...",
+    "summary": "High-quality image editing requires precise modification of target regions while preserving the content of unrelated regions. Existing editing models produce flattened outputs that limit precise local",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.24738",
+    "paper_url": "https://arxiv.org/abs/2610.24738",
+    "published_at": "2026-10-17",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
+    "authors": "Advait Gupta, Sachin Konan, Tom Yin, Gabriel Sarch, Zhuang Liu",
+    "summary": "Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.31494",
+    "paper_url": "https://arxiv.org/abs/2610.31494",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "LaLa-World: Scaling Latent World Models with Natural Language Actions",
+    "authors": "Junha Song, Geonmo Gu, Jeongeun Park, Heejeong Nam, Lucas Maes...",
+    "summary": "This paper shows that JEPA-style latent world models (LWMs) can learn across diverse domains and data sources by adopting the language-conditioned interface of video generation models. We establish th",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.27851",
+    "paper_url": "https://arxiv.org/abs/2610.27851",
+    "published_at": "2026-10-21",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation",
+    "authors": "Hongcan Guo, Yian Zhao, Feng Wang, Shen Nie, Guoqiang Wei...",
+    "summary": "Hierarchical language generation separates continuous semantic modeling from discrete text realization, but its effectiveness depends on what the latent space compresses and how the discrete generator",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.31305",
+    "paper_url": "https://arxiv.org/abs/2610.31305",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks",
+    "authors": "Ivan Listopadov, Maksim Nakhodnov, Aibek Alanov",
+    "summary": "Selecting intermediate features from a frozen diffusion model for discriminative tasks is non-trivial because the useful signal is distributed across the denoising trajectory, network depth, and chann",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.28889",
+    "paper_url": "https://arxiv.org/abs/2610.28889",
+    "published_at": "2026-10-20",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "authors": "Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan...",
+    "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.31668",
+    "paper_url": "https://arxiv.org/abs/2610.31668",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Toward Recursive Self-Improvement in Physical AI",
+    "authors": "Meng Luo, Zechen Bai, Shanqing Xu, Yanlin Li, Kaixin Li...",
+    "summary": "Recursive self-improvement (RSI) describes a system that improves not only its behavior but also the process by which it improves. Recent digital agents test this idea by rewriting their own code and ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.29677",
+    "paper_url": "https://arxiv.org/abs/2610.29677",
+    "published_at": "2026-10-21",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "MolLean: A Process-Verifiable Language for Chemical Reasoning",
+    "authors": "Jiatong Li, Yatao Bian",
+    "summary": "Chemical chain-of-thought can contain hallucinated structural and property claims. We thereby introduce MolLean, a process-verifiable language that grounds chemical reasoning in an explicit molecular ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.20459",
+    "paper_url": "https://arxiv.org/abs/2610.20459",
+    "published_at": "2026-10-14",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
+    "authors": "Zhizhuo Kou, Sizai Hou, Long Chen, Jian Yang, Junyu Luo...",
+    "summary": "Reinforcement learning (RL) is credited with teaching reasoning models to write {wait} before reconsidering a step, yet large RL accuracy gains do not require the word. This view can confuse what RL d",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.30882",
+    "paper_url": "https://arxiv.org/abs/2610.30882",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+    "authors": "Arnon Mazza, Elad Levi",
+    "summary": "Policy enforcement for LLM agents has shifted from single-turn content moderation to compound, application-specific policies evaluated over multi-turn transcripts and tool-call trajectories. Fine-tune",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.31062",
+    "paper_url": "https://arxiv.org/abs/2610.31062",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation",
+    "authors": "Jinyu Zhang, Haitao Lin, Jiashu Hou, Xiangyang Xue, Yanwei Fu",
+    "summary": "This paper studies category-level RGB-D object pose estimation, which recovers an object's 3D rotation and translation without instance-specific CAD models or reference views. This task is highly ambi",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.31623",
+    "paper_url": "https://arxiv.org/abs/2610.31623",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Self-Distilling Future Video Representations for World Action Models",
+    "authors": "Huiwon Jang, Suhyeok Jang, Hyeonmo Kang, Seungku Kim, Jinwoo Shin...",
+    "summary": "World Action Models (WAMs) have emerged as a promising approach to learning generalist robot policies using rich spatiotemporal priors from pre-trained video diffusion models. A recent line of WAMs im",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.30320",
+    "paper_url": "https://arxiv.org/abs/2610.30320",
+    "published_at": "2026-10-21",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark",
+    "authors": "Ruicong Liu, Liangyang Ouyang, Fengbo Lan, Zhixiang Wang, Kaipeng Zhang",
+    "summary": "AI coding agents can now build small playable games in minutes, but the results usually look like programmer art: gray blockouts, colored geometric primitives, and flat semantic blobs. We present AnyG",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.31466",
+    "paper_url": "https://arxiv.org/abs/2610.31466",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS",
+    "authors": "Walaa Othman, Baher Mohammad, Stamatios Lefkimmiatis, Ammar Ali",
+    "summary": "Expanding the vocabulary of conditional text-to-speech (TTS) models typically requires extensive fine-tuning with paired audio, creating a major bottleneck for low-resource and cross-lingual adaptatio",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.26252",
+    "paper_url": "https://arxiv.org/abs/2610.26252",
+    "published_at": "2026-10-19",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Skeleton-Grounded Latent Action Model for Robot World Models",
+    "authors": "Qi Lv, Jiayi Lin, Yuxin Jiang, Jianzong Wang, Xiang Deng...",
+    "summary": "Robot world models simulate how environments evolve in response to robot actions. Latent action models enable learning dynamics from videos by encoding visual transitions as proxy actions. However, re",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.31474",
+    "paper_url": "https://arxiv.org/abs/2610.31474",
+    "published_at": "2026-10-22",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles",
+    "authors": "NVIDIA, Sérgio Agostinho, Maximilian Apodaca, Emmanuel Attia, Guillem Braso...",
+    "summary": "We introduce Foundation4D, a unified feed-forward model for geometry estimation, 3D detection, semantic occupancy, and Gaussian reconstruction from multi-camera driving video. A shared backbone uses f",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2610.30340",
+    "paper_url": "https://arxiv.org/abs/2610.30340",
+    "published_at": "2026-10-21",
+    "date": "2026-10-23"
+  }
+]

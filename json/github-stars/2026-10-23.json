@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Gathin23/cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "language": "Java",
+    "stars": 25032,
+    "forks": 2753,
+    "created_at": "2026-10-17T08:12:35Z",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "deepseek-ai/DeepInfer",
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "language": "Python",
+    "stars": 20210,
+    "forks": 2170,
+    "created_at": "2026-10-16T07:47:23Z",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "ly05010419/MacNativeGames",
+    "description": "",
+    "language": "C",
+    "stars": 4598,
+    "forks": 651,
+    "created_at": "2026-10-17T19:52:00Z",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "jhaizhou-ops/d2r-mobile",
+    "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+    "language": "C",
+    "stars": 4430,
+    "forks": 1204,
+    "created_at": "2026-10-12T08:41:19Z",
+    "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "Arekejoker/qwen21-nsfw-pose-skill",
+    "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+    "language": "Python",
+    "stars": 3643,
+    "forks": 648,
+    "created_at": "2026-10-13T03:09:42Z",
+    "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "HeyPuter/everything",
+    "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+    "language": "JavaScript",
+    "stars": 3617,
+    "forks": 451,
+    "created_at": "2026-10-13T16:18:22Z",
+    "url": "https://github.com/HeyPuter/everything",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "onehumanbeing/esp32-iphone-agent",
+    "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+    "language": "C",
+    "stars": 3578,
+    "forks": 472,
+    "created_at": "2026-10-11T19:10:25Z",
+    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+    "language": "Java",
+    "stars": 3558,
+    "forks": 510,
+    "created_at": "2026-10-19T19:29:01Z",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "language": "Kotlin",
+    "stars": 3343,
+    "forks": 242,
+    "created_at": "2026-10-20T09:13:06Z",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "liseami/CCBaga",
+    "description": "",
+    "language": "Rust",
+    "stars": 2884,
+    "forks": 302,
+    "created_at": "2026-10-11T03:47:06Z",
+    "url": "https://github.com/liseami/CCBaga",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "xiaoyang111222/cn-math-taxonomy",
+    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "language": "Python",
+    "stars": 2347,
+    "forks": 534,
+    "created_at": "2026-10-18T09:04:43Z",
+    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "language": "Python",
+    "stars": 2249,
+    "forks": 138,
+    "created_at": "2026-10-15T06:52:46Z",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "ahwootech/BRUTAL",
+    "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+    "language": "C#",
+    "stars": 2156,
+    "forks": 122,
+    "created_at": "2026-10-14T19:33:56Z",
+    "url": "https://github.com/ahwootech/BRUTAL",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "deeplethe/solid-glass",
+    "description": "A design system for AI applications. Material, physical, tactile, technical.",
+    "language": "TypeScript",
+    "stars": 2123,
+    "forks": 35,
+    "created_at": "2026-10-12T09:19:02Z",
+    "url": "https://github.com/deeplethe/solid-glass",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "seedds/nxnative",
+    "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+    "language": "C",
+    "stars": 1964,
+    "forks": 372,
+    "created_at": "2026-10-13T05:20:14Z",
+    "url": "https://github.com/seedds/nxnative",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "chenglou/handwired",
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "stars": 1944,
+    "forks": 158,
+    "created_at": "2026-10-15T02:15:09Z",
+    "url": "https://github.com/chenglou/handwired",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "tek-sys-hub/Rubix-lang",
+    "description": "The 100% Pure x86-64 Assembly Systems Language",
+    "language": "Assembly",
+    "stars": 1904,
+    "forks": 4,
+    "created_at": "2026-10-19T05:34:37Z",
+    "url": "https://github.com/tek-sys-hub/Rubix-lang",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "Supermedo/uncharted_pc",
+    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "language": "C++",
+    "stars": 1870,
+    "forks": 102,
+    "created_at": "2026-10-15T00:17:23Z",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "opengeos/RustGIS",
+    "description": "A fast, free and open-source GIS in pure Rust.",
+    "language": "Rust",
+    "stars": 1860,
+    "forks": 265,
+    "created_at": "2026-10-10T18:45:41Z",
+    "url": "https://github.com/opengeos/RustGIS",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "rohit267/net-merge",
+    "description": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)",
+    "language": "Go",
+    "stars": 1825,
+    "forks": 89,
+    "created_at": "2026-10-12T19:28:45Z",
+    "url": "https://github.com/rohit267/net-merge",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "mmparko/dsh-purge",
+    "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+    "language": "JavaScript",
+    "stars": 1792,
+    "forks": 2503,
+    "created_at": "2026-10-13T05:14:47Z",
+    "url": "https://github.com/mmparko/dsh-purge",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "shaongitbd/doory",
+    "description": "Open source canva alternative",
+    "language": "TypeScript",
+    "stars": 1767,
+    "forks": 134,
+    "created_at": "2026-10-10T00:03:25Z",
+    "url": "https://github.com/shaongitbd/doory",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "zhuyansen/new-term-radar",
+    "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+    "language": "Python",
+    "stars": 1710,
+    "forks": 530,
+    "created_at": "2026-10-12T07:11:01Z",
+    "url": "https://github.com/zhuyansen/new-term-radar",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "ikow/php2shell-poc",
+    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "language": "Python",
+    "stars": 1577,
+    "forks": 555,
+    "created_at": "2026-10-21T07:55:16Z",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "JoasASantos/REA-Prompts",
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+    "language": "",
+    "stars": 1504,
+    "forks": 226,
+    "created_at": "2026-10-19T22:20:47Z",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Image",
+    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+    "language": "Python",
+    "stars": 1496,
+    "forks": 73,
+    "created_at": "2026-10-16T01:18:13Z",
+    "url": "https://github.com/OpenMOSS/MOSS-Image",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "ctresb/leis",
+    "description": "Todas as leis do Brasil",
+    "language": "",
+    "stars": 1482,
+    "forks": 229,
+    "created_at": "2026-10-15T01:40:37Z",
+    "url": "https://github.com/ctresb/leis",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "alchaincyf/huashu-motion",
+    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+    "language": "JavaScript",
+    "stars": 1470,
+    "forks": 142,
+    "created_at": "2026-10-18T12:19:27Z",
+    "url": "https://github.com/alchaincyf/huashu-motion",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "aicodeking/leanrea",
+    "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+    "language": "Python",
+    "stars": 1387,
+    "forks": 208,
+    "created_at": "2026-10-17T02:53:24Z",
+    "url": "https://github.com/aicodeking/leanrea",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "AjncSystem/ShadowOfTheColossus-PC",
+    "description": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC.",
+    "language": "C++",
+    "stars": 1386,
+    "forks": 80,
+    "created_at": "2026-10-12T13:11:53Z",
+    "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
+    "date": "2026-10-23"
+  }
+]

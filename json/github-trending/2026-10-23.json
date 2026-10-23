@@ -1,0 +1,92 @@
+[
+  {
+    "repo": "php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "stars": 41288,
+    "forks": 8326,
+    "today_stars": 287,
+    "url": "https://github.com/php/php-src",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "anthropics/knowledge-work-plugins",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "stars": 31742,
+    "forks": 3542,
+    "today_stars": 303,
+    "url": "https://github.com/anthropics/knowledge-work-plugins",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "DietrichGebert/ponytail",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "stars": 173840,
+    "forks": 9466,
+    "today_stars": 1948,
+    "url": "https://github.com/DietrichGebert/ponytail",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "stars": 40003,
+    "forks": 2498,
+    "today_stars": 2979,
+    "url": "https://github.com/cloudflare/security-audit-skill",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "Graphify-Labs/graphify",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "language": "Python",
+    "stars": 133223,
+    "forks": 12735,
+    "today_stars": 1408,
+    "url": "https://github.com/Graphify-Labs/graphify",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "stars": 113579,
+    "forks": 17014,
+    "today_stars": 693,
+    "url": "https://github.com/supabase/supabase",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "fastapi/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "stars": 103896,
+    "forks": 10097,
+    "today_stars": 101,
+    "url": "https://github.com/fastapi/fastapi",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+    "language": "Python",
+    "stars": 43458,
+    "forks": 5410,
+    "today_stars": 177,
+    "url": "https://github.com/luongnv89/claude-howto",
+    "date": "2026-10-23"
+  },
+  {
+    "repo": "Meloong-Git/PCL",
+    "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+    "language": "Visual Basic .NET",
+    "stars": 8773,
+    "forks": 1220,
+    "today_stars": 119,
+    "url": "https://github.com/Meloong-Git/PCL",
+    "date": "2026-10-23"
+  }
+]
