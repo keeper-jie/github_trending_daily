@@ -1,0 +1,302 @@
+[
+  {
+    "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
+    "authors": "Qiwen Gu, Xin Zhou, Xiwu Chen, Zhongyang Zhu, Zhuo Zhang...",
+    "summary": "Controllable 3D part generation is pivotal for digital asset creation, yet existing methods lack the flexibility to accommodate diverse user workflows requiring varying levels of control. In this pape",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31671v1",
+    "abs_url": "https://arxiv.org/abs/2610.31671v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+    "authors": "Yunfei Xie, Howard H. Qian, Shiyi Lan, Kaiyu Hang, Chen Wei",
+    "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests",
+    "categories": "cs.CV, cs.LG, cs.RO",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31670v1",
+    "abs_url": "https://arxiv.org/abs/2610.31670v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+    "authors": "Shengqiong Wu, Meng Luo, Bobo Li, Ziwei Liu, Shuicheng Yan...",
+    "summary": "Video foundation models have advanced rapidly in understanding and generating visual sequences, while video world models seek to capture the underlying dynamics of the world they depict. Despite their",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31668v1",
+    "abs_url": "https://arxiv.org/abs/2610.31668v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+    "authors": "Mahdi Salmani, Adel Javanmard, Devansh Gupta, Meisam Razaviyayn",
+    "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31667v1",
+    "abs_url": "https://arxiv.org/abs/2610.31667v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Phase Transition from Random Features to Fully Trainable Networks",
+    "authors": "Xin He, Huan Lao, Xiliang Lu, Shijun Zhang",
+    "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt",
+    "categories": "math.NA, cs.LG, math.ST, stat.ML",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31663v1",
+    "abs_url": "https://arxiv.org/abs/2610.31663v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+    "authors": "Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani, Tijana Zrnic",
+    "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine",
+    "categories": "stat.ML, cs.LG, stat.ME",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31662v1",
+    "abs_url": "https://arxiv.org/abs/2610.31662v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+    "authors": "Sy-Tuyen Ho, Anirudh Satheesh, Soham Chawathe, Huy Nghiem, Yongkyun Lee...",
+    "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31659v1",
+    "abs_url": "https://arxiv.org/abs/2610.31659v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
+    "authors": "Sachin Gupta",
+    "summary": "Wrong automatic routing of an IT support ticket can cost more than human triage. We evaluate cost-aware abstention as an offline, cost-conditional readiness assessment: select a routing policy on cali",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31657v1",
+    "abs_url": "https://arxiv.org/abs/2610.31657v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning",
+    "authors": "Ali Najar, Hosein Hasani, Amir Kooshan Fattah, Yasamin Rajabi, Mahdieh Soleymani Baghshah",
+    "summary": "Meta-reinforcement learning aims to train agents that adapt quickly to unseen tasks from limited interaction, but this requires representing task evidence over long interaction histories. Classical re",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31656v1",
+    "abs_url": "https://arxiv.org/abs/2610.31656v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+    "authors": "Ava Pun, Kevin Dai, Sally Chen, Maxwell Jones, Ruixuan Liu...",
+    "summary": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assembl",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31651v1",
+    "abs_url": "https://arxiv.org/abs/2610.31651v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence",
+    "authors": "Qijin Zhang, Hanzhen Wang, Yuehan Zhao, Haoyu Dai, Yao Shu...",
+    "summary": "Tool-using language model agents rely on environmental facts to decide whether an action is permitted. When a tool response omits a safety-relevant fact, an agent may carry out a prohibited action eve",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31650v1",
+    "abs_url": "https://arxiv.org/abs/2610.31650v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Gate3DGen: A Pre-processing Model that Selectively Purifies Real-World Images for 3D Generation",
+    "authors": "Xiaolin Li, Zihao Huang, Fanpeng Meng, Chen Yang, Guanjun Wu...",
+    "summary": "Single-image 3D generation has achieved high fidelity on curated benchmarks, yet degrades sharply on real-world images with uneven illumination, blur, and occlusions. Purifying such inputs requires de",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31649v1",
+    "abs_url": "https://arxiv.org/abs/2610.31649v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Low-Bit N-Gram Embeddings for Language Models",
+    "authors": "Stephen Chung, Wenyu Du",
+    "summary": "Many recent open-weight language models use n-gram embedding tables to improve performance. These tables store learned representations of short token sequences, such as pairs or triples of consecutive",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31646v1",
+    "abs_url": "https://arxiv.org/abs/2610.31646v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields",
+    "authors": "Namitha Guruprasad, Abhay Yadav, Cheng Peng, Rama Chellappa, Anand Bhattad",
+    "summary": "Monocular models recover 3D geometry from a single image in one pass, but most assume a pinhole camera and produce distorted geometry on the wide-angle imagery produced by fisheye and panoramic lenses",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31645v1",
+    "abs_url": "https://arxiv.org/abs/2610.31645v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "GigaBench: Benchmarking Learnable Representations for Gigapixel Image Compression and Super-Resolution",
+    "authors": "Matteo Fusconi, Alex Costanzino, Pierluigi Zama Ramirez, Luigi Di Stefano",
+    "summary": "Learnable Representations (LRs) can fit parametric families of functions to diverse kinds of signals. These emergent neural-native data formats are gathering interest in the scientific community due t",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31644v1",
+    "abs_url": "https://arxiv.org/abs/2610.31644v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "A Fix for Softmax and Cross-Entropy",
+    "authors": "Jonathan T. Barron, Dan Gnanapragasam, Michael Tschannen",
+    "summary": "Standard implementations of softmax, log-softmax, and cross-entropy have two numerical bugs. The first bug, Softmax Collapse, rounds the target logit's gradient to zero if that one logit is much large",
+    "categories": "cs.LG",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31642v1",
+    "abs_url": "https://arxiv.org/abs/2610.31642v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "UniVOE: A Removal-Driven Framework for Interaction-Aware Universal Video Object Editing",
+    "authors": "Shuzhou Yang, Lanqing Guo, Lingen Li, Weiqi Li, Zhao Zhong...",
+    "summary": "Video object removal and injection are reciprocal editing operations between object-present and object-absent video states, yet they differ substantially in training difficulty. Removal can be effecti",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31641v1",
+    "abs_url": "https://arxiv.org/abs/2610.31641v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "WorldForge V2: Eliciting Camera-Trajectory Alignment in Video Diffusion Models",
+    "authors": "Chenxi Song, Yanming Yang, Tong Zhao, Ruibo Li, Joey Tianyi Zhou...",
+    "summary": "Video diffusion models have learned rich 3D/4D priors, making them promising for scene generation and video re-rendering. However, their use in spatial tasks is limited by imprecise camera control, sp",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31640v1",
+    "abs_url": "https://arxiv.org/abs/2610.31640v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation",
+    "authors": "Gabriele Dominici, Teague McMillan, Fazl Barez, Marc Langheinrich, Martin Gjoreski",
+    "summary": "Chain-of-thought (CoT) prompting elicits step-by-step rationales that appear to explain model predictions, but there is no guarantee these steps causally drive the final answer. In standard autoregres",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31639v1",
+    "abs_url": "https://arxiv.org/abs/2610.31639v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2",
+    "authors": "Marek Šuppa, Ivan Vykopal, Jaroslav Kopčan",
+    "summary": "Multilingual pipelines such as FineWeb2 apply one recipe across a thousand languages, leaving the failure modes of individual languages unanticipated. We use an LLM once, as a corpus debugger rather t",
+    "categories": "cs.CL",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31636v1",
+    "abs_url": "https://arxiv.org/abs/2610.31636v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction",
+    "authors": "Zunnan Xu, Shangchen Zhou, Yihang Luo, Chen Change Loy",
+    "summary": "Feed-forward models accurately estimate camera motion and 3D geometry from short video windows. However, computational and memory costs prevent direct inference on sequences containing thousands of fr",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31635v1",
+    "abs_url": "https://arxiv.org/abs/2610.31635v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing",
+    "authors": "Hayden Prairie, Jacob M. Ryan, Taylor Berg-Kirkpatrick, Daniel Y. Fu",
+    "summary": "Looped architectures scale quality while keeping parameter count fixed by repeatedly passing activations through the same block of layers. During inference, each recurrence generates independent KV-ca",
+    "categories": "cs.LG",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31633v1",
+    "abs_url": "https://arxiv.org/abs/2610.31633v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
+    "authors": "Barış Alparslan, Sandy Tanwisuth, Caleb Petterson",
+    "summary": "Instrumental convergence is often invoked as a general reason to expect capable agents to acquire or express power-seeking subgoals: self-preservation, resource acquisition, deception, or resistance t",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31624v1",
+    "abs_url": "https://arxiv.org/abs/2610.31624v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation",
+    "authors": "Jinyu Zhang, Haitao Lin, Jiashu Hou, Xiangyang Xue, Yanwei Fu",
+    "summary": "This paper studies category-level RGB-D object pose estimation, which recovers an object's 3D rotation and translation without instance-specific CAD models or reference views. This task is highly ambi",
+    "categories": "cs.CV",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31623v1",
+    "abs_url": "https://arxiv.org/abs/2610.31623v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Bilingual Language Models Capture Cross-Linguistic Influence in Second-Language Reading",
+    "authors": "Abderrahmane Issam, Irene E. Winther, Stefan L. Frank",
+    "summary": "While monolingual language model (LM) surprisal is widely established as a predictor of reading times, it cannot capture the non-native (L2) reading dynamics that are shaped by the reader's first lang",
+    "categories": "cs.CL",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31620v1",
+    "abs_url": "https://arxiv.org/abs/2610.31620v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "OP-Print: Tracing Membership Imprints in On-Policy Self-Distillation",
+    "authors": "Qi Li, Xinchao Wang",
+    "summary": "On-policy distillation has been widely adopted for alleviating the distribution mismatch of off-policy distillation. Self-distillation further removes the need for an external teacher by using the stu",
+    "categories": "cs.LG, cs.CR",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31616v1",
+    "abs_url": "https://arxiv.org/abs/2610.31616v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
+    "authors": "Gautam Kamath, Mahbod Majid, Ankur Moitra, Argyris Mouzakis, Jonathan Ullman",
+    "summary": "We study learning a discrete distribution under person-level differential privacy in the batched setting. Given $n$ users, each contributing $m$ i.i.d. samples from an unknown distribution $μ$ over $[",
+    "categories": "cs.LG, cs.CR, cs.DS",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31612v1",
+    "abs_url": "https://arxiv.org/abs/2610.31612v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "How Ground Truth Shapes Retrieval Scores: Evidence-Aware Evaluation of a Retrieval-Augmented Generation System for Breast Lesions",
+    "authors": "Miguel Mochizuki Silva, Samuel Ismael, Mateus C. Dias, Thaís Gaudêncio, Yuri Malheiros...",
+    "summary": "Purpose: To describe an evidence-aware retrieval evaluation protocol for a clinical retrieval-augmented generation (RAG) system over breast lesion management literature, addressing the dependence of r",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31606v1",
+    "abs_url": "https://arxiv.org/abs/2610.31606v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "CRANE: Post-Hoc Counterfactual Retrieval for Multimodal Classifiers",
+    "authors": "Franco Rugolon, Ioanna Miliou, Panagiotis Papapetrou",
+    "summary": "Counterfactual explanation methods have been introduced for unimodal settings, with dedicated frameworks for tabular, timeseries, text, and image data, yet no post-hoc method has been designed for cla",
+    "categories": "cs.LG",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31594v1",
+    "abs_url": "https://arxiv.org/abs/2610.31594v1",
+    "date": "2026-10-24"
+  },
+  {
+    "title": "Simulated Control Evals",
+    "authors": "Jeffrey Olmo, David Zhang, Tyler Tracy",
+    "summary": "Control evaluations measure whether safeguards can prevent an AI model from causing undesired outcomes even when it is intentionally trying to do so. These evaluations typically use purpose-built cont",
+    "categories": "cs.AI",
+    "published": "2026-10-22",
+    "pdf_url": "https://arxiv.org/pdf/2610.31593v1",
+    "abs_url": "https://arxiv.org/abs/2610.31593v1",
+    "date": "2026-10-24"
+  }
+]
