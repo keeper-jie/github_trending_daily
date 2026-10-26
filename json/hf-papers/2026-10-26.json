@@ -1,0 +1,132 @@
+[
+  {
+    "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+    "authors": "Jujia Zhao, Jiakai Tang, Jing Yu, Wen Chen, Jian Wu...",
+    "summary": "Agentic recommendation pursues shopper goals through sequences of context-dependent decisions. Developing and evaluating such policies requires faithful recommendation world models that capture both t",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2610.30932",
+    "paper_url": "https://arxiv.org/abs/2610.30932",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+    "authors": "Zecong Tang, Zian Guan, Yuncheng Guo, Zhanqiu Zhang, Yiwen Guo...",
+    "summary": "Building virtual embodied agents that operate in open-ended games like human players is a long-standing goal requiring both long-horizon autonomy and reliable native-interface control. As a procedural",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.31162",
+    "paper_url": "https://arxiv.org/abs/2610.31162",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+    "authors": "Zimu Wang, Xiaobo Wang, Siyu Ye, Jiaqi Li, Silin Chen...",
+    "summary": "Agent-evolution methods use execution feedback to improve prompts, skills, tools, and orchestration, but their implementations often rebuild the same experimental machinery. We present RSIHub, an open",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2610.32253",
+    "paper_url": "https://arxiv.org/abs/2610.32253",
+    "published_at": "2026-10-23",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs",
+    "authors": "Zijian Liu, Chaoyou Fu, Yan Yang, Caifeng Shan, Ran He",
+    "summary": "Recent Omni LLMs (OLLMs) have demonstrated remarkable capabilities in joint audio-visual reasoning, yet cross-modal hallucinations remain a major challenge. Existing mitigation methods mainly operate ",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.27103",
+    "paper_url": "https://arxiv.org/abs/2610.27103",
+    "published_at": "2026-10-19",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "RynnUnify: Towards Unified Embodied Brain",
+    "authors": "Minghao Zhu, Bohan Hou, Kun Xiang, Zixuan Wang, Yinzhou Tang...",
+    "summary": "We introduce RynnUnify, a 16B unified embodied model that combines strong embodied understanding with long-horizon visual planning through interleaved video--language reasoning. With capabilities span",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.32965",
+    "paper_url": "https://arxiv.org/abs/2610.32965",
+    "published_at": "2026-10-23",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Dual Exam: Controlled Evaluation of Multimodal Agents and World Models",
+    "authors": "Zhefan Rao, Meng Chu, Xuan Zhang, Jingfan Chen, Guohao Cai...",
+    "summary": "World Models (WMs) can support Multimodal Agents (MAs) through simulated experience, while Agent trajectories can inform World Model refinement. Evaluating this interaction requires separate evidence ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.31066",
+    "paper_url": "https://arxiv.org/abs/2610.31066",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction",
+    "authors": "Ziang Zhang, Wenyou Yi, Zehan Wang, Jiachen Xu, Xintong Han...",
+    "summary": "Single-image 3D scene construction is a fundamental problem in 3D vision. Recent methods such as SAM-3Dfy enable end-to-end reconstruction of 3D assets and their scene layouts, but still struggle with",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.32250",
+    "paper_url": "https://arxiv.org/abs/2610.32250",
+    "published_at": "2026-10-23",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models",
+    "authors": "Yufeng Liu, Bohao Fan, Juntu Zhao, Xinyi Wang, Hang Yu...",
+    "summary": "Recognizing task completion and failure enables robots to stop upon success and initiate recovery or replanning after failure. Existing methods augment Vision Language Action (VLA) policies with task ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.31569",
+    "paper_url": "https://arxiv.org/abs/2610.31569",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
+    "authors": "Shuyang Cui, Zhi Zhong, Keisuke Toyama, Koichi Saito, Qiyu Wu...",
+    "summary": "Music source separation (MSS) has been conventionally addressed by discriminative methods. Recently, flow matching has emerged as a strong generative paradigm for modeling complex data distributions, ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.17821",
+    "paper_url": "https://arxiv.org/abs/2610.17821",
+    "published_at": "2026-10-14",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding",
+    "authors": "Xin Zhang, Haochen Wang, Beibei Lin, Zhaoxiang Zhang, Robby T. Tan...",
+    "summary": "Fine-grained multimodal intelligence requires models to both understand a designated region and localize it from language. Existing methods learn these directions with separate objectives and task-spe",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.29552",
+    "paper_url": "https://arxiv.org/abs/2610.29552",
+    "published_at": "2026-10-21",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model",
+    "authors": "Zixian Gao, Lixin Xiu, Penghao Luo, Xiangcheng Cao, Ziqi Cai...",
+    "summary": "A live esports broadcast needs a director who chooses which camera goes on air and a caster who talks over that choice, every second and without knowing what comes next. Streaming video language model",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.31734",
+    "paper_url": "https://arxiv.org/abs/2610.31734",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training",
+    "authors": "Xihan Ma, Bo Zhang, Boxiong Li, Yuhan Bao, Ziyue Liu...",
+    "summary": "HoloBoxing presents a simple recipe for learning humanoid boxing by building on a pretrained whole-body controller. The recipe separates reusable motor skills from task decisions: a compact planner re",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.32909",
+    "paper_url": "https://arxiv.org/abs/2610.32909",
+    "published_at": "2026-10-23",
+    "date": "2026-10-26"
+  },
+  {
+    "title": "Every Weight Is a Path of Shared Discrete Decisions",
+    "authors": "Ammar Ali, Stamatis Lefkimmiatis",
+    "summary": "We introduce TWIG (Tree-structured Weights with Inherited Gates), a representation in which every weight of a neural network is the end of a path of small discrete decisions: a sign, a shift by a powe",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2610.31931",
+    "paper_url": "https://arxiv.org/abs/2610.31931",
+    "published_at": "2026-10-22",
+    "date": "2026-10-26"
+  }
+]

@@ -126,6 +126,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 11 | [Trending](md/github-trending/2026-10-26.md) |
 | 2026-10-25 | 10 | [Trending](md/github-trending/2026-10-25.md) |
 | 2026-10-24 | 8 | [Trending](md/github-trending/2026-10-24.md) |
 | 2026-10-23 | 9 | [Trending](md/github-trending/2026-10-23.md) |
@@ -179,6 +180,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 30 | [Hacker News](md/hacker-news/2026-10-26.md) |
 | 2026-10-25 | 30 | [Hacker News](md/hacker-news/2026-10-25.md) |
 | 2026-10-24 | 30 | [Hacker News](md/hacker-news/2026-10-24.md) |
 | 2026-10-23 | 30 | [Hacker News](md/hacker-news/2026-10-23.md) |
@@ -232,6 +234,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 30 | [HF Models](md/huggingface/2026-10-26.md) |
 | 2026-10-25 | 30 | [HF Models](md/huggingface/2026-10-25.md) |
 | 2026-10-24 | 30 | [HF Models](md/huggingface/2026-10-24.md) |
 | 2026-10-23 | 30 | [HF Models](md/huggingface/2026-10-23.md) |
@@ -285,6 +288,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 30 | [GitHub Stars](md/github-stars/2026-10-26.md) |
 | 2026-10-25 | 30 | [GitHub Stars](md/github-stars/2026-10-25.md) |
 | 2026-10-24 | 30 | [GitHub Stars](md/github-stars/2026-10-24.md) |
 | 2026-10-23 | 30 | [GitHub Stars](md/github-stars/2026-10-23.md) |
@@ -338,6 +342,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 10 | [Reddit](md/reddit/2026-10-26.md) |
 | 2026-10-25 | 20 | [Reddit](md/reddit/2026-10-25.md) |
 | 2026-10-24 | 10 | [Reddit](md/reddit/2026-10-24.md) |
 | 2026-10-23 | 10 | [Reddit](md/reddit/2026-10-23.md) |
@@ -390,6 +395,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 30 | [arXiv](md/arxiv/2026-10-26.md) |
 | 2026-10-25 | 30 | [arXiv](md/arxiv/2026-10-25.md) |
 | 2026-10-24 | 30 | [arXiv](md/arxiv/2026-10-24.md) |
 | 2026-10-23 | 30 | [arXiv](md/arxiv/2026-10-23.md) |
@@ -438,6 +444,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 30 | [Dev.to](md/devto/2026-10-26.md) |
 | 2026-10-25 | 30 | [Dev.to](md/devto/2026-10-25.md) |
 | 2026-10-24 | 30 | [Dev.to](md/devto/2026-10-24.md) |
 | 2026-10-23 | 30 | [Dev.to](md/devto/2026-10-23.md) |
@@ -490,6 +497,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 25 | [Lobsters](md/lobsters/2026-10-26.md) |
 | 2026-10-25 | 25 | [Lobsters](md/lobsters/2026-10-25.md) |
 | 2026-10-24 | 25 | [Lobsters](md/lobsters/2026-10-24.md) |
 | 2026-10-23 | 25 | [Lobsters](md/lobsters/2026-10-23.md) |
@@ -542,6 +550,7 @@ hf_papers:
 
 | Date | Count | Link |
 |------|-------|------|
+| 2026-10-26 | 13 | [HF Papers](md/hf-papers/2026-10-26.md) |
 | 2026-10-24 | 30 | [HF Papers](md/hf-papers/2026-10-24.md) |
 | 2026-10-23 | 26 | [HF Papers](md/hf-papers/2026-10-23.md) |
 | 2026-10-22 | 30 | [HF Papers](md/hf-papers/2026-10-22.md) |

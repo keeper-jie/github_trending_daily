@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Just finished my multiplayer system in C and turns out we can support 50k players in a single server at 60hz simulation tick",
+    "score": 0,
+    "num_comments": 0,
+    "author": "dechichi",
+    "url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xf4c5d/just_finished_my_multiplayer_system_in_c_and/",
+    "rank": 1,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "HTMX creator on the history of REST and why he thinks we got it wrong",
+    "score": 0,
+    "num_comments": 0,
+    "author": "creasta29",
+    "url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xezyoh/htmx_creator_on_the_history_of_rest_and_why_he/",
+    "rank": 2,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Rewinding the exponential: How we keep hardware usage down",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xf0aai/rewinding_the_exponential_how_we_keep_hardware/",
+    "rank": 3,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Broccoli2Shell: Brotli decoder RCE (CVE-2026-111497) in Node.js, Python and more",
+    "score": 0,
+    "num_comments": 0,
+    "author": "CircumspectCapybara",
+    "url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xe7dp8/broccoli2shell_brotli_decoder_rce_cve2026111497/",
+    "rank": 4,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Talk from JavaOne 2026 -- What's Going Wrong with My JVM?! A Guide to First-Time Failure Diagnosis",
+    "score": 0,
+    "num_comments": 0,
+    "author": "davidalayachew",
+    "url": "https://www.reddit.com/r/programming/comments/1xfjqcj/talk_from_javaone_2026_whats_going_wrong_with_my/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xfjqcj/talk_from_javaone_2026_whats_going_wrong_with_my/",
+    "rank": 5,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "I'm Building My Own Programming Language",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Elfet",
+    "url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xfnoth/im_building_my_own_programming_language/",
+    "rank": 6,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "eMudhra's Press Release on the CA Compromise",
+    "score": 0,
+    "num_comments": 0,
+    "author": "random8847",
+    "url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xd9rwe/emudhras_press_release_on_the_ca_compromise/",
+    "rank": 7,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How close can pure FP get to C?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "bosyluke",
+    "url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xdjru9/how_close_can_pure_fp_get_to_c/",
+    "rank": 8,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How to Make Things, and Why - Stuart Halloway (Clojure/Conj 2026)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexdmiller",
+    "url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xdh3hh/how_to_make_things_and_why_stuart_halloway/",
+    "rank": 9,
+    "date": "2026-10-26"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Where did my freed memory (not) go?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "JameEnder",
+    "url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xcwsc3/where_did_my_freed_memory_not_go/",
+    "rank": 10,
+    "date": "2026-10-26"
+  }
+]
