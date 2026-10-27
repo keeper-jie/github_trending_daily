@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+    "authors": "Chao Wan, Paul Jünger, Beixi Du, Bodong Liu, Navaneetha Krishnan...",
+    "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r",
+    "categories": "cs.AI",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35868v1",
+    "abs_url": "https://arxiv.org/abs/2610.35868v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Center-of-Mass Interpretation of Evolution Strategies",
+    "authors": "Akshat Gupta",
+    "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35865v1",
+    "abs_url": "https://arxiv.org/abs/2610.35865v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+    "authors": "Xi Chen, Chongjian Ge, Yiran Xu, Yiqun Mei, Henrik I. Christensen...",
+    "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark",
+    "categories": "cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35866v1",
+    "abs_url": "https://arxiv.org/abs/2610.35866v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+    "authors": "Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen...",
+    "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a ruleconsistent game or narration synchronized to on-screen events. A different route",
+    "categories": "cs.CV",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35864v1",
+    "abs_url": "https://arxiv.org/abs/2610.35864v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+    "authors": "Sihang Li, Xiaofeng Guo, Jinkun Cao, Charlie Cheng, Ruihan Yang...",
+    "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ",
+    "categories": "cs.RO, cs.AI, cs.LG, eess.SY",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35862v1",
+    "abs_url": "https://arxiv.org/abs/2610.35862v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Do vision models know that three is three?",
+    "authors": "Ankit Sonthalia, Arnas Uselis, Seong Joon Oh",
+    "summary": "Do vision models encode the transition $2{\\to}3$ the same way whether it appears in handwritten digits or in hand gestures, and do they \"understand\" that clean${\\to}$dirty is the same transformation r",
+    "categories": "cs.CV",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35857v1",
+    "abs_url": "https://arxiv.org/abs/2610.35857v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "On the stability of learning",
+    "authors": "John J. Vastola",
+    "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for e",
+    "categories": "q-bio.NC, cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35856v1",
+    "abs_url": "https://arxiv.org/abs/2610.35856v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+    "authors": "Eunbeen Hong, Hyeonseo Yu, Honggyu An, Jooho Son, Hyunah Ko...",
+    "summary": "4D novel view synthesis (NVS) aims to render dynamic scenes across viewpoints and timestamps, which requires jointly inferring 3D structure and temporal dynamics. Existing monocular feed-forward metho",
+    "categories": "cs.CV",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35854v1",
+    "abs_url": "https://arxiv.org/abs/2610.35854v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "OSWAM: An Effective World Action Model with One-Step Action Generation",
+    "authors": "Guowen Zhang, Liyi Chen, Xu Hu, Pengfei Wang, Jingfan Chen...",
+    "summary": "Direct-policy World Action Models (WAM) have demonstrated the benefits of decoupling action generation from explicit future visual prediction for efficient inference in autonomous driving and embodied",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35850v1",
+    "abs_url": "https://arxiv.org/abs/2610.35850v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Patient-specific rubric-based evaluation of large language models across longitudinal cancer care",
+    "authors": "Wei-Wei Zhang, Pengkai Wang, Yan Li, Zhijie Sang, Guan-Qun Zhou...",
+    "summary": "Large language models (LLMs) show promise in specialty medicine, yet existing evaluations largely focus on isolated clinical encounters rather than tracking how clinical responsibilities evolve across",
+    "categories": "cs.AI",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35847v1",
+    "abs_url": "https://arxiv.org/abs/2610.35847v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR",
+    "authors": "Yuchen Zhang, Haralambos Mouratidis, Ravi Shekhar",
+    "summary": "Expanding multilingual ASR systems to new languages is challenging when adaptation must preserve previously supported languages without replaying source-language training data. We study this problem i",
+    "categories": "cs.CL",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35846v1",
+    "abs_url": "https://arxiv.org/abs/2610.35846v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Work Agents: Systems, Capabilities, and Optimization",
+    "authors": "Zishan Xu, Enjun Du, Mingqi Gao, Cheng Yang, Junhao Shen...",
+    "summary": "As foundation models evolve from information generation to digital work execution, agents are increasingly capable of completing complex tasks across tools, applications, and workflows. However, exist",
+    "categories": "cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35845v1",
+    "abs_url": "https://arxiv.org/abs/2610.35845v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+    "authors": "Chenglong Ma, Yuanfeng Ji, Junzhi Ning, Jiyao Liu, Yujie Wei...",
+    "summary": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a spe",
+    "categories": "eess.IV, cs.CV",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35842v1",
+    "abs_url": "https://arxiv.org/abs/2610.35842v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "I-HITL: Inalienable Human-in-the-Loop",
+    "authors": "Samuel Breckenridge, Dani Vilardell, Wenhao Wang, Fan Zhang, Ari Juels",
+    "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, th",
+    "categories": "cs.CR, cs.AI",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35835v1",
+    "abs_url": "https://arxiv.org/abs/2610.35835v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization",
+    "authors": "Shreya Meel, Sennur Ulukus, Itzhak Tamo",
+    "summary": "In federated learning (FL), secure aggregation enables a server to compute the sum of local model updates of $N$ clients, without revealing any information on the individual model updates to the serve",
+    "categories": "cs.IT, cs.CR, cs.LG, cs.NI, eess.SP",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35833v1",
+    "abs_url": "https://arxiv.org/abs/2610.35833v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Policy",
+    "authors": "Yifei Yao, Yude Zou, Guanbo Jiao, Xing Gao, Ning Gao...",
+    "summary": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35832v1",
+    "abs_url": "https://arxiv.org/abs/2610.35832v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
+    "authors": "Amine Lbath, Massih-Reza Amini",
+    "summary": "A vulnerability costs more to fix the later it is discovered. As coding agents generate code faster than developers can review it, software needs a first line of defense screening each new function in",
+    "categories": "cs.CR, cs.AI",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35829v1",
+    "abs_url": "https://arxiv.org/abs/2610.35829v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Seeing Through Distractions: Context-Stable Attribution via the Least Core",
+    "authors": "Sai Ganesh Nagarajan, Toshinori Yamauchi, Hiroshi Kera",
+    "summary": "Shapley-value-based explanations are widely used for feature attribution in machine learning. However, in computer vision, a feature may reduce the target-class score when added to the complete genuin",
+    "categories": "cs.CV, cs.GT",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35827v1",
+    "abs_url": "https://arxiv.org/abs/2610.35827v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Understanding Jev-Style System One Models: Does Structure Reduce Selection Bias?",
+    "authors": "Mingyang Song, Mao Zheng, Zhiyuan Ma, Xinpeng Zhou",
+    "summary": "Selection bias in large language models (LLMs) can persist despite instructions to ignore presentation order or prompts that elicit reasoning. Recent efforts to reproduce Jev-style System One behavior",
+    "categories": "cs.CL",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35826v1",
+    "abs_url": "https://arxiv.org/abs/2610.35826v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Back to Basics: A Skill-Centric Approach to Generalist Web Agents",
+    "authors": "Minh Pham-Dinh, Md Farhan Ishmam, Hernan Yupanqui, Reaz Hassan Joarder, Kenneth Marino",
+    "summary": "Browser agents do not just need more practice. They need to practice the right things. We introduce MiniWeb, a realistic miniature of the web comprising 65 interconnected websites across 15 domains, w",
+    "categories": "cs.CV",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35823v1",
+    "abs_url": "https://arxiv.org/abs/2610.35823v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in a Sim-Trained Robot Agent",
+    "authors": "Benjamin Pikus, Daniel Saunders, Mircea Mironenco, Salman Mohammadi, Mathew Mathew...",
+    "summary": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a re",
+    "categories": "cs.RO, cs.AI, cs.CV, cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35817v1",
+    "abs_url": "https://arxiv.org/abs/2610.35817v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Multimodal Concert Video Editing: System Design and Exploratory Evaluation",
+    "authors": "Lennart Schiweck, Adrian Kempf, Michelle Retig, Moritz Feucht, Tim Mangliers...",
+    "summary": "Editing multi-camera concerts requires coordinated decisions about musical relevance, visual quality and cut timing. We present a modular framework that combines instrument activity from multitrack au",
+    "categories": "cs.MM, cs.CV, cs.SD",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35816v1",
+    "abs_url": "https://arxiv.org/abs/2610.35816v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Does VGGT Know What It Does Not Know?",
+    "authors": "Adityan Thirumani Srinivasan, David Nordström",
+    "summary": "Feed-forward 3D reconstruction models such as VGGT regress cameras and geometry in a single forward pass, but they report no uncertainty for the camera poses they predict: an incorrect relative pose l",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35806v1",
+    "abs_url": "https://arxiv.org/abs/2610.35806v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Learning When to Commit: Schedule Distillation for Fast Diffusion Language Models",
+    "authors": "Aidar Myrzakhan, Zhiqiang Shen",
+    "summary": "Diffusion large language models (dLLMs) can generate multiple tokens in parallel, but often require many decoding rounds to complete a response. Efficient generation depends not only on which tokens a",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35804v1",
+    "abs_url": "https://arxiv.org/abs/2610.35804v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Game theory of academic effort and hiring in the age of AI",
+    "authors": "Saptarshi Pal, Peter S. Park",
+    "summary": "Many academic disciplines (in particular, mathematics and the theoretical sciences) face difficult questions about how to adapt their practices to the rise of highly capable artificial intelligence (A",
+    "categories": "cs.AI, cs.CY, cs.GT",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35802v1",
+    "abs_url": "https://arxiv.org/abs/2610.35802v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "FOCUS: Active Critic Learning for Long-Horizon Language Model Agents",
+    "authors": "Zhengping Jiang, William Jurayj, Liaoyaqi Wang, Chunsheng Zuo, Anqi Liu...",
+    "summary": "Sparse outcome rewards make it difficult for long-horizon language-model agents to assign credit to earlier actions. Learned critics provide value estimates for intermediate states, but these estimate",
+    "categories": "cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35801v1",
+    "abs_url": "https://arxiv.org/abs/2610.35801v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Quantifying Claim Smoothing by LLM Research Agents",
+    "authors": "Tiasa Singha Roy, Manya Wadhwa, Greg Durrett",
+    "summary": "Deep research, or any use of large language models (LLMs) to read a large document collection and produce insights, requires synthesizing information from different sources. In this work, we find that",
+    "categories": "cs.CL",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35793v1",
+    "abs_url": "https://arxiv.org/abs/2610.35793v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Selective Tie Learning: Mitigating Spurious Correlations in Preference Optimization",
+    "authors": "Christian Moya, Purav Matlia, Elliott Thornley, Guang Lin",
+    "summary": "Preference optimization can learn spurious correlations, and augmenting the preference data with ties (equally preferred responses) can reduce spurious reliance. However, ties differ in their correcti",
+    "categories": "cs.LG",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35787v1",
+    "abs_url": "https://arxiv.org/abs/2610.35787v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "A theory of noisy linear recurrent neural network learning dynamics",
+    "authors": "John J. Vastola, Kanaka Rajan",
+    "summary": "Biological neural networks are noisy: their dynamics involve difficult-to-predict fluctuations which are likely due not just to chaos, but also to a variety of low-level biophysical processes. Despite",
+    "categories": "cs.LG, q-bio.NC",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35785v1",
+    "abs_url": "https://arxiv.org/abs/2610.35785v1",
+    "date": "2026-10-27"
+  },
+  {
+    "title": "Atomic Security Concerns: Towards a Foundational Language for Security Knowledge Representation",
+    "authors": "Hanane Houmani",
+    "summary": "Cybersecurity governance, risk management, compliance, and security architecture rely on numerous concepts, including security properties, domains, controls, risks, implementation measures, capabiliti",
+    "categories": "cs.CR, cs.CL",
+    "published": "2026-10-26",
+    "pdf_url": "https://arxiv.org/pdf/2610.35782v1",
+    "abs_url": "https://arxiv.org/abs/2610.35782v1",
+    "date": "2026-10-27"
+  }
+]
