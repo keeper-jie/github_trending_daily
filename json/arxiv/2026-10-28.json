@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+    "authors": "Prakhar Kaushik, Soumava Paul, Alan Yuille",
+    "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int",
+    "categories": "cs.CV, cs.AI, cs.GR, cs.LG",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37668v1",
+    "abs_url": "https://arxiv.org/abs/2610.37668v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang...",
+    "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37666v1",
+    "abs_url": "https://arxiv.org/abs/2610.37666v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+    "authors": "Jialv Zou, Xiaotong Li, Zhengrong Yue, Xu Huang, Yaxin Luo...",
+    "summary": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantizat",
+    "categories": "cs.CV",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37662v1",
+    "abs_url": "https://arxiv.org/abs/2610.37662v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "When Should We Intervene at Test Time?",
+    "authors": "Jiahao Zhang, Xinling Wen, Liangliang Li, Yu Chen",
+    "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ",
+    "categories": "cs.LG",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37658v1",
+    "abs_url": "https://arxiv.org/abs/2610.37658v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+    "authors": "Igor Shilov, Xiaoxue Yang, Alexander Panfilov, Evgenii Kortukov, Matthieu Meeus...",
+    "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri",
+    "categories": "cs.LG, cs.CL, cs.CR",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37657v1",
+    "abs_url": "https://arxiv.org/abs/2610.37657v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+    "authors": "Aakash Sarkar, Ananya Mukherjee, Motoshige Sato",
+    "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa",
+    "categories": "cs.LG, cs.AI, physics.comp-ph",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37656v1",
+    "abs_url": "https://arxiv.org/abs/2610.37656v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+    "authors": "Wenqing Peng, Michael Boy, Zhi-Song Liu",
+    "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable program",
+    "categories": "cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37655v1",
+    "abs_url": "https://arxiv.org/abs/2610.37655v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+    "authors": "Ian Chuang, Hiya Shah, Vamsi Chilamkur, Iman Soltani, Claire Tomlin",
+    "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob",
+    "categories": "cs.RO, cs.LG, eess.SY",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37652v1",
+    "abs_url": "https://arxiv.org/abs/2610.37652v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+    "authors": "Zack Yu, Nicholas Lee, Minjae Lee, Lakshya Agarwal, Luca Manolache...",
+    "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear",
+    "categories": "cs.CL",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37651v1",
+    "abs_url": "https://arxiv.org/abs/2610.37651v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "authors": "Zhen Yang, Wen Wang, Xander Xu, Ying-Cong Chen",
+    "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio",
+    "categories": "cs.CL, cs.AI, cs.MA",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37649v1",
+    "abs_url": "https://arxiv.org/abs/2610.37649v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+    "authors": "Andrew Szot, Samira Abnar, Omar Attia, Abbas Kazerouni, Michael Kirchhof...",
+    "summary": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use e",
+    "categories": "cs.LG",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37648v1",
+    "abs_url": "https://arxiv.org/abs/2610.37648v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+    "authors": "Athanasios Glentis, Dawei Li, Mingyi Hong",
+    "summary": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains inco",
+    "categories": "cs.LG, cs.AI, math.OC",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37647v1",
+    "abs_url": "https://arxiv.org/abs/2610.37647v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Multi-State Linear Attention with Generalized Second-Order Routing",
+    "authors": "Hee Seung Hwang, Sanghyuk Chun, Xindi Wu, Olga Russakovsky, Zhiwei Deng",
+    "summary": "Self-attention plays a key role in long-sequence modeling, but its quadratic time complexity fundamentally limits the scaling of Large Language Models. Recently, Multi-State Linear Attention (MSLA) me",
+    "categories": "cs.CL",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37645v1",
+    "abs_url": "https://arxiv.org/abs/2610.37645v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+    "authors": "Mingyu Zhao, Shuhang Lin, Ligong Han, Xiaojing Yu, Zhenting Wang...",
+    "summary": "Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much te",
+    "categories": "cs.CL",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37642v1",
+    "abs_url": "https://arxiv.org/abs/2610.37642v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence",
+    "authors": "Siyoon Jin, Dahyun Chung, Honggyu An, Sangbeom Lim, Wonjin Nam...",
+    "summary": "Cross-view object correspondence identifies the same object across views. However, existing methods often rely on frame-wise matching or sequential tracking, which can propagate correspondence errors ",
+    "categories": "cs.CV",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37633v1",
+    "abs_url": "https://arxiv.org/abs/2610.37633v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-Time Models",
+    "authors": "Chang Su, Bin Wu, Emine Yilmaz, Yao Lu",
+    "summary": "Language models pretrained on web corpora collected over multiple years learn both general and domain-specific knowledge. How these different kinds of knowledge are learned as pretraining progresses r",
+    "categories": "cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37631v1",
+    "abs_url": "https://arxiv.org/abs/2610.37631v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Know, then Draw: A New Learning Paradigm for Visual Generation",
+    "authors": "Yucheng Mao, Chongjian Ge, Zhuowen Tu, Hao Tan, Hanwen Jiang",
+    "summary": "Visual generation requires both high-level semantic knowledge and fine-grained pixel details. We propose a learning paradigm that assigns these roles to autoregressive pretraining for knowledge acquis",
+    "categories": "cs.CV",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37626v1",
+    "abs_url": "https://arxiv.org/abs/2610.37626v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+    "authors": "Anouar Imel, Imad Charradi, Abderrahman Sghir, Khalil El Khammar",
+    "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the de",
+    "categories": "cs.AI, cs.CL, cs.MA, cs.SI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37624v1",
+    "abs_url": "https://arxiv.org/abs/2610.37624v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Perceiving and Predicting Dynamic Sports: Spatiotemporal Intelligence in Vision Models for Egocentric Tennis Video",
+    "authors": "Tudor Braicu, Joseph DelPreto, Jared Boyer, Mónika Farsang, Maximilian Stölzle...",
+    "summary": "Agile robots require spatiotemporal intelligence to interpret scenes, reason about interactions, and anticipate future events. Yet it remains unclear how well foundation vision models support these ca",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37619v1",
+    "abs_url": "https://arxiv.org/abs/2610.37619v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "VideoLVR: Latent Visual Reasoning over Grounded Video Evidence",
+    "authors": "Shilong Li, Xingyuan Bu, Hao Shi, Yun Xing, Weixin Feng...",
+    "summary": "Chain-of-thought reasoning has substantially advanced video understanding in multimodal large language models (MLLMs). However, language-based reasoning traces do not provide a reliable mechanism for ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37613v1",
+    "abs_url": "https://arxiv.org/abs/2610.37613v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "EnvSched: Environment-Aware Scheduling for Rollout-Efficient Agent Reinforcement Learning",
+    "authors": "Sihan Yang, Weichen Bai, Ruichuan An, Yiming Cheng, Zhiyuan Feng...",
+    "summary": "As executable environments for language agents scale, generating and verifying their rollouts becomes increasingly expensive. Under finite rollout budgets, this raises an important question: can data ",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37609v1",
+    "abs_url": "https://arxiv.org/abs/2610.37609v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Beyond Answer Changes: Matched Same-Class Controls for Local Audio Evidence",
+    "authors": "Yunuo Wang, Maoyuan Chen, Yuanjin Huang, Xing Liu",
+    "summary": "For audio-language models, an answer change after a local sound-event edit can reflect a response to the event's class, sensitivity to waveform rewriting, or both. We compare matched same-class and di",
+    "categories": "cs.SD, cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37605v1",
+    "abs_url": "https://arxiv.org/abs/2610.37605v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "MoI-Bench: A Benchmark for Image Generation and Editing on Mobile Devices",
+    "authors": "Kailai Feng, Haoxiang Rao, Yuxiang Wei, Bo Chen, Junsong Li...",
+    "summary": "Developing on-device image models requires considering practical user needs, task types and device resource constraints. However, existing benchmarks provide limited guidance on identifying capability",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37599v1",
+    "abs_url": "https://arxiv.org/abs/2610.37599v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "GAS-PFN: Graph-Aware Spatiotemporal Prior-Data Fitted Networks for Zero-Shot Traffic Forecasting",
+    "authors": "Joseph Natter, Long Vu, Yifan Zhang, Bobin Deng, Kun Suo...",
+    "summary": "Traffic forecasting requires modeling complex temporal dynamics and the spatial dependencies imposed by road topology. Supervised graph-based models achieve strong performance, but are often trained f",
+    "categories": "cs.LG, cs.AI, cs.NE",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37598v1",
+    "abs_url": "https://arxiv.org/abs/2610.37598v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Understanding the limits of latent world models",
+    "authors": "Rodrigo Gonzalez Laiz, Steffen Schneider",
+    "summary": "World models are widely proposed as core components for enabling agents to reason over long temporal and spatial horizons. Yet current evaluations often emphasize task performance while providing limi",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37588v1",
+    "abs_url": "https://arxiv.org/abs/2610.37588v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Timestral",
+    "authors": "Adrien Petralia, Alexandre Gavaudan, Artjom Joosen, Etienne Goffinet, Richard Kurle...",
+    "summary": "We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral sets a new state of the art on GIFT-Eval, TIME,",
+    "categories": "cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37585v1",
+    "abs_url": "https://arxiv.org/abs/2610.37585v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "REGER: Modeling inter-item Relations with Semantic IDs for Generative Recommendation",
+    "authors": "Yuxi Huang, Silin Zhou, Chenhao Wang, Zihan Li, Gangming Guo...",
+    "summary": "Personalized recommendation depends on learning semantic and collaborative relations among items from online content and user interactions. Generative recommendation (GR) offers a promising paradigm b",
+    "categories": "cs.IR, cs.AI",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37584v1",
+    "abs_url": "https://arxiv.org/abs/2610.37584v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Zero-Shot Multimodal Event Spotting in Soccer Broadcasts",
+    "authors": "Sadia Kamal, Mahmudul Hasan, Tony Braskich",
+    "summary": "Automatic soccer event spotting supports highlight generation, video indexing, and sports analytics, but existing methods depend on large annotated datasets and soccer-specific training. We present a ",
+    "categories": "cs.CV, cs.LG, cs.MM",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37583v1",
+    "abs_url": "https://arxiv.org/abs/2610.37583v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Spectral Braids: A Topological Descriptor for Dynamic Directed Networks",
+    "authors": "Mehmet Emin Aktas, Esra Akbas",
+    "summary": "Eigenvalues are a workhorse of graph machine learning: spectral clustering, spectral graph neural networks, and graph kernels all summarize a network by the eigenvalues of a matrix. These eigenvalues ",
+    "categories": "cs.SI, cs.LG",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37580v1",
+    "abs_url": "https://arxiv.org/abs/2610.37580v1",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "As the Story Unfolds: Watching a Film and Identifying Characters as a Human Does",
+    "authors": "Zhongrui Gui, Junyu Xie, Tengda Han, Weidi Xie, Andrew Zisserman",
+    "summary": "Films introduce characters incrementally as they progress. We study the problem of identifying principal characters and assigning their names directly from the movie itself, without using external cas",
+    "categories": "cs.CV",
+    "published": "2026-10-27",
+    "pdf_url": "https://arxiv.org/pdf/2610.37579v1",
+    "abs_url": "https://arxiv.org/abs/2610.37579v1",
+    "date": "2026-10-28"
+  }
+]

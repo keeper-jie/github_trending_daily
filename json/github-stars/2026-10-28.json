@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Gathin23/cleanyourtv",
+    "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+    "language": "Python",
+    "stars": 42368,
+    "forks": 5162,
+    "created_at": "2026-10-17T08:12:35Z",
+    "url": "https://github.com/Gathin23/cleanyourtv",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "deepseek-ai/DeepInfer",
+    "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+    "language": "Python",
+    "stars": 23512,
+    "forks": 2767,
+    "created_at": "2026-10-16T07:47:23Z",
+    "url": "https://github.com/deepseek-ai/DeepInfer",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Zagitta/gpu-unlock",
+    "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+    "language": "C",
+    "stars": 11658,
+    "forks": 1142,
+    "created_at": "2026-10-18T01:28:31Z",
+    "url": "https://github.com/Zagitta/gpu-unlock",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "language": "Kotlin",
+    "stars": 7074,
+    "forks": 574,
+    "created_at": "2026-10-20T09:13:06Z",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "ly05010419/MacNativeGames",
+    "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+    "language": "C",
+    "stars": 6104,
+    "forks": 892,
+    "created_at": "2026-10-17T19:52:00Z",
+    "url": "https://github.com/ly05010419/MacNativeGames",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+    "language": "Java",
+    "stars": 5092,
+    "forks": 841,
+    "created_at": "2026-10-19T19:29:01Z",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "xiaoyang111222/cn-math-taxonomy",
+    "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+    "language": "Python",
+    "stars": 4586,
+    "forks": 1156,
+    "created_at": "2026-10-18T09:04:43Z",
+    "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "JustAResearcher/gpu-unlock-ada",
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "language": "C",
+    "stars": 4325,
+    "forks": 558,
+    "created_at": "2026-10-23T21:00:53Z",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "language": "Python",
+    "stars": 3739,
+    "forks": 330,
+    "created_at": "2026-10-24T05:35:47Z",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "aicodeking/leanrea",
+    "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+    "language": "Python",
+    "stars": 3295,
+    "forks": 503,
+    "created_at": "2026-10-17T02:53:24Z",
+    "url": "https://github.com/aicodeking/leanrea",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "amosblomqvist/learnharness",
+    "description": "Agent harness for learning difficult things.",
+    "language": "TypeScript",
+    "stars": 3237,
+    "forks": 523,
+    "created_at": "2026-10-16T19:35:33Z",
+    "url": "https://github.com/amosblomqvist/learnharness",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "kingcharleslzy-ai/dsh-purge",
+    "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+    "language": "JavaScript",
+    "stars": 3096,
+    "forks": 1663,
+    "created_at": "2026-10-16T07:44:27Z",
+    "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Leonxlnx/earshot",
+    "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+    "language": "Python",
+    "stars": 3072,
+    "forks": 188,
+    "created_at": "2026-10-15T06:52:46Z",
+    "url": "https://github.com/Leonxlnx/earshot",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "JoasASantos/REA-Prompts",
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+    "language": "Batchfile",
+    "stars": 3025,
+    "forks": 549,
+    "created_at": "2026-10-19T22:20:47Z",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "language": "TypeScript",
+    "stars": 2764,
+    "forks": 625,
+    "created_at": "2026-10-25T08:27:22Z",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "unclebob/ub-mode",
+    "description": "",
+    "language": "",
+    "stars": 2756,
+    "forks": 128,
+    "created_at": "2026-10-25T16:04:09Z",
+    "url": "https://github.com/unclebob/ub-mode",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Jakeschincariol/day-trader-skill",
+    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "language": "Python",
+    "stars": 2401,
+    "forks": 505,
+    "created_at": "2026-10-20T14:17:54Z",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "wesbos/3d-model-anything",
+    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "language": "Swift",
+    "stars": 2234,
+    "forks": 328,
+    "created_at": "2026-10-21T19:38:50Z",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "EthanArbuckle/fairplay-decrypt",
+    "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+    "language": "C",
+    "stars": 2221,
+    "forks": 348,
+    "created_at": "2026-10-19T10:07:58Z",
+    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "xevrion/hatchzip",
+    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+    "language": "Rust",
+    "stars": 2212,
+    "forks": 66,
+    "created_at": "2026-10-21T17:29:28Z",
+    "url": "https://github.com/xevrion/hatchzip",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "OpenMOSS/MOSS-Image",
+    "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+    "language": "Python",
+    "stars": 2122,
+    "forks": 107,
+    "created_at": "2026-10-16T01:18:13Z",
+    "url": "https://github.com/OpenMOSS/MOSS-Image",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Revivedx/SavageWindRecomp",
+    "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.9.0) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+    "language": "C",
+    "stars": 2118,
+    "forks": 122,
+    "created_at": "2026-10-16T17:34:55Z",
+    "url": "https://github.com/Revivedx/SavageWindRecomp",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "t3dotgg/tstack",
+    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "language": "Python",
+    "stars": 2077,
+    "forks": 124,
+    "created_at": "2026-10-24T05:00:20Z",
+    "url": "https://github.com/t3dotgg/tstack",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Supermedo/uncharted_pc",
+    "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+    "language": "C++",
+    "stars": 2049,
+    "forks": 122,
+    "created_at": "2026-10-15T00:17:23Z",
+    "url": "https://github.com/Supermedo/uncharted_pc",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "chenglou/handwired",
+    "description": "Turn your regular JavaScript code into a neural net.",
+    "language": "TypeScript",
+    "stars": 2037,
+    "forks": 158,
+    "created_at": "2026-10-15T02:15:09Z",
+    "url": "https://github.com/chenglou/handwired",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "ctresb/leis",
+    "description": "Todas as leis do Brasil",
+    "language": "",
+    "stars": 1925,
+    "forks": 318,
+    "created_at": "2026-10-15T01:40:37Z",
+    "url": "https://github.com/ctresb/leis",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "ikow/php2shell-poc",
+    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "language": "Python",
+    "stars": 1874,
+    "forks": 638,
+    "created_at": "2026-10-21T07:55:16Z",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "oosexgang/hackios-xnu-kernel",
+    "description": "",
+    "language": "C",
+    "stars": 1848,
+    "forks": 321,
+    "created_at": "2026-10-22T06:20:11Z",
+    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "alchaincyf/huashu-motion",
+    "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+    "language": "JavaScript",
+    "stars": 1830,
+    "forks": 175,
+    "created_at": "2026-10-18T12:19:27Z",
+    "url": "https://github.com/alchaincyf/huashu-motion",
+    "date": "2026-10-28"
+  },
+  {
+    "repo": "Ansub/tv-detox",
+    "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+    "language": "Java",
+    "stars": 1694,
+    "forks": 185,
+    "created_at": "2026-10-18T06:42:29Z",
+    "url": "https://github.com/Ansub/tv-detox",
+    "date": "2026-10-28"
+  }
+]

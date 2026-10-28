@@ -1,0 +1,302 @@
+[
+  {
+    "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+    "authors": "Yihao Hu, Yitong Lin, Pan Wang, Zhihao Wen, Hang Wang...",
+    "summary": "Training a spatial VLM to answer which side an object lies on does not require it to preserve the metric displacement that determines that answer, while supervision for a distance estimate may leave c",
+    "upvotes": 130,
+    "url": "https://huggingface.co/papers/2610.34283",
+    "paper_url": "https://arxiv.org/abs/2610.34283",
+    "published_at": "2026-10-25",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+    "authors": "Qiaoling Chen, Jiaxiang Cheng, Xueqing Deng, Tiankai Hang, Ji Hou...",
+    "summary": "Interactive world generation requires models to follow successive commands while preserving relevant history and action consequences. We present Hy-Nomas, a video world model with an 8B diffusion back",
+    "upvotes": 76,
+    "url": "https://huggingface.co/papers/2610.36729",
+    "paper_url": "https://arxiv.org/abs/2610.36729",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Rollback: Experience Backtracking in World Models for Policy Improvement",
+    "authors": "Jiayi Luo, Yang Zhang, Liliang Chen, Nan Wang, Chen Gao...",
+    "summary": "Action-conditioned world models offer a scalable alternative to costly real-world interaction for improving robot policies. However, existing world-model-based methods largely treat world models as fo",
+    "upvotes": 45,
+    "url": "https://huggingface.co/papers/2610.36068",
+    "paper_url": "https://arxiv.org/abs/2610.36068",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+    "authors": "Chaehyun Kim, Chi-Pin Huang, Jisoo Kim, Min-Hung Chen, Yu-Chiang Frank Wang...",
+    "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra",
+    "upvotes": 42,
+    "url": "https://huggingface.co/papers/2610.37666",
+    "paper_url": "https://arxiv.org/abs/2610.37666",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
+    "authors": "Jiafu Tang, Yifan Xu, Eric Tang, Junjie Zhao, Shipeng Luo...",
+    "summary": "Video captioning aims to preserve visual information through compact descriptions, predominantly using natural language. However, precisely expressing fine-grained spatial structures and temporal dyna",
+    "upvotes": 36,
+    "url": "https://huggingface.co/papers/2610.37341",
+    "paper_url": "https://arxiv.org/abs/2610.37341",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Memory Tax: Dissecting the Net Value of Agent Memory",
+    "authors": "Xuan He, Sining Zhoubian, Ruozhen Yang, Yuhao Wen, Zhineng Wang...",
+    "summary": "Memory is increasingly used in long-horizon agents, yet the net value of building memory over direct retrieval from raw history remains largely unclear. Through a large-scale evaluation across multipl",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2610.34073",
+    "paper_url": "https://arxiv.org/abs/2610.34073",
+    "published_at": "2026-10-25",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+    "authors": "Hanqing Wang, Zhaotian Cai, Ruichuan An, Bohan Zeng, Tao Zhang...",
+    "summary": "Vision--Language--Action (VLA) models generate robot actions from visual observations and language instructions, but their understanding of physical dynamics remains limited. Video world models can ca",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2610.37381",
+    "paper_url": "https://arxiv.org/abs/2610.37381",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+    "authors": "Weidong Tang, Ruiheng Wang, Jingxuan Zhang, Hexin Wang, Haoyuan Chen...",
+    "summary": "Multimodal intelligence can be viewed as human-guided co-evolution between worlds and agents through interaction. However, scaling this process faces two bottlenecks: constructing heterogeneous, verif",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2610.36077",
+    "paper_url": "https://arxiv.org/abs/2610.36077",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory",
+    "authors": "Junming Zhang, Rubin Wei, Xu Cheng, Hao Sun, Jiarui Wang...",
+    "summary": "In long-term interactions with large language model (LLM) agents, users reveal habits through their choices and actions. These habits capture implicit user information that agents must infer across co",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2610.24520",
+    "paper_url": "https://arxiv.org/abs/2610.24520",
+    "published_at": "2026-10-20",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "LociArt: A Unified Paradigm for Free-Style Local Video Stylization",
+    "authors": "Yuxuan Chen, Feng Xie, Jiagao Hu, Fuhao Li, Zepeng Wang...",
+    "summary": "Video stylization typically transforms entire scenes, while local artistic editing requires precise region--style association, spatial control, and temporal consistency. We introduce LociArt, a unifie",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2610.36456",
+    "paper_url": "https://arxiv.org/abs/2610.36456",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?",
+    "authors": "Yepeng Liu, Shengmai Chen, Xuandong Zhao, Chengzhi Liu, Dawn Song...",
+    "summary": "Recent test-time training (TTT) frameworks have enabled open-weight large language models (LLMs) to outperform inference-only frameworks powered by frontier models on scientific discovery tasks. Howev",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.32046",
+    "paper_url": "https://arxiv.org/abs/2610.32046",
+    "published_at": "2026-10-23",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting",
+    "authors": "Shuyun Wang, Shangchen Zhou, Peiqing Yang, Yuekun Dai, Xin Yu...",
+    "summary": "High-resolution video matting requires preserving fine details, such as hair strands and soft transparency, while maintaining consistency across frames. Memory-based methods achieve strong matting qua",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.35724",
+    "paper_url": "https://arxiv.org/abs/2610.35724",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "RSI Arena: Towards Recursive Self-Improvement with Human Feedback",
+    "authors": "Yue Huang, Yanbo Wang, Lichi Li, Yuanyuan Chen, Andreas Haupt...",
+    "summary": "Can AI agents autonomously train useful language models and improve them using feedback from users? We introduce RSI Arena, a two-stage study of autonomous post-training as a step toward recursive sel",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.33624",
+    "paper_url": "https://arxiv.org/abs/2610.33624",
+    "published_at": "2026-10-24",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams",
+    "authors": "Yinsong Yan, Ling Wang, Yuxuan Wang, Yifan Yang, Ruiyang Xu...",
+    "summary": "Omnimodal large language models (Omni-LLMs) are increasingly expected to assist users while observing continuous audiovisual streams. However, existing evaluations provide limited insight into how rel",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.35439",
+    "paper_url": "https://arxiv.org/abs/2610.35439",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Cross-modal Steering Vectors Exist Across Both Image and Text Generation",
+    "authors": "Donghao Zeng, Nishant Subramani, Tamar Rott Shaham, Benno Krojer",
+    "summary": "Are concepts and mechanisms unified across modalities in current AI models, or instead implemented separately for each one? We operationalize this broad question of modality unification by studying cr",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2610.36269",
+    "paper_url": "https://arxiv.org/abs/2610.36269",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces",
+    "authors": "Jian Mu, Ruibo Shen, Yao Shu",
+    "summary": "Language model agents are post-trained and deployed through a harness, the prompts, tools, and control logic that present a task to the model and execute its outputs. Harnesses are often revised and j",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.37255",
+    "paper_url": "https://arxiv.org/abs/2610.37255",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents",
+    "authors": "Kaiser Sun, Yongchan Kwon, Zain Hasan, Shang Zhu, Kaitlyn Zhou...",
+    "summary": "Generative models increasingly expose a reasoning effort setting that lets users scale inference-time compute, trading higher cost for potentially improved performance. Users must choose an effort lev",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.34491",
+    "paper_url": "https://arxiv.org/abs/2610.34491",
+    "published_at": "2026-10-25",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+    "authors": "Muxi Diao, Wenbin Xu, Lele Yang, Xuyang Ma, Yuzhe Chen...",
+    "summary": "Diffusion video models produce striking clips, but they cannot reliably render an exact formula, a correct chart, a rule-consistent game or narration synchronized to on-screen events. A different rout",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.35864",
+    "paper_url": "https://arxiv.org/abs/2610.35864",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions",
+    "authors": "Haoyu Zhao, Yinzhou Tang, Zixuan Wang, Minghao Zhu, Dongchi Huang...",
+    "summary": "Learning controllable world dynamics from heterogeneous interaction videos is challenging because robot embodiments use incompatible action spaces, while human videos lack native control labels. We pr",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.36791",
+    "paper_url": "https://arxiv.org/abs/2610.36791",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation",
+    "authors": "Hyunwoong Bae, Jisu Han, Jiyeon Choi, Dohoon Kim, Taesup Moon",
+    "summary": "Safe household navigation requires robots to regulate clearance and speed according to what an obstacle is and how close it is, without unnecessary conservatism. Yet existing evaluations do not test w",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.34674",
+    "paper_url": "https://arxiv.org/abs/2610.34674",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data",
+    "authors": "Geunhyoung Kim, Sung Ju Hwang",
+    "summary": "Mixture-of-Experts (MoE) models are bottlenecked by loading routed-expert weights from memory during interactive decoding at small batch sizes. Because most intermediate channels in a routed expert co",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.37386",
+    "paper_url": "https://arxiv.org/abs/2610.37386",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+    "authors": "Zhen Yang, Wen Wang, Xander Xu, Ying-Cong Chen",
+    "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.37649",
+    "paper_url": "https://arxiv.org/abs/2610.37649",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Vision-Language-Action or World-Action? Just Action Models",
+    "authors": "Yonghao Yu, Lang Huang, Runyi Li, Toshihiko Yamasaki",
+    "summary": "The vision-language-action (VLA) and world-action model (WAM) communities debate whether control policies should inherit pretrained knowledge from vision-language models or from visual generators. The",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.37219",
+    "paper_url": "https://arxiv.org/abs/2610.37219",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "OvisOCR3 Technical Report",
+    "authors": "Yu Xia, Yinglun Li, Yuhui Chen, Jinlong Huang, Yuyang Wanyan...",
+    "summary": "We introduce OvisOCR3, a 0.8B model for a broad range of OCR-related tasks. OvisOCR3 unifies document parsing, general OCR, key information extraction (KIE), document figure captioning, and cross-page",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.33066",
+    "paper_url": "https://arxiv.org/abs/2610.33066",
+    "published_at": "2026-10-20",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "SearchHorizonBench: A Benchmark for Search Value in AI Agents",
+    "authors": "Jingjie Ning, Xueqi Li, Yibo Kong",
+    "summary": "AI agents must decide when another search is worth its cost. Answer-success probabilities capture question difficulty, while this decision requires estimating the additional benefit of search. We intr",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.34714",
+    "paper_url": "https://arxiv.org/abs/2610.34714",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Harness-Model Collaboration for Long-Horizon Continual Learning",
+    "authors": "Zhen Bi, Zhizhi Peng, Yan Wang, Xueshu Chen, Haofei Zhang...",
+    "summary": "Long-horizon agents continuously encounter reusable procedural knowledge, yet existing systems typically rely either on model adaptation or external memory, trading persistent learning for rapid reuse",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.34724",
+    "paper_url": "https://arxiv.org/abs/2610.34724",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation",
+    "authors": "Shufan Li, Hanrong Ye, Greg Heinrich, Yonggan Fu, Haotian Zhang...",
+    "summary": "We propose Nemotron-Labs-Diffusion-Uni (NLD-Uni), a unified discrete diffusion large language model (DLLM) for visual understanding and generation tasks. Compared with prior unified diffusion models, ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.36466",
+    "paper_url": "https://arxiv.org/abs/2610.36466",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction",
+    "authors": "Eliezer Shlomi, Eliron Rahimi, Avi Mendelson, Chaim Baskin",
+    "summary": "Diffusion language models (DLMs) promise parallel text generation, but in practice face an unresolved speed-quality trade-off. Exact decoding fills in only one masked position per model pass, while fa",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.22543",
+    "paper_url": "https://arxiv.org/abs/2610.22543",
+    "published_at": "2026-10-26",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model",
+    "authors": "Brian Ko, Han Wang, Hejia Geng, Li Erran Li, Sherry Yang",
+    "summary": "AI research agents can propose, execute, and improve programs that solve machine learning tasks. However, executing each candidate program requires training and evaluating ML models, limiting how many",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.37175",
+    "paper_url": "https://arxiv.org/abs/2610.37175",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "Timestral",
+    "authors": "Adrien Petralia, Alexandre Gavaudan, Artjom Joosen, Etienne Goffinet, Richard Kurle...",
+    "summary": "We introduce Timestral, a family of four time series foundation models for probabilistic forecasting, with 5M, 28M, 123M, and 209M parameters. Timestral sets a new state of the art on GIFT-Eval, TIME,",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.37585",
+    "paper_url": "https://arxiv.org/abs/2610.37585",
+    "published_at": "2026-10-27",
+    "date": "2026-10-28"
+  }
+]
