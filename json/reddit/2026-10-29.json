@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Local-First Means Three Different Things",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BartBlast",
+    "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+    "rank": 1,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Making SIMD Code Scale to Any Vector Width",
+    "score": 0,
+    "num_comments": 0,
+    "author": "MyNameIsTrez",
+    "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+    "rank": 2,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "A faster way to compute signed 64-bit floor division by constants",
+    "score": 0,
+    "num_comments": 0,
+    "author": "benjoffe",
+    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+    "rank": 3,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
+    "score": 0,
+    "num_comments": 0,
+    "author": "klaasvanschelven",
+    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+    "rank": 4,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Python jettisons the native JIT, at least for now",
+    "score": 0,
+    "num_comments": 0,
+    "author": "nicholashairs",
+    "url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xhbl06/python_jettisons_the_native_jit_at_least_for_now/",
+    "rank": 5,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Billion-query-per-second lookup tables in C++",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xh15vv/billionquerypersecond_lookup_tables_in_c/",
+    "rank": 6,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Learn Any ML Library by Rebuilding It: NumPy, pandas, scikit-learn, PyTorch and sentence-transformer",
+    "score": 0,
+    "num_comments": 0,
+    "author": "DeepRatAI",
+    "url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xi4nhc/learn_any_ml_library_by_rebuilding_it_numpy/",
+    "rank": 7,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "DuckDB.NET 1.5.6.1: Reading Data Up to 12× Faster",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mcnamaragio",
+    "url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xgnigv/duckdbnet_1561_reading_data_up_to_12_faster/",
+    "rank": 8,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Choose Your Backend: Three TLS Bugs in GoAhead",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xh84hz/choose_your_backend_three_tls_bugs_in_goahead/",
+    "rank": 9,
+    "date": "2026-10-29"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023",
+    "score": 0,
+    "num_comments": 0,
+    "author": "1_more__user___name",
+    "url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xgqsqf/building_confidence_in_concurrent_code_with_a/",
+    "rank": 10,
+    "date": "2026-10-29"
+  }
+]
