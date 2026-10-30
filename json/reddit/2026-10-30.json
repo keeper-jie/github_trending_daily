@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+    "score": 0,
+    "num_comments": 0,
+    "author": "CircumspectCapybara",
+    "url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xiq8we/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
+    "rank": 1,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "It's the memory latency, stupid",
+    "score": 0,
+    "num_comments": 0,
+    "author": "bobbymk10",
+    "url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xiopmn/its_the_memory_latency_stupid/",
+    "rank": 2,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Experimenting with Bindless Textures in WebGPU",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mariuz",
+    "url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xj7d21/experimenting_with_bindless_textures_in_webgpu/",
+    "rank": 3,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The Last Proof of Human Craft: Forging a Microsoft Edge Full Chain with Logic Bugs Only!",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xiq9r7/the_last_proof_of_human_craft_forging_a_microsoft/",
+    "rank": 4,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "AMD's ROCm HRX Loom v0.1 released for targeting AMD CPUs, GPUs & NPUs",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Fcking_Chuck",
+    "url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xisevc/amds_rocm_hrx_loom_v01_released_for_targeting_amd/",
+    "rank": 5,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
+    "score": 0,
+    "num_comments": 0,
+    "author": "klaasvanschelven",
+    "url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xi16s3/ifstatement_that_caused_http2shell_was_itself/",
+    "rank": 6,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Local-First Means Three Different Things",
+    "score": 0,
+    "num_comments": 0,
+    "author": "BartBlast",
+    "url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xi3p7g/localfirst_means_three_different_things/",
+    "rank": 7,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "email encryption",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xijb4j/email_encryption/",
+    "rank": 8,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Making SIMD Code Scale to Any Vector Width",
+    "score": 0,
+    "num_comments": 0,
+    "author": "MyNameIsTrez",
+    "url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xhpagj/making_simd_code_scale_to_any_vector_width/",
+    "rank": 9,
+    "date": "2026-10-30"
+  },
+  {
+    "subreddit": "programming",
+    "title": "A faster way to compute signed 64-bit floor division by constants",
+    "score": 0,
+    "num_comments": 0,
+    "author": "benjoffe",
+    "url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xhl1jb/a_faster_way_to_compute_signed_64bit_floor/",
+    "rank": 10,
+    "date": "2026-10-30"
+  }
+]

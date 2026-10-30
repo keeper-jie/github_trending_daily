@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Elucidating the Design Space of LM Data Attribution",
+    "authors": "Steven Yu, Sheng-Yu Wang, Kimia Hamidieh, Antonio Torralba, David Bau",
+    "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma",
+    "categories": "cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40655v1",
+    "abs_url": "https://arxiv.org/abs/2610.40655v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+    "authors": "Moshe Shenfeld, Eliad Tsfadia, Katrina Ligett",
+    "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r",
+    "categories": "cs.LG",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40654v1",
+    "abs_url": "https://arxiv.org/abs/2610.40654v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
+    "authors": "Nhan Tran, Hijung Valentina Shin, Abe Davis, Mackenzie Leake",
+    "summary": "In film editing, every frame matters. While macro, content-level edits shape the high-level narrative of a film, small local edits often control timing and direct visual attention. For example, editor",
+    "categories": "cs.HC, cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40653v1",
+    "abs_url": "https://arxiv.org/abs/2610.40653v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Rethinking Neural Thickets Without Weight Perturbations",
+    "authors": "Nicolas Dufour, Elouan Gardès, Amil Dravid, Patrick Pérez, Loic Landrieu",
+    "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce",
+    "categories": "cs.LG, cs.AI, cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40649v1",
+    "abs_url": "https://arxiv.org/abs/2610.40649v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+    "authors": "Jiongfan Yang, Weichen Fan, Haiwen Diao, Zhongang Cai, Ziwei Liu",
+    "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det",
+    "categories": "cs.CV, cs.AI, cs.LG, cs.NE",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40647v1",
+    "abs_url": "https://arxiv.org/abs/2610.40647v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+    "authors": "Aron Brenner, Saurabh Amin",
+    "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ",
+    "categories": "eess.SY, cs.LG",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40644v1",
+    "abs_url": "https://arxiv.org/abs/2610.40644v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Luggage re-identification: A study of strategies towards a real-world application",
+    "authors": "Quentin Dhôte, Romaric Audigier",
+    "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40643v1",
+    "abs_url": "https://arxiv.org/abs/2610.40643v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "From extreme weather to agricultural consequences with agentic AI",
+    "authors": "Minghan Yu, Mengyu Dai, Yixin Wen, Haizhao Yang",
+    "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ",
+    "categories": "physics.ao-ph, cs.AI",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40641v1",
+    "abs_url": "https://arxiv.org/abs/2610.40641v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
+    "authors": "Derong Jin, Xiyi Chen, Ming C. Lin, Ruohan Gao",
+    "summary": "Recent progress in visual scene generation has extended beyond static 3D scenes toward the more challenging problem of generating dynamic 4D scenes from minimal input. However, sound, despite being in",
+    "categories": "cs.CV, cs.SD",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40640v1",
+    "abs_url": "https://arxiv.org/abs/2610.40640v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "world2vec: Mechanistic world models through latent dynamics learning",
+    "authors": "Tobias Schmidt, Rodrigo Gonzalez Laiz, Krisztián Szuppinger, Steffen Schneider",
+    "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ",
+    "categories": "cs.LG",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40637v1",
+    "abs_url": "https://arxiv.org/abs/2610.40637v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Probing Spatial State Representations in Visual Foundation Models",
+    "authors": "Baiqiao Yin, Zhongang Cai, Ruisi Wang, Qiwei Liang, Lei Yang...",
+    "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40636v1",
+    "abs_url": "https://arxiv.org/abs/2610.40636v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "SymAnt: Grounding Long-Horizon Action Anticipation with Adaptable Symbolic Priors",
+    "authors": "Fnu Aryan, Yaqi Xie, Joseph Campbell, Woojun Kim, Kwonjoon Lee...",
+    "summary": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require ex",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40632v1",
+    "abs_url": "https://arxiv.org/abs/2610.40632v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+    "authors": "Qiyao Ma, Xiaodong Liu, Weiwei Yang, Mingqian Feng, Chengquan Guo...",
+    "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br",
+    "categories": "cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40627v1",
+    "abs_url": "https://arxiv.org/abs/2610.40627v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Testimony from Timelines: Evidence-Grounded Significance Testing of Temporal Clinical Hypotheses",
+    "authors": "Chengyang He, Wenlong Zhang, Koduvayur Subbalakshmi, Ping Wang",
+    "summary": "Ask a language model whether sales tend to dip after a product recall, or whether one side effect tends to follow another after a vaccine, and it answers in a fluent sentence that reads like a finding",
+    "categories": "cs.CL, cs.IR",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40619v1",
+    "abs_url": "https://arxiv.org/abs/2610.40619v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "An ODE-based Sampler for Discrete Diffusion Models",
+    "authors": "Samson Gourevitch, Yazid Janati, Eric Moulines, Eric P. Xing, Alain Durmus...",
+    "summary": "The marginals of a continuous diffusion model can be reproduced by a deterministic ordinary differential equation (ODE), known as the probability flow ODE, which provides a foundation for accelerated ",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40618v1",
+    "abs_url": "https://arxiv.org/abs/2610.40618v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models",
+    "authors": "Michael Joseph, Yedid Hoshen",
+    "summary": "Modern diffusion models are trained on massive datasets that often include copyrighted or private images. Membership inference attacks (MIAs) address this by testing whether a given image was in a mod",
+    "categories": "cs.CV, cs.CR, cs.LG",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40616v1",
+    "abs_url": "https://arxiv.org/abs/2610.40616v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+    "authors": "Jinhyeok Choi, JoungBin Lee, Jongmin Lee, Minkyeong Jeon, Jiyoung Kim...",
+    "summary": "Interactive world models generate visual content conditioned on user actions, yet maintaining spatial consistency over long-horizon exploration in real time remains challenging. Existing approaches re",
+    "categories": "cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40614v1",
+    "abs_url": "https://arxiv.org/abs/2610.40614v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+    "authors": "Tom Sander, Pierre Fernandez, Itai Gat, Haiming Bao, Jiaxin Shi...",
+    "summary": "We present TextSeal2, a distortion-free watermark for large language models that keeps its signal under speculative decoding: tokens that replace rejected drafts remain watermarked with the same keys,",
+    "categories": "cs.CR, cs.AI, cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40613v1",
+    "abs_url": "https://arxiv.org/abs/2610.40613v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Generation in One Compact Decoder",
+    "authors": "A. J. A. Jubayer Talukder, Mohammad Ariful Haque",
+    "summary": "Proactive assistants offer short, memory-grounded hints during a conversation, deciding when to assist and what to suggest. Current systems split this between a gate and a larger generator; we evaluat",
+    "categories": "cs.CL, cs.AI, cs.HC",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40611v1",
+    "abs_url": "https://arxiv.org/abs/2610.40611v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Fight World Model: Customizable Combat through Visual Interaction Proxies",
+    "authors": "Jiahua Li, Zixu John, Tom Zhong, Fuping Wu, Tianhao Xu...",
+    "summary": "A playable, programmable game world must maintain persistent state, enforce executable rules, and support extensible gameplay mechanics. Existing video world models can generate plausible combat, yet ",
+    "categories": "cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40607v1",
+    "abs_url": "https://arxiv.org/abs/2610.40607v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
+    "authors": "Yuze He, Yixiang Wei, Wang Zhao, Chuhao Chen, Yanning Zhou...",
+    "summary": "The hair of stylized characters in games and avatars is built from hair cards: artist-placed ribbons whose geometry is the visible hair, animated by spring bones. Existing image-based methods produce ",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40599v1",
+    "abs_url": "https://arxiv.org/abs/2610.40599v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+    "authors": "El Mustapha Mansouri, Eikichi Kimura, Masato Koga, Keigo Arai",
+    "summary": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems",
+    "categories": "cs.AI, cs.MA, quant-ph",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40589v1",
+    "abs_url": "https://arxiv.org/abs/2610.40589v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Pre-Crime for Agents, at the Last Second: Probing When a Recruited Agent Gives In",
+    "authors": "Leonidas Raghav",
+    "summary": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Ca",
+    "categories": "cs.AI",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40588v1",
+    "abs_url": "https://arxiv.org/abs/2610.40588v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Beyond Ground Truth: A Heuristic Unsupervised Quality Assurance Engine for Diagnosing Calibrational Blindness in Dental Segmentation",
+    "authors": "Fatematuj Johura Mim",
+    "summary": "In real-world clinical settings, dental X-ray segmentation using deep learning methods suffers from reliability issues. Even when the segmentation quality is bad, deep learning models show high confid",
+    "categories": "cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40587v1",
+    "abs_url": "https://arxiv.org/abs/2610.40587v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+    "authors": "Yalin E. Sagduyu, Tugba Erpek, Sastry Kompella",
+    "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. Whil",
+    "categories": "cs.NI, cs.AI, cs.LG, eess.SP",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40586v1",
+    "abs_url": "https://arxiv.org/abs/2610.40586v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "RADIOlogy: A Single-Pass Approach to Training-Free Zero-Shot Anomaly Detection",
+    "authors": "Joaquín Figueira, Giacomo D'Amicantonio, Egor Bondarau",
+    "summary": "Current zero-shot anomaly detection methods often rely on complex prompt-learning techniques or computationally expensive sliding-window strategies to achieve fine-grained visual alignment to detect s",
+    "categories": "cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40580v1",
+    "abs_url": "https://arxiv.org/abs/2610.40580v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "VeriCUA: Verification as Agentic Exploration for Computer-Using Agents",
+    "authors": "Qiushi Sun, Da Yu, Alexander Knop, Amer Sinha, Lingpeng Kong...",
+    "summary": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning.",
+    "categories": "cs.AI, cs.CL, cs.CV",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40578v1",
+    "abs_url": "https://arxiv.org/abs/2610.40578v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Multi-View MoE: Letting Every Router Shape Expert Computation",
+    "authors": "Zelin Zhao, Tianchi Ma, Junyuan Shang, Shuohuan Wang, Dianhai Yu",
+    "summary": "Sparse mixture-of-experts (MoE) models expand parameter capacity by activating a small subset of experts per token. Expert selection directly affects model capabilities under a fixed active-expert bud",
+    "categories": "cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40577v1",
+    "abs_url": "https://arxiv.org/abs/2610.40577v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "PIVOT: Progressive Intervention via Online Teacher Correction",
+    "authors": "Zhihao Yang, Boyuan Zheng, Puhui Tan, Yukun Chen, Kuan Zhang...",
+    "summary": "Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Strong",
+    "categories": "cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40576v1",
+    "abs_url": "https://arxiv.org/abs/2610.40576v1",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
+    "authors": "Yifu Luo, Chuang Ma, Zeyu Chen, Enkelejda Kasneci, Qi Chen...",
+    "summary": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the te",
+    "categories": "cs.CL",
+    "published": "2026-10-29",
+    "pdf_url": "https://arxiv.org/pdf/2610.40574v1",
+    "abs_url": "https://arxiv.org/abs/2610.40574v1",
+    "date": "2026-10-30"
+  }
+]
