@@ -1,0 +1,152 @@
+[
+  {
+    "repo": "thedotmack/claude-mem",
+    "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+    "language": "TypeScript",
+    "stars": 106665,
+    "forks": 9384,
+    "today_stars": 1140,
+    "url": "https://github.com/thedotmack/claude-mem",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "milind-soni/OpenMausBot",
+    "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+    "language": "TypeScript",
+    "stars": 8934,
+    "forks": 1228,
+    "today_stars": 895,
+    "url": "https://github.com/milind-soni/OpenMausBot",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "pbakaus/impeccable",
+    "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+    "language": "Rust",
+    "stars": 97371,
+    "forks": 5736,
+    "today_stars": 2300,
+    "url": "https://github.com/pbakaus/impeccable",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "language": "TypeScript",
+    "stars": 8921,
+    "forks": 1119,
+    "today_stars": 706,
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "Renhuai123/ziwei-doushu",
+    "description": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+    "language": "TypeScript",
+    "stars": 11549,
+    "forks": 2284,
+    "today_stars": 1126,
+    "url": "https://github.com/Renhuai123/ziwei-doushu",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "expo/skills",
+    "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+    "language": "Shell",
+    "stars": 3935,
+    "forks": 248,
+    "today_stars": 38,
+    "url": "https://github.com/expo/skills",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "macro-inc/macro",
+    "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+    "language": "Rust",
+    "stars": 5940,
+    "forks": 544,
+    "today_stars": 57,
+    "url": "https://github.com/macro-inc/macro",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "mattpocock/skills",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "stars": 307666,
+    "forks": 25896,
+    "today_stars": 876,
+    "url": "https://github.com/mattpocock/skills",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "pingdotgg/t3code",
+    "description": "",
+    "language": "TypeScript",
+    "stars": 33044,
+    "forks": 8678,
+    "today_stars": 930,
+    "url": "https://github.com/pingdotgg/t3code",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "HKUDS/DeepTutor",
+    "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+    "language": "Python",
+    "stars": 51992,
+    "forks": 6371,
+    "today_stars": 2282,
+    "url": "https://github.com/HKUDS/DeepTutor",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "anthropics/skills",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "stars": 185509,
+    "forks": 21907,
+    "today_stars": 295,
+    "url": "https://github.com/anthropics/skills",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "JetBrains/thinkrail",
+    "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+    "language": "TypeScript",
+    "stars": 6672,
+    "forks": 360,
+    "today_stars": 722,
+    "url": "https://github.com/JetBrains/thinkrail",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "togg53192-cmd/jailbreaks",
+    "description": "LIST OF ALL MY JAILBREAKS",
+    "language": "",
+    "stars": 11512,
+    "forks": 1690,
+    "today_stars": 2055,
+    "url": "https://github.com/togg53192-cmd/jailbreaks",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "stars": 309568,
+    "forks": 27546,
+    "today_stars": 1259,
+    "url": "https://github.com/obra/superpowers",
+    "date": "2026-10-31"
+  },
+  {
+    "repo": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "language": "Zig",
+    "stars": 38612,
+    "forks": 1878,
+    "today_stars": 626,
+    "url": "https://github.com/lightpanda-io/browser",
+    "date": "2026-10-31"
+  }
+]
