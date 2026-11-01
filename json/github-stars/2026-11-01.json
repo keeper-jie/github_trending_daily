@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "pengchujin/aerial-tv",
+    "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+    "language": "Kotlin",
+    "stars": 8419,
+    "forks": 702,
+    "created_at": "2026-10-20T09:13:06Z",
+    "url": "https://github.com/pengchujin/aerial-tv",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "unclebob/ub-mode",
+    "description": "",
+    "language": "",
+    "stars": 5925,
+    "forks": 328,
+    "created_at": "2026-10-25T16:04:09Z",
+    "url": "https://github.com/unclebob/ub-mode",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "simbasjungles/free-my-tv",
+    "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+    "language": "Java",
+    "stars": 5587,
+    "forks": 947,
+    "created_at": "2026-10-19T19:29:01Z",
+    "url": "https://github.com/simbasjungles/free-my-tv",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "language": "Python",
+    "stars": 5453,
+    "forks": 490,
+    "created_at": "2026-10-24T05:35:47Z",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "language": "TypeScript",
+    "stars": 4871,
+    "forks": 1241,
+    "created_at": "2026-10-27T12:24:37Z",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "JustAResearcher/gpu-unlock-ada",
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "language": "C",
+    "stars": 4632,
+    "forks": 592,
+    "created_at": "2026-10-23T21:00:53Z",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "language": "TypeScript",
+    "stars": 4074,
+    "forks": 378,
+    "created_at": "2026-10-31T09:32:46Z",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "Jakeschincariol/day-trader-skill",
+    "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+    "language": "Python",
+    "stars": 4044,
+    "forks": 951,
+    "created_at": "2026-10-20T14:17:54Z",
+    "url": "https://github.com/Jakeschincariol/day-trader-skill",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and Linux, Android phones and iPhone backups.",
+    "language": "Python",
+    "stars": 4023,
+    "forks": 428,
+    "created_at": "2026-10-25T14:41:34Z",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "language": "Dart",
+    "stars": 3880,
+    "forks": 185,
+    "created_at": "2026-10-25T08:09:52Z",
+    "url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "heydamir/unslop",
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "language": "JavaScript",
+    "stars": 3825,
+    "forks": 191,
+    "created_at": "2026-10-29T15:41:21Z",
+    "url": "https://github.com/heydamir/unslop",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "language": "TypeScript",
+    "stars": 3597,
+    "forks": 782,
+    "created_at": "2026-10-25T08:27:22Z",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "JoasASantos/REA-Prompts",
+    "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+    "language": "Batchfile",
+    "stars": 3362,
+    "forks": 610,
+    "created_at": "2026-10-19T22:20:47Z",
+    "url": "https://github.com/JoasASantos/REA-Prompts",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "wangzan101/Mika",
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "language": "Kotlin",
+    "stars": 3047,
+    "forks": 494,
+    "created_at": "2026-10-29T14:34:07Z",
+    "url": "https://github.com/wangzan101/Mika",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "valentderah/totk-pc-recomp",
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+    "language": "C",
+    "stars": 2758,
+    "forks": 221,
+    "created_at": "2026-10-29T12:32:46Z",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "LNPANDY/NX2Apple",
+    "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+    "language": "Swift",
+    "stars": 2567,
+    "forks": 330,
+    "created_at": "2026-10-20T18:16:07Z",
+    "url": "https://github.com/LNPANDY/NX2Apple",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "wesbos/3d-model-anything",
+    "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+    "language": "Swift",
+    "stars": 2553,
+    "forks": 378,
+    "created_at": "2026-10-21T19:38:50Z",
+    "url": "https://github.com/wesbos/3d-model-anything",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "t3dotgg/tstack",
+    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "language": "Python",
+    "stars": 2548,
+    "forks": 163,
+    "created_at": "2026-10-24T05:00:20Z",
+    "url": "https://github.com/t3dotgg/tstack",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "xevrion/hatchzip",
+    "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+    "language": "Rust",
+    "stars": 2397,
+    "forks": 78,
+    "created_at": "2026-10-21T17:29:28Z",
+    "url": "https://github.com/xevrion/hatchzip",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "EthanArbuckle/fairplay-decrypt",
+    "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+    "language": "C",
+    "stars": 2300,
+    "forks": 355,
+    "created_at": "2026-10-19T10:07:58Z",
+    "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "oosexgang/hakios-xnu-kernel",
+    "description": "",
+    "language": "C",
+    "stars": 2038,
+    "forks": 355,
+    "created_at": "2026-10-22T06:20:11Z",
+    "url": "https://github.com/oosexgang/hakios-xnu-kernel",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "ikow/php2shell-poc",
+    "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+    "language": "Python",
+    "stars": 1919,
+    "forks": 650,
+    "created_at": "2026-10-21T07:55:16Z",
+    "url": "https://github.com/ikow/php2shell-poc",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "l0ng-ai/openidea",
+    "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+    "language": "TypeScript",
+    "stars": 1905,
+    "forks": 189,
+    "created_at": "2026-10-21T12:23:14Z",
+    "url": "https://github.com/l0ng-ai/openidea",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "indexable-inc/blaze",
+    "description": "Incremental rust builds up to 92x faster than cargo/rustc",
+    "language": "Rust",
+    "stars": 1827,
+    "forks": 65,
+    "created_at": "2026-10-19T23:31:09Z",
+    "url": "https://github.com/indexable-inc/blaze",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "paipiange/nvzhuang",
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "language": "Go",
+    "stars": 1793,
+    "forks": 477,
+    "created_at": "2026-10-29T06:08:00Z",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "lyramakesmusic/neuron-explorer",
+    "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+    "language": "Python",
+    "stars": 1785,
+    "forks": 217,
+    "created_at": "2026-10-21T04:09:05Z",
+    "url": "https://github.com/lyramakesmusic/neuron-explorer",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "qybaihe/bla",
+    "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+    "language": "JavaScript",
+    "stars": 1748,
+    "forks": 235,
+    "created_at": "2026-10-25T05:25:45Z",
+    "url": "https://github.com/qybaihe/bla",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "patch-gg/pixelfx",
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "language": "JavaScript",
+    "stars": 1746,
+    "forks": 224,
+    "created_at": "2026-10-30T06:43:25Z",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "CopilotKit/OpenDuet",
+    "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+    "language": "TypeScript",
+    "stars": 1742,
+    "forks": 223,
+    "created_at": "2026-10-21T19:43:59Z",
+    "url": "https://github.com/CopilotKit/OpenDuet",
+    "date": "2026-11-01"
+  },
+  {
+    "repo": "enesozturk/dimensional-drawing",
+    "description": "Create Apple style dimensional drawings of UI components.",
+    "language": "HTML",
+    "stars": 1692,
+    "forks": 115,
+    "created_at": "2026-10-23T12:20:16Z",
+    "url": "https://github.com/enesozturk/dimensional-drawing",
+    "date": "2026-11-01"
+  }
+]
