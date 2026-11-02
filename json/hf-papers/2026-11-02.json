@@ -1,0 +1,172 @@
+[
+  {
+    "title": "R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop",
+    "authors": "Mingda Zhang, Yun Huang, Qiang Huang, Yanjin Li, Rui Qian...",
+    "summary": "In recent years, agentic orchestration has been widely applied to solve complex human tasks. However, existing orchestration learning still faces key challenges, including hand-designed curricula, adv",
+    "upvotes": 36,
+    "url": "https://huggingface.co/papers/2610.22740",
+    "paper_url": "https://arxiv.org/abs/2610.22740",
+    "published_at": "2026-10-22",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?",
+    "authors": "Qi Wang, Yun Qu, Lizhou Cai, Heming Zou, Haoang Chi...",
+    "summary": "Progress toward artificial general intelligence (AGI) has largely relied on scaling a resource-intensive executive, System-2, through larger models, more data and compute, longer reasoning, and more a",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2610.39497",
+    "paper_url": "https://arxiv.org/abs/2610.39497",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Wizard: Manipulate Any World in Real Time via Agentic Control",
+    "authors": "Yuzhe Wu, Zijun Lin, Yeying Jin",
+    "summary": "Recent advances in video world models have enabled the generation of increasingly realistic and interactive virtual environments, opening new possibilities for player-customizable gameplay. Agentic fr",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2610.40339",
+    "paper_url": "https://arxiv.org/abs/2610.40339",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems",
+    "authors": "Jongha Kim, Seohyun Lee, Jonathan Minho Chung, Jinsung Yoon, Hyunwoo J. Kim",
+    "summary": "Multi-agent systems (MAS) require both effective coordination and specialized task execution. Existing prompt optimization approaches typically couple these functions within agent-specific prompts. We",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2610.34722",
+    "paper_url": "https://arxiv.org/abs/2610.34722",
+    "published_at": "2026-10-26",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model",
+    "authors": "Rongxing Ding, Hongyu Qu, Kehong Wu, Xudong Wang, Fan Zhang...",
+    "summary": "Vision-Language-Action (VLA) models have demonstrated promising capabilities in robotic manipulation by integrating visual perception, language understanding, and action generation. Recent advances ha",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2610.40373",
+    "paper_url": "https://arxiv.org/abs/2610.40373",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+    "authors": "Aman Tiwari, Akshay Kalkunte, Akintunde Oladipo, Jash Shah, Tara Bogavelli...",
+    "summary": "A capable voice assistant must do more than recognize words; it must understand requests, reason over context, sustain conversations, and act through tools. We present Apriel Voice 27B Preview, an ope",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.40738",
+    "paper_url": "https://arxiv.org/abs/2610.40738",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents",
+    "authors": "Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang...",
+    "summary": "Across coding, web, and tool-use tasks, language-model agents are now routinely trained with the same recipe: supervised fine-tuning (SFT) to learn the interface, then multi-turn reinforcement learnin",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2610.40799",
+    "paper_url": "https://arxiv.org/abs/2610.40799",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation",
+    "authors": "Yijing Lin, Zhendong Mao, Mengqi Huang, Yuxin Wang, Yongdong Zhang",
+    "summary": "Unified conditional image generation requires a single model to preserve different aspects of a visual input while producing a target image that follows textual guidance. Pretrained video models provi",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2610.36545",
+    "paper_url": "https://arxiv.org/abs/2610.36545",
+    "published_at": "2026-10-27",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "WorldBridge: Bridging Video and Action for Task Generalization in World Action Models",
+    "authors": "Jun Cen, Yubo Guo, Hao Li, Liangkai Li, Yaoxu Lyu...",
+    "summary": "Achieving the broad task generalization of embodied models in physical environments remains a central challenge in robot learning. We study this challenge in World Action Models (WAMs) through two com",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2610.40748",
+    "paper_url": "https://arxiv.org/abs/2610.40748",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Probing Spatial State Representations in Visual Foundation Models",
+    "authors": "Baiqiao Yin, Zhongang Cai, Ruisi Wang, Qiwei Liang, Lei Yang...",
+    "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2610.40636",
+    "paper_url": "https://arxiv.org/abs/2610.40636",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+    "authors": "Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany",
+    "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically lear",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.42136",
+    "paper_url": "https://arxiv.org/abs/2610.42136",
+    "published_at": "2026-10-30",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "authors": "Shengguang Wu, Suning Huang, Cherie Ho, Ria Doshi, Hao Zhu...",
+    "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.42141",
+    "paper_url": "https://arxiv.org/abs/2610.42141",
+    "published_at": "2026-10-30",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search",
+    "authors": "Yingtao Ren, Aolin Li, Cheng Cheng, Huiyun Hu, Huasheng Liang...",
+    "summary": "Short-video search needs compact query rewriters that recover users' personalized intent from ambiguous queries under strict latency constraints. Existing LLM-based methods have improved rewriting by ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2610.16927",
+    "paper_url": "https://arxiv.org/abs/2610.16927",
+    "published_at": "2026-10-30",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "HALO: Human-Grounded Granular Evaluation of Proactive Agents",
+    "authors": "Wenqi Pei, Xinyu Wang, Jinrui Liu, Cynthia Zhuge, Jie Sheng...",
+    "summary": "Proactive agents must decide whether, when, and how far to assist without an explicit request. Existing evaluations often rely on automated scores or binary verdicts, offering limited human diagnosis ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.39086",
+    "paper_url": "https://arxiv.org/abs/2610.39086",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning",
+    "authors": "Yu Li, Yufa Zhou, Tian Lan",
+    "summary": "On-policy reinforcement learning for large language models assumes that training responses are sampled from the current policy. In practice, an inference engine samples the responses and a separate tr",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.40945",
+    "paper_url": "https://arxiv.org/abs/2610.40945",
+    "published_at": "2026-10-29",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+    "authors": "Juntao Cheng, Jinzhou Tang, Fan Feng, Henrik I. Christensen, Yujia Zheng",
+    "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, where",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.42096",
+    "paper_url": "https://arxiv.org/abs/2610.42096",
+    "published_at": "2026-10-30",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement",
+    "authors": "Yiqi Liang, Xiaodong Cun",
+    "summary": "Existing sketch generation methods often rely on image guidance and are largely limited to individual objects or simplified scenes, leaving text-guided complex scene sketching underexplored. We presen",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.41260",
+    "paper_url": "https://arxiv.org/abs/2610.41260",
+    "published_at": "2026-10-30",
+    "date": "2026-11-02"
+  }
+]

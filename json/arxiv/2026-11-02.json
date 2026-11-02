@@ -1,0 +1,302 @@
+[
+  {
+    "title": "GazeRIB: Systematic Evaluation of Multi-Reader Gaze-Guided Chest X-ray Learning",
+    "authors": "Nattakorn Kittisut, Roy M. Gabriel, Marly van Assen, Mohammadreza Zandehshahvar, Carlo N. De Cecco...",
+    "summary": "Radiologists' visual attention can supervise medical image learning, but how reader panel composition affects its value remains untested. We evaluated GazeRIB (Gaze-guided Radiologist-Informed Blackou",
+    "categories": "cs.CV, cs.HC, eess.IV, eess.SP",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42152v1",
+    "abs_url": "https://arxiv.org/abs/2610.42152v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+    "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee, Minsu Cho, Jinwoo Shin",
+    "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re",
+    "categories": "cs.CV, cs.CL, cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42149v1",
+    "abs_url": "https://arxiv.org/abs/2610.42149v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "authors": "Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee",
+    "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
+    "categories": "cs.CL",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42148v1",
+    "abs_url": "https://arxiv.org/abs/2610.42148v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+    "authors": "Ales Kubicek, Andrea Caciolai, Liangzu Peng, Sukrit Sumant, Benjamin Hoover...",
+    "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok",
+    "categories": "cs.AI",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42147v1",
+    "abs_url": "https://arxiv.org/abs/2610.42147v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Hierarchical World Models with Implicit Dynamics",
+    "authors": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui, Nicolas Ballas, Mido Assran...",
+    "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42146v1",
+    "abs_url": "https://arxiv.org/abs/2610.42146v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "SemEllipsoid: Semantic-aware Shape Abstraction with Ellipsoid",
+    "authors": "Kuankuan Cheng, Haocheng Yuan, Changjian Li",
+    "summary": "Representing 3D shapes using a set of primitives - known as shape abstraction - is an actively studied problem in computer graphics with wide applications in shape understanding, analysis, and simulat",
+    "categories": "cs.GR, cs.CV",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42145v1",
+    "abs_url": "https://arxiv.org/abs/2610.42145v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+    "authors": "Shengguang Wu, Suning Huang, Cherie Ho, Ria Doshi, Hao Zhu...",
+    "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to",
+    "categories": "cs.RO, cs.AI, cs.CV",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42141v1",
+    "abs_url": "https://arxiv.org/abs/2610.42141v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+    "authors": "Vitaly Feldman, Audra McMillan, Kunal Talwar",
+    "summary": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via",
+    "categories": "cs.LG, cs.CR",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42139v1",
+    "abs_url": "https://arxiv.org/abs/2610.42139v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "ReLift: Dense 3D Tracking as Lifted Trajectory Repair",
+    "authors": "Assaf Singer, Maroun Khriesh, Noam Rotstein, Yoni Kasten, Or Litany",
+    "summary": "Dense 3D tracking from monocular video requires establishing point correspondences over time, estimating their depth, and inferring their trajectories during occlusion. Existing methods typically lear",
+    "categories": "cs.CV",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42136v1",
+    "abs_url": "https://arxiv.org/abs/2610.42136v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "A Better Critic Matters for Distribution Matching Distillation",
+    "authors": "Zongze Wu, Xianbang Wang, Zhengyang Geng, Mingdeng Cao, Zhoutong Zhang...",
+    "summary": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate wh",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42135v1",
+    "abs_url": "https://arxiv.org/abs/2610.42135v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Instance-dependent sequential limits as an exact information ledger",
+    "authors": "Akshay Balsubramani",
+    "summary": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data proce",
+    "categories": "cs.LG, cs.IT, math.ST, stat.ML",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42133v1",
+    "abs_url": "https://arxiv.org/abs/2610.42133v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "DecisionRank: On-Policy Distillation for Decision-Model Rerankers",
+    "authors": "Yanran Wu, Dian Yu, Chongyang Bai, Jieyi Zhang, Rui Liu...",
+    "summary": "Decision models target structured tasks by directly predicting choices or scores, avoiding autoregressive decoding latency. However, transferring a generative LLM's ranking knowledge to a decision mod",
+    "categories": "cs.CL",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42128v1",
+    "abs_url": "https://arxiv.org/abs/2610.42128v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
+    "authors": "Benjamin T. Pike",
+    "summary": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affect",
+    "categories": "cs.LG, q-bio.QM",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42126v1",
+    "abs_url": "https://arxiv.org/abs/2610.42126v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics",
+    "authors": "Binghua Li, Mengzhe Li, Denny Wu, Tianhao Wang",
+    "summary": "Understanding how gradient descent learns features remains a central challenge in neural network theory. We study this question in a minimal multi-index setting that already exhibits rich multi-phase ",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42118v1",
+    "abs_url": "https://arxiv.org/abs/2610.42118v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+    "authors": "Vitaly Feldman, Moshe Shenfeld",
+    "summary": "In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. This scheme is known to improve on Poisson sampling in privat",
+    "categories": "cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42117v1",
+    "abs_url": "https://arxiv.org/abs/2610.42117v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "ACCT: Asymmetric Cross-LLM Context Transfer",
+    "authors": "Yuzhe Liu, Haolin Tian, Tonghan Wang",
+    "summary": "In real-world deployments, large language model (LLM) systems are increasingly evolving from single-model invocation toward heterogeneous deployments in which different models are dynamically invoked ",
+    "categories": "cs.AI",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42116v1",
+    "abs_url": "https://arxiv.org/abs/2610.42116v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+    "authors": "Leon Lufkin, Cutter Dawes, Alexander Speicher, Kamesh Krishnamurthy, Tomás Figliolia...",
+    "summary": "The quadratic scaling of attention is a fundamental bottleneck limiting the long-context capabilities of large language models (LLMs). A variety of approaches have attempted to circumvent this, but th",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42112v1",
+    "abs_url": "https://arxiv.org/abs/2610.42112v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "SATFRONT: Detecting Atmospheric Fronts with Satellite Data using Machine Learning",
+    "authors": "Ioannis Dravilas, Miruna Stoicescu, Roope Tervo, Carlos Horn, Oriol Hinojo Comellas...",
+    "summary": "Atmospheric fronts are associated with much of the high-impact weather in the mid-latitudes, yet their identification and classification remain largely manual and subjective. Existing deep learning ap",
+    "categories": "physics.ao-ph, cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42111v1",
+    "abs_url": "https://arxiv.org/abs/2610.42111v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Regret-Optimal Wasserstein-Robust Linear Regression",
+    "authors": "Sloan Nietert, Daniel Kuhn",
+    "summary": "Distributionally robust optimization (DRO) minimizes worst-case risk under distributional uncertainty, but its decisions can be suboptimal in terms of their excess risk, or regret. We study this gap f",
+    "categories": "stat.ML, cs.LG, math.OC",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42109v1",
+    "abs_url": "https://arxiv.org/abs/2610.42109v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Hard Constraint Projection in a Physics Informed Neural Network (Burgers)",
+    "authors": "Miranda J S Horne, Peter K Jimack, Amirul Khan, He Wang",
+    "summary": "Physics informed machine learning provides a framework to study and simulate fluid dynamics, potentially at a fraction of the computational cost of traditional numerical methods, with the goal of impr",
+    "categories": "physics.flu-dyn, cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42106v1",
+    "abs_url": "https://arxiv.org/abs/2610.42106v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Hyperbolic Inverse Reinforcement Learning",
+    "authors": "Iulia Rusu, Anoop Praturu, Sergei Gepshtein, Tatyana Sharpee",
+    "summary": "Inverse reinforcement learning (IRL) seeks to infer the reward function underlying observed behavior, but its predictive accuracy and interpretability depend on how that reward is computed from the un",
+    "categories": "cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42104v1",
+    "abs_url": "https://arxiv.org/abs/2610.42104v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Towards Understanding the Impact of Plasticity Loss on Reinforcement Learning in Stochastic Environments",
+    "authors": "Philipp Bordne, André Biedenkapp",
+    "summary": "Deep reinforcement learning (RL) is a powerful framework for sequential decision-making. Despite many high-profile successes in recent years, deep RL is known to be brittle. An emerging line of resear",
+    "categories": "cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42100v1",
+    "abs_url": "https://arxiv.org/abs/2610.42100v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "CausalWAM: Learning the Causes of Actions in World Action Models",
+    "authors": "Juntao Cheng, Jinzhou Tang, Fan Feng, Henrik I. Christensen, Yujia Zheng",
+    "summary": "World action models (WAMs) learn latent variables from observations and use these to both predict the evolution of the scene and to generate actions. The prediction has to be of the whole scene, where",
+    "categories": "cs.AI, cs.RO, stat.ML",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42096v1",
+    "abs_url": "https://arxiv.org/abs/2610.42096v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Rethinking Asymmetry in Self-Supervised 3D Geometry Learning",
+    "authors": "Gyeongjin Kang, Freeman Cheng, Botao Ye, Weijie Lyu, Ming-Hsuan Yang...",
+    "summary": "Self-supervised learning relies on asymmetry between what a model observes and what it must explain. Recent methods learn 3D geometry from unposed images by predicting cameras and scene structure, the",
+    "categories": "cs.CV",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42092v1",
+    "abs_url": "https://arxiv.org/abs/2610.42092v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Cost-Aware Stopping for Freeze-Thaw Bayesian Optimization: When Does One-Step Lookahead Suffice?",
+    "authors": "Long Vu, Jongseong Brad Choi, Binoy Ravindran, Zhoulai Fu",
+    "summary": "Freeze-thaw Bayesian optimization (BO) evaluates candidates in resumable increments but usually stops at a budget or convergence test. We maximize a budget-free utility, the best observed score minus ",
+    "categories": "cs.LG, math.OC, stat.ML",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42085v1",
+    "abs_url": "https://arxiv.org/abs/2610.42085v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "RangeSWA: Training-Free Length Extrapolation for Continuous Diffusion Language Models",
+    "authors": "Guangfu Guo, Xiaoqian Lu, Linsey Pang, Weiran Yao, Haolin Chen...",
+    "summary": "Continuous diffusion language models show promising potential in text generation tasks, but are prone to problems such as text repetition, semantic drift, and generation quality degradation when the g",
+    "categories": "cs.CL",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42084v1",
+    "abs_url": "https://arxiv.org/abs/2610.42084v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Think in 360°: Benchmarking and Bootstrapping Panoramic Video Reasoning",
+    "authors": "Lidong Lu, Lidong Zou, Xinyi Mao, Jiaxin Lv, Zhenquan Li...",
+    "summary": "A panoramic video captures all directions around the camera, but relevant evidence can appear in different directions and at different times. Understanding it requires models to connect observations a",
+    "categories": "cs.CV",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42082v1",
+    "abs_url": "https://arxiv.org/abs/2610.42082v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "Differentially Private Synthetic Data from Sliced Chebyshev Moments",
+    "authors": "Lucas Rosenblatt, R. Teal Witter, Christopher Musco",
+    "summary": "Research on practical differentially private (DP) synthetic data has largely focused on methods that approximately preserve low-dimensional marginals of a target distribution, and can thus only hope t",
+    "categories": "cs.LG, cs.CY, cs.DS",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42081v1",
+    "abs_url": "https://arxiv.org/abs/2610.42081v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "RAMA: Retrieval-Augmented Multi-Agent Routing with Episodic Memory for LEO Satellite Networks",
+    "authors": "Xin Ming Li, Peng Hu",
+    "summary": "Low-Earth orbit (LEO) satellite networks present a challenging routing environment due to rapidly changing topology, traffic, and link conditions. Existing deep reinforcement learning (DRL) routing me",
+    "categories": "cs.NI, cs.LG",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42068v1",
+    "abs_url": "https://arxiv.org/abs/2610.42068v1",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "The Knowledge Layer Model (KLM): Evidence-Visible AI Output, Routing Diagnostics, and Negative Results",
+    "authors": "Omer Asim Ozturk, Cihan Aydiner",
+    "summary": "AI answers require more than apparent correctness: reviewers need to inspect their recorded basis. We introduce the Knowledge Layer Model (KLM), an open, implementation-neutral specification for infer",
+    "categories": "cs.AI, cs.CL",
+    "published": "2026-10-30",
+    "pdf_url": "https://arxiv.org/pdf/2610.42066v1",
+    "abs_url": "https://arxiv.org/abs/2610.42066v1",
+    "date": "2026-11-02"
+  }
+]

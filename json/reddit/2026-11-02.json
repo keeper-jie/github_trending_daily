@@ -1,0 +1,222 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "Jepsen on ParticleDB: \"We tested versions 1.1.4 through 1.1.18.11.rc-22 and found that ParticleDB’s claims of “Full ACID” were somewhat premature\"",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl8d57/jepsen_on_particledb_we_tested_versions_114/",
+    "rank": 1,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Database Indexing Isn't Magic. Understand It From Scratch",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Fantastic_Wave1982",
+    "url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl6oes/database_indexing_isnt_magic_understand_it_from/",
+    "rank": 2,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The case against Makefiles",
+    "score": 0,
+    "num_comments": 0,
+    "author": "com_kieffer",
+    "url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl5irk/the_case_against_makefiles/",
+    "rank": 3,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "What do you get when you put every character that exists on a single page?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl7yhp/what_do_you_get_when_you_put_every_character_that/",
+    "rank": 4,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The fastest double-to-string algorithm you’ve never heard of",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xlqfb6/the_fastest_doubletostring_algorithm_youve_never/",
+    "rank": 5,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Turbo Haskell",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl7lsn/turbo_haskell/",
+    "rank": 6,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "The Developer Communication Handbook",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xl9z9b/the_developer_communication_handbook/",
+    "rank": 7,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Bad Apple!! Running on the NAND2TETRIS CPU simulator",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Key_Oven4854",
+    "url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xlll2u/bad_apple_running_on_the_nand2tetris_cpu_simulator/",
+    "rank": 8,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Beating the compiler at signed 32-bit division",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xka27q/beating_the_compiler_at_signed_32bit_division/",
+    "rank": 9,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How curl was accidentally Turing-complete for nine months",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Dull_Replacement8890",
+    "url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xjiofl/how_curl_was_accidentally_turingcomplete_for_nine/",
+    "rank": 10,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Aggressive-Sign-8167",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
+    "rank": 11,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "[GLB-3D-Coder] A tiny 4B coding model that creates 3D assets for Godot and other game engines",
+    "score": 0,
+    "num_comments": 0,
+    "author": "ConfidentDinner6648",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlh0zw/glb3dcoder_a_tiny_4b_coding_model_that_creates_3d/",
+    "rank": 12,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Sorry Sam, my \"quite terrible\" home DRAM is at 100% now: patched Strata to make DeepSeek V4.1 agent sessions start 20× faster on a good old standard gaming GPU, no datacenter required",
+    "score": 0,
+    "num_comments": 0,
+    "author": "HearMeOut-13",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljdnj/sorry_sam_my_quite_terrible_home_dram_is_at_100/",
+    "rank": 13,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Do we really need all these \"speed\" posts?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "PathfinderTactician",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xljjf2/do_we_really_need_all_these_speed_posts/",
+    "rank": 14,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Heretic 2.0 released: Model modification for everyone",
+    "score": 0,
+    "num_comments": 0,
+    "author": "-p-e-w-",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
+    "rank": 15,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Coding is solved* (exclusions apply)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "matthewhaynesonline",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
+    "rank": 16,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Getting incredible results with a single RTX 3090ti and 128gb of ram. Deepseek-V4.1-Flash-1017 (35 tok/s decode) and Qwen3.8-Flash-Next (130 tok/s decode)",
+    "score": 0,
+    "num_comments": 0,
+    "author": "uniVocity",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlec67/getting_incredible_results_with_a_single_rtx/",
+    "rank": 17,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "JetBrains/Mellum2.1-12B-A2.5B-Thinking-MTP · Hugging Face",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pmttyji",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xln8f2/jetbrainsmellum2112ba25bthinkingmtp_hugging_face/",
+    "rank": 18,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Don't people pay attention anymore when buying hardware for AI?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "sernamenotdefined",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl4ckr/dont_people_pay_attention_anymore_when_buying/",
+    "rank": 19,
+    "date": "2026-11-02"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "llama2.c on a 2006 iPod @ 80 MHz w/ 64 MB ram and no FPU",
+    "score": 0,
+    "num_comments": 0,
+    "author": "r0tlier0",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlboqi/llama2c_on_a_2006_ipod_80_mhz_w_64_mb_ram_and_no/",
+    "rank": 20,
+    "date": "2026-11-02"
+  }
+]
