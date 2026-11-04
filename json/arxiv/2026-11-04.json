@@ -1,0 +1,302 @@
+[
+  {
+    "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+    "authors": "Jisoo Kim, Chaehyun Kim, Junsu Kim, Jiho Park, Seongchan Kim...",
+    "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc",
+    "categories": "cs.CV, cs.AI, cs.RO",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05377v1",
+    "abs_url": "https://arxiv.org/abs/2611.05377v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+    "authors": "Hao Fei",
+    "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05376v1",
+    "abs_url": "https://arxiv.org/abs/2611.05376v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+    "authors": "Austin Tsai, Saurav Nanda, Ganapathy Parthasarathy, Bhuvnesh Kumar, Parivesh Choudhary",
+    "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05373v1",
+    "abs_url": "https://arxiv.org/abs/2611.05373v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+    "authors": "Yuhan Liu, Xinqi Liu, Zixuan Dong, Keith W. Ross, Shenji Wan",
+    "summary": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Preci",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05372v1",
+    "abs_url": "https://arxiv.org/abs/2611.05372v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "GUILD: Guided Iterative Data Collection for Imitation Learning",
+    "authors": "Shivin Dass, Kevin Nguyen, Rohan Yelandur, Junhong Xu, Roberto Martín-Martín",
+    "summary": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuiti",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05368v1",
+    "abs_url": "https://arxiv.org/abs/2611.05368v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+    "authors": "Zhipeng Zhong, Matthew Coombes, Cunjia Liu",
+    "summary": "Reliable evaluation of visual 3D reconstruction and depth estimation in vegetation-rich outdoor environments is limited by the scarcity of geometric ground-truth data and the cost of complete scanner ",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05361v1",
+    "abs_url": "https://arxiv.org/abs/2611.05361v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs",
+    "authors": "Qi Yang, Yingzhan Xu, Kai Zhang, Li Zhang",
+    "summary": "This paper presents GSCV++, a lightweight pipeline for 3D {G}aussian {S}platting (GS) sequences {C}ompression with standard {V}ideo codecs. To meet the requirements of low-complexity and hardware comp",
+    "categories": "cs.CV",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05359v1",
+    "abs_url": "https://arxiv.org/abs/2611.05359v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Suppressing Misaligned Behaviors in Language Models, Durably",
+    "authors": "Luxi He, Pengcheng Jiang, Jifan Zhang, Jiawei Han, Danqi Chen",
+    "summary": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05358v1",
+    "abs_url": "https://arxiv.org/abs/2611.05358v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+    "authors": "Teerawat Tongloy, Jiraporn Pongsopa, Rangsan Jomtarak",
+    "summary": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measu",
+    "categories": "quant-ph, cs.CL, cs.LG, physics.optics",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05355v1",
+    "abs_url": "https://arxiv.org/abs/2611.05355v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation",
+    "authors": "Qizhen Lan, Yu-Chun Hsu, Yuxiang Wei, Lijing Zhu, Zenan Sun...",
+    "summary": "Automatic tools can now generate whole-brain MRI parcellations at cohort scale, but generated-label releases often provide little evidence about which cases are reliable enough to reuse. We introduce ",
+    "categories": "cs.CV",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05348v1",
+    "abs_url": "https://arxiv.org/abs/2611.05348v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Agnostic Learning by Imitating",
+    "authors": "Sílvia Casacuberta, Parikshit Gopalan, Varun Kanade, Omer Reingold, Konstantinos Stavropoulos...",
+    "summary": "Given a class of machine learning models and sample access to a data distribution with binary labels, which computational task is harder: training a discriminative model that distinguishes positive an",
+    "categories": "cs.LG, cs.CC, cs.DS",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05346v1",
+    "abs_url": "https://arxiv.org/abs/2611.05346v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+    "authors": "Hongyin Luo, Wei Fang, Lijie Yang, Owen Stepan, Daniel Suit...",
+    "summary": "Speculative decoding has been treated purely as a systems optimization that speeds up large language model decoding without changing the model behavior. Under this view, the growing effort to train be",
+    "categories": "cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05345v1",
+    "abs_url": "https://arxiv.org/abs/2611.05345v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "A Circuit for In-Context Learning",
+    "authors": "Andrew Gao, William Gao",
+    "summary": "In-context learning (ICL) lets a pretrained language model perform a task specified by demonstrations in its prompt, with no parameter updates. With arbitrary labels the model must acquire a mapping i",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05344v1",
+    "abs_url": "https://arxiv.org/abs/2611.05344v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Weight-space programming for auditing clinical decision networks",
+    "authors": "Humza Nusrat, Omar Nusrat",
+    "summary": "Machine learning models in radiotherapy are commissioned by testing them on cases with known answers, which may not reveal a shortcut that the test cases share with the training data. Frontier languag",
+    "categories": "physics.med-ph, cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05341v1",
+    "abs_url": "https://arxiv.org/abs/2611.05341v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calculations and Error Detection",
+    "authors": "Omar Nusrat",
+    "summary": "Medical physicists turn a prescription into a delivered dose and check one another's calculations, because one error in a beam calibration or a monitor-unit (MU) calculation can affect every patient t",
+    "categories": "physics.med-ph, cs.AI, cs.CL",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05340v1",
+    "abs_url": "https://arxiv.org/abs/2611.05340v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "A simple adaptive accelerated optimistic dual averaging method for unconstrained convex optimization in $p$-norm geometry",
+    "authors": "Bowen Li, Danqing Zhou, Chuan He",
+    "summary": "Efficient preconditioning plays an important role in large-scale first-order optimization. In this paper, we propose an adaptive accelerated optimistic dual averaging ($\\text{A}^2$ODA) method for unco",
+    "categories": "math.OC, cs.AI, cs.LG, stat.ML",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05334v1",
+    "abs_url": "https://arxiv.org/abs/2611.05334v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "CATF: A Manager-Worker Framework for Context-Aware Time-Series Forecasting",
+    "authors": "Yueqiao Chen, Dongyu Liu",
+    "summary": "We study context-aware time-series forecasting, in which a single target variable is predicted from its own history and a set of contextual variables, such as weather and calendar information. As the ",
+    "categories": "cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05325v1",
+    "abs_url": "https://arxiv.org/abs/2611.05325v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+    "authors": "Kewei Zhang, Juncheng Ma, Guodong Lv, Duomin Wang, Feixiang Ruan...",
+    "summary": "Teleoperation remains the default way to collect robot demonstrations, but every episode costs robot and operator time, and every new task starts from scratch. We ask whether a coding agent can take o",
+    "categories": "cs.RO, cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05320v1",
+    "abs_url": "https://arxiv.org/abs/2611.05320v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
+    "authors": "Zhen Tao, Xun Zhou, Xuhui Chen, Ziyue Qiao, Qingqiang Sun",
+    "summary": "In LLM-based recommendation, memory acts as a user-level agent in a memory-augmented backbone. Yet users and items remain asymmetric: only the user is given a structured profile; it enters a bandwidth",
+    "categories": "cs.IR, cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05319v1",
+    "abs_url": "https://arxiv.org/abs/2611.05319v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "MDSKILL: Learning to Internalize Skill Memory through Multi-View Distillation for Efficient Dynamic Agent Self-Evolution",
+    "authors": "Dian Jin, Jinluan Yang, Kairong Han, Baohong Li, Zijing Hu...",
+    "summary": "Skill memories encode past experiences as textual prompts to improve reinforcement learning (RL) for self-evolving agents. Complementing RL, On-Policy Self-Distillation (OPSD) provides dense, fine-gra",
+    "categories": "cs.CL",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05313v1",
+    "abs_url": "https://arxiv.org/abs/2611.05313v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+    "authors": "Ioannis Tsioulis, Anastasios Tefas, Nikolaos Stergioulas",
+    "summary": "Quantifying selection effects in gravitational-wave population studies requires millions of costly signal-to-noise ratio (SNR) calculations. We present $Φ$asmaNet, a compact neural architecture for st",
+    "categories": "cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05309v1",
+    "abs_url": "https://arxiv.org/abs/2611.05309v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "You don't need long context",
+    "authors": "Peter Belcak, Saurav Muralidharan, Jindong Jiang, Yonggan Fu, Wonmin Byeon...",
+    "summary": "Later tokens are costlier to generate than earlier tokens. On frontier open weight models, the disparity in cost may rise to as much as 7x. Through frequent compaction, we show across a broad range of",
+    "categories": "cs.AI",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05306v1",
+    "abs_url": "https://arxiv.org/abs/2611.05306v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+    "authors": "Minsoo Cheong, Sungjoo Yoo",
+    "summary": "Looped transformers are a parameter-efficient alternative to standard transformers for language modeling. By reapplying the same layers across multiple loop steps, recent looped language models match ",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05304v1",
+    "abs_url": "https://arxiv.org/abs/2611.05304v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Universal Hardness From Masking Channels",
+    "authors": "Parikshit Gopalan, Manoj Prabhakaran, Pranay Tankala",
+    "summary": "We prove a broad learning-theoretic generalization of the celebrated hardcore lemma concerning the average-case complexity of computing a Boolean function (Impagliazzo, 1995). Our starting point is th",
+    "categories": "cs.LG, cs.CC",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05296v1",
+    "abs_url": "https://arxiv.org/abs/2611.05296v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "GSBR: Geometric Support Behavior Regularization for Online RL",
+    "authors": "Charles Xu, Jacob Berg, Liyiming Ke, Sergey Levine",
+    "summary": "Regularizing online reinforcement learning (RL) toward a pretrained base policy can improve sample efficiency and learning stability, but regularization that is too restrictive limits how much the pol",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05295v1",
+    "abs_url": "https://arxiv.org/abs/2611.05295v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Wonder 4: A Mixture-of-Experts Recipe for Image Quality Enhancement",
+    "authors": "Yunan Wu, Bin Sun, Partha Acharjee, Xiaoyu Wang",
+    "summary": "A real photograph is often blurry, grainy, compressed, scratched, and low-resolution at the same time. Each defect has its own severity and its own place in the image. The corrections for these defect",
+    "categories": "cs.CV",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05294v1",
+    "abs_url": "https://arxiv.org/abs/2611.05294v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Personas Are Not People: Identity as State, Not Attribute",
+    "authors": "Tamunotonye Harry, Yuanyuan Feng",
+    "summary": "Synthetic populations, large sets of simulated people, are increasingly used in place of real people to pretest surveys, simulate users and communities, and evaluate AI systems. Each simulated person ",
+    "categories": "cs.CL, cs.AI, cs.CY",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05292v1",
+    "abs_url": "https://arxiv.org/abs/2611.05292v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Low-Density 3D Point Cloud Classification",
+    "authors": "Ahmed Baha Ben Jmaa, Faten Chaieb",
+    "summary": "3D point cloud classification, a task in computer vision, has recently gained substantial interest due to its extensive applications across various domains such as augmented and virtual reality, robot",
+    "categories": "cs.CV",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05291v1",
+    "abs_url": "https://arxiv.org/abs/2611.05291v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "False Reassurance in LLM Severe-Weather Guidance: A Replayable Evaluation Against Real NWS Alerts",
+    "authors": "Kadharmoideen Fadurudeen",
+    "summary": "An LLM assistant that cannot see official severe-weather alerts may tell users that conditions are calm while a warning is active. We call this false reassurance and measure it by replaying 117 frozen",
+    "categories": "cs.HC, cs.AI, cs.CY",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05290v1",
+    "abs_url": "https://arxiv.org/abs/2611.05290v1",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "Knowingly Wrong: Training LLMs Against Their Own Beliefs can Induce Misalignment",
+    "authors": "Ariana M. Villegas-Suarez, Guido Freire, Sohan Venkatesh, Bartosz Cywiński",
+    "summary": "Fine-tuning a large language model (LLM) on harmful data in a narrow domain, such as bad medical advice, can make it broadly misaligned. How realistic this risk is remains unclear, since models are ve",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-11-03",
+    "pdf_url": "https://arxiv.org/pdf/2611.05287v1",
+    "abs_url": "https://arxiv.org/abs/2611.05287v1",
+    "date": "2026-11-04"
+  }
+]

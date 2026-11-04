@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "language": "TypeScript",
+    "stars": 17615,
+    "forks": 1905,
+    "created_at": "2026-10-31T09:32:46Z",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "storytold/craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "language": "Rust",
+    "stars": 9278,
+    "forks": 1535,
+    "created_at": "2026-10-31T14:50:00Z",
+    "url": "https://github.com/storytold/craft-anything",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "ccch1mneyyy/dsh-Go",
+    "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+    "language": "Dart",
+    "stars": 8319,
+    "forks": 394,
+    "created_at": "2026-10-25T08:09:52Z",
+    "url": "https://github.com/ccch1mneyyy/dsh-Go",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "heydamir/unslop",
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "language": "JavaScript",
+    "stars": 7773,
+    "forks": 389,
+    "created_at": "2026-10-29T15:41:21Z",
+    "url": "https://github.com/heydamir/unslop",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "unclebob/ub-mode",
+    "description": "",
+    "language": "",
+    "stars": 6837,
+    "forks": 386,
+    "created_at": "2026-10-25T16:04:09Z",
+    "url": "https://github.com/unclebob/ub-mode",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "wangzan101/Mika",
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "language": "Kotlin",
+    "stars": 6217,
+    "forks": 1208,
+    "created_at": "2026-10-29T14:34:07Z",
+    "url": "https://github.com/wangzan101/Mika",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "rddmwmddr/android-ad-cleaner",
+    "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+    "language": "Python",
+    "stars": 6179,
+    "forks": 564,
+    "created_at": "2026-10-24T05:35:47Z",
+    "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "language": "TypeScript",
+    "stars": 5841,
+    "forks": 1491,
+    "created_at": "2026-10-27T12:24:37Z",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "JustAResearcher/gpu-unlock-ada",
+    "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+    "language": "C",
+    "stars": 4746,
+    "forks": 605,
+    "created_at": "2026-10-23T21:00:53Z",
+    "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "valentderah/totk-pc-recomp",
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "language": "C",
+    "stars": 4617,
+    "forks": 371,
+    "created_at": "2026-10-29T12:32:46Z",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "interplains/Zero-Breach-Toolkit",
+    "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
+    "language": "Python",
+    "stars": 4384,
+    "forks": 464,
+    "created_at": "2026-10-25T14:41:34Z",
+    "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "patch-gg/pixelfx",
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "language": "JavaScript",
+    "stars": 4303,
+    "forks": 579,
+    "created_at": "2026-10-30T06:43:25Z",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "designfuchen/word-atlas",
+    "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+    "language": "TypeScript",
+    "stars": 4123,
+    "forks": 888,
+    "created_at": "2026-10-25T08:27:22Z",
+    "url": "https://github.com/designfuchen/word-atlas",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "BryceYuuu/RUN",
+    "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+    "language": "Python",
+    "stars": 3315,
+    "forks": 246,
+    "created_at": "2026-10-29T11:28:43Z",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "Djihads80/Eglantine",
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "language": "C++",
+    "stars": 3169,
+    "forks": 367,
+    "created_at": "2026-10-29T00:25:18Z",
+    "url": "https://github.com/Djihads80/Eglantine",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "t3dotgg/tstack",
+    "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+    "language": "Python",
+    "stars": 2781,
+    "forks": 194,
+    "created_at": "2026-10-24T05:00:20Z",
+    "url": "https://github.com/t3dotgg/tstack",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "haydenschmitty/floorplan",
+    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "language": "JavaScript",
+    "stars": 2693,
+    "forks": 199,
+    "created_at": "2026-10-27T12:03:01Z",
+    "url": "https://github.com/haydenschmitty/floorplan",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "oosexgang/hakios-xnu-kernel",
+    "description": "",
+    "language": "C",
+    "stars": 2442,
+    "forks": 403,
+    "created_at": "2026-10-22T06:20:11Z",
+    "url": "https://github.com/oosexgang/hakios-xnu-kernel",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "modelflare-ai/AnyModelBot",
+    "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+    "language": "Python",
+    "stars": 2372,
+    "forks": 26,
+    "created_at": "2026-10-27T08:51:18Z",
+    "url": "https://github.com/modelflare-ai/AnyModelBot",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "paipiange/nvzhuang",
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "language": "Go",
+    "stars": 2150,
+    "forks": 550,
+    "created_at": "2026-10-29T06:08:00Z",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "qybaihe/bla",
+    "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+    "language": "TypeScript",
+    "stars": 2104,
+    "forks": 280,
+    "created_at": "2026-10-25T05:25:45Z",
+    "url": "https://github.com/qybaihe/bla",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "Verlintas/NOIR",
+    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "language": "Kotlin",
+    "stars": 1836,
+    "forks": 141,
+    "created_at": "2026-10-31T21:34:39Z",
+    "url": "https://github.com/Verlintas/NOIR",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "DenisSergeevitch/ex-ussr-kinship-research",
+    "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+    "language": "Python",
+    "stars": 1809,
+    "forks": 185,
+    "created_at": "2026-10-25T10:05:56Z",
+    "url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "enesozturk/dimensional-drawing",
+    "description": "Create Apple style dimensional drawings of UI components.",
+    "language": "HTML",
+    "stars": 1779,
+    "forks": 121,
+    "created_at": "2026-10-23T12:20:16Z",
+    "url": "https://github.com/enesozturk/dimensional-drawing",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "aschmelyun/print-my-profile-pic",
+    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+    "language": "",
+    "stars": 1771,
+    "forks": 6,
+    "created_at": "2026-10-27T20:40:05Z",
+    "url": "https://github.com/aschmelyun/print-my-profile-pic",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "lexifina/global-law",
+    "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+    "language": "HTML",
+    "stars": 1770,
+    "forks": 167,
+    "created_at": "2026-10-28T13:34:16Z",
+    "url": "https://github.com/lexifina/global-law",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "andyhuo520/digital-human-koubo",
+    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "language": "TypeScript",
+    "stars": 1765,
+    "forks": 401,
+    "created_at": "2026-10-26T04:34:09Z",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "elvarofficial/teardown",
+    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "language": "JavaScript",
+    "stars": 1745,
+    "forks": 263,
+    "created_at": "2026-10-30T09:29:01Z",
+    "url": "https://github.com/elvarofficial/teardown",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "morganlinton/BeautifulRust",
+    "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clippy config. Works with Claude Code, Codex, Copilot, Cursor, and Gemini CLI.",
+    "language": "Python",
+    "stars": 1698,
+    "forks": 89,
+    "created_at": "2026-10-23T03:01:11Z",
+    "url": "https://github.com/morganlinton/BeautifulRust",
+    "date": "2026-11-04"
+  },
+  {
+    "repo": "physicsdolphin/nv-uefi-unlocker",
+    "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+    "language": "Rust",
+    "stars": 1665,
+    "forks": 149,
+    "created_at": "2026-10-26T06:22:24Z",
+    "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+    "date": "2026-11-04"
+  }
+]
