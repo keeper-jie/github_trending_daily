@@ -1,0 +1,302 @@
+[
+  {
+    "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+    "authors": "Weichen Fan, Haiwen Diao, Penghao Wu, Siyuan Hu, Ziqi Huang...",
+    "summary": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on ",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06918v1",
+    "abs_url": "https://arxiv.org/abs/2611.06918v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+    "authors": "Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel",
+    "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ",
+    "categories": "cs.MA, cs.CL, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06914v1",
+    "abs_url": "https://arxiv.org/abs/2611.06914v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+    "authors": "Nicolas Tricard, Linzheng Wang, Jason Chen, Sili Deng",
+    "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato",
+    "categories": "physics.flu-dyn, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06912v1",
+    "abs_url": "https://arxiv.org/abs/2611.06912v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+    "authors": "Fei Lin, Tengchao Zhang, Ziyang Gong, Xiaotong Yu, Bohan Zhang...",
+    "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06911v1",
+    "abs_url": "https://arxiv.org/abs/2611.06911v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+    "authors": "Bingran You, Wenjun Ke, Ria Rosenauer, Bo Liu, Wenbo Chen...",
+    "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06910v1",
+    "abs_url": "https://arxiv.org/abs/2611.06910v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Perceptive Humanoid Motion from Simulation",
+    "authors": "Siyuan Hu, Abulikemu Abuduweili, Yue Meng, Shipeng Liu, Quentin Leboutet...",
+    "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-",
+    "categories": "cs.RO, cs.AI, cs.CV, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06908v1",
+    "abs_url": "https://arxiv.org/abs/2611.06908v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+    "authors": "Michal Korniak, Marco Bagatella, Ralf Römer, Michal Nauman, Yarden As...",
+    "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06905v1",
+    "abs_url": "https://arxiv.org/abs/2611.06905v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Motion-guided Contrastive Regularization For Latent World Models",
+    "authors": "Yiwen Chen, Qiqi Hou, Jisoo Jeong, Yinhao Zhu, Huaizu Jiang...",
+    "summary": "JEPA-style world models learn action-conditioned latent dynamics without reconstructing observations, but distributional regularization alone does not ensure that their representations preserve inform",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06901v1",
+    "abs_url": "https://arxiv.org/abs/2611.06901v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+    "authors": "Chibueze Praise Onyenweaku, Toyibat Adele, Sikirulahi Opeyemi Abdulkareem, Obed Honour Eje",
+    "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06899v1",
+    "abs_url": "https://arxiv.org/abs/2611.06899v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Procedural Adversarial Learning",
+    "authors": "Jack Nugent, Jia Deng",
+    "summary": "For many computer vision tasks, neural networks can be trained to produce a low average error, yet they still fail on seemingly simple scenes. Reducing these failures requires first finding them, but ",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06890v1",
+    "abs_url": "https://arxiv.org/abs/2611.06890v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+    "authors": "Siyi Yu",
+    "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher e",
+    "categories": "cs.AI, cs.HC, econ.GN",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06888v1",
+    "abs_url": "https://arxiv.org/abs/2611.06888v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Probes",
+    "authors": "Benjamin Jacob Bodner",
+    "summary": "The best classical optimizer for a continuous black-box problem depends on its budget and landscape. Existing routers decide from the dimension and budget, past improvement or features fitted to one b",
+    "categories": "cs.LG, cs.NE, math.OC",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06879v1",
+    "abs_url": "https://arxiv.org/abs/2611.06879v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "SpecCompact: Accelerating LLM Agent Context Compaction with Slot-Parallel Semantic Speculative Verification",
+    "authors": "Yulu An, Yifei Feng, Xiangyang Yin",
+    "summary": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing in",
+    "categories": "cs.CL",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06876v1",
+    "abs_url": "https://arxiv.org/abs/2611.06876v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Learning to Decode Linear Codes with Generalized Belief Propagation Network",
+    "authors": "Samira Malek",
+    "summary": "Error correcting codes are a fundamental component of communication systems, enabling reliable data transmission over noisy channels. Recently, neural decoders have demonstrated notable performance ga",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06874v1",
+    "abs_url": "https://arxiv.org/abs/2611.06874v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "PixelSpline: Continuous Space-Time Video Super-Resolution via Endpoint-Anchored Shared Pixel Trajectories",
+    "authors": "Wanqi Yuan, Nianyi Li",
+    "summary": "Existing continuous space-time video super-resolution methods often infer motion from only two endpoint frames and model the two motion directions independently, making them vulnerable to ambiguous co",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06870v1",
+    "abs_url": "https://arxiv.org/abs/2611.06870v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+    "authors": "Jalaj Bhandari, Dhawal Gupta, Hongli Zhan, Zhenting Wang, Varad Pimpalkhute...",
+    "summary": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We in",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06868v1",
+    "abs_url": "https://arxiv.org/abs/2611.06868v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification",
+    "authors": "Ankit K. Upadhyay, Aleksandr Algasov, Ekaterina Nepovinnykh, Fedor Zolotarev, Tuomas Eerola...",
+    "summary": "Automated identification of individual animals is moving from small curated studies toward shared benchmarks and reusable foundation models. This progress is useful, but current evaluation leaves the ",
+    "categories": "cs.CV, cs.AI, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06864v1",
+    "abs_url": "https://arxiv.org/abs/2611.06864v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Balancing hierarchical representation and quantization: A performance trade-off in text embeddings",
+    "authors": "Kai Ponel, Marco Polignano, Erasmo Purificato, Aylin Julia Temizkan, Marco Levantesi...",
+    "summary": "Hierarchical text embedding models offer variable-length representations, while quantization reduces numerical precision; both aim to improve computational efficiency. This work is an empirical benchm",
+    "categories": "cs.CL, cs.IR, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06859v1",
+    "abs_url": "https://arxiv.org/abs/2611.06859v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "CompressionBench: How can your coding agents compress LLMs?",
+    "authors": "Xinrui Zhong, Zhifeng Li, Zhiming Wang, Yongqi Liu, Shanglin Yang...",
+    "summary": "Recursive self-improvement requires AI systems to improve the models and infrastructure used by subsequent systems. LLM compression offers a concrete efficiency objective: retain a pretrained model's ",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06858v1",
+    "abs_url": "https://arxiv.org/abs/2611.06858v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+    "authors": "Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao...",
+    "summary": "We introduce LongBanana, to our knowledge the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in the age of agent-driven image generation. The task",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06856v1",
+    "abs_url": "https://arxiv.org/abs/2611.06856v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Visual Token Routing: Learning to keep tokens that matter",
+    "authors": "Pranjal Aggarwal, Sean Welleck",
+    "summary": "Computer-use agents (CUAs) have recently achieved superhuman performance on several long-horizon benchmarks. However, their computational cost limits their use in long-horizon tasks and real-time doma",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06854v1",
+    "abs_url": "https://arxiv.org/abs/2611.06854v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos",
+    "authors": "Hanyu Chen, Noah Snavely",
+    "summary": "State-of-the-art feedforward reconstruction models perform poorly on in-the-wild object-centric photo collections. They are trained largely on single-session object captures whose images vary in viewp",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06849v1",
+    "abs_url": "https://arxiv.org/abs/2611.06849v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Persona Perspectives: Adopting Viewpoints Reorganizes Representations in LLMs",
+    "authors": "Austin C. Kozlowski, Avital Mintz, Madison Lee",
+    "summary": "Common methods for monitoring features in large language models (LLMs) such as linear probes and sparse autoencoders (SAEs) assume that features maintain a consistent representation across contexts. L",
+    "categories": "cs.CL",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06848v1",
+    "abs_url": "https://arxiv.org/abs/2611.06848v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Navigating Disagreement Among Criteria for Evaluating Explanation Faithfulness",
+    "authors": "Grant Shanklin, Jiří Němeček, Asia Biega",
+    "summary": "Faithfulness requires that algorithmic explanations accurately reflect the model's behavior. Yet existing operationalizations of faithfulness can disagree about whether the same explanation is faithfu",
+    "categories": "cs.LG, cs.CY",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06846v1",
+    "abs_url": "https://arxiv.org/abs/2611.06846v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers",
+    "authors": "Yingying Yan, Jiaqi Tang, Wei Wei, Qianzhou Wang, Lei Zhang...",
+    "summary": "A central yet under-explored question in Multimodal Large Language Models (MLLMs) is where to connect---how visual information from a hierarchical vision encoder should be wired into the layer-wise se",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06844v1",
+    "abs_url": "https://arxiv.org/abs/2611.06844v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Thermally Conditioned Time-Series Forecasting of Grain Growth in Polycrystalline Materials",
+    "authors": "Eliane Younes, Elie Hachem, Marc Bernacki",
+    "summary": "Grain growth during heat treatment strongly affects the microstructure of polycrystalline materials and, consequently, their mechanical properties. Although numerical methods such as front-tracking or",
+    "categories": "cond-mat.mtrl-sci, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06843v1",
+    "abs_url": "https://arxiv.org/abs/2611.06843v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "ServerBench: How can your coding agents design specialized LLM serving systems?",
+    "authors": "Xinrui Zhong, Zhiming Wang, Yongqi Liu, Zhaohui Wang, Shanglin Yang...",
+    "summary": "Large language model (LLM) coding agents develop software through experimentation, offering an opportunity to design the serving systems supporting their own operation. Effective serving requires coor",
+    "categories": "cs.AI",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06841v1",
+    "abs_url": "https://arxiv.org/abs/2611.06841v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Same Layout, Different Count: What Number Words Do Past Ten in Text-to-Image Models",
+    "authors": "Liang Yue, Eric A. Vance",
+    "summary": "Ask SD3.5-Medium for twelve of an object and then, from the same starting noise, for twenty-five. The picture keeps its layout, but the count changes about as much as it would under a new random seed,",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06840v1",
+    "abs_url": "https://arxiv.org/abs/2611.06840v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants",
+    "authors": "Peidi Dong, Yunze Xiao, Yu-Lin Tsai, Yichen Zheng, Heyuan Huang...",
+    "summary": "Large language model (LLM) assistants increasingly help users with everyday activities that involve time-dependent constraints. However, users may not mention these constraints in later requests, requ",
+    "categories": "cs.CL",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06839v1",
+    "abs_url": "https://arxiv.org/abs/2611.06839v1",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "Context-Aware Autoregressive Image Generation for Emerging Reasoning Properties",
+    "authors": "Jixuan Ying, Haoyu Liu, Timing Yang, Tingyu Zhu, Predrag Neskovic...",
+    "summary": "Autoregressive image generation has recently emerged as a competitive visual generation paradigm, yet its generation order is often predefined or heuristic, such as next-patch prediction, random-order",
+    "categories": "cs.CV",
+    "published": "2026-11-04",
+    "pdf_url": "https://arxiv.org/pdf/2611.06838v1",
+    "abs_url": "https://arxiv.org/abs/2611.06838v1",
+    "date": "2026-11-05"
+  }
+]

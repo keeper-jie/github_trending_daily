@@ -1,0 +1,112 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "C++26 disapproved by the ISO National Bodies",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xnucc3/c26_disapproved_by_the_iso_national_bodies/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnucc3/c26_disapproved_by_the_iso_national_bodies/",
+    "rank": 1,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "LZAV 7.1: Improved compression ratio and speed. Achieved complete C/C++ pointer arithmetic compliance. Fast Data Compression Algorithm (inline C/C++).",
+    "score": 0,
+    "num_comments": 0,
+    "author": "avaneev",
+    "url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xo82gs/lzav_71_improved_compression_ratio_and_speed/",
+    "rank": 2,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite 12,000× Slower",
+    "score": 0,
+    "num_comments": 0,
+    "author": "gallery_rose",
+    "url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnq1xx/shlemiel_the_painter_is_back_how_zigs_libc/",
+    "rank": 3,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "How we halved DNS build delay and cut memory use by 85%",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnzyh6/how_we_halved_dns_build_delay_and_cut_memory_use/",
+    "rank": 4,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "A Maintainer's Advice on Contributing to Open Source in 2026",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Martinsos",
+    "url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnjvkx/a_maintainers_advice_on_contributing_to_open/",
+    "rank": 5,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "the lost malloc()",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1xni70o/the_lost_malloc/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xni70o/the_lost_malloc/",
+    "rank": 6,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Building Barista: Postgres, Embeddings, and Jev",
+    "score": 0,
+    "num_comments": 0,
+    "author": "teivah",
+    "url": "https://www.reddit.com/r/programming/comments/1xnsc70/building_barista_postgres_embeddings_and_jev/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnsc70/building_barista_postgres_embeddings_and_jev/",
+    "rank": 7,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "DuckDB.NET 1.5.6.1: Appending Dates Up to 27× Faster",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mcnamaragio",
+    "url": "https://www.reddit.com/r/programming/comments/1xnmntq/duckdbnet_1561_appending_dates_up_to_27_faster/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xnmntq/duckdbnet_1561_appending_dates_up_to_27_faster/",
+    "rank": 8,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Can GROUP BY still be optimized after all these years?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Giladkl",
+    "url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xmxnwu/can_group_by_still_be_optimized_after_all_these/",
+    "rank": 9,
+    "date": "2026-11-05"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Postgres 19 REPACK: Built-In Online Table Bloat Cleanup",
+    "score": 0,
+    "num_comments": 0,
+    "author": "craigkerstiens",
+    "url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xn9jr2/postgres_19_repack_builtin_online_table_bloat/",
+    "rank": 10,
+    "date": "2026-11-05"
+  }
+]
