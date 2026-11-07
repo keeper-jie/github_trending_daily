@@ -1,0 +1,302 @@
+[
+  {
+    "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+    "authors": "Fuhao Li, Wenxuan Song, Qizhou Huang, Ziyang Zhou, Jingbo Wang...",
+    "summary": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representati",
+    "upvotes": 129,
+    "url": "https://huggingface.co/papers/2611.08373",
+    "paper_url": "https://arxiv.org/abs/2611.08373",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+    "authors": "Yu-Cheng Chou, Shihao Wang, Jin Huang, Chi-Pin Huang, Chiao-An Yang...",
+    "summary": "Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goa",
+    "upvotes": 96,
+    "url": "https://huggingface.co/papers/2611.08449",
+    "paper_url": "https://arxiv.org/abs/2611.08449",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+    "authors": "Kangning Zhang, Wenxiang Jiao, Bowen Fang, Shuai Shao, Jiachen Zhu...",
+    "summary": "Harness evolution from a common base exhibits Locality, Complementarity, and Nonstationarity: variants repair different failures, and their utility changes as the policy learns. Rather than seeking a ",
+    "upvotes": 55,
+    "url": "https://huggingface.co/papers/2611.04277",
+    "paper_url": "https://arxiv.org/abs/2611.04277",
+    "published_at": "2026-11-03",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+    "authors": "George Ling, Shanshan Zhong, Lijin Yang, Hao Yang, Nanxiang Li...",
+    "summary": "Benchmark compression reduces the often prohibitive time and cost of model evaluation by evaluating models on a small benchmark subset that closely matches full-benchmark results. To quantify estimati",
+    "upvotes": 50,
+    "url": "https://huggingface.co/papers/2611.00883",
+    "paper_url": "https://arxiv.org/abs/2611.00883",
+    "published_at": "2026-10-31",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+    "authors": "Canmiao Fu, Chen Li, Guohui Zhang, Hao Lu, Hongyang Wei...",
+    "summary": "We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for ",
+    "upvotes": 39,
+    "url": "https://huggingface.co/papers/2611.07392",
+    "paper_url": "https://arxiv.org/abs/2611.07392",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
+    "authors": "Ruikang Li, Zixuan Chen, Jiarui Wu, Mingde Yao, Yiyuan Zhang...",
+    "summary": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. Th",
+    "upvotes": 37,
+    "url": "https://huggingface.co/papers/2611.06741",
+    "paper_url": "https://arxiv.org/abs/2611.06741",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "EvoMemState: Evolving Memory State for Personal Agents",
+    "authors": "Zhishang Xiang, Yunbo Tang, Zhongqiao Liu, Junkai Chen, Zerui Chen...",
+    "summary": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process throug",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.03743",
+    "paper_url": "https://arxiv.org/abs/2611.03743",
+    "published_at": "2026-11-02",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Towards Foundation Decision Models: Drex",
+    "authors": "Nischay Dhankhar, Alisher Amantay, Zhanibek Datbayev, Darkhan Akhmetov, Yash Shah...",
+    "summary": "Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tas",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2611.07854",
+    "paper_url": "https://arxiv.org/abs/2611.07854",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
+    "authors": "ZhengXian Wu, Qianhao Nie, Zhuohong Chen, Junjie Gao, Yuyao Zhang...",
+    "summary": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tas",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2611.04894",
+    "paper_url": "https://arxiv.org/abs/2611.04894",
+    "published_at": "2026-11-03",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+    "authors": "Juncheng Ma, Jiaxin Li, Jiankai Tu, Bo Liang, Guodong Lv...",
+    "summary": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training ",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.06817",
+    "paper_url": "https://arxiv.org/abs/2611.06817",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
+    "authors": "Zhenyi Shen, Junru Lu, Wei Liu, Jiangnan Ye, Jiazheng Li...",
+    "summary": "Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt representations with a smaller model's efficient generat",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.06976",
+    "paper_url": "https://arxiv.org/abs/2611.06976",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+    "authors": "Kwan Yun, Minhyeok Bang, Colette Suhjung Koo, Junyong Noh",
+    "summary": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometr",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.07909",
+    "paper_url": "https://arxiv.org/abs/2611.07909",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Future Representation Distillation for Imagination-free World Action Models",
+    "authors": "Jaehyeong Jo, Sangwon Jang, Sihyun Yu, Seonghyeon Ye, Yekyung Nah...",
+    "summary": "World Action Models (WAMs) use the predictive knowledge of pretrained video diffusion models for robot control through future video prediction. However, iterative video denoising is costly, and inaccu",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.04527",
+    "paper_url": "https://arxiv.org/abs/2611.04527",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+    "authors": "Xiaojun Wu, Cehao Yang, Xuhui Jiang, Chengjin Xu, Jia Li...",
+    "summary": "Mathematical modeling turns an open-ended real-world problem into assumptions, a model, a solution, and a defended recommendation, and its answers matter only if they are both close to a credible refe",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.08237",
+    "paper_url": "https://arxiv.org/abs/2611.08237",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation",
+    "authors": "Gyeonghun Kim, Donghoon Kim, Minsoo Choi, Suyun Lee",
+    "summary": "Recent advances in Vision-Language-Action (VLA) models have enabled fine manipulation capabilities, yet performing tasks that require working memory remains a key challenge. Most existing VLA architec",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.02660",
+    "paper_url": "https://arxiv.org/abs/2611.02660",
+    "published_at": "2026-11-02",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
+    "authors": "Tushaar Gangavarapu, Gil Tabak, Clemens JS Schaefer",
+    "summary": "Linear attention compresses context into a fixed-size key-value state for linear-time training and constant-memory inference. Gated delta-rule models decay this state and erase its prediction for an i",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.08376",
+    "paper_url": "https://arxiv.org/abs/2611.08376",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
+    "authors": "Anyuan Zhuo, Shaohua Zhang, Yuan Lin, Pinyan Lu",
+    "summary": "Mixture-of-Experts (MoE) models route each token to a few of many experts, yet what an individual expert is responsible for remains unsettled. Existing analyses count how often an expert is selected o",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.08089",
+    "paper_url": "https://arxiv.org/abs/2611.08089",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+    "authors": "Hao Fei",
+    "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.05376",
+    "paper_url": "https://arxiv.org/abs/2611.05376",
+    "published_at": "2026-11-03",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models",
+    "authors": "Yutong Bian, Yanglin Zhang, Yuxiang Wang, Luoyuan Zhang, Rongshen He...",
+    "summary": "Chunk-interleaved full-duplex speech language models listen and speak in fixed time chunks, and each chunk must be processed before the next one arrives. Their workload is asymmetric across chunks: li",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.06982",
+    "paper_url": "https://arxiv.org/abs/2611.06982",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models",
+    "authors": "Chenru Wang, Xuanyang Zhang, Yucheng Han, Wenbo Nie, Wei Cheng...",
+    "summary": "A deployable text-to-image diffusion model must hold several capabilities at once, such as instruction following, text rendering and human preference, and must sample in a few steps. Capabilities and ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.04386",
+    "paper_url": "https://arxiv.org/abs/2611.04386",
+    "published_at": "2026-11-03",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+    "authors": "Qile Jiang, George Em Karniadakis",
+    "summary": "LLM-guided evolutionary search uses AI agents to improve programs for mathematical and computational problems by iteratively refining solutions and combining high-scoring methods. However, the process",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.08483",
+    "paper_url": "https://arxiv.org/abs/2611.08483",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+    "authors": "Kotaro Oishi, Kazuma Ikeda, Ryosei Hara, Ryo Yoshida, Mariko Isogawa...",
+    "summary": "LiDAR is a critical sensor for autonomous driving and robotics, yet it remains vulnerable to adverse conditions such as fog, rain, transparent objects, and low-reflectance surfaces. Full-waveform LiDA",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.07613",
+    "paper_url": "https://arxiv.org/abs/2611.07613",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery",
+    "authors": "Jiarui Yao, Ruida Wang, Tong Zhang",
+    "summary": "Large language models (LLMs) have shown increasing promise in research-level problem solving, yet a comprehensive collection of such problems is still missing, and evaluating them on research-level pr",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.37739",
+    "paper_url": "https://arxiv.org/abs/2610.37739",
+    "published_at": "2026-10-27",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space",
+    "authors": "Marcus Gawronsky, Chun-Sung Huang",
+    "summary": "When firms respond to new market opportunities, their capacity choices alter the future discounted free cash flows available to both competitors and investors. In competitive markets, these investment",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2609.37820",
+    "paper_url": "https://arxiv.org/abs/2609.37820",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens",
+    "authors": "Seongtae Hong, Youngjoon Jang, Jungseob Lee, Chanjun Park, Heuiseok Lim",
+    "summary": "Embedding models compress variable-length text into fixed-size vector representations, but this compression can entangle semantic content with residual token-level information, such as artifacts arisi",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.07298",
+    "paper_url": "https://arxiv.org/abs/2611.07298",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents",
+    "authors": "Lang Mo, Xingxuan Zhang, Qi Wang, Mingchao Hao, Hao Yuan...",
+    "summary": "Agent decisions depend on empirical relationships that deployment observations reveal and task descriptions alone may leave unresolved. We introduce Decoupled Predictive Decision Making (DPDM), an arc",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.02075",
+    "paper_url": "https://arxiv.org/abs/2611.02075",
+    "published_at": "2026-11-01",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+    "authors": "Pengkai Wang, Wei-Wei Zhang, Yan Li, Min Tang, Zhitian Hou...",
+    "summary": "Current medical benchmarks typically break down clinical competence into isolated factual questions, single-image tasks, or static case vignettes. These tests score individual answers, but reveal less",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.08369",
+    "paper_url": "https://arxiv.org/abs/2611.08369",
+    "published_at": "2026-11-05",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Tools Need Not Speak in Text: Latent Context Compression for Agents",
+    "authors": "Yuetong Liu, Zhehao Zhou, Yitong Zhang, Haorui Chen, Jia Li",
+    "summary": "Large language model (LLM) agents typically append raw tool outputs to their context. Over multi-step interactions, long and noisy observations incur substantial context overhead and dilute the agent'",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.06500",
+    "paper_url": "https://arxiv.org/abs/2611.06500",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation",
+    "authors": "Georgios Feretzakis, Alexandros Papaspyridis",
+    "summary": "Offline retrieval-augmented generation (RAG) on edge devices is updated through signed knowledge packs that carry text and precomputed embedding vectors. A signature proves who published a pack, not t",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.06498",
+    "paper_url": "https://arxiv.org/abs/2611.06498",
+    "published_at": "2026-11-04",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition",
+    "authors": "Tahar Chettaoui, Guray Ozgur, Eduarda Caldeira, Naser Damer, Fadi Boutros",
+    "summary": "Multi-head attention in Vision Transformers (ViTs) allows independent attention patterns across heads, but without explicit regularization, heads may learn redundant patterns rather than complementary",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.41789",
+    "paper_url": "https://arxiv.org/abs/2610.41789",
+    "published_at": "2026-10-30",
+    "date": "2026-11-06"
+  }
+]
