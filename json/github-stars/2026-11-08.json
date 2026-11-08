@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "storytold/craft-anything",
+    "description": "Craft Anything: understand how any software works, and craft your own.",
+    "language": "Rust",
+    "stars": 21229,
+    "forks": 4140,
+    "created_at": "2026-10-31T14:50:00Z",
+    "url": "https://github.com/storytold/craft-anything",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "deepseek-ai/dsh-superagent-prototype",
+    "description": "Towards a More Autonomous Agent System",
+    "language": "TypeScript",
+    "stars": 20937,
+    "forks": 2478,
+    "created_at": "2026-10-31T09:32:46Z",
+    "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "heydamir/unslop",
+    "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+    "language": "JavaScript",
+    "stars": 11491,
+    "forks": 632,
+    "created_at": "2026-10-29T15:41:21Z",
+    "url": "https://github.com/heydamir/unslop",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "wangzan101/Mika",
+    "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+    "language": "Kotlin",
+    "stars": 7648,
+    "forks": 1756,
+    "created_at": "2026-10-29T14:34:07Z",
+    "url": "https://github.com/wangzan101/Mika",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "anhao/ai-pose-gallery-zh",
+    "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+    "language": "TypeScript",
+    "stars": 6393,
+    "forks": 1616,
+    "created_at": "2026-10-27T12:24:37Z",
+    "url": "https://github.com/anhao/ai-pose-gallery-zh",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "zortos293/Lichii",
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "language": "C++",
+    "stars": 5993,
+    "forks": 904,
+    "created_at": "2026-10-31T14:17:26Z",
+    "url": "https://github.com/zortos293/Lichii",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "patch-gg/pixelfx",
+    "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+    "language": "JavaScript",
+    "stars": 5906,
+    "forks": 766,
+    "created_at": "2026-10-30T06:43:25Z",
+    "url": "https://github.com/patch-gg/pixelfx",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "valentderah/totk-pc-recomp",
+    "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+    "language": "C",
+    "stars": 5741,
+    "forks": 472,
+    "created_at": "2026-10-29T12:32:46Z",
+    "url": "https://github.com/valentderah/totk-pc-recomp",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "Djihads80/Eglantine",
+    "description": "VERY experimental Nintendo Switch 2 emulator",
+    "language": "C++",
+    "stars": 5257,
+    "forks": 576,
+    "created_at": "2026-10-29T00:25:18Z",
+    "url": "https://github.com/Djihads80/Eglantine",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "BryceYuuu/RUN",
+    "description": "RUN · 润：中国护照持有人的海外移居手册。欧洲 36 国 110 条移民路线 + 13 个主要移民地区：数字游民签证、欧盟蓝卡、技术移民、留学转工作、创业自雇、投资居留，每条附官方来源，持续更新。",
+    "language": "Python",
+    "stars": 4199,
+    "forks": 303,
+    "created_at": "2026-10-29T11:28:43Z",
+    "url": "https://github.com/BryceYuuu/RUN",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "language": "TypeScript",
+    "stars": 4003,
+    "forks": 726,
+    "created_at": "2026-11-03T08:02:11Z",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "JuneYaooo/rea-video",
+    "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+    "language": "Python",
+    "stars": 3796,
+    "forks": 542,
+    "created_at": "2026-10-29T16:15:01Z",
+    "url": "https://github.com/JuneYaooo/rea-video",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "haydenschmitty/floorplan",
+    "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+    "language": "JavaScript",
+    "stars": 3194,
+    "forks": 249,
+    "created_at": "2026-10-27T12:03:01Z",
+    "url": "https://github.com/haydenschmitty/floorplan",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+    "language": "Python",
+    "stars": 3119,
+    "forks": 1187,
+    "created_at": "2026-11-04T14:54:56Z",
+    "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "Verlintas/NOIR",
+    "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+    "language": "Kotlin",
+    "stars": 3008,
+    "forks": 280,
+    "created_at": "2026-10-31T21:34:39Z",
+    "url": "https://github.com/Verlintas/NOIR",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "modelflare-ai/AnyModelBot",
+    "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+    "language": "Python",
+    "stars": 2737,
+    "forks": 44,
+    "created_at": "2026-10-27T08:51:18Z",
+    "url": "https://github.com/modelflare-ai/AnyModelBot",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "elvarofficial/teardown",
+    "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+    "language": "JavaScript",
+    "stars": 2581,
+    "forks": 395,
+    "created_at": "2026-10-30T09:29:01Z",
+    "url": "https://github.com/elvarofficial/teardown",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "benjitaylor/skills",
+    "description": "Skills for AI coding agents.",
+    "language": "TypeScript",
+    "stars": 2534,
+    "forks": 180,
+    "created_at": "2026-10-26T06:08:56Z",
+    "url": "https://github.com/benjitaylor/skills",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "Minireel/HGhub",
+    "description": "YellowFruit third-party client",
+    "language": "TypeScript",
+    "stars": 2514,
+    "forks": 1173,
+    "created_at": "2026-11-03T14:04:27Z",
+    "url": "https://github.com/Minireel/HGhub",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "paipiange/nvzhuang",
+    "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+    "language": "Go",
+    "stars": 2312,
+    "forks": 583,
+    "created_at": "2026-10-29T06:08:00Z",
+    "url": "https://github.com/paipiange/nvzhuang",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "language": "Swift",
+    "stars": 2292,
+    "forks": 151,
+    "created_at": "2026-11-03T03:22:56Z",
+    "url": "https://github.com/govijr/terminal-mac",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "mromidev/claude-animated-shorts",
+    "description": "Free Claude skill: viral animated story shorts (2D characters in a 3D world) with three.js + Remotion",
+    "language": "TypeScript",
+    "stars": 2286,
+    "forks": 493,
+    "created_at": "2026-11-01T05:50:38Z",
+    "url": "https://github.com/mromidev/claude-animated-shorts",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "NotRexed/Hookshot",
+    "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+    "language": "C++",
+    "stars": 2091,
+    "forks": 196,
+    "created_at": "2026-11-05T12:18:58Z",
+    "url": "https://github.com/NotRexed/Hookshot",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "caru-ini/stack-diagram",
+    "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+    "language": "TypeScript",
+    "stars": 2083,
+    "forks": 100,
+    "created_at": "2026-11-01T05:35:12Z",
+    "url": "https://github.com/caru-ini/stack-diagram",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "physicsdolphin/nv-uefi-unlocker",
+    "description": "UEFI pre-driver NVIDIA GPU unlocker for Windows Linux Hackintosh and all EFI-bootable system (Rust): SEC2 scrubber -> FWSEC/WPR2 -> signed Booter -> V67 four-write payload, read-back verified. Verified on most RTX 20 30 40 Series.",
+    "language": "Rust",
+    "stars": 2071,
+    "forks": 190,
+    "created_at": "2026-10-26T06:22:24Z",
+    "url": "https://github.com/physicsdolphin/nv-uefi-unlocker",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "D3voz/openjutsu",
+    "description": "One-click character swap for videos: an open-source, local Higgsfield Genjutsu alternative built on ComfyUI and MiniMax H3, with FLUX.3 Klein relighting.",
+    "language": "TypeScript",
+    "stars": 1925,
+    "forks": 276,
+    "created_at": "2026-10-26T13:48:11Z",
+    "url": "https://github.com/D3voz/openjutsu",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "andyhuo520/digital-human-koubo",
+    "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 creator-grade packaging components. Agent skill for Claude Code / Codex / OpenClaw / WorkBuddy …",
+    "language": "TypeScript",
+    "stars": 1865,
+    "forks": 427,
+    "created_at": "2026-10-26T04:34:09Z",
+    "url": "https://github.com/andyhuo520/digital-human-koubo",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "lexifina/global-law",
+    "description": "The world's law in git: any provision, any country, any date, and the law that wrote each word.",
+    "language": "HTML",
+    "stars": 1860,
+    "forks": 175,
+    "created_at": "2026-10-28T13:34:16Z",
+    "url": "https://github.com/lexifina/global-law",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "aschmelyun/print-my-profile-pic",
+    "description": "Say cheese! Star this repo and your profile picture gets printed out on a receipt printer.",
+    "language": "",
+    "stars": 1816,
+    "forks": 6,
+    "created_at": "2026-10-27T20:40:05Z",
+    "url": "https://github.com/aschmelyun/print-my-profile-pic",
+    "date": "2026-11-08"
+  },
+  {
+    "repo": "Motionsites-AI/claude-skill",
+    "description": "Free Claude skill: make Claude build award-level, cinematic landing pages. By MotionSites.",
+    "language": "Python",
+    "stars": 1810,
+    "forks": 185,
+    "created_at": "2026-10-26T06:58:45Z",
+    "url": "https://github.com/Motionsites-AI/claude-skill",
+    "date": "2026-11-08"
+  }
+]
