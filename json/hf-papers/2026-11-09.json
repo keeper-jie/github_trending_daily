@@ -1,0 +1,182 @@
+[
+  {
+    "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+    "authors": "Hao Yu, Zhenwei Wang, Yongzhen Hu, Yuning Gong, Junta Wu...",
+    "summary": "We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of th",
+    "upvotes": 42,
+    "url": "https://huggingface.co/papers/2611.08264",
+    "paper_url": "https://arxiv.org/abs/2611.08264",
+    "published_at": "2026-11-05",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Beneath the Surface: What We Overlook When We Talk About Agent Evolution",
+    "authors": "Xiaobo Wang, Zimu Wang, Siyu Ye, Jiaqi Li, Min Tang...",
+    "summary": "Agent harness evolution enables recursive self-improvement (RSI) without updating model weights. We examine whether higher benchmark scores yield reliable, efficient, and transferable improvement. We ",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2611.07624",
+    "paper_url": "https://arxiv.org/abs/2611.07624",
+    "published_at": "2026-11-05",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models",
+    "authors": "Yequan Bie, Dengyang Jiang, Zhixuan Chen, Xiaozhuan Liang, Haoxuan Che...",
+    "summary": "Generative video models are increasingly used as visual world simulators, yet their primary strength lies in rendering plausible pixels rather than reasoning about how a world should evolve. Coherent ",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.06748",
+    "paper_url": "https://arxiv.org/abs/2611.06748",
+    "published_at": "2026-11-04",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+    "authors": "Haoxiang Cao, Yuxuan Zhang, Penghui Du, Bo Li, Jiajiong Cao...",
+    "summary": "We introduce LongBanana, to our knowledge the first expert-designed and expert-verified benchmark for long-context multi-reference image synthesis in the age of agent-driven image generation. The task",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.06856",
+    "paper_url": "https://arxiv.org/abs/2611.06856",
+    "published_at": "2026-11-04",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+    "authors": "Sinuo Wang, Jiacheng Lu, Zeyu Zhang, Maojia Song, Rui Sun...",
+    "summary": "Multi-teacher on-policy distillation consolidates expert capabilities by supervising student-generated trajectories, whereas task arithmetic offers a training-free alternative through linear parameter",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.03953",
+    "paper_url": "https://arxiv.org/abs/2611.03953",
+    "published_at": "2026-11-02",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+    "authors": "Daniel Huang, Qi He, Shaoxiong Duan, Yingjie Li, Qiao Cheng...",
+    "summary": "Streaming speech recognition is increasingly consumed by machines, such as translators and voice agents, that act on each token as it appears. A token that is later revised costs wasted work or a wron",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.06043",
+    "paper_url": "https://arxiv.org/abs/2611.06043",
+    "published_at": "2026-11-04",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "authors": "Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen...",
+    "summary": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dyna",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.09894",
+    "paper_url": "https://arxiv.org/abs/2611.09894",
+    "published_at": "2026-11-06",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations",
+    "authors": "Junru Hu, Cheng Tang, Wei Li, Hongze Zhu, Chun-Mei Feng...",
+    "summary": "Weight-Space Programming (WSP) enables reasoning agents to directly inspect and modify neural network parameters, offering an alternative to gradient-based model adaptation. However, its capabilities,",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.09382",
+    "paper_url": "https://arxiv.org/abs/2611.09382",
+    "published_at": "2026-11-06",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds",
+    "authors": "Xinjie Lin, Qingle Liu, Wenyi Li, John Lam, Xiaoqiu Wang...",
+    "summary": "Coding agents combine visual understanding with program execution, offering a new route to automated 3D creation. By translating images and instructions into editable programs, they bring reconstructi",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.09017",
+    "paper_url": "https://arxiv.org/abs/2611.09017",
+    "published_at": "2026-11-06",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "AgentBaton: Efficient Model Collaboration in Agentic Tasks",
+    "authors": "Junlong Li, Jindong Jiang, Yonggan Fu, Jiarui Yao, Hanrong Ye...",
+    "summary": "Solving long-horizon agentic tasks requires language agents to interact with their environments over multiple steps, and reliable performance often comes from the expensive capable models available th",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2610.35959",
+    "paper_url": "https://arxiv.org/abs/2610.35959",
+    "published_at": "2026-10-25",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets",
+    "authors": "Beomjin Ahn",
+    "summary": "We present PREEN (Preset Regression via an Exemplar-based Editor Network), which casts color style transfer as regression onto the 29 parameters of a deterministic image editor. Given a content image ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2610.36896",
+    "paper_url": "https://arxiv.org/abs/2610.36896",
+    "published_at": "2026-10-27",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "OmniLatent: Unified Latent for 3D Part Modeling",
+    "authors": "Yunhan Yang, Yunfei Zhao, Zeqiang Lai, Jiachen Xu, Minxiu Wang...",
+    "summary": "3D part decomposition is a central capability for editable asset creation, yet existing workflows typically segment a completed mesh as a post-processing step, making the result sensitive to geometric",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.09055",
+    "paper_url": "https://arxiv.org/abs/2611.09055",
+    "published_at": "2026-11-06",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "\"PRISM\" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval",
+    "authors": "Jingjie Ning, Xueqi Li, Yibo Kong",
+    "summary": "Scientific names increasingly connect papers from different research topics, leaving readers to recover a paper's identity from context. We study this convergence in 564,861 AI-related arXiv records. ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.01362",
+    "paper_url": "https://arxiv.org/abs/2611.01362",
+    "published_at": "2026-11-01",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting",
+    "authors": "Lingfei Qian, Yan Wang, Xueqing Peng, Yupeng Cao, Yuechen Jiang...",
+    "summary": "Financial backtests of large language models (LLMs) are meaningful only if the model did not already know the outcomes it is asked to predict. Practitioners guard against this by trusting a vendor's s",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.06808",
+    "paper_url": "https://arxiv.org/abs/2611.06808",
+    "published_at": "2026-11-04",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks",
+    "authors": "Haibo Jin, Peng Kuang, Xiaopeng Yuan, Lucheng Fu, Jerry Wang...",
+    "summary": "How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% o",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.07461",
+    "paper_url": "https://arxiv.org/abs/2611.07461",
+    "published_at": "2026-11-05",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+    "authors": "Mostafa 'Neo' Mohsenvand",
+    "summary": "Language models are accurate on most long-arithmetic problems, but their accuracy is estimated on samples and carries no guarantee for an unseen input; tool use is exact but moves the computation outs",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.04434",
+    "paper_url": "https://arxiv.org/abs/2611.04434",
+    "published_at": "2026-11-03",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding",
+    "authors": "Emile de Bruyn, Moritz Schäffler, Jannik Schneider, Sebastian R. Schmidt, Chanwoong Hwang...",
+    "summary": "Protein motif scaffolding benchmarks assess whether generative models can build scaffolds around functionally important residues. Their conclusions depend on which motifs are tested and which criteria",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.07723",
+    "paper_url": "https://arxiv.org/abs/2611.07723",
+    "published_at": "2026-11-05",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer",
+    "authors": "Feng Cheng, Yu-Hsuan Huang, Fengyi Wang, Chaofan Zhou, Zhennan Zhu...",
+    "summary": "Industrial recommender systems allocate substantial computation to pointwise candidate scoring, yet separate reranking and mix-ranking stages still assemble the final exposure slate using hand-crafted",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.04720",
+    "paper_url": "https://arxiv.org/abs/2611.04720",
+    "published_at": "2026-11-03",
+    "date": "2026-11-09"
+  }
+]

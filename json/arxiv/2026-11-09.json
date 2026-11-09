@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+    "authors": "Chaoyang Wang, Sicheng Gao, Junan Hu, Kunyang Li, Dongyang Chen...",
+    "summary": "Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dyna",
+    "categories": "cs.CV",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09894v1",
+    "abs_url": "https://arxiv.org/abs/2611.09894v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "On Agentic Manipulation Policies",
+    "authors": "Chen Chen, Omid Bagherieh, Naveen Nikamanth Appiah Balaji, Jesse T. Gonzalez, Negin Heravi...",
+    "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a",
+    "categories": "cs.RO, cs.AI, cs.CV, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09892v1",
+    "abs_url": "https://arxiv.org/abs/2611.09892v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+    "authors": "Peter Belcak, Greg Heinrich, Saurav Muralidharan, Shizhe Diao, Pavlo Molchanov",
+    "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h",
+    "categories": "cs.AI",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09891v1",
+    "abs_url": "https://arxiv.org/abs/2611.09891v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "On the (non-)closedness of the set of ReLU networks",
+    "authors": "Eloi Martinet, Leon Bungert",
+    "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d",
+    "categories": "cs.LG, math.CA, math.FA, math.NA, math.OC",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09887v1",
+    "abs_url": "https://arxiv.org/abs/2611.09887v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+    "authors": "Aadya Agrawal, Ho Kei Cheng, Alexander Schwing",
+    "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09882v1",
+    "abs_url": "https://arxiv.org/abs/2611.09882v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+    "authors": "Aaron Sun, Yachan Liu, Ping Yang, Peng Bai, Subhransu Maji",
+    "summary": "Zeolites are an important class of porous crystalline materials with broad applications in gas storage, separations, and catalysis. Although hundreds of thousands of experimentally realized and hypoth",
+    "categories": "cs.CV",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09880v1",
+    "abs_url": "https://arxiv.org/abs/2611.09880v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+    "authors": "Tanush Shaska",
+    "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09878v1",
+    "abs_url": "https://arxiv.org/abs/2611.09878v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+    "authors": "Haoyu Wang, Ru Wang, Yuanyuan Wang, Jiaxian Guo, Mingming Gong",
+    "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma",
+    "categories": "cs.AI",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09872v1",
+    "abs_url": "https://arxiv.org/abs/2611.09872v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+    "authors": "Xingyu Liu, Xiangyang Yin, Tianhua Xia, Haiyu Wang, Sai Qian Zhang",
+    "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas",
+    "categories": "cs.CL",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09868v1",
+    "abs_url": "https://arxiv.org/abs/2611.09868v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+    "authors": "Rochak Dhakal, Chen Zhao, Soup Cobb, Xin Qian, Xiaofeng Yang...",
+    "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09866v1",
+    "abs_url": "https://arxiv.org/abs/2611.09866v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+    "authors": "Xun Tu, Minghao Zou, Karthik Desingh",
+    "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r",
+    "categories": "cs.RO, cs.AI, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09864v1",
+    "abs_url": "https://arxiv.org/abs/2611.09864v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+    "authors": "Ruizhi Yuan, Zeqiu Yu, Wei Gao, Wei Chen, Xiwei Tang...",
+    "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used directl",
+    "categories": "cs.AI, cs.CV, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09863v1",
+    "abs_url": "https://arxiv.org/abs/2611.09863v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+    "authors": "Natsuki Yuda, Shinichiro Shirota",
+    "summary": "The Global Ecosystem Dynamics Investigation (GEDI) mission measures three-dimensional forest structure with a LiDAR aboard the International Space Station. GEDI observations have geolocation errors of",
+    "categories": "eess.IV, cs.CV, physics.geo-ph",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09854v1",
+    "abs_url": "https://arxiv.org/abs/2611.09854v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Health-System-Wide Mapping of Demographic Information in Routine Clinical Histopathology",
+    "authors": "Shengjia Chen, Ruchika Verma, Kevin Clare, Paula Restrepo, Jannes Jegminat...",
+    "summary": "The extent to which demographic-associated information is detectable across organs and disease states in routine clinical histopathology remains unclear. Here, we analyzed 1.3 million hematoxylin and ",
+    "categories": "cs.CV, q-bio.QM",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09851v1",
+    "abs_url": "https://arxiv.org/abs/2611.09851v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "How far does a hash-only sender go? A pre-registered map of sender memory versus bits for short text messages",
+    "authors": "Marcelo Samoilenko",
+    "summary": "Can a sender that only computes hashes, with a language model only at the receiver, transmit short human text more cheaply than a classical sender trained on the same domain? We answer with one pre-re",
+    "categories": "cs.IT, cs.CL",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09848v1",
+    "abs_url": "https://arxiv.org/abs/2611.09848v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Computer-Use Agents Are Embodied Generalists",
+    "authors": "Pranjal Aggarwal, Sean Welleck",
+    "summary": "In many areas of AI, general-purpose models have increasingly replaced handcrafted methods and specialized architectures. We argue that embodied AI is poised for a similar shift. Our key claim is that",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09847v1",
+    "abs_url": "https://arxiv.org/abs/2611.09847v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+    "authors": "Marco Colombo, Balaji A Jayaram, Sowmyakumari Selvaraj, Sumit Tokkar, Animesh Kumar...",
+    "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreement",
+    "categories": "cs.AI, cs.PL",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09846v1",
+    "abs_url": "https://arxiv.org/abs/2611.09846v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "AdaptivePnP: Fast Auto-Tuned Plug-and-Play for Deconvolution",
+    "authors": "Haley Duba-Sullivan, Emma J. Reid, Charles A. Bouman, Gregery T. Buzzard",
+    "summary": "Plug-and-play (PnP) methods reconstruct images by alternating a data-fitting step with an image denoiser. Their performance depends on two parameters: the step size $γ$ and the measurement noise level",
+    "categories": "eess.IV, cs.CV",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09845v1",
+    "abs_url": "https://arxiv.org/abs/2611.09845v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+    "authors": "Omar Swelam, Jaris Küken, Shi Bin Hoo, Frank Hutter, Lennart Purucker",
+    "summary": "The pigs were bleeding. That was the point of the experiment: could airway pressure reveal hemorrhage before it became critical? In the UCR Time Series Classification Archive, the de facto benchmark f",
+    "categories": "cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09843v1",
+    "abs_url": "https://arxiv.org/abs/2611.09843v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Can Agentic Systems Close the Gap in Radiology with Production AI Tools?",
+    "authors": "Aubin Charley, Julien Khlaut, Charles Corbière, Pierre Manceron, Corentin Dancette...",
+    "summary": "Radiology AI has developed along two paths: specialized models that perform well on narrow tasks but cover few clinical findings, and generalist models that address a broader range of tasks but remain",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09836v1",
+    "abs_url": "https://arxiv.org/abs/2611.09836v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Designing Effective Monitor-Based Interventions for Mitigating Reward Hacking During RL",
+    "authors": "Aria Wong, Joshua Engels, Neel Nanda",
+    "summary": "Reinforcement learning (RL) rewards are notoriously difficult to design and control, often leading to the model learning unintended behaviors such as reward hacking. One potential solution is to monit",
+    "categories": "cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09828v1",
+    "abs_url": "https://arxiv.org/abs/2611.09828v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+    "authors": "Dayou Du, Woon Yee Ng, Guangming Sheng, Nick Lau, Jianyi Cheng...",
+    "summary": "The key-value (KV) cache dominates memory capacity and bandwidth in long-context LLM serving. While 4-bit microscaling formats (NVFP4, MXFP4) shrink the cache and run attention on FP4 Tensor Cores, a ",
+    "categories": "cs.AI, cs.AR, cs.CL, cs.PF",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09825v1",
+    "abs_url": "https://arxiv.org/abs/2611.09825v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Discovering formally verified quantum programs with AI",
+    "authors": "Sergey Shirobokov, Ben Jaderberg, Katerina Hristova, George Tsoukalas, Johannes Bausch...",
+    "summary": "The timeline by which quantum computers can solve breakthrough problems in science depends on improved quantum algorithms as much as on better hardware. Such algorithmic advances are typically achieve",
+    "categories": "quant-ph, cs.AI, cs.PL",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09822v1",
+    "abs_url": "https://arxiv.org/abs/2611.09822v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+    "authors": "Daniel Hinjos, Lucía Urcelay",
+    "summary": "Dominant methods for interpreting large models impose strong structural assumptions. Generative Latent Priors (GLP) are a complementary approach: a diffusion model that learns the distribution of a fr",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09818v1",
+    "abs_url": "https://arxiv.org/abs/2611.09818v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Machine learning for lattice QCD",
+    "authors": "Gurtej Kanwar, Scott Lawrence, Alessandro Nada, Phiala Shanahan",
+    "summary": "Machine learning (ML) methods have been explored as a means of optimizing lattice field theory calculations, with increasing interest in recent years. This chapter gives an introduction and summary to",
+    "categories": "hep-lat, cs.LG",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09817v1",
+    "abs_url": "https://arxiv.org/abs/2611.09817v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "BEV3SR: Evidence-Aware 3D Spatial Reasoning from Video",
+    "authors": "Fan Zhu, Rui Yu",
+    "summary": "3D spatial reasoning from video remains challenging for VLMs because videos provide sequential, view-local observations rather than persistent metric scene records. Many questions must be answered in ",
+    "categories": "cs.CV",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09816v1",
+    "abs_url": "https://arxiv.org/abs/2611.09816v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "The Cost of Coverage: Conformalising Native Forecast Uncertainty for GB Wind Power",
+    "authors": "Carl Somers",
+    "summary": "Uncertainty bands on wind forecasts help inform reserve sizing and commitments, but often fail to deliver their stated coverage. We apply conformal prediction to native bands to see what it adds and w",
+    "categories": "cs.LG, stat.AP",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09815v1",
+    "abs_url": "https://arxiv.org/abs/2611.09815v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Compaction, decay and reinforcement in a two-tier conversational memory: a paired evaluation against retrieval-augmented generation",
+    "authors": "Osamudiamen Edogun, Joshua Obigwe, Irfan Mehmood",
+    "summary": "A conversational agent that remembers has to decide what to keep. Retrieval-augmented generation keeps the transcript and searches it; the alternative is to compact each turn into atomic facts and sea",
+    "categories": "cs.CL",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09807v1",
+    "abs_url": "https://arxiv.org/abs/2611.09807v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "Scaling Graph Similarity Learning with Graph Neural Networks",
+    "authors": "Ahmet Tüzen, Helge Langseth, Kjetil Nørvåg",
+    "summary": "Graph similarity computation is an important task in graph mining with many real-world applications, such as chemical compound analysis, program dependence comparison, and social network analysis. The",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09805v1",
+    "abs_url": "https://arxiv.org/abs/2611.09805v1",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "When Instruction Files Go Stale: Documentation Debt and Hidden Cost in Coding Agents",
+    "authors": "Tural Mehtiyev, Biruk Tadesse, Lawrence Arkoh, Wesley Assunção",
+    "summary": "LLM-based coding agents such as Claude Code are guided by repository instruction files (also called context files or agent configuration files) like AGENTS.md and CLAUDE.md, which are read in every ag",
+    "categories": "cs.SE, cs.AI",
+    "published": "2026-11-06",
+    "pdf_url": "https://arxiv.org/pdf/2611.09802v1",
+    "abs_url": "https://arxiv.org/abs/2611.09802v1",
+    "date": "2026-11-09"
+  }
+]
