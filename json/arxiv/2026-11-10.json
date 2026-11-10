@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+    "authors": "Haozhi Yuan, Handong Li, Yifan Zhang, Qianshan Wei",
+    "summary": "Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. M",
+    "categories": "cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12886v1",
+    "abs_url": "https://arxiv.org/abs/2611.12886v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "World In-Context Learning for Agentic Robot Manipulation",
+    "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang...",
+    "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12885v1",
+    "abs_url": "https://arxiv.org/abs/2611.12885v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+    "authors": "Zhaoying Pan, Yipei Wang, Shenyu Lu, Xiaoqian Wang",
+    "summary": "Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced ",
+    "categories": "cs.LG, cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12884v1",
+    "abs_url": "https://arxiv.org/abs/2611.12884v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+    "authors": "Zhaoying Pan, Shenyu Lu, Jun Hui Wong, Junyi Chai, Xiaoqian Wang",
+    "summary": "Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are no",
+    "categories": "cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12883v1",
+    "abs_url": "https://arxiv.org/abs/2611.12883v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynamics",
+    "authors": "Majdi Hassan, Marta Skreta, Dominique Beaini, Kirill Neklyudov",
+    "summary": "Stochastic differential equations (SDEs) describe stochastic processes across a wide range of scientific domains, including physics, biology, and finance. Although individual numerical integration ste",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12880v1",
+    "abs_url": "https://arxiv.org/abs/2611.12880v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+    "authors": "Rustin Soraki, Matthew Wallingford, Ryan Aby, Brandon Chee, Jason Ren...",
+    "summary": "To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural s",
+    "categories": "cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12879v1",
+    "abs_url": "https://arxiv.org/abs/2611.12879v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+    "authors": "Sreejeet Maity, Aritra Mitra",
+    "summary": "Motivated by reinforcement learning subject to communication constraints, we study a policy evaluation problem with linear function approximation over a rate-limited channel. In our setup, an agent in",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12878v1",
+    "abs_url": "https://arxiv.org/abs/2611.12878v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks",
+    "authors": "Hao Gu, Jin Yao, Zezhou Cheng",
+    "summary": "Despite impressive progress, existing feed-forward large 3D reconstruction models produce a single, irrevocable prediction. When these models fail, there is no mechanism to correct their mistakes. To ",
+    "categories": "cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12875v1",
+    "abs_url": "https://arxiv.org/abs/2611.12875v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+    "authors": "Haozhen Zhang, Bohan Liu, Jianzhu Bao, Qingyuan Liu, Haodong Yue...",
+    "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12872v1",
+    "abs_url": "https://arxiv.org/abs/2611.12872v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection",
+    "authors": "Amey Pasarkar, Adji Bousso Dieng",
+    "summary": "Anomaly detection (AD) is a critical for trustworthy machine learning and scientific discovery. Existing methods typically define anomalies through local density, isolation heuristics, or distance fro",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12871v1",
+    "abs_url": "https://arxiv.org/abs/2611.12871v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+    "authors": "Yu Zhou, Xinyuan Xia, Xuankun Yang, Yinghao Yang, Wendi Chen...",
+    "summary": "World action models jointly predict video and actions conditioned on language. Existing studies focus primarily on architectures and training mechanisms, typically treating language-video alignment ac",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12870v1",
+    "abs_url": "https://arxiv.org/abs/2611.12870v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic Representation Hypothesis",
+    "authors": "Julia Herbst, Simon Roschmann, Quentin Bouniot, Zeynep Akata",
+    "summary": "The Platonic Representation Hypothesis (PRH) suggests that neural networks are converging toward similar representation spaces. As language models become more capable, their representations are aligni",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12869v1",
+    "abs_url": "https://arxiv.org/abs/2611.12869v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+    "authors": "Xinjie Shen",
+    "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar",
+    "categories": "cs.AI, cs.CR",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12865v1",
+    "abs_url": "https://arxiv.org/abs/2611.12865v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Is Persona Generalization Predictable?",
+    "authors": "Olina Mukherjee, Arnav Goel, Aditi Raghunathan, Jacob Mitchell Springer",
+    "summary": "Persona generalization occurs when fine-tuning a language model in one domain induces behavioral changes in others -- for example, the broadly unsafe behavior observed in emergent misalignment. We dis",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12864v1",
+    "abs_url": "https://arxiv.org/abs/2611.12864v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+    "authors": "Zheng Jiang, Fang Niu, Bo Peng, Houde Qian, Wenyi Li...",
+    "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate ",
+    "categories": "cs.CL, cs.SE",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12856v1",
+    "abs_url": "https://arxiv.org/abs/2611.12856v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "AI-based characterization of lymphoid structures and the tumor microenvironment reveals lower mature tertiary lymphoid structures, lymph-node follicles, and plasma cells after neoadjuvant therapy in lung squamous cell carcinoma",
+    "authors": "Arne Schmidt, Justin Nieder, Cornelius Boehm, Julika Ribbat-Idel, Marius Teodorescu...",
+    "summary": "Mature, germinal centre-bearing tertiary lymphoid structures (TLS) and mature lymph node follicles (secondary lymphoid structures, SLS) sustain the plasma cell response that shapes outcome and immunot",
+    "categories": "cs.CV, q-bio.QM",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12855v1",
+    "abs_url": "https://arxiv.org/abs/2611.12855v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching",
+    "authors": "Tianze Luo, Haofeng Huang, Yuan Yao",
+    "summary": "Latent Diffusion Models dominate generative modeling but face two-stage training complexity and the inherent reconstruction limits of pre-trained autoencoders. Pixel-space Flow Matching offers a simpl",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12852v1",
+    "abs_url": "https://arxiv.org/abs/2611.12852v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games",
+    "authors": "Hanxiao Li, Shutong Liu, Yongjia Ma, Jiaming Ji, Juntao Dai...",
+    "summary": "As large language models become more capable agents, they can exhibit deceptive behaviors, cheating human for higher rewards while appearing helpful. We attribute this failure to evaluation-side parti",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12835v1",
+    "abs_url": "https://arxiv.org/abs/2611.12835v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Programming Prescience: Issues in Human Construction of Forecasting Bots",
+    "authors": "Priya Dhawka, Benjamin Wilson, Andrew Head",
+    "summary": "AI models' growing capacity for complex reasoning has made them attractive tools for forecasting, or the systematic prediction of the future based on past and present data. However, should AI forecast",
+    "categories": "cs.HC, cs.AI",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12834v1",
+    "abs_url": "https://arxiv.org/abs/2611.12834v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts",
+    "authors": "Chang Lu, Mengjiao Zhang",
+    "summary": "Low-precision pretraining is usually judged by validation loss. We ask whether matching loss also means learning rare facts as efficiently. We train transformers from scratch with emulated 4-bit matri",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12832v1",
+    "abs_url": "https://arxiv.org/abs/2611.12832v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "MaxIM: Maximally Informative Incremental Summarization via Reinforcement Learning",
+    "authors": "Jihwan Jeong, Guy Tennenholtz, Yinlam Chow, Chih-Wei Hsu, Craig Boutilier",
+    "summary": "AI systems must often maintain bounded memory of unbounded interaction histories. However, optimizing the memory representation, and its updates, for downstream task utility is difficult for standard ",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12825v1",
+    "abs_url": "https://arxiv.org/abs/2611.12825v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "How Well Does AI Peer Review Work? A Benchmark Built from 100 Planted Errors",
+    "authors": "Paul Litvak",
+    "summary": "One hundred known errors were planted into 10 open-access psychology papers, and the modified papers were then run through frontier models and two commercial AI review tools. The best single system ca",
+    "categories": "cs.CL",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12820v1",
+    "abs_url": "https://arxiv.org/abs/2611.12820v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "LUCQUE: A lung cancer screening dataset from Québec for reliable AI evaluation",
+    "authors": "Johanna Topalis, Yannick Lemaréchal, Gabriel Couture, Hanife Ersay, Loran Nas...",
+    "summary": "BACKGROUND: AI-based tools are expected to play a key role in lung cancer screening (LCS). The evaluation of these tools often relied on private datasets or fragmented public datasets with inconsisten",
+    "categories": "cs.DB, cs.AI",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12817v1",
+    "abs_url": "https://arxiv.org/abs/2611.12817v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Automated Knowledge Acquisition Pipeline for Disassembly Instructions: A Comparison of NLP and Generative AI Frameworks",
+    "authors": "Tim Schnieders, Tareq Maximilian Gabriel Ahrari, Oliver Petrovic, Christian Brecher",
+    "summary": "The push towards circularity and Re-X principles presents a challenge to SMEs, particularly due to increasing product complexity that impedes the adoption of disassembly automation. This paper introdu",
+    "categories": "cs.AI",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12816v1",
+    "abs_url": "https://arxiv.org/abs/2611.12816v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Inversion-Free High-Dimensional Counterfactual Inference",
+    "authors": "Saketh Vishnubhatla, Pingchuan Ma, Shu Wan, Alimohammad Beigi, Andre Harrison...",
+    "summary": "Counterfactual inference is the task of answering hypothetical \"what-if\" queries about a unit, given an observational dataset, modeling assumptions, and a causal graph. This enables a modeler to reaso",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12815v1",
+    "abs_url": "https://arxiv.org/abs/2611.12815v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Curbside Chatbots: Auditing the Mental Health Interventions Large Language Models Recommend to Clinicians, Caregivers, and Patients",
+    "authors": "Matthew Flathers, Jill Noorily, Phuong Anh Nguyen, Mark Kalinich, Mina Fallah...",
+    "summary": "Users are asking language models mental health questions and are receiving answers. We audited what 41 language models recommend to users when the same clinical information reaches them from three foo",
+    "categories": "cs.CY, cs.CL, cs.HC",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12814v1",
+    "abs_url": "https://arxiv.org/abs/2611.12814v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "2D Gum-Net: Unsupervised Dense Elastic Image Registration via Symmetric Correlation and Spectral Pooling",
+    "authors": "Aarya Bhave, Anushka Ajay Bhave",
+    "summary": "Dense non-rigid registration, the recovery of a pixel-wise deformation field that warps one image into geometric agreement with another, is fundamental across medical imaging, structural biology, and ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12805v1",
+    "abs_url": "https://arxiv.org/abs/2611.12805v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Agentic-OPD: Recovering Forgotten Agent Capabilities via On-Policy Distillation for Agentic Tasks",
+    "authors": "Tingcheng Bian, Kangye Gong, Jinchang Luo, MingQuan Cheng, Feiran Liu...",
+    "summary": "Reinforcement learning is now the mainstream paradigm for training LLMs on agentic tasks, yet standard practice keeps only the best-validation checkpoint and discards the rest. We show that this is lo",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12799v1",
+    "abs_url": "https://arxiv.org/abs/2611.12799v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Complementarity-Driven Dual-Teacher Hierarchical Alignment for Zero-Shot EEG-to-Image Retrieval",
+    "authors": "Lukun Wu, Jie Li, Ziqi Ren, Ruiyang Xia, Yan Gao...",
+    "summary": "Decoding visual information from EEG is central to brain--computer interfaces and brain-inspired intelligence, and contrastive alignment with pretrained vision foundation models (VFMs) has become the ",
+    "categories": "cs.CV",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12798v1",
+    "abs_url": "https://arxiv.org/abs/2611.12798v1",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Smartphone-Enabled Depth-Aware Transillumination Imaging for Detection of Chicken Breast Fillet Myopathies in Chicken Fillets",
+    "authors": "Chaitanya Pallerla, Ramesh Bahadur Bist, Yihong Feng, Yang Tian, Shiva Paudel...",
+    "summary": "Woody Breast (WB) myopathy is a major quality defect in broiler chickens characterized by fibrosis, increased tissue hardness, and altered structural properties that affect product quality. Convention",
+    "categories": "cs.LG",
+    "published": "2026-11-09",
+    "pdf_url": "https://arxiv.org/pdf/2611.12796v1",
+    "abs_url": "https://arxiv.org/abs/2611.12796v1",
+    "date": "2026-11-10"
+  }
+]

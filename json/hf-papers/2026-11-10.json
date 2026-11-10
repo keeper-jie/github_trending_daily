@@ -1,0 +1,152 @@
+[
+  {
+    "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+    "authors": "Juanxi Tian, Jiadong Hou, Baiang Li, Xin Lin, Zhengbo Jiao...",
+    "summary": "Visual generative models increasingly blur the line between synthesizing observations and simulating environments. Yet visual plausibility alone does not constitute successful world modeling: compelli",
+    "upvotes": 34,
+    "url": "https://huggingface.co/papers/2611.10771",
+    "paper_url": "https://arxiv.org/abs/2611.10771",
+    "published_at": "2026-11-07",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+    "authors": "Weida Wang, Benteng Chen, Yigeng Jiang, Shuchen Pu, Weiping Shen...",
+    "summary": "We introduce Sage-Taiyi, a metacognition-inspired architecture that uses accumulated scientific understanding to guide what to investigate next and how to investigate it. Through explicit monitoring a",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2611.12762",
+    "paper_url": "https://arxiv.org/abs/2611.12762",
+    "published_at": "2026-11-09",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+    "authors": "Yubo Wang, Rui Meng, Jaehyun Nam, Tomas Pfister, Jinsung Yoon",
+    "summary": "Reproducing machine learning experiments requires reconstructing procedures from information scattered across papers, released code, and supporting artifacts. For coding agents, reproduction success c",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2611.08452",
+    "paper_url": "https://arxiv.org/abs/2611.08452",
+    "published_at": "2026-11-05",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+    "authors": "Bobo Li, Jiajia Song, Hao Fei, Wynne Hsu, Mong Li Lee",
+    "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2610.42148",
+    "paper_url": "https://arxiv.org/abs/2610.42148",
+    "published_at": "2026-10-30",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research",
+    "authors": "Jinwoo Hwang, Sukmin Cho, Tao Zhang, Soheil Abbasloo, Jongse Park...",
+    "summary": "LLM agents increasingly drive systems research and rely on simulators to evaluate candidate designs at scale. Simulators are imperfect by design: their modeling limitations can distort predictions yet",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.10329",
+    "paper_url": "https://arxiv.org/abs/2611.10329",
+    "published_at": "2026-11-06",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation",
+    "authors": "Yingtao Ren, Xiao Luo, Yiwei Fu, Jinzhao Zhou, Yu-Cheng Chang...",
+    "summary": "This paper studies retrieval-augmented generation (RAG), which leverages external knowledge to improve the performance of language models. Despite the remarkable progress, current RAG approaches are s",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.02810",
+    "paper_url": "https://arxiv.org/abs/2611.02810",
+    "published_at": "2026-11-02",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning",
+    "authors": "Haitao Lin, Minsi Ren, Yang Li, Xingtong Ge, Zheyuan Hu...",
+    "summary": "Reinforcement learning (RL) has become a standard post-training method for diffusion models, but most RL objectives roll out the current policy at every iteration, and with a many-step sampler these r",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.08240",
+    "paper_url": "https://arxiv.org/abs/2611.08240",
+    "published_at": "2026-11-05",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time",
+    "authors": "Ku Onoda, Haruto Kawano, Shota Takashiro, Kohei Hayashi",
+    "summary": "World models enable agents to plan and learn from imagined experience, but in an unfamiliar environment they must learn its mechanics from limited interaction. A mechanic is a rule for how an action o",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.12324",
+    "paper_url": "https://arxiv.org/abs/2611.12324",
+    "published_at": "2026-11-09",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation",
+    "authors": "Xiangjun Tang, Jianqi Chen, Peter Wonka",
+    "summary": "Generating high-fidelity voxels while keeping their lightweight nature remains an open problem in computer vision. Current generators are either high-fidelity but computationally heavy, or lightweight",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.10690",
+    "paper_url": "https://arxiv.org/abs/2611.10690",
+    "published_at": "2026-11-07",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Horizon-Scalable Q-Learning",
+    "authors": "Haoran Xu, Pragya Srivastava, Xinjie Liu, Siddhant Agarwal, Amy Zhang",
+    "summary": "Learning accurate off-policy state-action value functions (Q-functions) from offline datasets becomes harder as the task horizon grows. One-step temporal-difference (TD) learning bootstraps after ever",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.10987",
+    "paper_url": "https://arxiv.org/abs/2611.10987",
+    "published_at": "2026-11-07",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals",
+    "authors": "Yanlong Chen, Simone Benatti, Luca Benini, Cuntai Guan, Yawei Li",
+    "summary": "We present PhysioWave-T, a token-efficient wavelet foundation model family for EEG, ECG, and sEMG. Dynamic scale folding recombines J+1 wavelet subbands prior to tokenization, compressing sequence len",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.08969",
+    "paper_url": "https://arxiv.org/abs/2611.08969",
+    "published_at": "2026-11-06",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations",
+    "authors": "Qiming Shi, Yikun Li, Beidi Luan, Rui Sun, Sinuo Wang...",
+    "summary": "Large language model (LLM) agents are extending agent-mediated commerce on the Web from shopping for consumers to operating businesses for sellers. In online-to-offline (O2O) commerce, decisions are i",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2610.36980",
+    "paper_url": "https://arxiv.org/abs/2610.36980",
+    "published_at": "2026-10-27",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+    "authors": "Bing Han, Yichuan Peng, Haoyu Dong, Yuanmeng Hu, Yongyi Jia...",
+    "summary": "Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactil",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.12806",
+    "paper_url": "https://arxiv.org/abs/2611.12806",
+    "published_at": "2026-11-09",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States",
+    "authors": "Emilio Ferrara",
+    "summary": "Can a language model report the pain state it represents? Work identified a linear pain direction whose amplification leads fine-tuned models to choose destructive actions. We tested whether three ope",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.10123",
+    "paper_url": "https://arxiv.org/abs/2611.10123",
+    "published_at": "2026-11-06",
+    "date": "2026-11-10"
+  },
+  {
+    "title": "FlyHash for LLM Agent Memory: An Empirical Validation and a New Application",
+    "authors": "Mohan Bheemadolu, Chrisogonas O. Odhiambo",
+    "summary": "Large language model (LLM) agents increasingly rely on external memory stores to retain information across conversations, typically via dense vector embeddings searched with approximate nearest-neighb",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.05791",
+    "paper_url": "https://arxiv.org/abs/2611.05791",
+    "published_at": "2026-11-04",
+    "date": "2026-11-10"
+  }
+]
