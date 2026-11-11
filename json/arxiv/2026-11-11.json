@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+    "authors": "Emre Kutlusan, Yongmin Li",
+    "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14519v1",
+    "abs_url": "https://arxiv.org/abs/2611.14519v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+    "authors": "Sheethal Bhat, Bogdan Georgescu, Awais Mansoor, Florin C. Ghesu, Sasa Grbic...",
+    "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14518v1",
+    "abs_url": "https://arxiv.org/abs/2611.14518v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "TorchCurves: Differentiable Parametric Curves",
+    "authors": "Alex Shtoff",
+    "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14516v1",
+    "abs_url": "https://arxiv.org/abs/2611.14516v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+    "authors": "Zijian Zhang, Rizhen Hu, Jiangweizhi Peng, Shiyang Li, Sujay Bhatt...",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14515v1",
+    "abs_url": "https://arxiv.org/abs/2611.14515v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+    "authors": "Ziang Liu, James J. Kim, Yijia Dai, Jennifer J. Sun",
+    "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ",
+    "categories": "cs.AI, cs.CL, cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14514v1",
+    "abs_url": "https://arxiv.org/abs/2611.14514v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+    "authors": "Megha Srivastava, Michael H. Lim, Allison M. Keys, Pranav Murugan, Nate Gruver",
+    "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha",
+    "categories": "cs.LG, q-bio.QM",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14511v1",
+    "abs_url": "https://arxiv.org/abs/2611.14511v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+    "authors": "Yeyuan Liu",
+    "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir",
+    "categories": "cs.LG, q-bio.NC",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14508v1",
+    "abs_url": "https://arxiv.org/abs/2611.14508v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+    "authors": "Daniel Lenton",
+    "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on",
+    "categories": "cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14505v1",
+    "abs_url": "https://arxiv.org/abs/2611.14505v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "authors": "Adi Mashiach",
+    "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation",
+    "categories": "cs.LG, q-bio.BM",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14504v1",
+    "abs_url": "https://arxiv.org/abs/2611.14504v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
+    "authors": "Alexandre Garcia-Duran, Alejandro Rodriguez-Garcia, Manuel Molano-Mazón, Alexandre Hyafil, Srikanth Ramaswamy...",
+    "summary": "Biological visual systems compute reliably under tight metabolic and wiring constraints, whereas artificial vision systems consume far more energy and can be sensitive to adversarial perturbations. Wh",
+    "categories": "cs.CV, q-bio.NC",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14498v1",
+    "abs_url": "https://arxiv.org/abs/2611.14498v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval",
+    "authors": "Tanishq Rachamalla, Srishti Kaushik, Muhammad Attique Khan, Gustau Camps-Valls, Swalpa Kumar Roy",
+    "summary": "Cross-sensor remote sensing image retrieval aims to find scenes with the same content across heterogeneous sensors, such as SAR and optical or panchromatic (PAN) and multispectral (MS) imagery, withou",
+    "categories": "cs.CV",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14496v1",
+    "abs_url": "https://arxiv.org/abs/2611.14496v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+    "authors": "Howard Zhang, Chuck Arvin, Logan Brown, Mihir Bhatia, Neelu Choudhary...",
+    "summary": "Deploying LLM-based analytics agents in enterprise settings requires evaluation frameworks that can reliably detect failures across complex, multi-tool workflows. We present a three-phase comparative ",
+    "categories": "cs.AI, cs.CL, cs.LG, cs.SE",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14493v1",
+    "abs_url": "https://arxiv.org/abs/2611.14493v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+    "authors": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya, Rohith Nama, Arushi Gupta...",
+    "summary": "Business process automation runs the same Standard Operating Procedure (SOP) again and again on new inputs. Large Language Model (LLM) agents can follow an SOP written in natural language, but they ca",
+    "categories": "cs.AI, cs.LG, cs.MA",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14492v1",
+    "abs_url": "https://arxiv.org/abs/2611.14492v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+    "authors": "Peng Chen, Yihang Wang, Zhongwen Rao, Yang Shu, Yuying Qiu...",
+    "summary": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1)",
+    "categories": "cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14491v1",
+    "abs_url": "https://arxiv.org/abs/2611.14491v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game",
+    "authors": "Muhan Gao, Hangxiao Zhu, Xinqi Su, Yu Zhang, Daniel Khashabi...",
+    "summary": "Research ideation is iterative: researchers refine their ideas step by step based on feedback. Yet existing evaluations obscure this search process, making it difficult to understand how LLMs explore ",
+    "categories": "cs.AI",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14487v1",
+    "abs_url": "https://arxiv.org/abs/2611.14487v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Mechanistic Interpretability Needs a Logic of Inference",
+    "authors": "Zhimin Hu, Chen Jiang, Hanbo Xie, N. Apurva Ratan Murty, Sashank Varma",
+    "summary": "Neural networks are increasingly studied not merely as predictive systems, but as complex systems whose internal computations are themselves objects of scientific inquiry. Recent progress in mechanist",
+    "categories": "cs.CL, cs.CV",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14483v1",
+    "abs_url": "https://arxiv.org/abs/2611.14483v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Pterodactyl: Pushing the Limits of Efficient Automated Translation Evaluation",
+    "authors": "Evelyn Y. Garland, Carola F. Berger",
+    "summary": "In this paper, we present 1020 Group's submission to the WMT26 shared task on automated quality evaluation. Our system, Pterodactyl, was engineered specifically for subtasks 2 and 3, that is, segment-",
+    "categories": "cs.CL",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14480v1",
+    "abs_url": "https://arxiv.org/abs/2611.14480v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "FERN: Cross-Benchmark Table Retrieval for Text-to-SQL with Frozen Retrievers and Learned Ranking",
+    "authors": "Arjun Rao, Nishant Gopinath",
+    "summary": "Text-to-SQL systems over large pooled catalogs must first retrieve the tables a question needs. We compare against the published table recall of RASL, which uses Claude 3.5 models to extract keywords ",
+    "categories": "cs.IR, cs.CL",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14477v1",
+    "abs_url": "https://arxiv.org/abs/2611.14477v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "BoviShift: A Six-Year Multi-Attribute Audit of Visual Cattle Phenotyping Across Animals and Time",
+    "authors": "Mobasshir Bhuiya Shagor, Nilambar Halder Tonmoy, Md Saef Ullah Miah",
+    "summary": "Computer vision offers a scalable, non-contact means of estimating livestock traits, but correlated images and video frames make reliable evaluation difficult. Image-random splitting can place views o",
+    "categories": "cs.CV",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14476v1",
+    "abs_url": "https://arxiv.org/abs/2611.14476v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "TanCRAFT: Context-Reasoned Anticipatory Feedback for Assembly Tasks",
+    "authors": "Sassan Mokhtar, Lars Doorenbos, Marius Bock, Sina Mokhtar, Katharina Beckh...",
+    "summary": "Preventing human error in physical assembly tasks requires assistance systems that can intervene before mistakes are made. This is especially challenging in settings where users are free to choose the",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14470v1",
+    "abs_url": "https://arxiv.org/abs/2611.14470v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "C$^2$-Routing: Complementary Cropping and Compression for Efficient Vision-Language Inference",
+    "authors": "Guorui Lu, Qinyu Chen",
+    "summary": "Visual Question Answering (VQA) imposes substantial computational overhead on vision-language models (VLMs), motivating model-agnostic input reduction methods that can be readily applied across divers",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14469v1",
+    "abs_url": "https://arxiv.org/abs/2611.14469v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Bayesian inverse problems and epidemic-threshold uncertainty for a heterogeneous SIS reaction-diffusion model",
+    "authors": "Duc-Lam Duong",
+    "summary": "We study Bayesian inference of persistence from early observations of a heterogeneous susceptible--infected--susceptible (SIS) reaction--diffusion model with standard incidence. We show that the leadi",
+    "categories": "math.AP, cs.LG, math.NT, math.ST, q-bio.PE",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14468v1",
+    "abs_url": "https://arxiv.org/abs/2611.14468v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets",
+    "authors": "Audrey Huang, Nan Jiang, Sham M. Kakade, Sadhika Malladi, Akshay Krishnamurthy...",
+    "summary": "Policy optimization is central to language model post-training, yet principled guidance remains limited. We revisit its theoretical foundations to identify algorithms that learn near-optimal policies ",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14467v1",
+    "abs_url": "https://arxiv.org/abs/2611.14467v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "A Theory of Cross-Validation Variance",
+    "authors": "Nathaniel S. O'Connell, Jaime L. Speiser",
+    "summary": "Cross-validation estimates predictive performance by repeatedly splitting the data into training and validation sets, fitting the model on the first and evaluating it on the second. Every observation ",
+    "categories": "stat.ML, cs.LG, math.ST",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14463v1",
+    "abs_url": "https://arxiv.org/abs/2611.14463v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+    "authors": "Vagn Krister Nes Glomsrud, Mathias Bynke, Lars Henry Berge Olsen, Dennis Christensen",
+    "summary": "We use TabPFN, a recently developed tabular foundation model, to predict three properties of energetic materials: impact sensitivity, decomposition temperature and crystal density. Without any hyperpa",
+    "categories": "cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14462v1",
+    "abs_url": "https://arxiv.org/abs/2611.14462v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "When does text encoding matter for language modeling?",
+    "authors": "Eugene Jang, Catherine Arnett, Terra Blevins",
+    "summary": "UTF-8's role as the de facto encoding standard in language models introduces cross-lingual inequities due to its variable-length design. However, the effect that this encoding choice has on model perf",
+    "categories": "cs.CL",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14459v1",
+    "abs_url": "https://arxiv.org/abs/2611.14459v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "A Lightweight Differentiable Method for Real-Time Skin Rendering and Digitization",
+    "authors": "Mario Marquez-Balduque, Carlos Rodriguez-Pardo, Jorge Lopez-Moreno",
+    "summary": "Inverse rendering for skin typically relies on offline path tracing to estimate physical properties, which fail to map directly to the approximate shaders utilized in interactive applications, such as",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14451v1",
+    "abs_url": "https://arxiv.org/abs/2611.14451v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "UGG: Unified Generative Geometry Model",
+    "authors": "Amani Kiruga, Zhiyi Li, Ruojin Cai, Hansen Lillemark, Xiaoshan Wu...",
+    "summary": "Understanding 4D scenes is a core challenge in visual intelligence, requiring models to jointly capture scene geometry, appearance, and dynamics from partial observations. However, existing approaches",
+    "categories": "cs.CV, cs.LG, cs.RO",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14440v1",
+    "abs_url": "https://arxiv.org/abs/2611.14440v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Metric-Aligned Group Relative Policy Optimization for Explainable Deepfake Detection",
+    "authors": "Luka Dragar, Peter Peer, Vitomir Štruc, Borut Batagelj",
+    "summary": "Deepfake detectors are commonly evaluated on real/fake classification alone, but real-world applications require explanations of the visual evidence behind each prediction. Joint vision-language model",
+    "categories": "cs.CV",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14436v1",
+    "abs_url": "https://arxiv.org/abs/2611.14436v1",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "One Policy for 100 Household Tasks: Our Solution for the 2026 BEHAVIOR Challenge",
+    "authors": "Ilia Larchenko, Gleb Zarin, Atindra Nair, Keerti Manney, Vitaly Kleban...",
+    "summary": "We describe our solution for the 2026 BEHAVIOR Challenge: 100 long-horizon household tasks in the OmniGibson simulator. We placed 9th on the final leaderboard, the only independent team in the top 10.",
+    "categories": "cs.RO, cs.AI, cs.CV, cs.LG",
+    "published": "2026-11-10",
+    "pdf_url": "https://arxiv.org/pdf/2611.14432v1",
+    "abs_url": "https://arxiv.org/abs/2611.14432v1",
+    "date": "2026-11-11"
+  }
+]

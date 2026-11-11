@@ -1,0 +1,202 @@
+[
+  {
+    "title": "dNaViT: Discrete Codes are General-Purpose Visual Representations",
+    "authors": "Xiaotong Li, Zhengrong Yue, Xu Huang, Jialv Zou, Minhao Jing...",
+    "summary": "Discrete autoregressive modeling, notably through next-token prediction, has become a cornerstone of modern language models. Extending this paradigm to vision allows visual and language models to conv",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2611.12426",
+    "paper_url": "https://arxiv.org/abs/2611.12426",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "MMDM: Measuring Massive Multitask Decision Making",
+    "authors": "Junhao Shen, Qing Zong, Yue Guo, Zhanqiu Zhang, Yiwen Guo...",
+    "summary": "System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectorie",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2611.14309",
+    "paper_url": "https://arxiv.org/abs/2611.14309",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+    "authors": "Zhongxi Chen, Yi Yang, Xinyi Chen, Mingzhe Ye, Yaping Li...",
+    "summary": "Dexterous manipulation requires rich spatial foresight over both the surrounding scene and the robot hand. Existing world-action models often acquire such predictive knowledge through explicit future ",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.11166",
+    "paper_url": "https://arxiv.org/abs/2611.11166",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "World In-Context Learning for Agentic Robot Manipulation",
+    "authors": "Heng Fang, Zehui Guo, Yuehan Zhang, Mingyang Du, Dingkang Liang...",
+    "summary": "Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched ",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2611.12885",
+    "paper_url": "https://arxiv.org/abs/2611.12885",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction",
+    "authors": "Xiaohan Qin, Xiangdong Zhang, Yu Wang, Huaijin Wu, Zhuo Xia...",
+    "summary": "Scaling depth is a key route to stronger large language models, but Pre-LN architectures often suffer from depth-wise information dilution, limiting the effective use of deep layers. While cross-layer",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.03142",
+    "paper_url": "https://arxiv.org/abs/2611.03142",
+    "published_at": "2026-11-02",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Few-Step Streaming Video Generation via Condition Shifting",
+    "authors": "Deyuan Liu, Jungang Li, Kaiwen Zheng, Kai Jiang, Jintao Chen...",
+    "summary": "Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.14033",
+    "paper_url": "https://arxiv.org/abs/2611.14033",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "ProTEUS: A mutation-resolved world model for closed-loop protein evolution",
+    "authors": "Yikun Zhang, Minghao Guo, Guangxue Xu, Peter Yichen Chen, Wojciech Matusik...",
+    "summary": "Protein engineering requires navigating rugged fitness landscapes, where small sequence changes can produce large functional differences, but experimental screening can only sample a small fraction of",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.13348",
+    "paper_url": "https://arxiv.org/abs/2611.13348",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "PhysOPSD: Code as Privilege for Physically Plausible Video Generation",
+    "authors": "Harold Haodong Chen, Rui Peng, Lingteng Qiu, Kejie Qiu, Chao Xu...",
+    "summary": "While modern video generative models achieve remarkable visual fidelity, they remain noticeably brittle when generating physically plausible dynamics and complex interactions. Targeted post-training i",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.12411",
+    "paper_url": "https://arxiv.org/abs/2611.12411",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies",
+    "authors": "Chubin Zhang, Bo An",
+    "summary": "Memory-augmented vision-language-action (VLA) policies are meant to remember what happened. Many of them, however, fill memory by time: they sample frames uniformly across the episode and stamp each f",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.14488",
+    "paper_url": "https://arxiv.org/abs/2611.14488",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Market-Conditioned JEPA: Learning from Unpredictable Market Shocks",
+    "authors": "Yuqi Wang, Fengyuan Liu, Mukai Li, Haochen Luo, Lei Li...",
+    "summary": "Much of the variation in financial time series is driven by market-wide shocks that cannot be predicted from an asset's own history. Per-asset self-supervised learning treats this variation as irreduc",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.13572",
+    "paper_url": "https://arxiv.org/abs/2611.13572",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "ExRL: Sample-Efficient Online Adaptation of Long-Chunk Policies via Execution Length Control",
+    "authors": "Xu Luo, Jiaying Yang, Hao Wu, Junlin Xie, Zijin Hong...",
+    "summary": "Predicting long action chunks, often spanning dozens of timesteps, has become a key ingredient in increasingly capable robot policies. In this paper, we find that adapting these long-chunk policies wi",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.13482",
+    "paper_url": "https://arxiv.org/abs/2611.13482",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery",
+    "authors": "Haoran Zhang, Huizhen Sun, Hanbin Wen, Jie Leng, Jiaxin Zhu...",
+    "summary": "While multimodal agents now carry out complex data analysis with tools, their ability to turn decades of satellite imagery into reliable land-change analysis, crucial for Earth observation science, re",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.12934",
+    "paper_url": "https://arxiv.org/abs/2611.12934",
+    "published_at": "2026-11-06",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Are Dense Rewards Worth Their Tokens in GRPO?",
+    "authors": "Vikash Singh, Weicong Chen, Debargha Ganguly, Yanyan Zhang, Mohsen Hariri...",
+    "summary": "RLVR trains language models to reason by rewarding correct final answers. A widely used algorithm, group-relative policy optimization (GRPO), gives every token of a solution the same credit, so dense ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.13560",
+    "paper_url": "https://arxiv.org/abs/2611.13560",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series",
+    "authors": "Sachith Abeywickrama, Emadeldeen Eldele, Min Wu, Xiaoli Li, Chau Yuen",
+    "summary": "Time-series classifiers deployed in risk-sensitive domains must be (1) accurate, (2) interpretable, and (3) able to abstain when evidence is weak. Existing methods do not deliver all 3 at once, and th",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.12955",
+    "paper_url": "https://arxiv.org/abs/2611.12955",
+    "published_at": "2026-11-07",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance",
+    "authors": "Yupeng Cao, Xueqing Peng, Lingfei Qian, Haohang Li, Yangyang Yu...",
+    "summary": "Language agents increasingly work for users on the open Web, and finance is where trusting them is hardest. The data must come from the Web, the strategy lives in the user's head, and correctness depe",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.07464",
+    "paper_url": "https://arxiv.org/abs/2611.07464",
+    "published_at": "2026-11-05",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning",
+    "authors": "Xinjie Shen",
+    "summary": "Reinforcement learning (RL) can improve an agent's task capability while reinforcing behavior that violates contextual execution requirements. We study this reward-driven misalignment, including rewar",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.12865",
+    "paper_url": "https://arxiv.org/abs/2611.12865",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+    "authors": "Hadi Salloum, Ammar Ali",
+    "summary": "Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning l",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.14210",
+    "paper_url": "https://arxiv.org/abs/2611.14210",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding",
+    "authors": "Changti Wu, Ruizhe Fan, Bin Wang, Lei Zhang, Yuxiang Zhang",
+    "summary": "Under a fixed frame budget, video understanding with vision-language models (VLMs) depends on whether the sampled frames provide sufficient evidence for the question. Sufficient frame evidence support",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.13907",
+    "paper_url": "https://arxiv.org/abs/2611.13907",
+    "published_at": "2026-11-10",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "Learning to Act with World Models by Valuing What Comes Next",
+    "authors": "Chenghao Gao, Zhi Zhang, Dian Jin, Yihe Pan, Doudou Zhou",
+    "summary": "A sparse terminal reward tells an agent little about its steps. Much of the missing information is implicit in the environment's dynamics, because each state transition can change the conditions for s",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.12200",
+    "paper_url": "https://arxiv.org/abs/2611.12200",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  },
+  {
+    "title": "WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning",
+    "authors": "Sang-Hoon Lee, Ha-Yeong Choi",
+    "summary": "This work proposes WaveGen, a fully end-to-end diffusion-based text-to-waveform framework based on Spectral Forcing, which jointly learns an internal spectral trajectory and the target waveform trajec",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.12527",
+    "paper_url": "https://arxiv.org/abs/2611.12527",
+    "published_at": "2026-11-09",
+    "date": "2026-11-11"
+  }
+]
