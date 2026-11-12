@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+    "authors": "Youqing Fang, Zhouqi Hua, Yinhao Tang, Yuzhe Gu, Lingkai Kong...",
+    "summary": "Mathematical supervision for language models is typically flattened into isolated problem-solution pairs, discarding the curricular organization and evidential structure of the original sources. We in",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2610.40394",
+    "paper_url": "https://arxiv.org/abs/2610.40394",
+    "published_at": "2026-10-29",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+    "authors": "Lingkai Kong, Yuzhe Gu, Haiteng Zhao, Zijian Wu, Youqing Fang...",
+    "summary": "Large language models (LLMs) draw on parametric knowledge and retrieval-augmented generation (RAG) to solve knowledge-intensive tasks. Yet problem solving in unfamiliar domains calls for tightly coupl",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2610.39671",
+    "paper_url": "https://arxiv.org/abs/2610.39671",
+    "published_at": "2026-10-29",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "GTAGym: Real AAA Game Tasks Environment for Evaluation and Reinforcement Learning",
+    "authors": "Jiajun Chen, Shicheng Fang, Jiahao Lu, Yuxin Wang, Xipeng Qiu",
+    "summary": "AAA games offer a rich testbed for evaluating agent perception, reasoning, and control. However, evaluating whether agents can complete tasks in AAA games is challenging and often human-annotated beca",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.13028",
+    "paper_url": "https://arxiv.org/abs/2611.13028",
+    "published_at": "2026-11-09",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+    "authors": "Zedong Liu, Jiaan Wu, Xinyang Ma, Le Xu, Kai Wang...",
+    "summary": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2608.22237",
+    "paper_url": "https://arxiv.org/abs/2608.22237",
+    "published_at": "2026-11-07",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+    "authors": "Saul Urso, Emanuele Carlini, Patrizio Dazzi, Matteo Mordacchini",
+    "summary": "Large language models (LLMs) increasingly support Web-based services that must balance response quality and inference cost across heterogeneous requests. Conventional routing selects one model per pro",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.10193",
+    "paper_url": "https://arxiv.org/abs/2611.10193",
+    "published_at": "2026-11-06",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "CogBattery: Human-Referenced Evaluation of Cognitive Task Behavior and Structure in Language Models",
+    "authors": "Dengzhe Hou, Lingyu Jiang, Fangzhou Lin, Kazunori D Yamada",
+    "summary": "Human cognitive tasks let us compare language models with humans under controlled conditions. Yet a model can reproduce the direction of a human effect while making different errors. CogBattery evalua",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2607.24999",
+    "paper_url": "https://arxiv.org/abs/2607.24999",
+    "published_at": "2026-10-30",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models",
+    "authors": "Dengzhe Hou, Lingyu Jiang, Deng Li, Zirui Li, Fangzhou Lin...",
+    "summary": "Human working memory lets people maintain and update information. Large language models (LLMs) face a related demand when tracking updates within a single prompt without writing out intermediate state",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2603.27343",
+    "paper_url": "https://arxiv.org/abs/2603.27343",
+    "published_at": "2026-10-30",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Module-Aware Optimization for Graph Neural Networks",
+    "authors": "Guy Hadad, Haggai Roitman, Moshe Eliasof, Bracha Shapira",
+    "summary": "Different optimizers impose different geometries on parameter updates. Adaptive methods such as Adam and AdamW use coordinate-wise updates, while matrix-aware optimizers such as Muon utilize weight-ma",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.08379",
+    "paper_url": "https://arxiv.org/abs/2611.08379",
+    "published_at": "2026-11-05",
+    "date": "2026-11-12"
+  },
+  {
+    "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+    "authors": "Chenhao Zheng, Zixian Ma, Kai Li, Kanchana Ranasinghe, Jieyu Zhang...",
+    "summary": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing ",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.08286",
+    "paper_url": "https://arxiv.org/abs/2611.08286",
+    "published_at": "2026-11-05",
+    "date": "2026-11-12"
+  }
+]
