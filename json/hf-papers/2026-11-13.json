@@ -1,0 +1,162 @@
+[
+  {
+    "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+    "authors": "Junyoung Seo, Jaewoo Seo, Seungryong Kim, Laura Leal-Taixé, Xiuming Zhang...",
+    "summary": "Driving world models aim to simulate how a scene unfolds under different ego actions. This requires plausible motion of surrounding vehicles as well as precise ego-trajectory control. Learning vehicle",
+    "upvotes": 35,
+    "url": "https://huggingface.co/papers/2611.14815",
+    "paper_url": "https://arxiv.org/abs/2611.14815",
+    "published_at": "2026-11-10",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+    "authors": "Hengyuan Cao, Biao Gong, Guoshan Lu, Qiyuan Zhang, Lin Liu...",
+    "summary": "In this report, we introduce the Reciprocal World Model (RWM) and present Duo v1, a full-duplex world model that continuously perceives audiovisual inputs while responding to users in real time. The R",
+    "upvotes": 25,
+    "url": "https://huggingface.co/papers/2611.15131",
+    "paper_url": "https://arxiv.org/abs/2611.15131",
+    "published_at": "2026-11-11",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
+    "authors": "Xiangdong Zhang, Xiaohan Qin, Sunan Zou, Tuo Dai, Bizhao Shi...",
+    "summary": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2611.05984",
+    "paper_url": "https://arxiv.org/abs/2611.05984",
+    "published_at": "2026-11-04",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+    "authors": "Lichen Li, Ziping Dong, Sicheng Feng, Qi Li, Xinchao Wang",
+    "summary": "System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.15777",
+    "paper_url": "https://arxiv.org/abs/2611.15777",
+    "published_at": "2026-11-11",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
+    "authors": "Haochen Liu, Qianhao Zhu, Zixuan Wang, Dingming Li, Tongbo Chen...",
+    "summary": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.17167",
+    "paper_url": "https://arxiv.org/abs/2611.17167",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+    "authors": "Zhiyu Hou, Wen-Jie Shu, Harold Haodong Chen, Weilin Ruan, Chenfei Liao...",
+    "summary": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental ",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.16217",
+    "paper_url": "https://arxiv.org/abs/2611.16217",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+    "authors": "Yuxuan Chen, Xiaojie Li, Hao Chen, Juncheng Ma, Kewei Zhang...",
+    "summary": "Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, y",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.16748",
+    "paper_url": "https://arxiv.org/abs/2611.16748",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
+    "authors": "Hao Li, Fangzhou Hong, Zhaoxi Chen, Hui En Pang, Kairui Hu...",
+    "summary": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.17060",
+    "paper_url": "https://arxiv.org/abs/2611.17060",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+    "authors": "Jaemyung Yu, Byeongho Heo, Sangdoo Yun, Dongyoon Han",
+    "summary": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still rema",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.16905",
+    "paper_url": "https://arxiv.org/abs/2611.16905",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+    "authors": "Xu Huang, Ye Huang, Xiaotong Li, Zhengrong Yue, Jialv Zou...",
+    "summary": "Discrete autoregressive models offer a scalable framework for image generation. However, they face a fundamental trade-off: long token sequences preserve representation quality but slow generation, wh",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.13004",
+    "paper_url": "https://arxiv.org/abs/2611.13004",
+    "published_at": "2026-11-08",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+    "authors": "Jiancheng Pan, Yuzheng Liu, Hengyuan Cao, Qiyuan Zhang, Yangyan Li...",
+    "summary": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B ",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.16517",
+    "paper_url": "https://arxiv.org/abs/2611.16517",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution",
+    "authors": "Genliang Zhu, Xiaobo Chen, Ziyuan Wang, Chu Wang",
+    "summary": "Tool timeouts can leave AI agents facing ambiguous tool outcomes and partial execution: an action may have failed, committed or remained in flight while other workflow steps have already completed. We",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2610.41453",
+    "paper_url": "https://arxiv.org/abs/2610.41453",
+    "published_at": "2026-10-30",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?",
+    "authors": "Ziyuan Wang, Genliang Zhu, Xiaobo Chen",
+    "summary": "A spectrum can be given to a model as a table in nanometers or as a plot in photon energy, and the decision should not depend on which one it sees. When the data needed for an answer are missing, the ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.00428",
+    "paper_url": "https://arxiv.org/abs/2611.00428",
+    "published_at": "2026-10-30",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers",
+    "authors": "Ziyuan Wang, Genliang Zhu, Xiaobo Chen",
+    "summary": "AI \"humanizers\" rewrite machine-generated text so that detectors classify it as human-written. Public leaderboards score evasion and embedding similarity, but not whether checkable details survive. We",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.00359",
+    "paper_url": "https://arxiv.org/abs/2611.00359",
+    "published_at": "2026-10-30",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "From Large Language Models to Efficient System One Models via Adaptive Computation",
+    "authors": "Minh-Anh Nguyen",
+    "summary": "Transferring LLMs into System One decision models typically replaces the language modeling head with a decision head while retaining the full backbone, making every decision pay for all layers. Yet it",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.16321",
+    "paper_url": "https://arxiv.org/abs/2611.16321",
+    "published_at": "2026-11-12",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+    "authors": "Teng Pan, Zixuan Wang, Yuchen Yan, Qifei Wu, Yao Chen...",
+    "summary": "Large language models have made rapid progress in agentic reasoning and tool use, raising expectations for agents that can take over realistic productivity work from humans. However, current agents st",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.08219",
+    "paper_url": "https://arxiv.org/abs/2611.08219",
+    "published_at": "2026-11-05",
+    "date": "2026-11-13"
+  }
+]

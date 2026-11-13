@@ -1,0 +1,132 @@
+[
+  {
+    "repo": "GoogleChrome/modern-web-guidance-src",
+    "description": "Keep your coding agent up to date with the latest web best practices",
+    "language": "TypeScript",
+    "stars": 3681,
+    "forks": 225,
+    "today_stars": 739,
+    "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "openai/codex-security",
+    "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm:https://www.npmjs.com/package/@openai/codex-security",
+    "language": "TypeScript",
+    "stars": 12676,
+    "forks": 991,
+    "today_stars": 643,
+    "url": "https://github.com/openai/codex-security",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
+    "language": "Shell",
+    "stars": 96066,
+    "forks": 10762,
+    "today_stars": 63,
+    "url": "https://github.com/nvm-sh/nvm",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "pookjw/HermesEnabler",
+    "description": "Enable Hermès Watch Faces on any Apple Watch devices",
+    "language": "Objective-C",
+    "stars": 1653,
+    "forks": 146,
+    "today_stars": 218,
+    "url": "https://github.com/pookjw/HermesEnabler",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "we-promise/sure",
+    "description": "The personal finance app for everyone (by everyone)",
+    "language": "Ruby",
+    "stars": 14196,
+    "forks": 1069,
+    "today_stars": 967,
+    "url": "https://github.com/we-promise/sure",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "QwenLM/qwen-code",
+    "description": "An open-source AI coding agent that lives in your terminal.",
+    "language": "TypeScript",
+    "stars": 29994,
+    "forks": 3410,
+    "today_stars": 151,
+    "url": "https://github.com/QwenLM/qwen-code",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "ashhart/TensorFold",
+    "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
+    "language": "Zig",
+    "stars": 2022,
+    "forks": 397,
+    "today_stars": 54,
+    "url": "https://github.com/ashhart/TensorFold",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "stars": 123657,
+    "forks": 38060,
+    "today_stars": 62,
+    "url": "https://github.com/nodejs/node",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "addyosmani/agent-skills",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "stars": 116868,
+    "forks": 12220,
+    "today_stars": 816,
+    "url": "https://github.com/addyosmani/agent-skills",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "meta/astryx",
+    "description": "An open source design system that's fully customizable and agent ready",
+    "language": "TypeScript",
+    "stars": 26915,
+    "forks": 2086,
+    "today_stars": 1830,
+    "url": "https://github.com/meta/astryx",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "CopilotKit/OpenBot",
+    "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+    "language": "TypeScript",
+    "stars": 11870,
+    "forks": 1457,
+    "today_stars": 298,
+    "url": "https://github.com/CopilotKit/OpenBot",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "Alishahryar1/free-claude-code",
+    "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+    "language": "Python",
+    "stars": 69566,
+    "forks": 10799,
+    "today_stars": 415,
+    "url": "https://github.com/Alishahryar1/free-claude-code",
+    "date": "2026-11-13"
+  },
+  {
+    "repo": "ggml-org/llama.cpp",
+    "description": "LLM inference in C/C++",
+    "language": "C++",
+    "stars": 134730,
+    "forks": 25528,
+    "today_stars": 176,
+    "url": "https://github.com/ggml-org/llama.cpp",
+    "date": "2026-11-13"
+  }
+]

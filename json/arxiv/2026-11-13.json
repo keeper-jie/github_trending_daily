@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+    "authors": "Yanke Song, Shuo Chen, Chris Rockwell, Guande He, Nan Liu...",
+    "summary": "Frontier video generation models work in a VAE latent space that compresses video in both space and time. This compression made training tractable, but now limits high-resolution, controllable, and in",
+    "categories": "cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17336v1",
+    "abs_url": "https://arxiv.org/abs/2611.17336v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Unbundling Multimodal Vision Encoding",
+    "authors": "Ellis Brown, Chris Hoang, Shengyi Qian, Shang-Wen Li, Mike Lewis...",
+    "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17334v1",
+    "abs_url": "https://arxiv.org/abs/2611.17334v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+    "authors": "Chin-Yang Lin, Ryo Hachiuma, Jaesung Choe, Min-Hung Chen, Yu-Chiang Frank Wang...",
+    "summary": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while ",
+    "categories": "cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17331v1",
+    "abs_url": "https://arxiv.org/abs/2611.17331v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+    "authors": "Jie Wang, Tong Zhu, JiaHao Kuang, Zhe Xu, Yunkai Chai...",
+    "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17332v1",
+    "abs_url": "https://arxiv.org/abs/2611.17332v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+    "authors": "Guangyuan Sui, Yunzhong Hou, Chi Harold Liu",
+    "summary": "Vision language navigation (VLN) is very challenging for Unmanned Aerial Vehicles (UAVs) since small errors in 3D motion prediction can lead to navigation errors and collisions. Unable to fathom execu",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17330v1",
+    "abs_url": "https://arxiv.org/abs/2611.17330v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+    "authors": "Zeynep Yıldız, Satchit Chatterji, Ercan Atam, Erman Acar",
+    "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show",
+    "categories": "cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17329v1",
+    "abs_url": "https://arxiv.org/abs/2611.17329v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+    "authors": "Felix O'Mahony, Daniel Olmeda Reino, Roberto Cipolla, Ayush Tewari",
+    "summary": "Video diffusion models are able to generate samples with high-quality appearance and textural qualities. However, content produced by these methods is known to exhibit significant physical errors. Thi",
+    "categories": "cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17324v1",
+    "abs_url": "https://arxiv.org/abs/2611.17324v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+    "authors": "Ethan Lin, Akanksha Sarkar, Ziang Liu, Kristin Branson, Jennifer J. Sun",
+    "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17323v1",
+    "abs_url": "https://arxiv.org/abs/2611.17323v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "BrickFlow: Connectivity-Guided Brick Reconstruction",
+    "authors": "Peter Kulits, Cordelia Schmid",
+    "summary": "Given a set of LEGO parts and an image of an assembled object, our task is to infer the pose of each part to assemble the object. In contrast with traditional 3D reconstruction, doing so requires sati",
+    "categories": "cs.CV, cs.GR",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17321v1",
+    "abs_url": "https://arxiv.org/abs/2611.17321v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Learning When Diffusion Language Models Should Regenerate",
+    "authors": "Minhae Oh, Jeonghye Kim, Jinwoo Koo, Yeongoon Kim, Jimin Seo...",
+    "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain",
+    "categories": "cs.CL",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17320v1",
+    "abs_url": "https://arxiv.org/abs/2611.17320v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Spatial Foundry: A Multimodal Dataset for Spatial Intelligence",
+    "authors": "Ethan Lin, Yang Song",
+    "summary": "Spatial intelligence requires connecting visual observations to the geometry, objects, and persistent state of an environment. Images alone leave these relationships implicit, while disconnected annot",
+    "categories": "cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17318v1",
+    "abs_url": "https://arxiv.org/abs/2611.17318v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+    "authors": "Peiwen Li, Harshit Verma, Sophia Zhou, Haiwen Wang, Ngoc Bui...",
+    "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut",
+    "categories": "cs.AI, cs.CL, cs.SE",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17316v1",
+    "abs_url": "https://arxiv.org/abs/2611.17316v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+    "authors": "Abigail L. Tenenbaum, R. Thomas McCoy",
+    "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17314v1",
+    "abs_url": "https://arxiv.org/abs/2611.17314v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Sketching Language Models for Context Attribution",
+    "authors": "Christopher Liaw, Aranyak Mehta, Grigoris Velegkas, Felix Zhou",
+    "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi",
+    "categories": "cs.DS, cs.AI, cs.LG, stat.ML",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17313v1",
+    "abs_url": "https://arxiv.org/abs/2611.17313v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+    "authors": "Benjamin Hoover, Hugh Blayney, James C. R. Whittington",
+    "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai",
+    "categories": "cs.AI, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17309v1",
+    "abs_url": "https://arxiv.org/abs/2611.17309v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Quantifying structural stability of transparent models for general insurance pricing",
+    "authors": "Félix Côté, Marie-Pier Côté",
+    "summary": "The short duration of general insurance contracts leads to rapid distributional shifts in the data, warranting regular model updates. This process may yield a post-update model that differs considerab",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17308v1",
+    "abs_url": "https://arxiv.org/abs/2611.17308v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Towards a Theory of Learnability via Debate",
+    "authors": "Tosca Lechner, Vinayak Pathak, Sivan Sabato, Ruth Urner",
+    "summary": "Debate has been recently proposed as a training protocol that is hoped to produce more aligned models even as model capabilities scale. The idea is that the human, instead of providing supervision in ",
+    "categories": "cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17303v1",
+    "abs_url": "https://arxiv.org/abs/2611.17303v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture Classification",
+    "authors": "Mohamed Alimoussa, Amal El Kaid",
+    "summary": "Local Binary Patterns (LBP) remain among the most widely used texture descriptors, from industrial inspection to medical imaging. Yet their radius, sampling angles, color transform and thresholds are ",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17302v1",
+    "abs_url": "https://arxiv.org/abs/2611.17302v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+    "authors": "Gaurav Parmar, Zhengqi Li, Richard Zhang, Jun-Yan Zhu, Srinivasa Narasimhan...",
+    "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length",
+    "categories": "cs.CV, cs.AI, cs.GR, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17298v1",
+    "abs_url": "https://arxiv.org/abs/2611.17298v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Goal Encoding in LLMs",
+    "authors": "Arnab Sen Sharma, Eric Todd, Sheridan Feucht, Andy Arditi, Rohit Gandikota...",
+    "summary": "We investigate whether and how LLMs encode goals: internal neural representations that precede and guide action, and that are flexible enough to be realized through many different execution paths. We ",
+    "categories": "cs.CL, cs.AI, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17297v1",
+    "abs_url": "https://arxiv.org/abs/2611.17297v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Metal Sandbox: Isolated Execution and Command Scheduling for GPU Coding Agents on Apple Silicon",
+    "authors": "Haozhe Wang, Lina Chen, Fanqi Wan, Qi Han, Yinmin Zhang...",
+    "summary": "On-device inference requires kernels that make effective use of local accelerators. Efficient training and evaluation of models that generate Apple Metal kernels benefit from native macOS tools and co",
+    "categories": "cs.LG, cs.AI, cs.CL, cs.DC",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17294v1",
+    "abs_url": "https://arxiv.org/abs/2611.17294v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Negative-Only Policy Optimization for One-Sided Verifiable Rewards",
+    "authors": "Jiacheng Xu, Shuo He, Fuxiang Zhang, Chaojie Wang, Bo An",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) typically relies on a verifier that can reliably judge whether sampled solutions are correct. However, in many realistic settings, complete verifi",
+    "categories": "cs.LG, cs.CL",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17287v1",
+    "abs_url": "https://arxiv.org/abs/2611.17287v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Synthesis Smuggling: Maliciously Hiding Inferred Personal Attributes in LLM Outputs",
+    "authors": "Gautam Galada, Supreeth Shastri, Sagnik Ray Choudhury",
+    "summary": "We propose Synthesis Smuggling, a novel threat model in which an adversarial LLM infers sensitive information about a user from routine assistance-seeking interactions and steganographically encodes t",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17280v1",
+    "abs_url": "https://arxiv.org/abs/2611.17280v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "LiveGeo: Benchmarking Geographic Agents in Continuously Evolving Worlds",
+    "authors": "Pengcheng Zhou, Xuanyu Liu, Yanchen Yin, Tianjie Ju, Bobo Li...",
+    "summary": "We introduce GeoWorld, a controllable and continuously evolving geographic environment platform for LLM agents, and LiveGeo, a benchmark for evaluating reliable decision-making in real-world geographi",
+    "categories": "cs.AI",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17267v1",
+    "abs_url": "https://arxiv.org/abs/2611.17267v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Programming Quantum Circuit Parameters with Large Language Models",
+    "authors": "Tiago de Souza Farias, Caio Moraes Porto, Matheus da Silva Fonseca, Nicolas Armando Cabrera Carpi, Anderson de Araujo Oliveira...",
+    "summary": "Large language models (LLMs) have recently demonstrated the ability to generate parameters for variational quantum circuits without conventional optimization. However, the conditions under which this ",
+    "categories": "quant-ph, cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17246v1",
+    "abs_url": "https://arxiv.org/abs/2611.17246v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+    "authors": "Samidha Verma, Ankit Anand, Sayan Ranu",
+    "summary": "Modern automated heuristic discovery (AHD) systems increasingly rival hand-crafted heuristics by leveraging Large Language Models (LLMs) to iteratively mutate and refine solutions. A natural assumptio",
+    "categories": "cs.AI",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17241v1",
+    "abs_url": "https://arxiv.org/abs/2611.17241v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Objects as Addresses: Instance Binding in Vision Transformer Attention",
+    "authors": "Khalil Sabri, Guillaume-Alexandre Bilodeau, Nicolas Saunier, Wassim Bouachir",
+    "summary": "Humans naturally parse visual scenes into coherent individual objects rather than scattered features, a capability cognitive science calls object binding. While recent work shows that pretrained Visio",
+    "categories": "cs.CV",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17240v1",
+    "abs_url": "https://arxiv.org/abs/2611.17240v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "When Both Sides Adapt: The Challenges of Evaluating Interactive LLM Systems",
+    "authors": "Hannah Li",
+    "summary": "In interactive systems where users engage with LLMs, users are adaptive and, after observing LLM responses, can change their prompting strategy, as well as the type and difficulty of subsequent tasks.",
+    "categories": "stat.ME, cs.AI",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17239v1",
+    "abs_url": "https://arxiv.org/abs/2611.17239v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Al-Ghasali: A Computational Framework for Simulating Islamic Jurisprudential Rulings via Finite State Automata and Large Language Models",
+    "authors": "Elnaserledinellah Mahmoud Abdelwahab",
+    "summary": "This paper presents Al Ghasali, a computational framework designed to formalize and simulate Islamic jurisprudential (Fiqh) rulings. Building upon recent set theoretic formalizations of al sabr wa al ",
+    "categories": "cs.AI, cs.FL",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17235v1",
+    "abs_url": "https://arxiv.org/abs/2611.17235v1",
+    "date": "2026-11-13"
+  },
+  {
+    "title": "Two mathematical models of knowledge distillation",
+    "authors": "Audrey Xie, Ludwig Schmidt, John Duchi",
+    "summary": "Many hypotheses compete to explain the successes of knowledge distillation. To help address this, we propose and analyze a mathematical model of distillation, which suggests that distillation's perfor",
+    "categories": "cs.LG",
+    "published": "2026-11-12",
+    "pdf_url": "https://arxiv.org/pdf/2611.17230v1",
+    "abs_url": "https://arxiv.org/abs/2611.17230v1",
+    "date": "2026-11-13"
+  }
+]
