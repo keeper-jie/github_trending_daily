@@ -1,0 +1,222 @@
+[
+  {
+    "subreddit": "programming",
+    "title": "How I accidentally became a millionaire",
+    "score": 0,
+    "num_comments": 0,
+    "author": "NXGZ",
+    "url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xvr455/how_i_accidentally_became_a_millionaire/",
+    "rank": 1,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "What we learned operating auth for 1,000+ APIs",
+    "score": 0,
+    "num_comments": 0,
+    "author": "fagnerbrack",
+    "url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xwac98/what_we_learned_operating_auth_for_1000_apis/",
+    "rank": 2,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "It's all about the allocator",
+    "score": 0,
+    "num_comments": 0,
+    "author": "despacit0_",
+    "url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xw1sem/its_all_about_the_allocator/",
+    "rank": 3,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Announcing Rust 1.100.0",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Either_Collection349",
+    "url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xvixj7/announcing_rust_11000/",
+    "rank": 4,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Under the Hood: Serving Kimi K3 | DigitalOcean",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xw3jy7/under_the_hood_serving_kimi_k3_digitalocean/",
+    "rank": 5,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Formal Verification is Not Verifiable: Bouba and Kiki Software",
+    "score": 0,
+    "num_comments": 0,
+    "author": "mttd",
+    "url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xvug39/formal_verification_is_not_verifiable_bouba_and/",
+    "rank": 6,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Some Projects Need to Fail",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Either_Collection349",
+    "url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xvx0nl/some_projects_need_to_fail/",
+    "rank": 7,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Designing payouts that never payout twice: timeouts, an \"Unknown\" state, and idempotency in cross-border payments",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Nice_Thought_2000",
+    "url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xw8tdv/designing_payouts_that_never_payout_twice/",
+    "rank": 8,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Beating the frontier on NetHack",
+    "score": 0,
+    "num_comments": 0,
+    "author": "alexeyr",
+    "url": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xw2equ/beating_the_frontier_on_nethack/",
+    "rank": 9,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "programming",
+    "title": "Uber’s Rate Limiting System",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Ok_Stomach6651",
+    "url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+    "reddit_url": "https://www.reddit.com/r/programming/comments/1xvmjn4/ubers_rate_limiting_system/",
+    "rank": 10,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "[Bi-Weekly Megathread] Project Showcase",
+    "score": 0,
+    "num_comments": 0,
+    "author": "rm-rf-rm",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtjze2/biweekly_megathread_project_showcase/",
+    "rank": 11,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Hot take: frontier models haven’t actually become much smarter",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Reasonable_Goat",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+    "rank": 12,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Finally clicked for me: local AI is the future, not cloud AI",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Swimming_Beginning24",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
+    "rank": 13,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "RASA will cause total chaos to open LLMs and beyond",
+    "score": 0,
+    "num_comments": 0,
+    "author": "ag789",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwmnkw/rasa_will_cause_total_chaos_to_open_llms_and/",
+    "rank": 14,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Ai Rig finally done and stable, perfect winter heater",
+    "score": 0,
+    "num_comments": 0,
+    "author": "dazzou5ouh",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+    "rank": 15,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "LFM2.5-24B-A2B + Hermes is awesome!",
+    "score": 0,
+    "num_comments": 0,
+    "author": "jeremyckahn",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwgiow/lfm2524ba2b_hermes_is_awesome/",
+    "rank": 16,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception",
+    "score": 0,
+    "num_comments": 0,
+    "author": "billy_booboo",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvsb5f/instead_of_lowering_gpu_prices_former_nvidia_ceo/",
+    "rank": 17,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "Why don’t we have national open AI models?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "Strange_Test7665",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw4ue3/why_dont_we_have_national_open_ai_models/",
+    "rank": 18,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "The lawyer who posts here about his V100s got his story picked up by Tom’s Hardware",
+    "score": 0,
+    "num_comments": 0,
+    "author": "General-Spite1222",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw2ogq/the_lawyer_who_posts_here_about_his_v100s_got_his/",
+    "rank": 19,
+    "date": "2026-11-15"
+  },
+  {
+    "subreddit": "LocalLLaMA",
+    "title": "How long are we gonna depend bunch of model creators (like Qwen, Gemma, NVIDIA, etc.,) for ~100B models?",
+    "score": 0,
+    "num_comments": 0,
+    "author": "pmttyji",
+    "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+    "reddit_url": "https://www.reddit.com/r/LocalLLaMA/comments/1xw0xeu/how_long_are_we_gonna_depend_bunch_of_model/",
+    "rank": 20,
+    "date": "2026-11-15"
+  }
+]
