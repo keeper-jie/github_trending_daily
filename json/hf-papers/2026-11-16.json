@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+    "authors": "Run Luo, Kuan Zhang, Qi Deng, Yukun Chen, Zhihao Yang...",
+    "summary": "We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step re",
+    "upvotes": 51,
+    "url": "https://huggingface.co/papers/2611.18397",
+    "paper_url": "https://arxiv.org/abs/2611.18397",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+    "authors": "Grid Robotics, Qingfeng Lan, Duo Li, Siyao Li, Yiheng Lyu...",
+    "summary": "The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many ",
+    "upvotes": 46,
+    "url": "https://huggingface.co/papers/2611.18359",
+    "paper_url": "https://arxiv.org/abs/2611.18359",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+    "authors": "Sicheng Feng, Zigeng Chen, Song Wang, Gongfan Fang, Xinchao Wang",
+    "summary": "Speculative decoding accelerates generation by letting a lightweight drafter propose tokens for parallel verification by a target model. Diffusion drafters such as DFlash propose an entire token block",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.18482",
+    "paper_url": "https://arxiv.org/abs/2611.18482",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Loopback Transformer: Towards a Unified View of Residual Looped Transformers",
+    "authors": "Xuan Ouyang, Zefan Cai, Chenlong Zhang, Cheng Luo, Ke Wan...",
+    "summary": "Looped Transformers reduce parameter count by repeatedly applying shared blocks, but parameter sharing alone does not determine how the results of repeated computation are reused. We take the depth-me",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.07226",
+    "paper_url": "https://arxiv.org/abs/2611.07226",
+    "published_at": "2026-11-04",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+    "authors": "Jianjun Zhou, Hua Geng, Haoyu Guo",
+    "summary": "Direct diffusion modeling of high-dimensional raw video data is challenging, and existing pixel-space methods often rely on specialized architectures. We introduce JVT (Just Video Transformer), a simp",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.18549",
+    "paper_url": "https://arxiv.org/abs/2611.18549",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "MEM-SQL: Memory-Empowered Text-to-SQL",
+    "authors": "Xiaoqi Wang, Wenqi Pei, Shizheng Hou, Yilai Liu, Han Chen...",
+    "summary": "Text-to-SQL systems translate natural language questions into SQL queries over increasingly complex databases. However, widely used benchmarks evaluate questions independently, overlooking settings wh",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.18338",
+    "paper_url": "https://arxiv.org/abs/2611.18338",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding",
+    "authors": "Zhongxing Xu, Zhonghua Wang, Zhe Qian, Shiyan Su, Ming Hu...",
+    "summary": "Recent advancements in multimodal diffusion language models (MDLMs) have exhibited strong global modeling capabilities through iterative refinement. We observe that mask uncertainty follows an overall",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.12901",
+    "paper_url": "https://arxiv.org/abs/2611.12901",
+    "published_at": "2026-10-14",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Emergent Biological Capabilities in a Foundation Model for Molecular Interactions",
+    "authors": "Adi Mashiach",
+    "summary": "Foundation models trained on large unlabeled corpora develop emergent capabilities, tasks that go beyond the training objective. We extend this paradigm to multimodal biology with Bonbon, a foundation",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.14504",
+    "paper_url": "https://arxiv.org/abs/2611.14504",
+    "published_at": "2026-11-10",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation",
+    "authors": "Shuai Yang, Fangyi Xu, Yishu Shen, Kecheng Zheng, Yinghao Xu",
+    "summary": "Learning whole-body mobile manipulation requires demonstrations that coordinate bimanual actions with locomotion across extended workspaces. However, existing interfaces trade off direct robot control",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.16439",
+    "paper_url": "https://arxiv.org/abs/2611.16439",
+    "published_at": "2026-11-12",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion",
+    "authors": "Zhengyang Yu, Akio Hayakawa, Masato Ishii, Qingtao Yu, Xuesong Li...",
+    "summary": "Autoregressive video diffusion models (AR-VDMs) enable real-time, long-horizon video generation but degrade rapidly once the inference horizon outruns the training horizon, due to compounding exposure",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.02822",
+    "paper_url": "https://arxiv.org/abs/2611.02822",
+    "published_at": "2026-11-02",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents",
+    "authors": "Subodh Lonkar",
+    "summary": "Autonomous agents modify prompts, memories, tools, workflows, and policies using interaction histories. Yet a plausible modification is not necessarily suitable for persistent adoption: candidate sele",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.16378",
+    "paper_url": "https://arxiv.org/abs/2611.16378",
+    "published_at": "2026-11-12",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means",
+    "authors": "Kyudan Jung, Jihwan Kim, Minwoo Lee, Eunji Shin, Jaegul Choo",
+    "summary": "Meetings last up to an hour, and nobody knows in advance how many people will speak. Neural diarizers with a fixed number of output slots, such as Streaming Sortformer and Nemotron-3, are accurate and",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.18529",
+    "paper_url": "https://arxiv.org/abs/2611.18529",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "AI Reviews Are Biased Towards the Appendix",
+    "authors": "Saptarshi Ghosh, Mohammad Saim, Tianyu Jiang",
+    "summary": "Large language models (LLMs) are increasingly used by reviewers to highlight weaknesses during the reviewing process, and their outputs often shape the reviews that humans submit. Prior work studies h",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.17811",
+    "paper_url": "https://arxiv.org/abs/2611.17811",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "Aligning AI Teams",
+    "authors": "Siddarth Srinivasan, Morgan Jane Matthews, Jascha Sohl-Dickstein, Erik Jones",
+    "summary": "Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventi",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.17820",
+    "paper_url": "https://arxiv.org/abs/2611.17820",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving",
+    "authors": "Yuhang Wang, Jingxin Yang, Chuheng Wei, Suyang Chen, Haozhuang Chi...",
+    "summary": "Open driving releases and usage-based insurance programs often claim to prevent privacy breaches by omitting GPS records when sharing or collecting vehicle data. However, removing GPS coordinates from",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.18442",
+    "paper_url": "https://arxiv.org/abs/2611.18442",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs",
+    "authors": "Jasem Khelifi, Hao Li, Ali Ouni, Mohammed Sayagh, Mohamed Aymen Saied",
+    "summary": "Agentic workflows enable AI agents to perform recurring repository tasks on schedules or in response to repository events. Existing studies examine workflow definitions and outputs, but provide limite",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.06866",
+    "paper_url": "https://arxiv.org/abs/2611.06866",
+    "published_at": "2026-11-04",
+    "date": "2026-11-16"
+  },
+  {
+    "title": "JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams",
+    "authors": "Issa Sugiura, Taro Makino, Takashi Ishida",
+    "summary": "Large language models (LLMs) are increasingly applied to finance, creating a need for benchmarks that evaluate their capabilities across financial systems with different regulations and practices. How",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.18130",
+    "paper_url": "https://arxiv.org/abs/2611.18130",
+    "published_at": "2026-11-13",
+    "date": "2026-11-16"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "Minireel/HGhub",
+    "description": "Plug-in media player",
+    "language": "Rust",
+    "stars": 9211,
+    "forks": 7518,
+    "created_at": "2026-11-03T14:04:27Z",
+    "url": "https://github.com/Minireel/HGhub",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "janestreet/agent_skills",
+    "description": "Agent skills",
+    "language": "",
+    "stars": 9191,
+    "forks": 622,
+    "created_at": "2026-11-03T16:50:21Z",
+    "url": "https://github.com/janestreet/agent_skills",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "huamidev/GestaltX",
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "language": "Swift",
+    "stars": 7790,
+    "forks": 2672,
+    "created_at": "2026-11-09T05:15:48Z",
+    "url": "https://github.com/huamidev/GestaltX",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "KKKKhazix/agent-autoloop",
+    "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+    "language": "TypeScript",
+    "stars": 5576,
+    "forks": 1033,
+    "created_at": "2026-11-03T08:02:11Z",
+    "url": "https://github.com/KKKKhazix/agent-autoloop",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "tangerineturtle1/NX2navi",
+    "description": "",
+    "language": "C",
+    "stars": 4251,
+    "forks": 335,
+    "created_at": "2026-11-07T10:01:23Z",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "deepseek-ai/chat-demo",
+    "description": "Chat Demo",
+    "language": "TypeScript",
+    "stars": 3604,
+    "forks": 735,
+    "created_at": "2026-11-12T08:08:19Z",
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "shanselman/gputaskman",
+    "description": "A GPU task manager for Windows, Linux, and WSL: per-process VRAM, GPU activity, and LLM model/KV-cache insights (Windows AMD and NVIDIA).",
+    "language": "Python",
+    "stars": 3359,
+    "forks": 166,
+    "created_at": "2026-11-03T00:49:34Z",
+    "url": "https://github.com/shanselman/gputaskman",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "JenkinWoo/sheeridVerify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 3295,
+    "forks": 1554,
+    "created_at": "2026-11-06T09:28:09Z",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "jhaizhou-ops/S2Arm",
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+    "language": "C#",
+    "stars": 3288,
+    "forks": 570,
+    "created_at": "2026-11-08T05:49:46Z",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "govijr/terminal-mac",
+    "description": "Entire MacOS running in your terminal.",
+    "language": "Swift",
+    "stars": 2784,
+    "forks": 197,
+    "created_at": "2026-11-03T03:22:56Z",
+    "url": "https://github.com/govijr/terminal-mac",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "sarpstar/cinecode",
+    "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+    "language": "Python",
+    "stars": 2577,
+    "forks": 443,
+    "created_at": "2026-11-03T10:08:16Z",
+    "url": "https://github.com/sarpstar/cinecode",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "jamesondh/chimera-vocal-synth",
+    "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+    "language": "Rust",
+    "stars": 2499,
+    "forks": 312,
+    "created_at": "2026-11-05T19:10:42Z",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "apex-compute/ANR",
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "language": "C++",
+    "stars": 2290,
+    "forks": 49,
+    "created_at": "2026-11-11T04:27:17Z",
+    "url": "https://github.com/apex-compute/ANR",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "DIYgod/pinky",
+    "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+    "language": "Go",
+    "stars": 2248,
+    "forks": 242,
+    "created_at": "2026-11-06T16:53:14Z",
+    "url": "https://github.com/DIYgod/pinky",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "IainKay/ram-altman",
+    "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+    "language": "Shell",
+    "stars": 2179,
+    "forks": 69,
+    "created_at": "2026-11-05T16:16:41Z",
+    "url": "https://github.com/IainKay/ram-altman",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "Kianuni/Erosion-CN",
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+    "language": "Swift",
+    "stars": 2156,
+    "forks": 435,
+    "created_at": "2026-11-10T02:37:31Z",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "Sandflow-ai/sand3d",
+    "description": "3D modeling in Python, built for LLMs.",
+    "language": "HTML",
+    "stars": 2055,
+    "forks": 227,
+    "created_at": "2026-11-03T08:23:03Z",
+    "url": "https://github.com/Sandflow-ai/sand3d",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "mmdoctor/google-pro-helper",
+    "description": "",
+    "language": "Python",
+    "stars": 1934,
+    "forks": 656,
+    "created_at": "2026-11-05T04:52:28Z",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "WoYun520/gif-factory",
+    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+    "language": "Python",
+    "stars": 1927,
+    "forks": 230,
+    "created_at": "2026-11-05T04:08:24Z",
+    "url": "https://github.com/WoYun520/gif-factory",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "CzJam/gjgjxweb",
+    "description": "《搞机工具箱》Web移植版",
+    "language": "HTML",
+    "stars": 1917,
+    "forks": 161,
+    "created_at": "2026-11-03T02:00:54Z",
+    "url": "https://github.com/CzJam/gjgjxweb",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "hitkeeen/blender-ai-mcp-addon",
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "language": "",
+    "stars": 1854,
+    "forks": 49,
+    "created_at": "2026-11-12T14:32:15Z",
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "FrigadeHQ/yogurt",
+    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 1716,
+    "forks": 97,
+    "created_at": "2026-11-10T20:01:01Z",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "HybridRobotics/supermimic",
+    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "language": "Python",
+    "stars": 1609,
+    "forks": 114,
+    "created_at": "2026-11-10T10:46:56Z",
+    "url": "https://github.com/HybridRobotics/supermimic",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "language": "Rust",
+    "stars": 1597,
+    "forks": 134,
+    "created_at": "2026-11-05T22:37:07Z",
+    "url": "https://github.com/voyager-so/vork",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "agentes-chat/agentes-chat",
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "language": "TypeScript",
+    "stars": 1568,
+    "forks": 273,
+    "created_at": "2026-11-09T00:50:28Z",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "livliv-dev/player",
+    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "language": "TypeScript",
+    "stars": 1566,
+    "forks": 161,
+    "created_at": "2026-11-04T03:28:33Z",
+    "url": "https://github.com/livliv-dev/player",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "ersinkoc/phonebox",
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
+    "language": "C#",
+    "stars": 1440,
+    "forks": 160,
+    "created_at": "2026-11-07T16:45:16Z",
+    "url": "https://github.com/ersinkoc/phonebox",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "egoist/mygo-music",
+    "description": "A native music player you extend with plugins",
+    "language": "Go",
+    "stars": 1397,
+    "forks": 238,
+    "created_at": "2026-11-04T13:27:14Z",
+    "url": "https://github.com/egoist/mygo-music",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "JosssphZhou/poki",
+    "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
+    "language": "Swift",
+    "stars": 1389,
+    "forks": 229,
+    "created_at": "2026-11-05T15:04:31Z",
+    "url": "https://github.com/JosssphZhou/poki",
+    "date": "2026-11-16"
+  },
+  {
+    "repo": "HolyArrs/HolyArrs",
+    "description": "One self-hosted app for your shows, movies and music.",
+    "language": "Go",
+    "stars": 1291,
+    "forks": 68,
+    "created_at": "2026-11-09T23:53:25Z",
+    "url": "https://github.com/HolyArrs/HolyArrs",
+    "date": "2026-11-16"
+  }
+]
