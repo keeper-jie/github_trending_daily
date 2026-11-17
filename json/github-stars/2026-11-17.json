@@ -1,0 +1,302 @@
+[
+  {
+    "repo": "huamidev/GestaltX",
+    "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+    "language": "Swift",
+    "stars": 7962,
+    "forks": 2683,
+    "created_at": "2026-11-09T05:15:48Z",
+    "url": "https://github.com/huamidev/GestaltX",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "deepseek-ai/chat-demo",
+    "description": "Chat Demo",
+    "language": "TypeScript",
+    "stars": 4314,
+    "forks": 924,
+    "created_at": "2026-11-12T08:08:19Z",
+    "url": "https://github.com/deepseek-ai/chat-demo",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "tangerineturtle1/NX2navi",
+    "description": "",
+    "language": "C",
+    "stars": 4293,
+    "forks": 348,
+    "created_at": "2026-11-07T10:01:23Z",
+    "url": "https://github.com/tangerineturtle1/NX2navi",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "jhaizhou-ops/S2Arm",
+    "description": "Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten to ARM64, graphics direct to Metal, one app for the whole library. Bring your own games and keys. 把你自己的 Switch 游戏原生带到 iPhone / iPad / Mac。",
+    "language": "C#",
+    "stars": 3413,
+    "forks": 586,
+    "created_at": "2026-11-08T05:49:46Z",
+    "url": "https://github.com/jhaizhou-ops/S2Arm",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "JenkinWoo/sheeridVerify",
+    "description": "",
+    "language": "JavaScript",
+    "stars": 3391,
+    "forks": 1594,
+    "created_at": "2026-11-06T09:28:09Z",
+    "url": "https://github.com/JenkinWoo/sheeridVerify",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "jamesondh/chimera-vocal-synth",
+    "description": "the ultimate vocal synthesizer - sing, speak, beatbox, and more",
+    "language": "Rust",
+    "stars": 2597,
+    "forks": 324,
+    "created_at": "2026-11-05T19:10:42Z",
+    "url": "https://github.com/jamesondh/chimera-vocal-synth",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "apex-compute/ANR",
+    "description": "Apex Neural Rendering (ANR) by Apex Compute",
+    "language": "C++",
+    "stars": 2518,
+    "forks": 53,
+    "created_at": "2026-11-11T04:27:17Z",
+    "url": "https://github.com/apex-compute/ANR",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "DIYgod/pinky",
+    "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
+    "language": "Go",
+    "stars": 2334,
+    "forks": 249,
+    "created_at": "2026-11-06T16:53:14Z",
+    "url": "https://github.com/DIYgod/pinky",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "hitkeeen/blender-ai-mcp-addon",
+    "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+    "language": "",
+    "stars": 2331,
+    "forks": 57,
+    "created_at": "2026-11-12T14:32:15Z",
+    "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "IainKay/ram-altman",
+    "description": "Monitors your RAM and reports any \"quite terrible\" unused capacity directly to the CEO of OpenAI.",
+    "language": "Shell",
+    "stars": 2230,
+    "forks": 70,
+    "created_at": "2026-11-05T16:16:41Z",
+    "url": "https://github.com/IainKay/ram-altman",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "Kianuni/Erosion-CN",
+    "description": "iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（中英双语 · 防白苹果安全加固版） | Bootloop-safe iOS / iPadOS System Configuration & MobileGestalt Toolbox (Bilingual EN/ZH)",
+    "language": "Swift",
+    "stars": 2218,
+    "forks": 436,
+    "created_at": "2026-11-10T02:37:31Z",
+    "url": "https://github.com/Kianuni/Erosion-CN",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "ersinkoc/phonebox",
+    "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 115 widgets for system stats, AI coding, media and automation. USB or paired Wi-Fi. No cloud required.",
+    "language": "C#",
+    "stars": 2139,
+    "forks": 285,
+    "created_at": "2026-11-07T16:45:16Z",
+    "url": "https://github.com/ersinkoc/phonebox",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "WoYun520/gif-factory",
+    "description": "GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。",
+    "language": "Python",
+    "stars": 1974,
+    "forks": 234,
+    "created_at": "2026-11-05T04:08:24Z",
+    "url": "https://github.com/WoYun520/gif-factory",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "mmdoctor/google-pro-helper",
+    "description": "",
+    "language": "Python",
+    "stars": 1960,
+    "forks": 658,
+    "created_at": "2026-11-05T04:52:28Z",
+    "url": "https://github.com/mmdoctor/google-pro-helper",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "FrigadeHQ/yogurt",
+    "description": "Private AI meeting notes that stay on your computer. A free, open-source alternative to Granola for Mac, Windows and Linux.",
+    "language": "TypeScript",
+    "stars": 1926,
+    "forks": 120,
+    "created_at": "2026-11-10T20:01:01Z",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "Noniv/abyssal-garden",
+    "description": "A dreamy underwater world you can swim through in your browser: swaying kelp forests, sunbeams, a sunken ship and manta rays. Everything is generated by code with WebGPU (no images, models or sound files), all in a single 97 KB HTML file.",
+    "language": "JavaScript",
+    "stars": 1896,
+    "forks": 290,
+    "created_at": "2026-11-12T13:57:34Z",
+    "url": "https://github.com/Noniv/abyssal-garden",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "HybridRobotics/supermimic",
+    "description": "Humanoid whole-body motion tracking with one differentiable world model.",
+    "language": "Python",
+    "stars": 1703,
+    "forks": 123,
+    "created_at": "2026-11-10T10:46:56Z",
+    "url": "https://github.com/HybridRobotics/supermimic",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "agentes-chat/agentes-chat",
+    "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+    "language": "TypeScript",
+    "stars": 1653,
+    "forks": 295,
+    "created_at": "2026-11-09T00:50:28Z",
+    "url": "https://github.com/agentes-chat/agentes-chat",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "voyager-so/vork",
+    "description": "Headless 3D and VFX engine for agents. Research preview.",
+    "language": "Rust",
+    "stars": 1609,
+    "forks": 132,
+    "created_at": "2026-11-05T22:37:07Z",
+    "url": "https://github.com/voyager-so/vork",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "livliv-dev/player",
+    "description": "A lightweight 2.5D character player for the web, with lip sync and webcam face tracking.",
+    "language": "TypeScript",
+    "stars": 1574,
+    "forks": 162,
+    "created_at": "2026-11-04T03:28:33Z",
+    "url": "https://github.com/livliv-dev/player",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "JosssphZhou/poki",
+    "description": "Poki uses your iPhone like you do. An open-source agent that sees your screen and taps, types, and swipes across any app on your real device. Runs locally, plugs right into Claude Code and any MCP agent.",
+    "language": "Swift",
+    "stars": 1541,
+    "forks": 241,
+    "created_at": "2026-11-05T15:04:31Z",
+    "url": "https://github.com/JosssphZhou/poki",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "duwqijlk/muse-protocol",
+    "description": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）",
+    "language": "Python",
+    "stars": 1524,
+    "forks": 608,
+    "created_at": "2026-11-14T01:24:58Z",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "egoist/mygo-music",
+    "description": "A native music player you extend with plugins",
+    "language": "Go",
+    "stars": 1428,
+    "forks": 241,
+    "created_at": "2026-11-04T13:27:14Z",
+    "url": "https://github.com/egoist/mygo-music",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "HolyArrs/HolyArrs",
+    "description": "One self-hosted app for your shows, movies and music.",
+    "language": "Go",
+    "stars": 1396,
+    "forks": 71,
+    "created_at": "2026-11-09T23:53:25Z",
+    "url": "https://github.com/HolyArrs/HolyArrs",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "Eynnzerr/TelemetryCleaner",
+    "description": "基于 Shizuku 免 Root 清除国产安卓 SystemHelper、RegService 等系统预装隐私数据收集模块",
+    "language": "Kotlin",
+    "stars": 1394,
+    "forks": 117,
+    "created_at": "2026-11-11T06:25:10Z",
+    "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "adriadam10/mkw-recomp",
+    "description": "Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC program",
+    "language": "C",
+    "stars": 1383,
+    "forks": 92,
+    "created_at": "2026-11-09T15:40:06Z",
+    "url": "https://github.com/adriadam10/mkw-recomp",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "Goblinmine/homelab-diagram",
+    "description": "Renders an r/homelab-style network diagram from a YAML inventory (Python → SVG/PNG). Written with Claude.",
+    "language": "Python",
+    "stars": 1305,
+    "forks": 106,
+    "created_at": "2026-11-07T12:45:46Z",
+    "url": "https://github.com/Goblinmine/homelab-diagram",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "ZiChuanLan/freebie-radar",
+    "description": "白嫖与资讯资源聚合雷达：100+个源定时采集 + AI 二审过滤假福利 + 获取方式分级隔离抽奖/试用/推广 + Telegram 即时推送",
+    "language": "TypeScript",
+    "stars": 1283,
+    "forks": 221,
+    "created_at": "2026-11-12T09:08:11Z",
+    "url": "https://github.com/ZiChuanLan/freebie-radar",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "sostenesfreitas/ocarina-recomp",
+    "description": "Ocarina of Time running natively on Windows, no emulator. Built on your PC from your own copy. No game files included.",
+    "language": "C",
+    "stars": 1219,
+    "forks": 86,
+    "created_at": "2026-11-06T22:24:03Z",
+    "url": "https://github.com/sostenesfreitas/ocarina-recomp",
+    "date": "2026-11-17"
+  },
+  {
+    "repo": "mahmoudtawfik1998/secure-pdf-document-processor",
+    "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+    "language": "HTML",
+    "stars": 1213,
+    "forks": 2,
+    "created_at": "2026-11-06T21:23:09Z",
+    "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+    "date": "2026-11-17"
+  }
+]

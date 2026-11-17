@@ -1,0 +1,192 @@
+[
+  {
+    "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+    "authors": "Annan Wang, Yuchen Xie, Yu Cen, Leon Liangyu Chen, Qianyu Julie Zhu...",
+    "summary": "Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecastin",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2611.19937",
+    "paper_url": "https://arxiv.org/abs/2611.19937",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+    "authors": "The InclusionMed Collaboration",
+    "summary": "Advancing medical AI for inclusive healthcare requires evaluation across diverse healthcare roles, tasks, and care settings, but benchmark coverage remains uneven. We introduce InclusionMed, an open m",
+    "upvotes": 34,
+    "url": "https://huggingface.co/papers/2611.21218",
+    "paper_url": "https://arxiv.org/abs/2611.21218",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+    "authors": "K2 Team, Zhengzhong Liu, Haonan Li, Xuezhe Ma, Alexander Moreno...",
+    "summary": "We present K2-Horizon, a fleet of six fully open language models, from a 0.9B dense model to a 375B-A23B MoE, built for general-purpose reasoning and agentic work across math and science, software eng",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2611.21003",
+    "paper_url": "https://arxiv.org/abs/2611.21003",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
+    "authors": "Woosang Lim, Yeseul Chang, Jaewoo Lee",
+    "summary": "Tool-using agents act on email, files, and payments, so an instruction hidden in a web page or a shared document can make an agent send data or money to an attacker. Many runtime defenses put a langua",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2611.07222",
+    "paper_url": "https://arxiv.org/abs/2611.07222",
+    "published_at": "2026-11-04",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "PaperCritic: Training AI Reviewers to Assess the Soundness of Papers",
+    "authors": "Hyun Ryu, Ji Yong Cho, Eunho Yang, Moontae Lee, June Yong Yang...",
+    "summary": "As AI conference submissions grow rapidly, AI reviewers are being considered as an alternative. However, simply imitating human reviewing is problematic because reviewing serves multiple purposes, inc",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2611.17834",
+    "paper_url": "https://arxiv.org/abs/2611.17834",
+    "published_at": "2026-11-13",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations",
+    "authors": "Xinping Lei, Minghao Liu, Ruijie Zhu, Xiaohui Hu, Xingqiao Li...",
+    "summary": "A coding agent working within a software organization must establish what to build, collaborate with colleagues, and verify what it delivers. We introduce SWE-CoWork, a benchmark comprising 101 develo",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.20218",
+    "paper_url": "https://arxiv.org/abs/2611.20218",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
+    "authors": "Bowen Liu, Yuhan Li, Nuo Chen, Weile Luo, Miao Peng...",
+    "summary": "Application optimization requires coding agents to discover useful changes and coordinate them across a complete program while preserving the required computation. We introduce Accelerate Bench, a ben",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.20882",
+    "paper_url": "https://arxiv.org/abs/2611.20882",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model",
+    "authors": "Yong Liu, Zhanpeng Shi, Peicong Lin, Zhenyi Zhong, Yizhou Dang...",
+    "summary": "Biomolecular foundation models predict the structures of proteins and their complexes accurately, and large language models (LLMs) reason in natural language, but the two remain separate: the abilitie",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.20986",
+    "paper_url": "https://arxiv.org/abs/2611.20986",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "VoxMel TTS Technical Report",
+    "authors": "Wenhao Guan, Jiaxin Ye, Haitao Li, Yifan Duan, Junxi Liu...",
+    "summary": "Continuous autoregressive TTS relies on an acoustic target that enables stable next-latent modeling while preserving fine-grained acoustic details. While existing approaches employ learned compressed ",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.20254",
+    "paper_url": "https://arxiv.org/abs/2611.20254",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos",
+    "authors": "Yunyang Ge, Weijie Kong, Ryan Xu, Yue Wu, Qi Tian...",
+    "summary": "Streaming video generation must sustain quality beyond the training horizon while handling self-generated history and growing cache costs. To address these challenges, we present MovieRoll, a base-to-",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.21339",
+    "paper_url": "https://arxiv.org/abs/2611.21339",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+    "authors": "Ruixi Yu, Dairu Liu, Xuchuan Chen, Zekun Qi, Zekai Li...",
+    "summary": "Frontier Vision-Language Models (VLMs) such as GPT-6 Astra have demonstrated remarkable capabilities in robot control, suggesting that broad pretraining provides knowledge valuable for physical action",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.21607",
+    "paper_url": "https://arxiv.org/abs/2611.21607",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Latent Feedback Is a Compute and Data Amplifier",
+    "authors": "Benhao Huang, Chaitanya Dwivedi, Xuezhe Ma, Alexander Moreno, Hector Liu",
+    "summary": "When high-quality data runs out, a common practice is to train on it for several epochs, but each repeat is worth less than the last. Latent feedback, which feeds each token's top-layer state into the",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.20404",
+    "paper_url": "https://arxiv.org/abs/2611.20404",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers",
+    "authors": "Siqi Zhu, Suozhi Huang, Yi Zhao, Jiaxuan You",
+    "summary": "Looped Transformers improve parameter efficiency by repeatedly applying the same Transformer layers. During autoregressive decoding, however, generating each token requires several sequential passes t",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.19649",
+    "paper_url": "https://arxiv.org/abs/2611.19649",
+    "published_at": "2026-11-14",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images",
+    "authors": "Emilio Ferrara",
+    "summary": "Can a vision-language model look at a picture of a chain reaction and tell what will happen? Recent multimodal models describe scenes fluently and solve textbook physics problems, which suggests they ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.20385",
+    "paper_url": "https://arxiv.org/abs/2611.20385",
+    "published_at": "2026-11-16",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos",
+    "authors": "Lin Long, Tianren Ma, Zhong Chu, Di Wu, Maosong Cao...",
+    "summary": "In this paper, we investigate how human egocentric videos can benefit robot policy learning without action supervision. Building on a pretrained VLM, we propose Shared Prediction on Action and Represe",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.13685",
+    "paper_url": "https://arxiv.org/abs/2611.13685",
+    "published_at": "2026-11-10",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix",
+    "authors": "Quy-Anh Dang, Chris Ngo",
+    "summary": "Directional ablation removes a hidden state's component along a \"behaviour direction\" while a language model runs. It is the standard way to switch a behaviour such as refusal off, but it is erratic: ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.20148",
+    "paper_url": "https://arxiv.org/abs/2611.20148",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models",
+    "authors": "Yucheng Zhou, Yunjia Xi, Di Yin, Jianbing Shen",
+    "summary": "Unified multimodal models can support both visual understanding and generation, yet generative training does not necessarily improve understanding. We argue that this limitation may arise from a misma",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.18668",
+    "paper_url": "https://arxiv.org/abs/2611.18668",
+    "published_at": "2026-10-26",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis",
+    "authors": "Luozheng Qin, Changhai Zhou, Yiyi Zhou",
+    "summary": "Scene text synthesis requires stroke-accurate characters rendered in a specified layout, as well as visual coherence with the surrounding scene. To achieve this, existing methods commonly pre-render t",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.20192",
+    "paper_url": "https://arxiv.org/abs/2611.20192",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  },
+  {
+    "title": "Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning",
+    "authors": "Xuan Gong, Hanbo Huang, Hao Zheng, Yiran Zhang, Wenbin Dai...",
+    "summary": "Long chain-of-thought (CoT) reasoning improves large vision--language models, but visual information often fades during generation, limiting long-horizon multimodal reasoning. Existing methods either ",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2605.09614",
+    "paper_url": "https://arxiv.org/abs/2605.09614",
+    "published_at": "2026-11-15",
+    "date": "2026-11-17"
+  }
+]
