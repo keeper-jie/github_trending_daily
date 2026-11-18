@@ -1,0 +1,222 @@
+[
+  {
+    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+    "authors": "Xingchen AGI Lab, Baotian Hu, Bingkai Yang, Boyang Wang, Changzai Pan...",
+    "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes t",
+    "upvotes": 137,
+    "url": "https://huggingface.co/papers/2611.22115",
+    "paper_url": "https://arxiv.org/abs/2611.22115",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+    "authors": "AI Training Platform Team, Bingwei Zhang, Jing Li, Amir Abdullin, Sihang Chen...",
+    "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less empha",
+    "upvotes": 85,
+    "url": "https://huggingface.co/papers/2611.17621",
+    "paper_url": "https://arxiv.org/abs/2611.17621",
+    "published_at": "2026-11-13",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Weight-Space Programming Doesn't Need Transformers",
+    "authors": "Hyunjong Ok, Jaeho Lee",
+    "summary": "Standard neural architectures such as the Transformer were chosen because they train well with gradient descent and run fast on GPUs. In weight-space programming, a large language model (LLM) writes t",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2611.22055",
+    "paper_url": "https://arxiv.org/abs/2611.22055",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+    "authors": "Ke Sun, Kevin Yuchen Ma, Yike Zhang, Yanzhe Chen, Mike Zheng Shou",
+    "summary": "Frontier multimodal models can now control robots zero-shot from images, yet many manipulation tasks depend on contact forces that images cannot show. Bringing force to an API-only frozen model raises",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2611.21099",
+    "paper_url": "https://arxiv.org/abs/2611.21099",
+    "published_at": "2026-11-16",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Multi-Branch Transformer",
+    "authors": "Gaotang Li, Lingjie Chen, Chunyuan Deng, Zhiwei Xu, Hongzheng Chen...",
+    "summary": "Transformer language models are commonly scaled by making their blocks wider or stacking them deeper. In this work, we explore a complementary path: branching, the parallel composition of full Transfo",
+    "upvotes": 29,
+    "url": "https://huggingface.co/papers/2611.19800",
+    "paper_url": "https://arxiv.org/abs/2611.19800",
+    "published_at": "2026-11-15",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation",
+    "authors": "Haosong Peng, Xiangyang Liu, Zhengshen Zhang, Yunfeng Fan, Tianyu Qi...",
+    "summary": "Robot manipulation videos provide a rich visual experience, yet recovering robot action and gripper-state annotations from RGB observations still remains challenging. Using the embodiment-agnostic too",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2611.23143",
+    "paper_url": "https://arxiv.org/abs/2611.23143",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "authors": "Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong...",
+    "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2611.23226",
+    "paper_url": "https://arxiv.org/abs/2611.23226",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Self-Improvement Memory Enables Continual Recursive Self-Improvement",
+    "authors": "Xin Yu, Fei Xia, Jiaqi Pan, Youbao Tang, Chengzhi Liu...",
+    "summary": "Harness optimization is often studied with a fixed policy model and benchmark. When either changes, the optimizer must decide which parts of an evolved harness to reuse or revise, but the harness alon",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2611.18856",
+    "paper_url": "https://arxiv.org/abs/2611.18856",
+    "published_at": "2026-11-13",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration",
+    "authors": "Ting-Hsuan Chen, Siheng Zhao, Han Jiang, Qi Pan, Louison Lu...",
+    "summary": "Collaboration promises to extend humanoid capabilities beyond what individual robots can achieve. However, realizing this potential requires coordinated whole-body interactions, coherent long-horizon ",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.22275",
+    "paper_url": "https://arxiv.org/abs/2611.22275",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding",
+    "authors": "Fan Zhang, Hao Wu, Jinyang Wu, Hongyu Qu, Zheng Lian...",
+    "summary": "Medical image understanding with vision-language models (VLMs) typically relies on autoregressively generating reasoning and answer tokens. These unnecessary tokens make the inference cost scale with ",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.20992",
+    "paper_url": "https://arxiv.org/abs/2611.20992",
+    "published_at": "2026-11-16",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose",
+    "authors": "Ivan Poddiakov, Ivan Kruzhilov, Galina Zubkova, Svetlana Erofeeva, Andrey Savchenko...",
+    "summary": "Electronic nose (eNose) technology offers a portable, non-invasive route for disease screening via exhaled breath analysis. However, progress in the field is hindered by the lack of systematic benchma",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.15348",
+    "paper_url": "https://arxiv.org/abs/2611.15348",
+    "published_at": "2026-11-11",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "ResWAM: Learning What Changes, Not What Stays, for World-Action Models",
+    "authors": "Chongyu Fan, Gaowen Liu, Ramana Rao Kompella, Jason Corso, Sijia Liu",
+    "summary": "World-action models (WAMs) augment vision-language-action policies (VLAs) with future prediction so that the policy can anticipate how its actions will affect the physical world. Existing WAMs supervi",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.19559",
+    "paper_url": "https://arxiv.org/abs/2611.19559",
+    "published_at": "2026-11-14",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "π^4: A Foundation Model for 4D Scene Geometry and Motion",
+    "authors": "Yifan Wang, Weiguang Zhao, Ni Yang, Haoyu Guo, Junting Dong...",
+    "summary": "π^4 is a unified foundation model for 4D scene perception. From diverse, uncalibrated RGB observations in the wild---a single image, an unordered collection, or a video sequence---it recovers dense ge",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.23144",
+    "paper_url": "https://arxiv.org/abs/2611.23144",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns",
+    "authors": "Deyang Kong, Zhaoyi Li, Sijian Ren, Yuan Wei, Ying Wei...",
+    "summary": "On-policy distillation (OPD) transfers specialized capabilities to language-model agents, but its cross-domain effects on interaction remain unclear. We investigate how OPD reshapes ReAct interaction ",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.19244",
+    "paper_url": "https://arxiv.org/abs/2611.19244",
+    "published_at": "2026-11-14",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "MPEG-Diffusion: Mixed-Resolution Video Generation",
+    "authors": "Dennis Menn, Tianpei Gu, Guande He, Aryan V S, Yanke Song...",
+    "summary": "Video diffusion transformers (DiTs) generate realistic videos, but their heavy computational cost limits broader real-world applications. Mixed-resolution generation reduces this cost by generating th",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.12069",
+    "paper_url": "https://arxiv.org/abs/2611.12069",
+    "published_at": "2026-11-09",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Regularized Score Centering",
+    "authors": "Hao Bai, Chenlu Ye, Xuanchang Zhang, Aviral Kumar, Tong Zhang",
+    "summary": "Asynchronous reinforcement learning increases training throughput, but data from stale policies and numerical mismatch between training and inference can destabilize learning. To stabilize off-policy ",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.21791",
+    "paper_url": "https://arxiv.org/abs/2611.21791",
+    "published_at": "2026-11-16",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "authors": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola",
+    "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.23219",
+    "paper_url": "https://arxiv.org/abs/2611.23219",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
+    "authors": "Yang Tian, Tianyu Zheng, Xiyuan Yang, Yaxin Du, Chengran Yang...",
+    "summary": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but pro",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.21152",
+    "paper_url": "https://arxiv.org/abs/2611.21152",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
+    "authors": "Robbie Holland, Ashwin Kumar, Mateus A. Esmeraldo, David Le, Andrea Fisher...",
+    "summary": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at populati",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.08922",
+    "paper_url": "https://arxiv.org/abs/2611.08922",
+    "published_at": "2026-11-06",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation",
+    "authors": "Nguyen Quang Trung, Hoang Phan, Shuo Sun, Longyin Zhang, AiTi Aw",
+    "summary": "Multi-Teacher On-Policy Distillation (MOPD) enables a single student to absorb the skills of several domain teachers by learning from its own generated responses. We present Multimodal Model Multi-Tea",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.23034",
+    "paper_url": "https://arxiv.org/abs/2611.23034",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
+    "authors": "Ammar Ali",
+    "summary": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to deco",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.23108",
+    "paper_url": "https://arxiv.org/abs/2611.23108",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates",
+    "authors": "Xinying Hu, You Wu, Haoyi Wu, Jianchao Tan, Kefeng Zhang...",
+    "summary": "Hyper-Connections (HC) expand the residual stream of a Transformer into N parallel streams, and manifold-constrained HC (mHC) stabilizes them at scale. However, mHC benefits little from more than four",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.23026",
+    "paper_url": "https://arxiv.org/abs/2611.23026",
+    "published_at": "2026-11-17",
+    "date": "2026-11-18"
+  }
+]

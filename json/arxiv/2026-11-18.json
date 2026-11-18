@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+    "authors": "Giannis Daras, Marios Papachristou, Adam Klivans, Antonio Torralba, Constantinos Daskalakis",
+    "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ",
+    "categories": "cs.LG, cs.AI, cs.CL",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23229v1",
+    "abs_url": "https://arxiv.org/abs/2611.23229v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+    "authors": "Rui Ning, Om Chabra, Hari Balakrishnan",
+    "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid",
+    "categories": "cs.CV, cs.LG",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23228v1",
+    "abs_url": "https://arxiv.org/abs/2611.23228v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "FastFrames: Video Generation at Interactive Latency",
+    "authors": "Gene Chou, Guandao Yang, Fujun Luan, Lars Mescheder, Wei Dong...",
+    "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of ma",
+    "categories": "cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23226v1",
+    "abs_url": "https://arxiv.org/abs/2611.23226v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+    "authors": "Xingyang Yu",
+    "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt",
+    "categories": "hep-th, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23225v1",
+    "abs_url": "https://arxiv.org/abs/2611.23225v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+    "authors": "Zhaosong Lu, Yifeng Xiao",
+    "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re",
+    "categories": "math.OC, cs.LG",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23221v1",
+    "abs_url": "https://arxiv.org/abs/2611.23221v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+    "authors": "Shobhita Sundaram, Cansu Sancaktar, Phillip Isola",
+    "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23219v1",
+    "abs_url": "https://arxiv.org/abs/2611.23219v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+    "authors": "S. M Seefat Alam",
+    "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23218v1",
+    "abs_url": "https://arxiv.org/abs/2611.23218v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Higher-Scoring Coding Models Did Not Get More Work Done",
+    "authors": "Yining Hua",
+    "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,",
+    "categories": "cs.SE, cs.AI, cs.LG",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23216v1",
+    "abs_url": "https://arxiv.org/abs/2611.23216v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+    "authors": "Zhouhan Qian, Sicheng Chen, Chad Wong, Tianyi Zhang, Enhui Chai...",
+    "summary": "Histopathological analysis of whole-slide images (WSIs) plays a critical role in cancer diagnosis, and multiple instance learning (MIL) is widely adopted for WSI analysis under weak supervision. As ne",
+    "categories": "cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23212v1",
+    "abs_url": "https://arxiv.org/abs/2611.23212v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+    "authors": "John Gideon, Anshul Gupta, Megan Applegate-Kenton, Kayli Battel, Todd J Rowell...",
+    "summary": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognit",
+    "categories": "cs.CV, cs.LG, cs.RO",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23211v1",
+    "abs_url": "https://arxiv.org/abs/2611.23211v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Learning Grounded Reasoning from Human Gaze",
+    "authors": "Gabriel Sarch, Declan Campbell, Nicholas Budny, Kia Ghods, Katerina Fragkiadaki...",
+    "summary": "Human visual reasoning is driven by systematic exploration and extraction of task-relevant visual evidence. Human gaze provides a window into this process, making gaze a useful source of guidance for ",
+    "categories": "cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23209v1",
+    "abs_url": "https://arxiv.org/abs/2611.23209v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+    "authors": "Aviv Yossef, Or Patashnik, Or Zamir",
+    "summary": "We present a provably distortion-free semantic watermarking algorithm that requires only black-box sampling access to a generative model and black-box access to a semantic embedding. A watermark is ca",
+    "categories": "cs.LG, cs.CR, cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23208v1",
+    "abs_url": "https://arxiv.org/abs/2611.23208v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
+    "authors": "Tongxi Wu, Yuyang Cheng, Jiacheng Xian, Menglin Yang, Kai Chen...",
+    "summary": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state ",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23206v1",
+    "abs_url": "https://arxiv.org/abs/2611.23206v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and QLoRA on a Laptop iGPU",
+    "authors": "Mehmet Altan Toksöz",
+    "summary": "Small language models that run on a laptop are attractive for writing signal-processing code offline, but they make systematic errors on digital signal processing (DSP) conventions. We apply supervise",
+    "categories": "cs.LG, cs.AI, cs.SE, eess.SP",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23205v1",
+    "abs_url": "https://arxiv.org/abs/2611.23205v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and Accountability Architecture for Cross-Organization Autonomous AI Agents",
+    "authors": "Viet K. Nguyen, Mohammad I. Husain",
+    "summary": "AI agents increasingly collaborate across organizational boundaries, invoking tools and interacting with agents operated by independent entities. Although existing agent frameworks support planning an",
+    "categories": "cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23202v1",
+    "abs_url": "https://arxiv.org/abs/2611.23202v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Learned versus Kinematic Trajectory Prediction under Reduced Observation Frequency",
+    "authors": "Nukhbala Gadzhiev, Alexander Morochko",
+    "summary": "Trajectory prediction models for automated driving are usually trained on data with a fixed sampling frequency, while positions received via vehicle-to-everything (V2X) communication arrive at 1-10 Hz",
+    "categories": "cs.LG, cs.RO",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23198v1",
+    "abs_url": "https://arxiv.org/abs/2611.23198v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Structure--Residual Inductive Biases for Language Model Pretraining",
+    "authors": "Hai Huang, Bartosz Żuk, Rassul Magauin, Jiaxin Huang, Xue Liu",
+    "summary": "Next-token prediction is relied upon to learn both predictive behavior and internal representations. We ask whether representation structure itself should be an explicit inductive bias. Motivated by t",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23197v1",
+    "abs_url": "https://arxiv.org/abs/2611.23197v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
+    "authors": "Almog Anschel, Sarah Keren",
+    "summary": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion thr",
+    "categories": "cs.AI, cs.LG, cs.RO",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23192v1",
+    "abs_url": "https://arxiv.org/abs/2611.23192v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
+    "authors": "Vincenzo Marcianò, Xiaoming Zhang, Michela Antonelli, Sebastien Ourselin, Maria A Zuluaga",
+    "summary": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated c",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23189v1",
+    "abs_url": "https://arxiv.org/abs/2611.23189v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Any2Building: Unifying Point Clouds and Images for Building Reconstruction via Shared Spatial Queries",
+    "authors": "Hongye Hou, Zhuoxiao Li, Liu Xiangyu, Tengxi Wang, Jing Ou...",
+    "summary": "Abstracting structured buildings from limited observations is essential for 3D urban modeling and digital twins. Partial point clouds and overhead images of the same building provide incomplete 3D sur",
+    "categories": "cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23187v1",
+    "abs_url": "https://arxiv.org/abs/2611.23187v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Polarity Composition Hypothesis: Causal Evidence from Negation in NLI",
+    "authors": "Nhi Hoai Doan, Tatsuya Hiraoka, Munachiso Samuel Nwadike, Kentaro Inui",
+    "summary": "We investigate how language models process negation in natural language inference (NLI). We propose the \\textit{Polarity Composition Hypothesis}, a high-level causal model of this computation. Behavio",
+    "categories": "cs.CL",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23185v1",
+    "abs_url": "https://arxiv.org/abs/2611.23185v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Say Less, Hallucinate Less? Diagnosing and Restoring Object Coverage in Preference-Optimized Vision-Language Models",
+    "authors": "Hansang Lee",
+    "summary": "Preference optimization (PO) is the standard way to reduce object hallucination in large vision-language models. We find that four public PO checkpoints of LLaVA-1.5-7B also lower object coverage. The",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23179v1",
+    "abs_url": "https://arxiv.org/abs/2611.23179v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Déjà View: A Shared Working-Memory Model for Visual Tasks",
+    "authors": "Mranmay Shetty, Gabriel Kreiman",
+    "summary": "A working-memory model must remember stimuli and use its memory flexibly to perform different tasks. Here we introduce a model of working memory for images that combines dynamic activity with temporar",
+    "categories": "cs.CV, cs.LG, q-bio.NC",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23177v1",
+    "abs_url": "https://arxiv.org/abs/2611.23177v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Inference after coding agents",
+    "authors": "Florian Gunsilius, David Van Dijcke, Kaspar Wüthrich",
+    "summary": "Empirical research is changing rapidly as AI coding agents are becoming increasingly proficient in every step of it, from writing code to manipulating data. We argue that while the potential of coding",
+    "categories": "stat.ME, cs.AI, econ.EM",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23174v1",
+    "abs_url": "https://arxiv.org/abs/2611.23174v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Attribution Through the Decoder: Prediction-Space Explanations for Structured Outputs",
+    "authors": "Zaer Bin Zaqy, Brinnae Bent",
+    "summary": "Networks that predict angles, gaze directions, and rotations do not output these quantities directly: they emit raw coordinates that a fixed decoder, such as normalization, maps to the final predictio",
+    "categories": "cs.CV, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23161v1",
+    "abs_url": "https://arxiv.org/abs/2611.23161v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "MoE--LoRA Methods for Multilingual Adaptation: A Systematic Empirical Study",
+    "authors": "Nikit Srivastava, Joel Dag, René Speck, Axel-Cyrille Ngonga Ngomo",
+    "summary": "Routed low-rank adapters offer a parameter-efficient means to improve the performance of large language models (LLMs) across tasks. Hence, it is assumed that they can also be used to improve the suppo",
+    "categories": "cs.CL, cs.LG",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23158v1",
+    "abs_url": "https://arxiv.org/abs/2611.23158v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "TextSphere: Efficient Text-to-Image Generation via Shared Hyperspherical Alignment and Uniformity",
+    "authors": "Yixia Zhang, Girish A. Koushik, Xilu Wang, Wenwu Wang",
+    "summary": "Recent advances in text-to-image generation have substantially improved image quality, particularly through diffusion-based methods that require multiple inference steps. In contrast, Sphere Encoder o",
+    "categories": "cs.CV, cs.CL",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23155v1",
+    "abs_url": "https://arxiv.org/abs/2611.23155v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Learning Stratified Policies for Inference-Time Objectives",
+    "authors": "Mridul Mahajan, Xuezhou Zhang, Aldo Pacchiano",
+    "summary": "Inference-time scaling improves the performance of large language models by sampling multiple responses and evaluating their collective utility. However, many existing approaches obtain these samples ",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23154v1",
+    "abs_url": "https://arxiv.org/abs/2611.23154v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "VIVID: Beyond Static Multi-Image Reasoning with Localized Visual Differences and Textual Entity Dynamics in Video MLLMs",
+    "authors": "Chengqian Ma, Yuanze Zeng, Hongyu Wang, Mingfeng Lin, YiCheng Xiao...",
+    "summary": "Video question answering under tight frame budgets requires preserving localized motion and event order, yet current video multimodal large language models (MLLMs) reduce comprehension to static multi",
+    "categories": "cs.CV",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23153v1",
+    "abs_url": "https://arxiv.org/abs/2611.23153v1",
+    "date": "2026-11-18"
+  },
+  {
+    "title": "Capability Composition in Heterogeneous Teams via Barrier-Guided Diffusion Sampling",
+    "authors": "Diana Laura Morales, Ruoyu Lin, Magnus Egerstedt, Fabio Pasqualetti",
+    "summary": "The agents in a heterogeneous team can cooperate to accomplish tasks that exceed their individual capabilities. The team trajectories for a cooperative task can be generated by a generative model, pro",
+    "categories": "cs.RO, cs.LG, cs.MA, eess.SY",
+    "published": "2026-11-17",
+    "pdf_url": "https://arxiv.org/pdf/2611.23149v1",
+    "abs_url": "https://arxiv.org/abs/2611.23149v1",
+    "date": "2026-11-18"
+  }
+]
