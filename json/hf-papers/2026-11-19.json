@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices",
+    "authors": "Yifei Wang, Tsun-yu Yang, Yechen Xu, Hancheng Ye, Qinsi Wang...",
+    "summary": "Large language model (LLM) agents are rapidly becoming a dominant paradigm for AI applications. Recently, there is a growing demand to deploy large-scale Mixture-of-Experts (MoE) models locally on con",
+    "upvotes": 37,
+    "url": "https://huggingface.co/papers/2611.14848",
+    "paper_url": "https://arxiv.org/abs/2611.14848",
+    "published_at": "2026-11-10",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Jeveration: System One Models Now Generate",
+    "authors": "Yuhe Liu, Qi Li, Shihua Zhang, Xinchao Wang",
+    "summary": "System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images ",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2611.24738",
+    "paper_url": "https://arxiv.org/abs/2611.24738",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+    "authors": "Minseo Yoon, Minseong Bae, Sojin Lee, Hyunwoo J. Kim",
+    "summary": "High-resolution weather prediction is important for resolving local atmospheric patterns missed by coarse global forecasts. Large pretrained weather backbones have improved global forecasting, but ada",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2611.11318",
+    "paper_url": "https://arxiv.org/abs/2611.11318",
+    "published_at": "2026-11-08",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+    "authors": "Xirui Jiang, Yuxi Chen, Rui Yang, Feng Luo, Pengcheng Wang...",
+    "summary": "Games are a rich testbed for visual agents, demanding perception, long-horizon planning, and precise control. However, collecting human gameplay is costly, and learning from gameplay videos requires i",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2611.24154",
+    "paper_url": "https://arxiv.org/abs/2611.24154",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+    "authors": "Yuanhao Zeng, Shaocheng Lan, Ao Lu, Kuang Yan, Heng Lin...",
+    "summary": "Agent evolution follows a simple loop: a proposer writes candidate artifacts (prompts, skills, memories) and selection accepts those that score higher. This loop has shown promise, yet practitioners f",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2611.23068",
+    "paper_url": "https://arxiv.org/abs/2611.23068",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+    "authors": "Mingliang Zhai, Chuanhao Li, Jiaming Tan, Zhen Li, Yuwei Wu...",
+    "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world mod",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.24869",
+    "paper_url": "https://arxiv.org/abs/2611.24869",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "ALIVE: Making Streaming Video Models Interactive",
+    "authors": "Jinzhao Li, Yuan Xu, Jinxuan Wu, Yukun Wang, Yijia Lei...",
+    "summary": "Streaming video LLMs can continuously observe the world, yet often handle user requests in isolation. We introduce ALIVE, an interactive streaming video model supporting proactive monitoring, streamin",
+    "upvotes": 11,
+    "url": "https://huggingface.co/papers/2611.21366",
+    "paper_url": "https://arxiv.org/abs/2611.21366",
+    "published_at": "2026-11-16",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Code World Model 2.0: Towards Infinite Controllable Video Generation",
+    "authors": "Ruoyu Wang, Hao Zhong, Yanming Yang, Jiahao Tian, Lin Liu...",
+    "summary": "Visual proxies decouple explicit world-state simulation from photorealistic video synthesis, offering a controllable interface for both offline clip creation and real-time interactive streaming. Yet a",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.22925",
+    "paper_url": "https://arxiv.org/abs/2611.22925",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers",
+    "authors": "Hansheng Chen, Shengqu Cai, Jan Ackermann, Rayhan Zirvi, Gordon Wetzstein...",
+    "summary": "Latent diffusion models rely on a decoder to map denoised latents to pixels, adding complexity and inference cost. We introduce Decoding Without a Decoder (DWD), which lets a finetuned diffusion trans",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.22287",
+    "paper_url": "https://arxiv.org/abs/2611.22287",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models",
+    "authors": "Ruisi Zhao, You Li, Sihan Chen, Aosong Cheng, Chixiang Ma...",
+    "summary": "Video rough-cut is a core stage in media production workflows, organizing raw media materials into an initial video cut. Despite recent advances in large vision-language models (LVLMs) for video-relat",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.24098",
+    "paper_url": "https://arxiv.org/abs/2611.24098",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration",
+    "authors": "Yicheng He, Yuqi Xue, Tianyang Wu, Jian Huang, Bin Hu",
+    "summary": "NPU design-space exploration for LLM inference mainly relies on an expensive simulator that often returns only scalar feedback such as latency and power. Such feedback can rank evaluated configuration",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.24733",
+    "paper_url": "https://arxiv.org/abs/2611.24733",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+    "authors": "Xingyang Li, Tianlang Zhao, Song Han, Ligeng Zhu",
+    "summary": "Post-training quantization is the standard way to serve large language models at low cost. However, the best quantization recipe differs across models and precisions. As a result, experts must redesig",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.23388",
+    "paper_url": "https://arxiv.org/abs/2611.23388",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement",
+    "authors": "Zhenqing Ling, Qirui Jiao, Daoyuan Chen, Cheng Chen, Xinji Mai...",
+    "summary": "We present Piccolo, a family of multimodal decision models (0.8B to 27B) that coevolves model capabilities and training data via Agentic Data Engineering and recursive self-improvement (RSI). The mode",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.24651",
+    "paper_url": "https://arxiv.org/abs/2611.24651",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "PReMind: When Personal Memory Meets Visual Hazards",
+    "authors": "Yeongtak Oh, Donghyeok Lee, Joonhee Oh, Jaewon Jeong, Sungroh Yoon",
+    "summary": "Personalized vision-language assistants use visual observations and personal memories to provide advice tailored to the user. When the observed scene contains a physical hazard, personal context, such",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.23808",
+    "paper_url": "https://arxiv.org/abs/2611.23808",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
+    "authors": "Phuong Tuan Dat, Qi Li, Xinchao Wang",
+    "summary": "World action models (WAMs) have shown promising generalization and data efficiency in robot manipulation by coupling action generation with predictions of future visual dynamics. Translating these cap",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.24789",
+    "paper_url": "https://arxiv.org/abs/2611.24789",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability",
+    "authors": "Jialing Xie, Yifan Zhou, Yiwen Zhang, Junjun He",
+    "summary": "Adapting a film into a game requires selecting source elements and translating them into player actions, rules, and feedback. We introduce Movie2Game-Bench (M2G-bench), a benchmark for evaluating film",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.24669",
+    "paper_url": "https://arxiv.org/abs/2611.24669",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Late Entry in Looped Language Models",
+    "authors": "Ziqi Jin, Jiaxi Li, Weiwen Xu, Aixin Sun",
+    "summary": "Looped language models deepen reasoning at a compact parameter count by iterating a shared layer stack T times per token, turning recurrence depth directly into sequential decoding latency. Convention",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.24576",
+    "paper_url": "https://arxiv.org/abs/2611.24576",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Learning Anisotropic Prediction Targets for Flow Models",
+    "authors": "Rayhan Zirvi, Hansheng Chen, Gordon Wetzstein, Leonidas Guibas",
+    "summary": "Flow-based generative models are trained on a hand-chosen prediction target, such as the velocity, the noise, or the clean data. This choice strongly affects training and sample quality. We introduce ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.17767",
+    "paper_url": "https://arxiv.org/abs/2611.17767",
+    "published_at": "2026-11-13",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "FVScore: Specification-Driven Neuro-Symbolic Video Evaluation",
+    "authors": "Do Xuan Long, Long T. Le, Yiwen Song, Min-Yen Kan, Tomas Pfister...",
+    "summary": "We introduce Faithfulness Video Score (FVSCORE), a neuro-symbolic framework for specification-driven video generation evaluation. Existing evaluators rely on holistic MLLM judgments or vision-language",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.22673",
+    "paper_url": "https://arxiv.org/abs/2611.22673",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "DrawScore: Evaluating Generated CAD Models against Engineering Drawings",
+    "authors": "Haorui Chen, Shiteng Lu, Zhanyu Guo, Zaixi Li, Yunhe Ni...",
+    "summary": "Automatic CAD generation is commonly evaluated with volumetric IoU, Chamfer Distance, and surface F-score, which barely penalize local errors that occupy only a small fraction of a part's volume or su",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.24681",
+    "paper_url": "https://arxiv.org/abs/2611.24681",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Evidence-Based Credit Assignment for Search-Augmented Language Models",
+    "authors": "Wen Wang, Jindong Wang, Jiahua Bao, Tu Yongsiqi, Yihao Liu...",
+    "summary": "Reinforcement learning from terminal answer rewards enables search-augmented language models to interleave reasoning and retrieval without step-level annotations, yet outcome supervision assigns ident",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.23824",
+    "paper_url": "https://arxiv.org/abs/2611.23824",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection",
+    "authors": "Ke Sun, Shuwei Li, Haiyang Mei, Mike Zheng Shou",
+    "summary": "Visible artifacts are an unreliable cue for detecting generated videos, because newer generators learn to remove them. We instead detect a trace left by the generation pipeline itself. Most video gene",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.21114",
+    "paper_url": "https://arxiv.org/abs/2611.21114",
+    "published_at": "2026-11-16",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "LogT: Logically Think with Images for Visual Search",
+    "authors": "Yanjun Fu, Quanzeng You, Jiadong Guo, Yujie Lu, Sai Charitha Akula...",
+    "summary": "Thinking with images empowers vision-language models (VLMs) to use an external Zoom-in tool for fine-grained visual search. Recent works employ supervised fine-tuning (SFT) and reinforcement learning ",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.19200",
+    "paper_url": "https://arxiv.org/abs/2611.19200",
+    "published_at": "2026-11-14",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Let Samples Sing in Chorus: Mitigating Spurious Correlations via Cross-view Consensus",
+    "authors": "Weiwei Li, Junzhuo Liu, Tong Chu, Hengfu Yu, Yinjie Lei...",
+    "summary": "Deep models often rely on spurious correlations that fail on underrepresented groups. Existing methods either correct human-specified bias attributes or infer unknown biases from the learned represent",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.22668",
+    "paper_url": "https://arxiv.org/abs/2611.22668",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Recurrent Domain Incremental Adaptation of Time-Series Foundation Models",
+    "authors": "Sachith Abeywickrama, Peiliang Gong, Emadeldeen Eldele, Min Wu, Chau Yuen",
+    "summary": "Pretrained Time-Series Foundation Models (TSFMs) provide strong representations for downstream classification tasks. Yet adapting a TSFM under changing operating conditions remains challenging. A mode",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.24075",
+    "paper_url": "https://arxiv.org/abs/2611.24075",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents",
+    "authors": "Zhizhuo Kou, Sizai Hou, Jian Yang, Ge Sun, Junyu Luo...",
+    "summary": "Organizations increasingly deploy downloaded open-weight GUI agents. A backdoored agent passes acceptance tests on clean data and misbehaves only when a visual trigger appears on screen, turning an un",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.24102",
+    "paper_url": "https://arxiv.org/abs/2611.24102",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "authors": "Jingzhi Bao, Xiaohe Ma, Hong Li, Yuanming Hu, Xiaoguang Han",
+    "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.24941",
+    "paper_url": "https://arxiv.org/abs/2611.24941",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents",
+    "authors": "Lipeng He, Yihan Wang, Jiawen Zhang, N. Asokan",
+    "summary": "Large language model (LLM) agents routinely interact with untrusted external data, exposing them to indirect prompt injection (IPI) attacks that hijack agents into executing attacker-chosen tasks. To ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.24362",
+    "paper_url": "https://arxiv.org/abs/2611.24362",
+    "published_at": "2026-11-18",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding",
+    "authors": "Tianci Xie, Li Chen, Pinxue Guo, Rui Zheng",
+    "summary": "Fine-grained questions about long videos ask how many times an action occurs, in what order events unfold, or exactly when a state changes. Answering them can require finding brief moments scattered a",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.22790",
+    "paper_url": "https://arxiv.org/abs/2611.22790",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Out of Sight, Still in Mind: Token Compression for Omni-LLMs",
+    "authors": "Suho Yoo, Youngjoon Jang, Hyebin Cho, Joon Son Chung",
+    "summary": "The goal of this paper is to reduce the input token cost of Omni-modal large language models (Omni-LLMs) at inference time. Omni-LLMs reason jointly over audio, video and text, but the cost of the thr",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2607.21179",
+    "paper_url": "https://arxiv.org/abs/2607.21179",
+    "published_at": "2026-11-17",
+    "date": "2026-11-19"
+  }
+]

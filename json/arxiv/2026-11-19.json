@@ -1,0 +1,302 @@
+[
+  {
+    "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+    "authors": "Jingzhi Bao, Xiaohe Ma, Hong Li, Yuanming Hu, Xiaoguang Han",
+    "summary": "Generating physically based rendering (PBR) texture maps for a 3D mesh from a single reference image is highly ambiguous, as the observed appearance entangles material identity, surface reflectance, a",
+    "categories": "cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24941v1",
+    "abs_url": "https://arxiv.org/abs/2611.24941v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+    "authors": "Junjie Ye, Yiqi Zhao, Muchen Xu, Celina Shiyu Wang, Hao Dong...",
+    "summary": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint ",
+    "categories": "cs.RO, cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24940v1",
+    "abs_url": "https://arxiv.org/abs/2611.24940v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+    "authors": "Yan Qiu, Yuanyuan Li",
+    "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ",
+    "categories": "cs.CL",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24936v1",
+    "abs_url": "https://arxiv.org/abs/2611.24936v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+    "authors": "Priyanka Sinha, Sugam Pandey",
+    "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align",
+    "categories": "cs.AI, cs.CE, cs.HC, cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24932v1",
+    "abs_url": "https://arxiv.org/abs/2611.24932v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+    "authors": "Sarah H. Cen, Lindsey A. Gailmard, Joohan Kim, Rishi Bommasani, Daniel E. Ho...",
+    "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh",
+    "categories": "cs.CY, cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24927v1",
+    "abs_url": "https://arxiv.org/abs/2611.24927v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+    "authors": "Jiahang Lin, Jiahao Chen, Yiding Wang, Shichun Liu, Chengjun Pan...",
+    "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require",
+    "categories": "cs.SE, cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24924v1",
+    "abs_url": "https://arxiv.org/abs/2611.24924v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+    "authors": "Sen Fang, Yalin Feng, Yancheng Zhang, Yanxin Zhang, Zonglin Lyu...",
+    "summary": "In this paper, we propose a Unified Law for Visual Tasks, which could be further divided into Four Laws of Computer Vision, with the goal of enabling a single framework or method to uniformly train on",
+    "categories": "cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24917v1",
+    "abs_url": "https://arxiv.org/abs/2611.24917v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+    "authors": "Zhaocheng Yu, Kui Jiang, Jing Cao, Yiang Chen, Xiaocheng Feng...",
+    "summary": "Agentic image restoration composes operations to handle mixed degradations, yet its toolbox often requires storing multiple restoration networks. We propose PrismRestore, which constructs a compact ba",
+    "categories": "cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24915v1",
+    "abs_url": "https://arxiv.org/abs/2611.24915v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
+    "authors": "Samet Demir, Zafer Dogan",
+    "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect general",
+    "categories": "stat.ML, cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24908v1",
+    "abs_url": "https://arxiv.org/abs/2611.24908v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "ShadowTransfer: A Geographic Transfer Benchmark for Overhead Shadow Detection",
+    "authors": "Shagun Mittal, Raymond A. Yeh, Satish Ukkusuri",
+    "summary": "Overhead aerial imagery feeds dense-prediction pipelines that are routinely trained in one geographic region and deployed in another, yet no benchmark measures how shadow detection models transfer acr",
+    "categories": "cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24904v1",
+    "abs_url": "https://arxiv.org/abs/2611.24904v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+    "authors": "Michael Liaofan Liu, Joe Kileel",
+    "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many applicatio",
+    "categories": "cs.LG, stat.ML",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24896v1",
+    "abs_url": "https://arxiv.org/abs/2611.24896v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "On Evaluating User Simulators for Interactive Agents",
+    "authors": "Hengguang Zhou, I-Hung Hsu, Li Chen, Priyanshi Shrivastava, Anastasios Angelopoulos...",
+    "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation fram",
+    "categories": "cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24892v1",
+    "abs_url": "https://arxiv.org/abs/2611.24892v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacity",
+    "authors": "Benjamin Novotny, Doug Szeto, Chang Wang, Shicheng Chen, George Zhihua Yuan...",
+    "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. ",
+    "categories": "cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24891v1",
+    "abs_url": "https://arxiv.org/abs/2611.24891v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Who are you? The Personal Imitation Game",
+    "authors": "Muhammad Rizky Wellyanto, Hajara-Yasmin Isa, Kexin Xue, Vishal Ravichandran, Wenpeng Lu...",
+    "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a spec",
+    "categories": "cs.HC, cs.AI, cs.CL",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24888v1",
+    "abs_url": "https://arxiv.org/abs/2611.24888v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Ground, Iterate, Trace: Decomposing AI Research Ideation",
+    "authors": "Samson Yu, Qiran Zou, Jing Yu Lim, Rushi Shah, Anirudh Goyal...",
+    "summary": "Large language models have been widely used to generate plausible research ideas, yet it remains unclear what makes automated ideation effective and how generated novel proposals arise from prior scie",
+    "categories": "cs.CL",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24887v1",
+    "abs_url": "https://arxiv.org/abs/2611.24887v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Monoculture Robust Learning",
+    "authors": "Lee Cohen, Jon Kleinberg, Omer Reingold",
+    "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tenden",
+    "categories": "cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24881v1",
+    "abs_url": "https://arxiv.org/abs/2611.24881v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Costs",
+    "authors": "Yuzhuo Li, Pasan Gunawardena, Yunwei Li",
+    "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of",
+    "categories": "cs.AI, eess.SY",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24880v1",
+    "abs_url": "https://arxiv.org/abs/2611.24880v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws",
+    "authors": "Zhiyu Liu, Xinyu Yang",
+    "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the ",
+    "categories": "cs.LG, cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24877v1",
+    "abs_url": "https://arxiv.org/abs/2611.24877v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+    "authors": "Beyazit Yalcinkaya, Ethan Pronovost, Maximilian Naumann, Marcell Vazquez-Chanlatte",
+    "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Exis",
+    "categories": "cs.RO, cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24876v1",
+    "abs_url": "https://arxiv.org/abs/2611.24876v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "TangentPDE: Learning Local Operator Responses with Sparse Finite-Difference Supervision",
+    "authors": "Xinjian Xie, Ruxuan Chen, Jiashu Li, Tianyu Gao, Ye Wei",
+    "summary": "Neural PDE operators are often optimized through state reconstruction, which largely constrains operator values at observed inputs but does not fully characterize their sensitivity to local perturbati",
+    "categories": "cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24873v1",
+    "abs_url": "https://arxiv.org/abs/2611.24873v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+    "authors": "Mingliang Zhai, Chuanhao Li, Jiaming Tan, Zhen Li, Yuwei Wu...",
+    "summary": "Rules govern how player actions change interactive worlds. Different rules create distinct gameplay experiences within similar scenes and action spaces. For customizable gameplay, generative world mod",
+    "categories": "cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24869v1",
+    "abs_url": "https://arxiv.org/abs/2611.24869v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Choosing What to Observe: Budget-Paired Counterfactual Audits for Credible Evaluation of Visual Agents",
+    "authors": "Ruiqi Liu, Jinming Li, Mo Wang, Yang Lu, Yanlan Kang",
+    "summary": "Visual agents that read dense documents must ration a finite observation budget across candidate regions, yet answer accuracy conflates where an agent looks, how it adapts to the reads that remain, an",
+    "categories": "cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24867v1",
+    "abs_url": "https://arxiv.org/abs/2611.24867v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+    "authors": "Chenjie Zhao, Zhiliang Zhu, Quan Chen, Yuquan Xue, Xingxue Shi...",
+    "summary": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action",
+    "categories": "cs.CV, cs.RO",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24864v1",
+    "abs_url": "https://arxiv.org/abs/2611.24864v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Gaspard: Expressive unified speech and gesture synthesis with continuous autoregressive flow-matching and decoupled classifier-free guidance",
+    "authors": "Téo Guichoux, Théodor Lemerle, Catherine Pelachaud, Nicolas Obin",
+    "summary": "Human communication involves highly coordinated multimodal signals such as speech and co-speech gestures. Existing approaches for generating both modalities commonly follow a cascaded pipeline, where ",
+    "categories": "cs.CV",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24862v1",
+    "abs_url": "https://arxiv.org/abs/2611.24862v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Can Programs Replace LLM Judges? Executable Program Judges for Scalable and Efficient Relevance Labeling",
+    "authors": "Eugene Agichtein, Charles L. A. Clarke, Kaustubh Dhole, William Stern",
+    "summary": "Large language model (LLM) judges have become a common way to create large-scale relevance judgments for retrieval evaluation. However, each judgment requires a potentially expensive call to a frontie",
+    "categories": "cs.IR, cs.CL",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24849v1",
+    "abs_url": "https://arxiv.org/abs/2611.24849v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Atomic MathReasoner: Instance-Level Composition of Atomic Reasoning Skills for Mathematical LLMs",
+    "authors": "Jiashu Li, Tianyu Gao, Qinglong Liu, Jinping Wang, Ye Wei...",
+    "summary": "Most existing approaches enhance mathematical reasoning in large language models (LLMs) as a monolithic capability, despite the fact that different mathematical problems require different reasoning sk",
+    "categories": "cs.LG",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24846v1",
+    "abs_url": "https://arxiv.org/abs/2611.24846v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Vibe-Trading: Towards Agent-Native Trading",
+    "authors": "Haozhe Wu, Zhonghang Li, Chao Huang",
+    "summary": "Existing AI agents can retrieve information, call tools, run experiments, and produce multi-step outputs. Yet most are built around relatively static workflows and struggle to preserve reliable state ",
+    "categories": "cs.AI, cs.CL, cs.MA, q-fin.CP, q-fin.TR",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24845v1",
+    "abs_url": "https://arxiv.org/abs/2611.24845v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "General progress substitutes for specific training data in language models",
+    "authors": "Mark Marosi, Peter Antal",
+    "summary": "Language models acquire their capabilities from training data, and developers withhold data during training to keep models from learning capabilities that could be misused. How long this delays a capa",
+    "categories": "cs.CL, cs.AI",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24844v1",
+    "abs_url": "https://arxiv.org/abs/2611.24844v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Measuring and Improving Transfer of Neural Surrogates for Vehicle Aerodynamics",
+    "authors": "Favour Nerrise, Julian Busch, Gurpreet Singh Hora, Martin Sipka, Danielle C. Maddix...",
+    "summary": "Neural surrogates for external vehicle aerodynamics are fast alternatives to physics-based computational fluid dynamics (CFD) simulations. Their foundational limitation is a lack of zero-shot generali",
+    "categories": "cs.LG, physics.flu-dyn",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24843v1",
+    "abs_url": "https://arxiv.org/abs/2611.24843v1",
+    "date": "2026-11-19"
+  },
+  {
+    "title": "Does the Action Matter? Probing Action-Conditioned Semantic Forecasting as a World Model for Autonomous Driving",
+    "authors": "Binay Kumar Singh, Niels Da Vitoria Lobo",
+    "summary": "World models are increasingly used in autonomous driving to predict how a scene evolves under the ego vehicle's actions, supporting counterfactual reasoning and model-based planning. However, existing",
+    "categories": "cs.CV, cs.AI, cs.LG, cs.RO",
+    "published": "2026-11-18",
+    "pdf_url": "https://arxiv.org/pdf/2611.24840v1",
+    "abs_url": "https://arxiv.org/abs/2611.24840v1",
+    "date": "2026-11-19"
+  }
+]
