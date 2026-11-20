@@ -1,0 +1,232 @@
+[
+  {
+    "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+    "authors": "Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang...",
+    "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning",
+    "upvotes": 30,
+    "url": "https://huggingface.co/papers/2611.26444",
+    "paper_url": "https://arxiv.org/abs/2611.26444",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+    "authors": "Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang...",
+    "summary": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-m",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2611.26409",
+    "paper_url": "https://arxiv.org/abs/2611.26409",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+    "authors": "Jeonghwan Cho, Minsu Kim, Junyoung Hong, Seon Joo Kim",
+    "summary": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accu",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.21383",
+    "paper_url": "https://arxiv.org/abs/2611.21383",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+    "authors": "Yiyan Ji, Qixun Wang, Yang Shi, Zhuoran Zhang, Yifan Xu...",
+    "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2611.26595",
+    "paper_url": "https://arxiv.org/abs/2611.26595",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "authors": "Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li...",
+    "summary": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overloo",
+    "upvotes": 20,
+    "url": "https://huggingface.co/papers/2611.21373",
+    "paper_url": "https://arxiv.org/abs/2611.21373",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+    "authors": "Xuwei Ding, Skylar Zhai, Linxin Song, Jiarui Feng, Dongqi Fu...",
+    "summary": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2611.25387",
+    "paper_url": "https://arxiv.org/abs/2611.25387",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Posterior Matching Distillation",
+    "authors": "Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag",
+    "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this b",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2611.26629",
+    "paper_url": "https://arxiv.org/abs/2611.26629",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+    "authors": "Junlin Long, Xu Deng, Yiran Wang, Yue Yang, Yang Zhao...",
+    "summary": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) ha",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.24011",
+    "paper_url": "https://arxiv.org/abs/2611.24011",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+    "authors": "Yuqi Tang, Yang Shi, Yuran Wang, Tengfei Liu, Rundong Wang...",
+    "summary": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the we",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.26380",
+    "paper_url": "https://arxiv.org/abs/2611.26380",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WM^MLLM: Turning MLLMs into World Models",
+    "authors": "Baiang Li, Enze Xie, Jincheng Yu, Jin Wang, Haozhe Liu...",
+    "summary": "Video world models keep the world in the context of a generator, so a revisit is synthesized again and earlier edits can drift or disappear. We present WM^MLLM, the first interactive world model built",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.24193",
+    "paper_url": "https://arxiv.org/abs/2611.24193",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+    "authors": "John Won, Yonghoon Dong, Jinwoo Shin",
+    "summary": "World models aim to predict environment dynamics under actions, enabling the prediction of action consequences without executing them in the real world. Yet despite producing increasingly realistic vi",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.25980",
+    "paper_url": "https://arxiv.org/abs/2611.25980",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "authors": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong...",
+    "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.26603",
+    "paper_url": "https://arxiv.org/abs/2611.26603",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "On-Policy Morphing into Hybrid Attention Models",
+    "authors": "Disen Lan, Xuanda Wang, Jianbin Zheng, Huafeng Kuang, Wei Tang...",
+    "summary": "Hybrid attention models combine full and linear attention to achieve a better quality--efficiency trade-off. Converting pretrained Transformers into such models requires identifying which layers shoul",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.24809",
+    "paper_url": "https://arxiv.org/abs/2611.24809",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+    "authors": "Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie...",
+    "summary": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predi",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.26414",
+    "paper_url": "https://arxiv.org/abs/2611.26414",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+    "authors": "Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang, Ruihua Song...",
+    "summary": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial ve",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.26510",
+    "paper_url": "https://arxiv.org/abs/2611.26510",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+    "authors": "Suho Yoo, Youngjoon Jang, Hyebin Cho, Taeyeop Lee, Jaewook Jeong...",
+    "summary": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model prop",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.22666",
+    "paper_url": "https://arxiv.org/abs/2611.22666",
+    "published_at": "2026-11-17",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
+    "authors": "Siqiao Xue, Ziyin Zhang, Zihan Liao, Jin Qin, Yixiang Mu...",
+    "summary": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.20455",
+    "paper_url": "https://arxiv.org/abs/2611.20455",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions",
+    "authors": "Xuankun Rong, Xinhao Deng, Wenzhang Jiang, Ziheng Peng, Siyuan Liang...",
+    "summary": "As multimodal large language models (MLLMs) become increasingly integrated into everyday life, their ability to provide safe and reliable assistance in realistic daily activities remains insufficientl",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.26298",
+    "paper_url": "https://arxiv.org/abs/2611.26298",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "CompoundingKernel: Self-Improving from Zero to First",
+    "authors": "Qian Qu, Hongyang Wang, Wenbo Chen, Yichuan Li, Jingguo Liu...",
+    "summary": "We present CompoundingKernel, a self-improving agent system that writes GPU kernels by search. As of 2026-11-11, its generated kernels rank #1 on the public L1, L2 and Quantization boards of SOL-ExecB",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.19230",
+    "paper_url": "https://arxiv.org/abs/2611.19230",
+    "published_at": "2026-11-14",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding",
+    "authors": "Alagappan Valliappan, Ankit More, Dheevatsa Mudigere, Jatin Mitra",
+    "summary": "Speculative decoding is widely used to speed up generation in large language models (LLMs), with a small draft model proposing tokens that one forward pass of the target model verifies. Draft models t",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.23835",
+    "paper_url": "https://arxiv.org/abs/2611.23835",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments",
+    "authors": "Dengzhe Hou, Kazunori D Yamada",
+    "summary": "Decision-making in humans and AI involves multiple cognitive abilities. System One decision models produce fast, structured choices. Their cognitive strengths and limitations, however, remain poorly u",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.00911",
+    "paper_url": "https://arxiv.org/abs/2611.00911",
+    "published_at": "2026-11-14",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning",
+    "authors": "Youngwoo Shin, Jongsuk Kim, Junmo Kim",
+    "summary": "Supervised fine-tuning (SFT) is the stage in which Video Large Language Models (VideoLLMs) advance their capability to reason over video. However, the VideoLLM also learns to answer from textual regul",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.25776",
+    "paper_url": "https://arxiv.org/abs/2611.25776",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+    "authors": "Weihao Cheng",
+    "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.26624",
+    "paper_url": "https://arxiv.org/abs/2611.26624",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  }
+]
