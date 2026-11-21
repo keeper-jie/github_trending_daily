@@ -1,0 +1,302 @@
+[
+  {
+    "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+    "authors": "Yipeng Du, Yuxi Li, Ying Zhang, Chong Sun, Chen Li...",
+    "summary": "Recent advances in video generation call for reliable detection grounded in explicit forensic evidence. However, current methods primarily depend on single-pass chain-of-thought reasoning that overloo",
+    "upvotes": 50,
+    "url": "https://huggingface.co/papers/2611.21373",
+    "paper_url": "https://arxiv.org/abs/2611.21373",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+    "authors": "Yuzhi Huang, Jie Wu, Fanding Huang, Junchao Lin, Weichen Zhang...",
+    "summary": "Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning",
+    "upvotes": 46,
+    "url": "https://huggingface.co/papers/2611.26444",
+    "paper_url": "https://arxiv.org/abs/2611.26444",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+    "authors": "Jiahao Huang, Jun Wang",
+    "summary": "Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is sel",
+    "upvotes": 41,
+    "url": "https://huggingface.co/papers/2611.26590",
+    "paper_url": "https://arxiv.org/abs/2611.26590",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+    "authors": "Changli Tang, Jie Yang, Tianyi Wang, Lei Li, Daoze Zhang...",
+    "summary": "Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-m",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2611.26409",
+    "paper_url": "https://arxiv.org/abs/2611.26409",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Posterior Matching Distillation",
+    "authors": "Hidir Yesiltepe, Julius Berner, Arash Vahdat, Pinar Yanardag",
+    "summary": "Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this b",
+    "upvotes": 35,
+    "url": "https://huggingface.co/papers/2611.26629",
+    "paper_url": "https://arxiv.org/abs/2611.26629",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+    "authors": "Yiyan Ji, Qixun Wang, Yang Shi, Zhuoran Zhang, Yifan Xu...",
+    "summary": "Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality",
+    "upvotes": 34,
+    "url": "https://huggingface.co/papers/2611.26595",
+    "paper_url": "https://arxiv.org/abs/2611.26595",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation",
+    "authors": "Jeonghwan Cho, Minsu Kim, Junyoung Hong, Seon Joo Kim",
+    "summary": "3D Gaussian Splatting enables object-level operations on Gaussian primitives, yet existing segmentation methods are largely trained and evaluated through rendered views. This mismatch can produce accu",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2611.21383",
+    "paper_url": "https://arxiv.org/abs/2611.21383",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+    "authors": "Peiyun Hu, Marko Mihajlovic, Lyndon Duong, Lahav Lipson, Wei Dong...",
+    "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trad",
+    "upvotes": 28,
+    "url": "https://huggingface.co/papers/2611.26603",
+    "paper_url": "https://arxiv.org/abs/2611.26603",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning",
+    "authors": "Yuqi Tang, Yang Shi, Yuran Wang, Tengfei Liu, Rundong Wang...",
+    "summary": "Egocentric video captioning requires fine-grained detail and accurate timing, yet current multimodal large language models (MLLMs) often miss brief actions, confuse their order, or misinterpret the we",
+    "upvotes": 24,
+    "url": "https://huggingface.co/papers/2611.26380",
+    "paper_url": "https://arxiv.org/abs/2611.26380",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "HiUni: Harmonizing Understanding and Generation in Shared Visual Space",
+    "authors": "Jiahao Hu, Jingdong Du, Yichen Zhang, Yi Song, Zhenyu Zhang...",
+    "summary": "Unified multimodal models aim to support visual understanding and generation within a single framework. However, prevailing approaches often separate their visual representations or backbone computati",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2611.26107",
+    "paper_url": "https://arxiv.org/abs/2611.26107",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+    "authors": "Xuwei Ding, Skylar Zhai, Linxin Song, Jiarui Feng, Dongqi Fu...",
+    "summary": "Humans act in the visual world by inferring the 3D layout behind a 2D view, predicting how an action changes it, and correcting themselves after seeing the result. Can multimodal large language models",
+    "upvotes": 22,
+    "url": "https://huggingface.co/papers/2611.25387",
+    "paper_url": "https://arxiv.org/abs/2611.25387",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators",
+    "authors": "Nagham Omar, Rotem Dror, Almog Gueta, Avigdor Gal, Roi Reichart...",
+    "summary": "Large language models (LLMs) are increasingly used as judges and graders to replace human annotators, raising the question of when such replacement is statistically justified. To support such decision",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.26073",
+    "paper_url": "https://arxiv.org/abs/2611.26073",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
+    "authors": "Zixuan Huang, Yang Zhou, Guli Zhang, Sunzhu Li, Hongyan Xie...",
+    "summary": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predi",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.26414",
+    "paper_url": "https://arxiv.org/abs/2611.26414",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
+    "authors": "Junlin Long, Xu Deng, Yiran Wang, Yue Yang, Yang Zhao...",
+    "summary": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) ha",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2611.24011",
+    "paper_url": "https://arxiv.org/abs/2611.24011",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+    "authors": "Tuna Han Salih Meral, Kaan Oktay, Alec Helbling, Atakan Kara, Duen Horng Chau...",
+    "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.26627",
+    "paper_url": "https://arxiv.org/abs/2611.26627",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "WM^MLLM: Turning MLLMs into World Models",
+    "authors": "Baiang Li, Enze Xie, Jincheng Yu, Jin Wang, Haozhe Liu...",
+    "summary": "Video world models keep the world in the context of a generator, so a revisit is synthesized again and earlier edits can drift or disappear. We present WM^MLLM, the first interactive world model built",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.24193",
+    "paper_url": "https://arxiv.org/abs/2611.24193",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
+    "authors": "Timo Ropinski, Sebastian Kranz",
+    "summary": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated t",
+    "upvotes": 14,
+    "url": "https://huggingface.co/papers/2611.26408",
+    "paper_url": "https://arxiv.org/abs/2611.26408",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+    "authors": "Yingqi Shi, Junru Lu, Yun Liu, Di Yin, Xing Sun",
+    "summary": "Mixture of Block Attention (MoBA) reduces long-context computation by selecting key-value (KV) blocks for each query. FlashMoBA implements MoBA efficiently but retains a fixed Top-k budget and query-c",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.26268",
+    "paper_url": "https://arxiv.org/abs/2611.26268",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
+    "authors": "John Won, Yonghoon Dong, Jinwoo Shin",
+    "summary": "World models aim to predict environment dynamics under actions, enabling the prediction of action consequences without executing them in the real world. Yet despite producing increasingly realistic vi",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.25980",
+    "paper_url": "https://arxiv.org/abs/2611.25980",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher",
+    "authors": "Guoxin Chen, Shuang Sun, Fanzhe Meng, Xinyu Tang, Ruihua Song...",
+    "summary": "Task success alone does not specify which behaviors post-training should reinforce. Even successful teacher trajectories can contain unsupported assumptions, unproductive repetition, or superficial ve",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.26510",
+    "paper_url": "https://arxiv.org/abs/2611.26510",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "On-Policy Morphing into Hybrid Attention Models",
+    "authors": "Disen Lan, Xuanda Wang, Jianbin Zheng, Huafeng Kuang, Wei Tang...",
+    "summary": "Hybrid attention models combine full and linear attention to achieve a better quality--efficiency trade-off. Converting pretrained Transformers into such models requires identifying which layers shoul",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.24809",
+    "paper_url": "https://arxiv.org/abs/2611.24809",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era",
+    "authors": "Ilya Gusev",
+    "summary": "Peer review relies on several readers finding different problems. We measure critique overlap in conference and journal reviews. At ICLR, measured overlap rose from 12.0% in 2026 to 21.3% in 2027, in ",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.26286",
+    "paper_url": "https://arxiv.org/abs/2611.26286",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Online Mistake Detection in Instruction-Conditioned Procedural Video",
+    "authors": "Amit Feldman, Ilan Shimshoni, Rotem Dror",
+    "summary": "An assistant monitoring a person performing a procedure is most useful when it can detect mistakes while there is still time to recover. This requires judging actions against task instructions as the ",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.25567",
+    "paper_url": "https://arxiv.org/abs/2611.25567",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "CompoundingKernel: Self-Improving from Zero to First",
+    "authors": "Qian Qu, Hongyang Wang, Wenbo Chen, Yichuan Li, Jingguo Liu...",
+    "summary": "We present CompoundingKernel, a self-improving agent system that writes GPU kernels by search. As of 2026-11-11, its generated kernels rank #1 on the public L1, L2 and Quantization boards of SOL-ExecB",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.19230",
+    "paper_url": "https://arxiv.org/abs/2611.19230",
+    "published_at": "2026-11-14",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Language Models Can Rewrite Their Own Weights",
+    "authors": "Jiajun Fan, Neil He, Changyi Yang, Andy Mao, Xi Zhu...",
+    "summary": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.21885",
+    "paper_url": "https://arxiv.org/abs/2611.21885",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search",
+    "authors": "Siqiao Xue, Ziyin Zhang, Zihan Liao, Jin Qin, Yixiang Mu...",
+    "summary": "Code-search benchmarks show dense encoders well ahead of BM25, yet coding agents do well with grep. What does this dense advantage measure? Existing benchmarks cannot tell: they use curated queries, o",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.20455",
+    "paper_url": "https://arxiv.org/abs/2611.20455",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU",
+    "authors": "Jaafar Mahmoud, Arthur Movsesyan, Cuong Huynh, Mikhail Iumanov, Sergey Zagoruyko...",
+    "summary": "Dense metric mapping from a single camera and IMU remains challenging: visual-inertial odometry (VIO) provides metric motion but sparse geometry, whereas feed-forward depth models predict dense struct",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.25279",
+    "paper_url": "https://arxiv.org/abs/2611.25279",
+    "published_at": "2026-11-18",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs",
+    "authors": "Yang Wan, Linchao Zhu",
+    "summary": "AI agents are increasingly expected to act as AI scientists, which requires three increasingly open abilities: carrying out a given computational workflow correctly, choosing the next measurements fro",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.26248",
+    "paper_url": "https://arxiv.org/abs/2611.26248",
+    "published_at": "2026-11-19",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models",
+    "authors": "Suho Yoo, Youngjoon Jang, Hyebin Cho, Taeyeop Lee, Jaewook Jeong...",
+    "summary": "Our aim is to accelerate autoregressive vision-language-action models (VLAs), which generate robot actions one token at a time. Speculative decoding makes this possible: a lightweight draft model prop",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.22666",
+    "paper_url": "https://arxiv.org/abs/2611.22666",
+    "published_at": "2026-11-17",
+    "date": "2026-11-20"
+  },
+  {
+    "title": "System 1 agents: a method for local, reliable and fast agentic AI",
+    "authors": "Eleftherios Tzanis, Michail E. Klontzas",
+    "summary": "Agentic artificial intelligence could automate analyses of sensitive clinical data, but current agents depend on large language models (LLMs). Cloud LLMs expose patient data. Local LLMs hallucinate, a",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.21053",
+    "paper_url": "https://arxiv.org/abs/2611.21053",
+    "published_at": "2026-11-16",
+    "date": "2026-11-20"
+  }
+]
