@@ -1,0 +1,162 @@
+[
+  {
+    "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+    "authors": "Haowei He, Ziwen Zhao, Chenshuo Pan, Gang Lin, Zhihao Yang...",
+    "summary": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polyto",
+    "upvotes": 53,
+    "url": "https://huggingface.co/papers/2611.27193",
+    "paper_url": "https://arxiv.org/abs/2611.27193",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Non-penetrating World Models",
+    "authors": "Yuhang Dai, Yinwei Wu, Ziyue Lin, Han Ji, Xingyi Yang",
+    "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m",
+    "upvotes": 38,
+    "url": "https://huggingface.co/papers/2611.27963",
+    "paper_url": "https://arxiv.org/abs/2611.27963",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Clover-35B-A3B-Preview Technical Report",
+    "authors": "DiffuSpace Technical Team",
+    "summary": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Cl",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2611.24636",
+    "paper_url": "https://arxiv.org/abs/2611.24636",
+    "published_at": "2026-11-18",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+    "authors": "Jaeseong Lee, Jinwoo Kim, Jinho Jeong, Seon Joo Kim",
+    "summary": "Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration proble",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2611.15449",
+    "paper_url": "https://arxiv.org/abs/2611.15449",
+    "published_at": "2026-11-11",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+    "authors": "Chang Nie, Chaoyou Fu, Songlin Liu, Yiqing Hu, Caifeng Shan",
+    "summary": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standa",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.27973",
+    "paper_url": "https://arxiv.org/abs/2611.27973",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+    "authors": "Chiyu Chen, Pengzhou Cheng, Yuezhao Ma, Xiaocheng Li, Can Liu...",
+    "summary": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency:",
+    "upvotes": 10,
+    "url": "https://huggingface.co/papers/2611.25773",
+    "paper_url": "https://arxiv.org/abs/2611.25773",
+    "published_at": "2026-11-19",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning",
+    "authors": "Chi Yan, Guoyang Zhao, Wentao Yuan, Yixiao Ge, Yanning Zhou...",
+    "summary": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene st",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.27915",
+    "paper_url": "https://arxiv.org/abs/2611.27915",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits",
+    "authors": "Henry Zheng, Weibo Gong, Yang Yue, Rui Huang, Yang Zhang...",
+    "summary": "Persistent spatial understanding is essential for embodied agents to operate reliably in environments they repeatedly encounter. It requires recognizing revisited places despite viewpoint changes, dis",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.21485",
+    "paper_url": "https://arxiv.org/abs/2611.21485",
+    "published_at": "2026-11-16",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Prune to Expand: Training Prompt Enhancers with Less to Imitate",
+    "authors": "Tianhe Wu, Qilin Sun, Kede Ma",
+    "summary": "Prompt enhancement (PE) refines concise user prompts into detailed descriptions to improve the compositional aesthetics of generated images while preserving user intent. A common practice constructs s",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.27229",
+    "paper_url": "https://arxiv.org/abs/2611.27229",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation",
+    "authors": "Shiwei Wu, Yuwen Pan, Zhi Li, Yaowen Li, Yan Zhou...",
+    "summary": "Vision-language-action (VLA) models enable unmanned aerial vehicles (UAVs) to follow natural-language instructions, yet still fail frequently in closed-loop flight. Correcting these failures requires ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.24077",
+    "paper_url": "https://arxiv.org/abs/2611.24077",
+    "published_at": "2026-11-18",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching",
+    "authors": "Hengyu You, Xintong Wang, Jin Cao, Liang Ding",
+    "summary": "Identity matching asks whether two records denote the same identity, yet the answer depends on the target granularity. Two records may match at the base level but not at the variant level: they share ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.22343",
+    "paper_url": "https://arxiv.org/abs/2611.22343",
+    "published_at": "2026-11-17",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+    "authors": "Yiyang Du, Yuxuan Kuang, Qitao Zhao, Yixuan Wang, Zhanqiu Guo...",
+    "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.26613",
+    "paper_url": "https://arxiv.org/abs/2611.26613",
+    "published_at": "2026-11-19",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Motion-Aware Reward Modeling for Instruction-Guided Video Editing",
+    "authors": "Li Li, Xiangbo Gao, Bo Ni, Samyadeep Basu, Viet Dac Lai...",
+    "summary": "Reward models for instruction-guided video editing can favor temporal consistency at the expense of motion. We study this failure, termed motion collapse, using controlled motion-suppression variants ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.22495",
+    "paper_url": "https://arxiv.org/abs/2611.22495",
+    "published_at": "2026-11-17",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Intent Contracts: Taking Tools Away from Agents",
+    "authors": "Ziyuan Wang, Genliang Zhu, Xiaobo Chen, Chu Wang",
+    "summary": "Intent contracts are an authorization interface for tool-using LLM agents in which the planning model holds no tools. For each step it submits a short logged contract: a goal, a verbatim quotation of ",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.24025",
+    "paper_url": "https://arxiv.org/abs/2611.24025",
+    "published_at": "2026-11-18",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "Explicit Style Extraction for Personalized Long-Form Text Generation",
+    "authors": "Jenitha Reddy Patel, Sameeksha Kini, Amulya Rayasam, Anisa Dye, Abhinav Sharma...",
+    "summary": "Personalized long-form generation asks a language model to write new text the way a specific user would. The standard recipe, retrieval-augmented generation, places a few of the user's past texts in t",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.27211",
+    "paper_url": "https://arxiv.org/abs/2611.27211",
+    "published_at": "2026-11-20",
+    "date": "2026-11-23"
+  },
+  {
+    "title": "GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models",
+    "authors": "Bing He, Runze Wang, Fei Zha, Zhongyuan Wu, Ke Xu...",
+    "summary": "For more than half a century, video games have pursued better graphics, more natural interaction, and more engaging gameplay. Generative video models (VMs) now bear on all three. Neural networks alrea",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.19247",
+    "paper_url": "https://arxiv.org/abs/2611.19247",
+    "published_at": "2026-11-14",
+    "date": "2026-11-23"
+  }
+]
