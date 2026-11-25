@@ -1,0 +1,302 @@
+[
+  {
+    "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+    "authors": "Zexin He, Rui Li, Yushi Lan, Chengkai Jin, Zhi Hou...",
+    "summary": "Coding agents can construct and revise robot behavior during execution, but using one agent for the whole robot can delay otherwise independent work. We introduce Asynchronous Coding Agents as Policy ",
+    "upvotes": 52,
+    "url": "https://huggingface.co/papers/2611.31205",
+    "paper_url": "https://arxiv.org/abs/2611.31205",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+    "authors": "Richmond Sin Jing Xuan, Peilin Feng, Wenbin Wang, Soujanya Poria",
+    "summary": "AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still ",
+    "upvotes": 42,
+    "url": "https://huggingface.co/papers/2611.32884",
+    "paper_url": "https://arxiv.org/abs/2611.32884",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Rewirable Circuits in Transformers with Loom Attention",
+    "authors": "Da Xiao, Qingye Meng, Shengping Li, Xingyuan Yuan",
+    "summary": "We propose loom attention, which allows a Transformer to dynamically rewire its circuits at every token by interweaving a head's vertical attention over the outputs of earlier heads (to obtain its que",
+    "upvotes": 40,
+    "url": "https://huggingface.co/papers/2611.30634",
+    "paper_url": "https://arxiv.org/abs/2611.30634",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+    "authors": "Jiaqi Su, Jie-Jing Shao, Yichen Liu, Long-Kai Huang, Haiyan Yin",
+    "summary": "Computer-use agents (CUAs) built on vision-language models are increasingly entrusted with long-horizon tasks in live desktop, web, and mobile environments, where the screen keeps changing on its own.",
+    "upvotes": 37,
+    "url": "https://huggingface.co/papers/2611.28947",
+    "paper_url": "https://arxiv.org/abs/2611.28947",
+    "published_at": "2026-11-21",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+    "authors": "Wenhao Wang, Panrong Tong, Quyu Kong, Pengxiang Li, Haowen Yang...",
+    "summary": "Computer-use agents (CUAs) are rapidly improving, yet their evaluation remains largely static. Existing benchmarks provide a strong foundation, but fixed difficulty ceilings, limited feature coverage,",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2611.30962",
+    "paper_url": "https://arxiv.org/abs/2611.30962",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence",
+    "authors": "Muxin Fu, Peike Yu, Guibin Zhang, Wenrui Zhou, Runze Liu...",
+    "summary": "Spatial intelligence, the ability to reason about 3D space from visual observations, becomes essential as multimodal large language models (MLLMs) move into the physical world. Beyond perceiving each ",
+    "upvotes": 32,
+    "url": "https://huggingface.co/papers/2611.28649",
+    "paper_url": "https://arxiv.org/abs/2611.28649",
+    "published_at": "2026-11-21",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+    "authors": "Weiyu Han, Haoyu Jiang, Jie Sheng, Youxi Pan, Xianglong Liu...",
+    "summary": "We report the development of Antom 3-in-1 Transformer, a payment foundation model that integrates sequence, tabular, and graph representations for payment risk detection. The model contains approximat",
+    "upvotes": 31,
+    "url": "https://huggingface.co/papers/2611.25403",
+    "paper_url": "https://arxiv.org/abs/2611.25403",
+    "published_at": "2026-11-19",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement",
+    "authors": "Yang Cao, Zhe Zhu, Yiheng Zhang, Zhengqiang Zhang, Haoyuan Li...",
+    "summary": "Segmenting a 3D object into semantically meaningful parts requires joint reasoning about geometric structure and semantic context. Pretrained 3D experts provide spatially grounded region proposals, wh",
+    "upvotes": 29,
+    "url": "https://huggingface.co/papers/2611.32554",
+    "paper_url": "https://arxiv.org/abs/2611.32554",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "LingSante MedGuard Technical Report",
+    "authors": "LingSante MedGuard Team",
+    "summary": "As medical AI is increasingly used for patient consultation and clinical decision support, identifying harmful, non-compliant, or ethically problematic responses is essential for responsible deploymen",
+    "upvotes": 26,
+    "url": "https://huggingface.co/papers/2611.25509",
+    "paper_url": "https://arxiv.org/abs/2611.25509",
+    "published_at": "2026-11-19",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies",
+    "authors": "Xuanchen Liu, Hejun Zhang, Boxuan Dong, Ying Wu, Heshuai Li...",
+    "summary": "Can a simple mirror expose the limitations of today's robotic manipulation policies? Inspired by the mirror self-recognition test in animal cognition, we investigate whether robot policies can reliabl",
+    "upvotes": 23,
+    "url": "https://huggingface.co/papers/2611.33010",
+    "paper_url": "https://arxiv.org/abs/2611.33010",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks",
+    "authors": "Jiawei Gu, Linjie Li, Yiming Liu, Yunzhuo Hao, Huichen Wang...",
+    "summary": "People reason with pictures as well as words. Interleaved multimodal reasoning gives models a similar way to solve problems by creating intermediate images and using them to guide further reasoning. T",
+    "upvotes": 19,
+    "url": "https://huggingface.co/papers/2611.32183",
+    "paper_url": "https://arxiv.org/abs/2611.32183",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "KMed-31B Technical Report",
+    "authors": "KMed Team",
+    "summary": "We present KMed-31B, a medical large language model post-trained from an open-weight model for on-premises deployment with limited hardware. Post-training a model for diverse medical tasks remains dif",
+    "upvotes": 18,
+    "url": "https://huggingface.co/papers/2611.28719",
+    "paper_url": "https://arxiv.org/abs/2611.28719",
+    "published_at": "2026-11-21",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Qwen-Image-HD: Autoregressive Diffusion for High Definition Image Generation",
+    "authors": "Zihao Liu, Zekai Zhang, Shengming Yin, Zikai Zhou, Donghao Zhou...",
+    "summary": "Fine-tuning a generator on a complete high-resolution canvas requires long image sequences and substantial computation, yet local regions can still exhibit unnatural repetitive stripes when training r",
+    "upvotes": 16,
+    "url": "https://huggingface.co/papers/2611.32736",
+    "paper_url": "https://arxiv.org/abs/2611.32736",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics",
+    "authors": "Conghan Yue, Yuanjie Chen, Yunyan Xiao, Zeyu Peng, Xingsong Ye...",
+    "summary": "Physical counterfactual video editing turns a source video and a language-specified physical edit at a given execution frame into a counterfactual video that shows how the scene would evolve after the",
+    "upvotes": 15,
+    "url": "https://huggingface.co/papers/2611.29184",
+    "paper_url": "https://arxiv.org/abs/2611.29184",
+    "published_at": "2026-11-22",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Reinforcing Diffusion Models by Instantaneous Trajectory Distribution Matching",
+    "authors": "Yihong Luo",
+    "summary": "Forward diffusion reinforcement learning (RL)---enabling deterministic ODE sampling without trajectory backpropagation---has grown increasingly popular for efficiently aligning diffusion models. Howev",
+    "upvotes": 13,
+    "url": "https://huggingface.co/papers/2611.30986",
+    "paper_url": "https://arxiv.org/abs/2611.30986",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "MAGPIE: Agentic Multi-Reference Image Generation via Executable Scene Construction",
+    "authors": "Yifan Dai, Daili Hua, Bohan Zeng, Yuran Wang, Jialing Liu...",
+    "summary": "Multi-reference image generation requires a model to preserve the appearance of selected subjects while arranging them according to an instruction. Despite recent progress in reference-based generatio",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.32462",
+    "paper_url": "https://arxiv.org/abs/2611.32462",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "LeadVLA: Learning Follower-Aware Route Execution for Robot Leading",
+    "authors": "Tianle Zeng, Hanjing Ye, Bingyi Xia, Yuchen Zhou, Zibo Zhang...",
+    "summary": "Robot leading requires executing a route while continuously adapting to a designated follower. Existing robot-leading systems often mediate follower understanding and physical route execution through ",
+    "upvotes": 12,
+    "url": "https://huggingface.co/papers/2611.30149",
+    "paper_url": "https://arxiv.org/abs/2611.30149",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "RoomTokens: Masked Diffusion over Structured Tokens for Indoor Scene Synthesis",
+    "authors": "Xiaohao Sun, Angel X. Chang",
+    "summary": "Generating 3D indoor scenes requires a representation that captures object semantics, instance identity, height structure, and orientation while respecting room geometry. Methods that model scenes as ",
+    "upvotes": 9,
+    "url": "https://huggingface.co/papers/2611.30219",
+    "paper_url": "https://arxiv.org/abs/2611.30219",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "On-Policy Codec Distillation for Efficient All-in-One Video Generation",
+    "authors": "Boyang Wang, Kevin Blackburn-Matzen, Oindrila Saha, Matheus Gadelha, Zezhou Cheng",
+    "summary": "Modern visual generative models operate on tokens, and every visual asset they receive, whether an identity, a scribble, a depth map, or a motion video, is tokenized and appended to the input token se",
+    "upvotes": 8,
+    "url": "https://huggingface.co/papers/2611.31184",
+    "paper_url": "https://arxiv.org/abs/2611.31184",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "VenusOCR2.0: Towards Efficient and Effective Document Parsing",
+    "authors": "Lei Li, Zheng Wei, Yi Yuan, Qingbin Liu, Jiang Bian...",
+    "summary": "We present VenusOCR2.0, a compact 1B-parameter vision-language recognizer designed for both high-accuracy and high-throughput document parsing across text, tables, and formulas. To continuously improv",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.32617",
+    "paper_url": "https://arxiv.org/abs/2611.32617",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Residual Guidance for Real-Time Interactive Video Generation",
+    "authors": "NaHyeon Park, Kyeong-Hwan Moon, Youjin Jeon, Hyunjung Shim",
+    "summary": "Real-time interactive video generation allows users to change the prompt during generation to steer the evolving video. However, existing streaming models, which generate videos chunk by chunk, often ",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.32820",
+    "paper_url": "https://arxiv.org/abs/2611.32820",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "LoopDVR: Looped Transformer for Efficient Dense Visual Recognition",
+    "authors": "Sirui Liang, Xuanlong Yu, Longfei Liu, Xiaodong Cun, Xi Shen",
+    "summary": "We propose LoopDVR, a framework for converting pretrained Transformer-based dense visual recognition models into parameter-efficient looped networks. Rather than reducing the network width or depth di",
+    "upvotes": 6,
+    "url": "https://huggingface.co/papers/2611.32067",
+    "paper_url": "https://arxiv.org/abs/2611.32067",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
+    "authors": "Shifang Zhao, Haoyu Wang, Yuyang Yin, Dong Chen, Xingyilang Yin...",
+    "summary": "Games, especially modern AAA games, challenge language models to perceive complex scenes, control actions, and make decisions over long horizons. Existing game benchmarks primarily test language model",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.31974",
+    "paper_url": "https://arxiv.org/abs/2611.31974",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model",
+    "authors": "Zeyu Ren, Jie Ni, Rui Qian, Jiahao Wei, Hao Tang...",
+    "summary": "Understanding a scene requires both geometry and semantics: geometry recovers its spatial structure, and semantics separates it into objects. Current models obtain the two from separate networks or se",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.29389",
+    "paper_url": "https://arxiv.org/abs/2611.29389",
+    "published_at": "2026-11-22",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers",
+    "authors": "Xingjian Wang, Shijian Wang, Minghao Liu, Ji Zou, Zetao Yang...",
+    "summary": "Autonomous specification engineering requires coding agents to translate functional requirements into executable tests and use the results to discover and validate defects. However, existing benchmark",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.32973",
+    "paper_url": "https://arxiv.org/abs/2611.32973",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "AdProducer: Towards Agentic Advertising Video Generation",
+    "authors": "Kunyang Li, Chaoyang Wang, Mubarak Shah, Yuzhang Shang",
+    "summary": "Recent advances in video generation have made automated advertising production increasingly feasible. However, an effective advertisement must faithfully represent the product and communicate its sell",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.31466",
+    "paper_url": "https://arxiv.org/abs/2611.31466",
+    "published_at": "2026-11-23",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "LoopedWAM: Looped World Action Models for Elastic Inference",
+    "authors": "Anh Dao, Xinxin Liu, Hang Yu, Jeffrey A Chan Santiago, Yuzhang Shang",
+    "summary": "World action models (WAMs) couple generative video modeling with robotic action prediction but typically require large video and action transformers, limiting deployment efficiency. We present LoopedW",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.25595",
+    "paper_url": "https://arxiv.org/abs/2611.25595",
+    "published_at": "2026-11-19",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments",
+    "authors": "Yang Bai, Yingzhi Xia, Ling Lin, Jun Cheng, Lin Fu...",
+    "summary": "Spatial reasoning in hospitals requires tracking look-alike equipment, interpreting patient-relative directions, and judging passage widths, yet existing benchmarks provide limited coverage of these a",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.32094",
+    "paper_url": "https://arxiv.org/abs/2611.32094",
+    "published_at": "2026-11-24",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Interpretable Prototype-Conditioned Adaptation for Weather Forecasting",
+    "authors": "Zhixuan Li, Hao Jiang, Chen Hui, Kai Geng, Weisi Lin",
+    "summary": "Data-driven weather forecasting requires distinguishing local states and their temporal evolution. However, learned patterns remain implicit in neural forecasters, making their influence difficult to ",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.25848",
+    "paper_url": "https://arxiv.org/abs/2611.25848",
+    "published_at": "2026-11-19",
+    "date": "2026-11-25"
+  },
+  {
+    "title": "Can an Agent Trust Its Own Zoom? Cross-Magnification Provenance Verification for Whole-Slide Images",
+    "authors": "Yan Wang, Yiran Song, Zizhuo Gong, Jianxiang Qi, Zhongxing Xu...",
+    "summary": "Visual agents navigate whole-slide images through magnified observations associated with claimed locations. However, a visually plausible observation does not necessarily originate from its claimed lo",
+    "upvotes": 3,
+    "url": "https://huggingface.co/papers/2611.29150",
+    "paper_url": "https://arxiv.org/abs/2611.29150",
+    "published_at": "2026-11-22",
+    "date": "2026-11-25"
+  }
+]
