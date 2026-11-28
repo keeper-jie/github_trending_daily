@@ -1,0 +1,222 @@
+[
+  {
+    "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+    "authors": "Xichong Zhang, Xixuan Hao, Zhichen Liu, Le Zhou, Zeyu Zhang...",
+    "summary": "Linear attention offers an efficient solution for long-sequence modeling via linear complexity and fixed-size recurrent states. Gated DeltaNet-2 (GDN-2) introduces independent channel-wise control ove",
+    "upvotes": 130,
+    "url": "https://huggingface.co/papers/2611.34051",
+    "paper_url": "https://arxiv.org/abs/2611.34051",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+    "authors": "Hui Shen, Yunta Hsieh, Jianing Ma, Zhuoran Yin, Zhuhan Bao...",
+    "summary": "Computer-using agents are increasingly expected to complete realistic user goals rather than isolated GUI actions. However, existing benchmarks typically isolate web, mobile, or desktop environments, ",
+    "upvotes": 109,
+    "url": "https://huggingface.co/papers/2611.34232",
+    "paper_url": "https://arxiv.org/abs/2611.34232",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+    "authors": "Dezhi Luo, Fengyuan Yu, Haotian Zhang, Zehong Zhao, Ran Ji...",
+    "summary": "Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? T",
+    "upvotes": 61,
+    "url": "https://huggingface.co/papers/2611.34813",
+    "paper_url": "https://arxiv.org/abs/2611.34813",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+    "authors": "Arya Sikder, Sriram Pillutla",
+    "summary": "A foundation model for time series is pretrained once and then asked to forecast series it has never seen, so the evidence for it is its score on held-out datasets. Such datasets are scarce, and a few",
+    "upvotes": 58,
+    "url": "https://huggingface.co/papers/2611.31619",
+    "paper_url": "https://arxiv.org/abs/2611.31619",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+    "authors": "Zhenchen Tang, Haolin Lu, Songlin Yang, Xiaotong Zhao, Ran Zhang...",
+    "summary": "Recent video generators produce realistic videos, yet controlling how scenes unfold remains challenging. Structural proxies, such as animated 3D blockouts, guide generation by specifying scene layout,",
+    "upvotes": 36,
+    "url": "https://huggingface.co/papers/2611.34457",
+    "paper_url": "https://arxiv.org/abs/2611.34457",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation",
+    "authors": "Modi Jin, Xuying Zhang, Yijing Guo, Haoran Li, Yanwen Ma...",
+    "summary": "Modern video foundation models generate high-quality short clips, but preserving long-video consistency and correctly depicting event-driven state changes remain challenging. Existing agentic workflow",
+    "upvotes": 27,
+    "url": "https://huggingface.co/papers/2611.34290",
+    "paper_url": "https://arxiv.org/abs/2611.34290",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "ShowNow: Fine-Grained Speculative Streaming for Responsive World Models",
+    "authors": "Yiren Song, Guian Fang, Mike Zheng Shou",
+    "summary": "Interactive world models must generate video continuously while responding promptly to user actions. Real-time throughput alone leaves input latency unresolved: coarse generation blocks delay action u",
+    "upvotes": 21,
+    "url": "https://huggingface.co/papers/2611.34693",
+    "paper_url": "https://arxiv.org/abs/2611.34693",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+    "authors": "Han Huang, Yuchen Yan, Xingyu Wu, Yijun Li, Chao Deng...",
+    "summary": "Deep research agents gather information from multiple sources and synthesize it into reports on complex, open-ended questions. Existing benchmarks assess report quality along several dimensions, but l",
+    "upvotes": 17,
+    "url": "https://huggingface.co/papers/2611.34852",
+    "paper_url": "https://arxiv.org/abs/2611.34852",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation",
+    "authors": "Kaipeng Fang, Yuhao Wang, Ji Zhang, Yunsong Zhou, Jingkuan Song...",
+    "summary": "Agent-orchestrated robot systems combine the general reasoning capability of multimodal agents with the precise physical control of learned visuomotor policies. Yet such systems often fail at the mome",
+    "upvotes": 7,
+    "url": "https://huggingface.co/papers/2611.32238",
+    "paper_url": "https://arxiv.org/abs/2611.32238",
+    "published_at": "2026-11-24",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Revisiting LLMs as Context Engineers",
+    "authors": "Junrui Zhang, Zeyu Xu, Runchuan Zhu, Jie Peng, Long Zhang...",
+    "summary": "As large language models (LLMs) are used in more and more new tasks, context engineering becomes a fundamental method to efficiently steer LLMs by constructing instruction prompts or metadata without ",
+    "upvotes": 5,
+    "url": "https://huggingface.co/papers/2611.30494",
+    "paper_url": "https://arxiv.org/abs/2611.30494",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "LayoutRecall: Preserving Appearance in Multi-Round 3D Layout-Controlled Image Editing",
+    "authors": "Yankuan Chi, Xin Lin, Baihan Yang, Yuheng Liu, Jason Li...",
+    "summary": "3D layout-controlled image editing gives users explicit control over object placement and camera viewpoint. In a sequence of edits, however, the latest image can lose the appearance of an object when ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.33885",
+    "paper_url": "https://arxiv.org/abs/2611.33885",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "When an AI agent makes a mistake in a database, what decides the damage?",
+    "authors": "Abdullah Kaya, Cevheri Bozoglan, Yusuf Gundogdu",
+    "summary": "AI agents now run statements against production databases, and several of the incidents that followed deleted production data, which came back only through backups or the provider's help. We ask what ",
+    "upvotes": 4,
+    "url": "https://huggingface.co/papers/2611.30483",
+    "paper_url": "https://arxiv.org/abs/2611.30483",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Guarding with Judgment: Learning to Intervene for Multimodal Safety",
+    "authors": "Jipei He, Cheng Cheng, Liuguo Wang, Zihan Wen, Changlin Yu...",
+    "summary": "When visual context makes an ordinary request unsafe to answer as asked, a blanket refusal may leave the user's need unresolved. Choosing how to help requires distinguishing an established hazard from",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.28849",
+    "paper_url": "https://arxiv.org/abs/2611.28849",
+    "published_at": "2026-11-21",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Generation as Reverse Encoding",
+    "authors": "Cheng Shi, Sibei Yang, Hanzhong Guo, Yipeng Qin, Pietro Lio...",
+    "summary": "Pretrained visual representations accelerate generative learning by abstracting away appearance and spatial detail. Yet the same abstraction makes the return to pixels far harder, shifting much of the",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.34782",
+    "paper_url": "https://arxiv.org/abs/2611.34782",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection",
+    "authors": "Yuncheng Guo, Ying Dong, Xiaodong Gu",
+    "summary": "Generalization to unseen image generators has driven efforts to adapt pretrained visual representations for detection. Yet recent findings show that vision foundation models already encode transferabl",
+    "upvotes": 2,
+    "url": "https://huggingface.co/papers/2611.34719",
+    "paper_url": "https://arxiv.org/abs/2611.34719",
+    "published_at": "2026-11-25",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning",
+    "authors": "Byunggu Yu, Justin Kim",
+    "summary": "Conventional artificial neurons separate spatial feature aggregation from continuous physical time, limiting their ability to model irregular observations. We introduce the Damped Atomic Wave Integrat",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.30025",
+    "paper_url": "https://arxiv.org/abs/2611.30025",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models",
+    "authors": "Y. Lu, L. Wang, S. Okada",
+    "summary": "Speech language models (LMs) generate speech as sequences of discrete tokens. Their tokenizer must therefore preserve both acoustic detail and linguistic content at a low bitrate. Semantic-enhanced to",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.30723",
+    "paper_url": "https://arxiv.org/abs/2611.30723",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Pretrained Tabular Features and the Measurement of Financial Proximity",
+    "authors": "Marcus Gawronsky",
+    "summary": "Spatial arbitrage pricing theory (S-APT) extends factor models to allow returns to spill over between connected firms, beyond what common risk factors explain. In recent years, tabular foundation mode",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.31491",
+    "paper_url": "https://arxiv.org/abs/2611.31491",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration",
+    "authors": "Juntao Jiang, Wenqi Zhong, Guangyu Guo, Dexia Chen, Yilong Hu...",
+    "summary": "Structured clinical decisions from volumetric computed tomography (CT) require anatomically grounded predictions and calibrated confidence estimates. However, existing 3D medical multimodal models oft",
+    "upvotes": 1,
+    "url": "https://huggingface.co/papers/2611.32993",
+    "paper_url": "https://arxiv.org/abs/2611.32993",
+    "published_at": "2026-11-24",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries",
+    "authors": "Sandeep Dhuri",
+    "summary": "Teams put a one-page rules file in a repository and call it a control on coding agents. A registered study found agents rarely look up a repository's contribution rules. I asked the security question:",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.27112",
+    "paper_url": "https://arxiv.org/abs/2611.27112",
+    "published_at": "2026-11-20",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion",
+    "authors": "Simon Weber, Mateo de Mayo, Je Hyeong Hong, Carl Olsson, Daniel Cremers...",
+    "summary": "Initialization-free bundle adjustment (InitFree BA) aims to jointly recover camera poses and scene structure without requiring an initial global estimate. It is a very challenging problem, especially ",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.31516",
+    "paper_url": "https://arxiv.org/abs/2611.31516",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  },
+  {
+    "title": "So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes",
+    "authors": "Andrew Igorevich Perminov",
+    "summary": "A publicly available dataset of 62029 rank-23 schemes for 3times3 matrix multiplication is presented. Every scheme in it has its own rank pattern, an invariant formed by the ranks of the factor matric",
+    "upvotes": 0,
+    "url": "https://huggingface.co/papers/2611.31155",
+    "paper_url": "https://arxiv.org/abs/2611.31155",
+    "published_at": "2026-11-23",
+    "date": "2026-11-27"
+  }
+]
